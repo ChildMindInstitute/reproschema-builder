@@ -7,8 +7,8 @@ const protocolName = "sc_dd";
 const protocolDisplayName = "Your protocol display name";
 
 //2. create your raw github repo URL
-const userName = 'sanuann';
-const repoName = 'reproschema';
+const userName = 'charlie42';
+const repoName = 'reproschema-builder';
 const branchName = 'master';
 
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`;
@@ -45,7 +45,6 @@ const schemaMap = {
     "Identifier?": "identifiable", // column K
     "multipleChoice": "multipleChoice",
     "responseType": "@type"
-
 };
 
 
