@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/qr72/qr72_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr72_schema",
+    "skos:altLabel": "qr72_schema",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "variableMap": [
+        {
+            "variableName": "q1",
+            "isAbout": "q1"
+        },
+        {
+            "variableName": "q25",
+            "isAbout": "q25"
+        }
+    ],
+    "ui": {
+        "order": [
+            "q1",
+            "q25"
+        ],
+        "shuffle": false,
+        "visibility": [
+            {
+                "variableName": "q1",
+                "isVis": true
+            },
+            {
+                "variableName": "q25",
+                "isVis": true
+            }
+        ]
+    }
+}
