@@ -1,28 +1,22 @@
 {
-    "@context": [
-        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/protocols/sc_dd/sc_dd_context"
-    ],
-    "@type": "reproschema:ActivitySet",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+    "@type": "reproschema:Protocol",
     "@id": "sc_dd_schema",
-    "skos:prefLabel": "Your protocol display name",
-    "skos:altLabel": "sc_dd_schema",
-    "schema:description": "Description for your protocol",
-    "schema:schemaVersion": "0.0.1",
-    "schema:version": "0.0.1",
-    "variableMap": [
-        {
-            "variableName": "qr72",
-            "isAbout": "qr72"
-        }
-    ],
+    "prefLabel": "Your protocol display name",
+    "description": "Description for your protocol",
+    "schemaVersion": "0.0.1",
+    "version": "0.0.1",
     "ui": {
-        "order": [
-            "qr72"
+        "addProperties": [
+            {
+                "variableName": "qr72",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/new-repro-version/activities/qr72/qr72_schema",
+                "isVis": true
+            }
         ],
-        "shuffle": false,
-        "visibility": {
-            "qr72": true
-        }
+        "order": [
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/new-repro-version/activities/qr72/qr72_schema"
+        ],
+        "shuffle": false
     }
 }

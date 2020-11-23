@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "activity_path": "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/",
+        "activity_path": "https://raw.githubusercontent.com/charlie42/reproschema-builder/new-repro-version/activities/",
         "qr72": {
             "@id": "activity_path:qr72/qr72_schema",
             "@type": "@id"

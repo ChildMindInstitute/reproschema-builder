@@ -9,7 +9,7 @@ const protocolDisplayName = "Your protocol display name";
 //2. create your raw github repo URL
 const userName = 'charlie42';
 const repoName = 'reproschema-builder';
-const branchName = 'master';
+const branchName = 'new-repro-version';
 
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`;
 
@@ -31,14 +31,14 @@ const HTMLParser =  require ('node-html-parser');
 const schemaMap = {
     "Variable / Field Name": "@id", // column A
     "Item Display Name": "skos:prefLabel",
-    "Field Annotation": "schema:description", // column R
+    "Field Annotation": "description", // column R
     "Section Header": "preamble", // todo: check this // column C
     "Field Label": "question", // column E
     "Field Type": "inputType", // column D
     "Allow": "allow",
     "Required Field?": "requiredValue", //column M
-    "Text Validation Min": "schema:minValue", // column I
-    "Text Validation Max": "schema:maxValue", // column J
+    "Text Validation Min": "minValue", // column I
+    "Text Validation Max": "maxValue", // column J
     "Choices, Calculations, OR Slider Labels": "choices", // column F
     "Branching Logic (Show field only if...)": "visibility", // column L
     "Custom Alignment": "customAlignment", // column N
@@ -81,9 +81,9 @@ let scoresObj = {};
 let scoresList = [];
 let visibilityList = [];
 let languages = [];
-let variableMap = [];
+let addProperties = [];
 let matrixList = [];
-let protocolVariableMap = [];
+let protocolAddProperties = [];
 let protocolVisibilityObj = {};
 let protocolOrder = [];
 
@@ -122,7 +122,7 @@ csv
             let formContextUrl = `${yourRepoURL}/activities/${form}/${form}_context`;
             scoresObj = {};
             visibilityObj = {};
-            variableMap = [];
+            addProperties = [];
             matrixList = [];
             //console.log(fieldList[0]['Form Display Name']);
             activityDisplayName = fieldList[0]['Form Display Name'];
@@ -188,17 +188,18 @@ function createProtocolContext(activityList) {
     });
 }
 
-
 function processRow(form, data){
     let rowData = {};
     let ui = {};
     let rspObj = {};
     let choiceList = [];
    
-
-    rowData['@context'] = [schemaContextUrl];
+    rowData['@context'] = schemaContextUrl;
     rowData['@type'] = 'reproschema:Field';
-    // rowData['@id'] = data['Variable / Field Name'];
+    rowData['@id'] = data['Variable / Field Name'];
+    rowData['prefLabel'] = data['Variable / Field Name'];
+    rowData['schemaVersion'] = '0.0.1';
+    rowData['version'] = '0.0.1';
 
     // map Choices, Calculations, OR Slider Labels column to choices or scoringLogic key
     if (data['Field Type'] === 'calc')
@@ -281,236 +282,236 @@ function processRow(form, data){
 
     Object.keys(data).forEach(current_key => {
 
-            //Parse 'allow' array
-            if (schemaMap[current_key] === 'allow' && data[current_key] !== '') {
-                let uiKey = schemaMap[current_key];
-                let uiValue = data[current_key].split(', ');
-                //uiValue.forEach(val => {
-                //    allowList.push(val)
-                //})
-                // add object to ui element of the item
-                if (rowData.hasOwnProperty('ui')) {
-                    rowData.ui[uiKey] = uiValue; // append to existing ui object
+        //Parse 'allow' array
+        if (schemaMap[current_key] === 'allow' && data[current_key] !== '') {
+            let uiKey = schemaMap[current_key];
+            let uiValue = data[current_key].split(', ');
+            //uiValue.forEach(val => {
+            //    allowList.push(val)
+            //})
+            // add object to ui element of the item
+            if (rowData.hasOwnProperty('ui')) {
+                rowData.ui[uiKey] = uiValue; // append to existing ui object
+            }
+            else { // create new ui object
+                ui[uiKey] = uiValue;
+                rowData['ui'] = ui;
+            }
+        }
+
+        // check all ui elements to be nested under 'ui' key of the item
+        else if (uiList.indexOf(schemaMap[current_key]) > -1 && data[current_key] !== '') {
+            let uiKey = schemaMap[current_key];
+            let uiValue = data[current_key];
+            if (inputTypeMap.hasOwnProperty(data[current_key])) { // map Field type to supported inputTypes
+                uiValue = inputTypeMap[data[current_key]];
+            }
+            // else if ((uiKey === 'inputType') && (uiValue === 'text') && data['Text Validation Type OR Show Slider Number'] === 'number') {
+            //     uiValue = 'integer';
+            //     valueType = 'xsd:int'
+            // }
+            // else if ((uiKey === 'inputType') && (uiValue === 'text') && data['Text Validation Type OR Show Slider Number'] === 'date_mdy') {
+            //     uiValue = 'date';
+            //     valueType = 'xsd:date';
+            // }
+
+            // add object to ui element of the item
+            if (rowData.hasOwnProperty('ui')) {
+                rowData.ui[uiKey] = uiValue; // append to existing ui object
+            }
+            else { // create new ui object
+                ui[uiKey] = uiValue;
+                rowData['ui'] = ui;
+            }
+        }
+
+        // parse multipleChoice
+        else if (schemaMap[current_key] === 'multipleChoice' && data[current_key] !== '') {
+
+            // split string wrt '|' to get each choice
+            let multipleChoiceVal = (data[current_key]) === '1';
+            
+            // insert 'multiplechoices' key inside responseOptions of the item
+            if (rowData.hasOwnProperty('responseOptions')) {
+                rowData.responseOptions[schemaMap[current_key]] = multipleChoiceVal;
+            }
+            else {
+                rspObj[schemaMap[current_key]] = multipleChoiceVal;
+                rowData['responseOptions'] = rspObj;
+            }
+        }
+        
+        //parse minVal
+        else if (schemaMap[current_key] === 'minValue' && data[current_key] !== '') {
+
+            
+            let minValVal = (data[current_key]);
+            
+            // insert 'multiplechoices' key inside responseOptions of the item
+            if (rowData.hasOwnProperty('responseOptions')) {
+                rowData.responseOptions[schemaMap[current_key]] = minValVal;
+            }
+            else {
+                rspObj[schemaMap[current_key]] = minValVal;
+                rowData['responseOptions'] = rspObj;
+            }
+        }
+
+        //parse maxVal
+        else if (schemaMap[current_key] === 'maxValue' && data[current_key] !== '') {
+            let maxValVal = (data[current_key]);
+            // insert 'multiplechoices' key inside responseOptions of the item
+            if (rowData.hasOwnProperty('responseOptions')) {
+                rowData.responseOptions[schemaMap[current_key]] = maxValVal;
+            }
+            else {
+                rspObj[schemaMap[current_key]] = maxValVal;
+                rowData['responseOptions'] = rspObj;
+            }
+        }
+        /*
+        //parse @type
+        else if (schemaMap[current_key] === '@type') {
+
+            // insert "@type":"xsd:anyURI" key inside responseOptions of the item
+            if (rowData.hasOwnProperty('responseOptions')) {
+                rowData.responseOptions[schemaMap[current_key]] = "xsd:anyURI";
+            }
+            else {
+                rspObj[schemaMap[current_key]] = "xsd:anyURI";
+                rowData['responseOptions'] = rspObj;
+            }
+        }
+        */
+
+        // parse choice field
+        else if (schemaMap[current_key] === 'choices' && data[current_key] !== '') {
+
+            // split string wrt '|' to get each choice
+            let c = data[current_key].split('|');
+            // split each choice wrt ',' to get name and value
+            c.forEach(ch => { // ch = { value, name}
+                let choiceObj = {};
+                let cs = ch.split(', ');
+                // create name and value pair + image link for each choice option
+                if (cs.length === 3) {
+                    choiceObj['value'] = parseInt(cs[0]);
+                    let cnameList = cs[1];
+                    choiceObj['name'] = cnameList;
+                    //choiceObj['@type'] = "schema:option";
+                    choiceObj['schema:image'] = imagePath + cs[2] + '.png';
+                    choiceList.push(choiceObj);
+                } else {
+                // for no image, create name and value pair for each choice option
+                    choiceObj['value'] = parseInt(cs[0]);
+                    let cnameList = cs[1];
+                    choiceObj['name'] = cnameList;
+                    //choiceObj['@type'] = "schema:option";
+                    choiceList.push(choiceObj);
                 }
-                else { // create new ui object
-                    ui[uiKey] = uiValue;
-                    rowData['ui'] = ui;
+
+            });
+            // insert 'choices' key inside responseOptions of the item
+            if (rowData.hasOwnProperty('responseOptions')) {
+                rowData.responseOptions[schemaMap[current_key]] = choiceList;
+            }
+            else {
+                rspObj[schemaMap[current_key]] = choiceList;
+                rowData['responseOptions'] = rspObj;
+            }
+        }
+
+        // check all other response elements to be nested under 'responseOptions' key
+        else if (responseList.indexOf(schemaMap[current_key]) > -1) {
+            if (schemaMap[current_key] === 'requiredValue' && data[current_key]) {
+                if (data[current_key] === 'y') {
+                    data[current_key] = true
                 }
             }
-
-            // check all ui elements to be nested under 'ui' key of the item
-            else if (uiList.indexOf(schemaMap[current_key]) > -1 && data[current_key] !== '') {
-                let uiKey = schemaMap[current_key];
-                let uiValue = data[current_key];
-                if (inputTypeMap.hasOwnProperty(data[current_key])) { // map Field type to supported inputTypes
-                    uiValue = inputTypeMap[data[current_key]];
-                }
-                // else if ((uiKey === 'inputType') && (uiValue === 'text') && data['Text Validation Type OR Show Slider Number'] === 'number') {
-                //     uiValue = 'integer';
-                //     valueType = 'xsd:int'
-                // }
-                // else if ((uiKey === 'inputType') && (uiValue === 'text') && data['Text Validation Type OR Show Slider Number'] === 'date_mdy') {
-                //     uiValue = 'date';
-                //     valueType = 'xsd:date';
-                // }
-
-                // add object to ui element of the item
-                if (rowData.hasOwnProperty('ui')) {
-                    rowData.ui[uiKey] = uiValue; // append to existing ui object
-                }
-                else { // create new ui object
-                    ui[uiKey] = uiValue;
-                    rowData['ui'] = ui;
-                }
-            }
-
-            // parse multipleChoice
-            else if (schemaMap[current_key] === 'multipleChoice' && data[current_key] !== '') {
-
-                // split string wrt '|' to get each choice
-                let multipleChoiceVal = (data[current_key]) === '1';
-              
-                // insert 'multiplechoices' key inside responseOptions of the item
+            if (data[current_key]) { // if value exists in the column then write it to schema
                 if (rowData.hasOwnProperty('responseOptions')) {
-                    rowData.responseOptions[schemaMap[current_key]] = multipleChoiceVal;
+                    rowData.responseOptions[schemaMap[current_key]] = data[current_key];
                 }
                 else {
-                    rspObj[schemaMap[current_key]] = multipleChoiceVal;
+                    rspObj[schemaMap[current_key]] = data[current_key];
                     rowData['responseOptions'] = rspObj;
                 }
             }
-          
-            //parse minVal
-            else if (schemaMap[current_key] === 'schema:minValue' && data[current_key] !== '') {
-
-                
-                let minValVal = (data[current_key]);
-              
-                // insert 'multiplechoices' key inside responseOptions of the item
-                if (rowData.hasOwnProperty('responseOptions')) {
-                    rowData.responseOptions[schemaMap[current_key]] = minValVal;
-                }
-                else {
-                    rspObj[schemaMap[current_key]] = minValVal;
-                    rowData['responseOptions'] = rspObj;
-                }
+        }
+        // scoring logic
+        else if (schemaMap[current_key] === 'scoringLogic' && data[current_key] !== '') {
+            // set ui.hidden for the item to true by default
+            if (rowData.hasOwnProperty('ui')) {
+                rowData.ui['hidden'] = true;
             }
-
-            //parse maxVal
-            else if (schemaMap[current_key] === 'schema:maxValue' && data[current_key] !== '') {
-                let maxValVal = (data[current_key]);
-                // insert 'multiplechoices' key inside responseOptions of the item
-                if (rowData.hasOwnProperty('responseOptions')) {
-                    rowData.responseOptions[schemaMap[current_key]] = maxValVal;
-                }
-                else {
-                    rspObj[schemaMap[current_key]] = maxValVal;
-                    rowData['responseOptions'] = rspObj;
-                }
+            else {
+                ui['hidden'] = true;
+                rowData['ui'] = ui;
             }
-/*
-            //parse @type
-            else if (schemaMap[current_key] === '@type') {
+            let condition = data[current_key];
+            let s = condition;
+            // normalize the condition field to resemble javascript
+            let re = RegExp(/\(([0-9]*)\)/g);
+            condition = condition.replace(re, "___$1");
+            condition = condition.replace(/([^>|<])=/g, "$1 ==");
+            condition = condition.replace(/\ and\ /g, " && ");
+            condition = condition.replace(/\ or\ /g, " || ");
+            re = RegExp(/\[([^\]]*)\]/g);
+            condition = condition.replace(re, " $1 ");
 
-                // insert "@type":"xsd:anyURI" key inside responseOptions of the item
-                if (rowData.hasOwnProperty('responseOptions')) {
-                    rowData.responseOptions[schemaMap[current_key]] = "xsd:anyURI";
-                }
-                else {
-                    rspObj[schemaMap[current_key]] = "xsd:anyURI";
-                    rowData['responseOptions'] = rspObj;
-                }
-            }
-*/
+            scoresObj = { "variableName": data['Variable / Field Name'], "jsExpression": condition };
+            scoresList.push(scoresObj);
+        }
 
-            // parse choice field
-            else if (schemaMap[current_key] === 'choices' && data[current_key] !== '') {
-
-                // split string wrt '|' to get each choice
-                let c = data[current_key].split('|');
-                // split each choice wrt ',' to get schema:name and schema:value
-                c.forEach(ch => { // ch = { value, name}
-                    let choiceObj = {};
-                    let cs = ch.split(', ');
-                    // create name and value pair + image link for each choice option
-                    if (cs.length === 3) {
-                        choiceObj['schema:value'] = parseInt(cs[0]);
-                        let cnameList = cs[1];
-                        choiceObj['schema:name'] = cnameList;
-                        choiceObj['@type'] = "schema:option";
-                        choiceObj['schema:image'] = imagePath + cs[2] + '.png';
-                        choiceList.push(choiceObj);
-                    } else {
-                    // for no image, create name and value pair for each choice option
-                        choiceObj['schema:value'] = parseInt(cs[0]);
-                        let cnameList = cs[1];
-                        choiceObj['schema:name'] = cnameList;
-                        choiceObj['@type'] = "schema:option";
-                        choiceList.push(choiceObj);
-                    }
-
-                });
-                // insert 'choices' key inside responseOptions of the item
-                if (rowData.hasOwnProperty('responseOptions')) {
-                    rowData.responseOptions[schemaMap[current_key]] = choiceList;
-                }
-                else {
-                    rspObj[schemaMap[current_key]] = choiceList;
-                    rowData['responseOptions'] = rspObj;
-                }
-            }
-
-            // check all other response elements to be nested under 'responseOptions' key
-            else if (responseList.indexOf(schemaMap[current_key]) > -1) {
-                if (schemaMap[current_key] === 'requiredValue' && data[current_key]) {
-                    if (data[current_key] === 'y') {
-                        data[current_key] = true
-                    }
-                }
-                if (data[current_key]) { // if value exists in the column then write it to schema
-                    if (rowData.hasOwnProperty('responseOptions')) {
-                        rowData.responseOptions[schemaMap[current_key]] = data[current_key];
-                    }
-                    else {
-                        rspObj[schemaMap[current_key]] = data[current_key];
-                        rowData['responseOptions'] = rspObj;
-                    }
-                }
-            }
-            // scoring logic
-            else if (schemaMap[current_key] === 'scoringLogic' && data[current_key] !== '') {
-                // set ui.hidden for the item to true by default
-                if (rowData.hasOwnProperty('ui')) {
-                    rowData.ui['hidden'] = true;
-                }
-                else {
-                    ui['hidden'] = true;
-                    rowData['ui'] = ui;
-                }
-                let condition = data[current_key];
+        // branching logic
+        else if (schemaMap[current_key] === 'visibility') {
+            let condition = true; // for items visible by default
+            if (data[current_key]) {
+                condition = data[current_key];
                 let s = condition;
                 // normalize the condition field to resemble javascript
                 let re = RegExp(/\(([0-9]*)\)/g);
                 condition = condition.replace(re, "___$1");
-                condition = condition.replace(/([^>|<])=/g, "$1 ==");
+                condition = condition.replace(/([^>|<])=/g, "$1==");
                 condition = condition.replace(/\ and\ /g, " && ");
                 condition = condition.replace(/\ or\ /g, " || ");
                 re = RegExp(/\[([^\]]*)\]/g);
-                condition = condition.replace(re, " $1 ");
-
-                scoresObj = { "variableName": data['Variable / Field Name'], "jsExpression": condition };
-                scoresList.push(scoresObj);
+                condition = condition.replace(re, "$1");
             }
+            visibilityObj = { "variableName": data['Variable / Field Name'], "isVis": condition };
+            visibilityList.push(visibilityObj);
+            //visibilityObj[[data['Variable / Field Name']]] = condition;
+        }
 
-            // branching logic
-            else if (schemaMap[current_key] === 'visibility') {
-                let condition = true; // for items visible by default
-                if (data[current_key]) {
-                    condition = data[current_key];
-                    let s = condition;
-                    // normalize the condition field to resemble javascript
-                    let re = RegExp(/\(([0-9]*)\)/g);
-                    condition = condition.replace(re, "___$1");
-                    condition = condition.replace(/([^>|<])=/g, "$1==");
-                    condition = condition.replace(/\ and\ /g, " && ");
-                    condition = condition.replace(/\ or\ /g, " || ");
-                    re = RegExp(/\[([^\]]*)\]/g);
-                    condition = condition.replace(re, "$1");
+        // decode html fields
+        else if ((schemaMap[current_key] === 'question' || schemaMap[current_key] ==='description'
+            || schemaMap[current_key] === 'preamble') && data[current_key] !== '') {
+            let questions = parseHtml(data[current_key]);
+            // console.log(231, form, schemaMap[current_key], questions);
+            rowData[schemaMap[current_key]] = questions;
+        }
+
+        else if (current_key === 'Identifier?' && data[current_key]) {
+            let identifierVal = false;
+            if (data[current_key] === 'y') {
+                identifierVal = true
+            }
+            // TODO: leave "legalStandard" to the user as an optional flag
+            // if the user says its hipaa use that. if not leave it as "unknown"
+            rowData[schemaMap[current_key]] = [ {"legalStandard": "unknown", "isIdentifier": identifierVal }];
+        }
+
+        else if ((additionalNotesList.indexOf(current_key) > -1) && data[current_key]) {
+            console.log(436, current_key, data[current_key]);
+            let notesObj = {"source": "redcap", "column": current_key, "value": data[current_key]};
+            if (rowData.hasOwnProperty('additionalNotesObj')) {
+                (rowData.additionalNotesObj).push(notesObj);
                 }
-                visibilityObj = { "variableName": data['Variable / Field Name'], "isVis": condition };
-                visibilityList.push(visibilityObj);
-                //visibilityObj[[data['Variable / Field Name']]] = condition;
+            else {
+                rowData['additionalNotesObj'] = [];
+                (rowData['additionalNotesObj']).push(notesObj);
             }
-
-            // decode html fields
-            else if ((schemaMap[current_key] === 'question' || schemaMap[current_key] ==='schema:description'
-                || schemaMap[current_key] === 'preamble') && data[current_key] !== '') {
-                let questions = parseHtml(data[current_key]);
-                // console.log(231, form, schemaMap[current_key], questions);
-                rowData[schemaMap[current_key]] = questions;
-            }
-
-            else if (current_key === 'Identifier?' && data[current_key]) {
-                let identifierVal = false;
-                if (data[current_key] === 'y') {
-                    identifierVal = true
-                }
-                // TODO: leave "legalStandard" to the user as an optional flag
-                // if the user says its hipaa use that. if not leave it as "unknown"
-                rowData[schemaMap[current_key]] = [ {"legalStandard": "unknown", "isIdentifier": identifierVal }];
-            }
-
-            else if ((additionalNotesList.indexOf(current_key) > -1) && data[current_key]) {
-                console.log(436, current_key, data[current_key]);
-                let notesObj = {"source": "redcap", "column": current_key, "value": data[current_key]};
-                if (rowData.hasOwnProperty('additionalNotesObj')) {
-                    (rowData.additionalNotesObj).push(notesObj);
-                    }
-                else {
-                    rowData['additionalNotesObj'] = [];
-                    (rowData['additionalNotesObj']).push(notesObj);
-                }
-            }
+        }
 
 
         // todo: what does "textValidationTypeOrShowSliderNumber": "number" mean along with inputType: "text" ?
@@ -521,8 +522,15 @@ function processRow(form, data){
     });
     const field_name = data['Variable / Field Name'];
 
-    // add field to variableMap
-    variableMap.push({"variableName": field_name, "isAbout": field_name});
+    // add field to addProperties
+    addProperties.push({
+        "variableName": field_name, 
+        "isAbout": 'items/'+field_name,
+        //:todo configure isvis
+        "isVis": true, 
+        //:todo configure requiredValue
+        "requiredValue": true,
+    });
 
     // add matrix info to matrixList
     if (data['Matrix Group Name'] || data['Matrix Ranking?']) {
@@ -531,9 +539,9 @@ function processRow(form, data){
     // check if 'order' object exists for the activity and add the items to the respective order array
     if (!order[form]) {
         order[form] = [];
-        order[form].push(field_name);
+        order[form].push('items/'+field_name);
     }
-    else order[form].push(field_name);
+    else order[form].push('items/'+field_name);
 
     // write to item_x file
     fs.writeFile('activities/' + form + '/items/' + field_name, JSON.stringify(rowData, null, 4), function (err) {
@@ -543,24 +551,25 @@ function processRow(form, data){
     });
 }
 
-
 function createFormSchema(form, formContextUrl) {
-    // console.log(27, form, visibilityObj);
+    //console.log(27, form, visibilityObj);
+    console.log("!!" + addProperties);
     let jsonLD = {
-        "@context": [schemaContextUrl, formContextUrl],
+        //"@context": [schemaContextUrl, formContextUrl],
+        "@context": schemaContextUrl,
         "@type": "reproschema:Activity",
         "@id": `${form}_schema`,
-        "skos:prefLabel": activityDisplayName,
-        "skos:altLabel": `${form}_schema`,
-        "schema:description": activityDescription,
-        "schema:schemaVersion": "0.0.1",
-        "schema:version": "0.0.1",
+        "prefLabel": activityDisplayName,
+        //"skos:altLabel": `${form}_schema`,
+        "description": activityDescription,
+        "schemaVersion": "0.0.1",
+        "version": "0.0.1",
         // todo: preamble: Field Type = descriptive represents preamble in the CSV file., it also has branching logic. so should preamble be an item in our schema?
-        "variableMap": variableMap,
         "ui": {
             "order": order[form],
+            "addProperties": addProperties,
             "shuffle": false,
-            "visibility": visibilityList
+            //"visibility": visibilityList
         }
     };
     if (!_.isEmpty(matrixList)) {
@@ -583,29 +592,36 @@ function processActivities (activityName) {
 
     let condition = true; // for items visible by default
     protocolVisibilityObj[activityName] = condition;
+    let activityPath = `${yourRepoURL}/activities/${activityName}/${activityName}_schema`;
     
-    // add activity to variableMap and Order
-    protocolVariableMap.push({"variableName": activityName, "isAbout": activityName});
-    protocolOrder.push(activityName);
-
+    // add activity to addProperties and Order
+    protocolAddProperties.push({
+        "variableName": activityName, 
+        "isAbout": activityPath,
+        //:todo configure isvis
+        "isVis": true,
+    });
+    //protocolOrder.push(activityName);
+    protocolOrder.push(activityPath);
 }
 
 function createProtocolSchema(protocolName, protocolContextUrl) {
     let protocolSchema = {
-        "@context": [schemaContextUrl, protocolContextUrl],
-        "@type": "reproschema:ActivitySet",
+        //"@context": [schemaContextUrl, protocolContextUrl],
+        "@context": schemaContextUrl,
+        "@type": "reproschema:Protocol",
         "@id": `${protocolName}_schema`,
-        "skos:prefLabel": protocolDisplayName,
-        "skos:altLabel": `${protocolName}_schema`,
-        "schema:description": protocolDescription,
-        "schema:schemaVersion": "0.0.1",
-        "schema:version": "0.0.1",
+        "prefLabel": protocolDisplayName,
+        //"skos:altLabel": `${protocolName}_schema`,
+        "description": protocolDescription,
+        "schemaVersion": "0.0.1",
+        "version": "0.0.1",
         // todo: preamble: Field Type = descriptive represents preamble in the CSV file., it also has branching logic. so should preamble be an item in our schema?
-        "variableMap": protocolVariableMap,
         "ui": {
+            "addProperties": protocolAddProperties,
             "order": protocolOrder,
-            "shuffle": false,
-            "visibility": protocolVisibilityObj
+            "shuffle": false
+            //"visibility": protocolVisibilityObj
         }
     };
     const op = JSON.stringify(protocolSchema, null, 4);
