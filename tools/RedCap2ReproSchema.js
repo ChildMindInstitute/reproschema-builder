@@ -598,7 +598,9 @@ function createProtocolSchema(protocolName, protocolContextUrl) {
         "@context": schemaContextUrl,
         "@type": "reproschema:Protocol",
         "@id": `${protocolName}_schema`,
-        "prefLabel": protocolDisplayName,
+        "prefLabel": {
+            [defaultLanguage]: protocolDisplayName
+        },
         //"skos:altLabel": `${protocolName}_schema`,
         "description": protocolDescription,
         "schemaVersion": "0.0.1",

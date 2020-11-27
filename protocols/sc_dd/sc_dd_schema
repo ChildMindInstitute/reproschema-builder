@@ -2,7 +2,9 @@
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
     "@type": "reproschema:Protocol",
     "@id": "sc_dd_schema",
-    "prefLabel": "Your protocol display name",
+    "prefLabel": {
+        "en": "Your protocol display name"
+    },
     "description": "Description for your protocol",
     "schemaVersion": "0.0.1",
     "version": "0.0.1",
