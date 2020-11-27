@@ -47,7 +47,6 @@ const schemaMap = {
     "responseType": "@type"
 };
 
-
 const inputTypeMap = {
     "calc": "number",
     "checkbox": "radio",
@@ -87,7 +86,6 @@ let protocolAddProperties = [];
 let protocolVisibilityObj = {};
 let protocolOrder = [];
 
-
 let options = {
     delimiter: ',',
     headers: true,
@@ -113,7 +111,7 @@ csv
     })
 
     .on('end', function () {
-        //console.log(66, datas);
+        console.log(66, datas);
         Object.keys(datas).forEach( form => {
             scoresList = [];
             visibilityList = [];
@@ -135,18 +133,17 @@ csv
             });
             createFormSchema(form, formContextUrl);
         });
-            //create protocol context
-            let activityList = Object.keys(datas);
-            let protocolContextUrl = `${yourRepoURL}/protocols/${protocolName}/${protocolName}_context`;
-            createProtocolContext(activityList);
-            
-            //create protocol schema
-            activityList.forEach( activityName => {
-            processActivities(activityName);
-            });
-
-            createProtocolSchema(protocolName, protocolContextUrl);
+        //create protocol context
+        let activityList = Object.keys(datas);
+        let protocolContextUrl = `${yourRepoURL}/protocols/${protocolName}/${protocolName}_context`;
+        createProtocolContext(activityList);
         
+        //create protocol schema
+        activityList.forEach( activityName => {
+            processActivities(activityName);
+        });
+
+        createProtocolSchema(protocolName, protocolContextUrl);
     });
 
 function createFormContextSchema(form, fieldList) {
@@ -193,6 +190,7 @@ function processRow(form, data){
     let ui = {};
     let rspObj = {};
     let choiceList = [];
+    let isVis = '';
    
     rowData['@context'] = schemaContextUrl;
     rowData['@type'] = 'reproschema:Field';
@@ -298,7 +296,6 @@ function processRow(form, data){
                 rowData['ui'] = ui;
             }
         }
-
         // check all ui elements to be nested under 'ui' key of the item
         else if (uiList.indexOf(schemaMap[current_key]) > -1 && data[current_key] !== '') {
             let uiKey = schemaMap[current_key];
@@ -324,7 +321,6 @@ function processRow(form, data){
                 rowData['ui'] = ui;
             }
         }
-
         // parse multipleChoice
         else if (schemaMap[current_key] === 'multipleChoice' && data[current_key] !== '') {
 
@@ -340,11 +336,8 @@ function processRow(form, data){
                 rowData['responseOptions'] = rspObj;
             }
         }
-        
         //parse minVal
         else if (schemaMap[current_key] === 'minValue' && data[current_key] !== '') {
-
-            
             let minValVal = (data[current_key]);
             
             // insert 'multiplechoices' key inside responseOptions of the item
@@ -356,7 +349,6 @@ function processRow(form, data){
                 rowData['responseOptions'] = rspObj;
             }
         }
-
         //parse maxVal
         else if (schemaMap[current_key] === 'maxValue' && data[current_key] !== '') {
             let maxValVal = (data[current_key]);
@@ -383,7 +375,6 @@ function processRow(form, data){
             }
         }
         */
-
         // parse choice field
         else if (schemaMap[current_key] === 'choices' && data[current_key] !== '') {
 
@@ -420,7 +411,6 @@ function processRow(form, data){
                 rowData['responseOptions'] = rspObj;
             }
         }
-
         // check all other response elements to be nested under 'responseOptions' key
         else if (responseList.indexOf(schemaMap[current_key]) > -1) {
             if (schemaMap[current_key] === 'requiredValue' && data[current_key]) {
@@ -462,7 +452,6 @@ function processRow(form, data){
             scoresObj = { "variableName": data['Variable / Field Name'], "jsExpression": condition };
             scoresList.push(scoresObj);
         }
-
         // branching logic
         else if (schemaMap[current_key] === 'visibility') {
             let condition = true; // for items visible by default
@@ -478,11 +467,11 @@ function processRow(form, data){
                 re = RegExp(/\[([^\]]*)\]/g);
                 condition = condition.replace(re, "$1");
             }
-            visibilityObj = { "variableName": data['Variable / Field Name'], "isVis": condition };
-            visibilityList.push(visibilityObj);
+            //visibilityObj = { "variableName": data['Variable / Field Name'], "isVis": condition };
+            //visibilityList.push(visibilityObj);
+            isVis = condition;
             //visibilityObj[[data['Variable / Field Name']]] = condition;
         }
-
         // decode html fields
         else if ((schemaMap[current_key] === 'question' || schemaMap[current_key] ==='description'
             || schemaMap[current_key] === 'preamble') && data[current_key] !== '') {
@@ -490,7 +479,6 @@ function processRow(form, data){
             // console.log(231, form, schemaMap[current_key], questions);
             rowData[schemaMap[current_key]] = questions;
         }
-
         else if (current_key === 'Identifier?' && data[current_key]) {
             let identifierVal = false;
             if (data[current_key] === 'y') {
@@ -500,9 +488,8 @@ function processRow(form, data){
             // if the user says its hipaa use that. if not leave it as "unknown"
             rowData[schemaMap[current_key]] = [ {"legalStandard": "unknown", "isIdentifier": identifierVal }];
         }
-
         else if ((additionalNotesList.indexOf(current_key) > -1) && data[current_key]) {
-            console.log(436, current_key, data[current_key]);
+            //console.log(436, current_key, data[current_key]);
             let notesObj = {"source": "redcap", "column": current_key, "value": data[current_key]};
             if (rowData.hasOwnProperty('additionalNotesObj')) {
                 (rowData.additionalNotesObj).push(notesObj);
@@ -512,8 +499,6 @@ function processRow(form, data){
                 (rowData['additionalNotesObj']).push(notesObj);
             }
         }
-
-
         // todo: what does "textValidationTypeOrShowSliderNumber": "number" mean along with inputType: "text" ?
         // text with no value in validation column is -- text inputType
         // text with value in validation as "number" is of inputType - integer
@@ -527,7 +512,7 @@ function processRow(form, data){
         "variableName": field_name, 
         "isAbout": 'items/'+field_name,
         //:todo configure isvis
-        "isVis": true, 
+        "isVis": isVis, 
         //:todo configure requiredValue
         "requiredValue": true,
     });
@@ -588,7 +573,7 @@ function createFormSchema(form, formContextUrl) {
     });
 }
 
-function processActivities (activityName) {
+function processActivities(activityName) {
 
     let condition = true; // for items visible by default
     protocolVisibilityObj[activityName] = condition;
