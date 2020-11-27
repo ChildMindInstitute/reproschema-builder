@@ -511,7 +511,6 @@ function processRow(form, data){
     addProperties.push({
         "variableName": field_name, 
         "isAbout": 'items/'+field_name,
-        //:todo configure isvis
         "isVis": isVis, 
         //:todo configure requiredValue
         "requiredValue": true,
