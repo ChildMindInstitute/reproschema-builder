@@ -87,6 +87,7 @@ let protocolAddProperties = [];
 let protocolVisibilityObj = {};
 let protocolOrder = [];
 let protocolAllow = [];
+let preamble = '';
 
 let options = {
     delimiter: ',',
@@ -127,6 +128,7 @@ csv
             console.log("FORM DISPLAY NAME "+fieldList[0]['Form Display Name']);
             activityDisplayName = fieldList[0]['Form Display Name'];
             activityDescription = fieldList[0]['Form Note'];
+            preamble = fieldList[0]['Section Header'];
             fieldList.forEach( field => {
                 if(languages.length === 0){
                     languages = parseLanguageIsoCodes(field['Field Label']);
@@ -557,6 +559,9 @@ function createFormSchema(form, formContextUrl) {
         "schemaVersion": schemaVersion,
         "version": "0.0.1",
         // todo: preamble: Field Type = descriptive represents preamble in the CSV file., it also has branching logic. so should preamble be an item in our schema?
+        "preamble": {
+            [defaultLanguage]: preamble,
+        },
         "ui": {
             "order": order[form],
             "addProperties": addProperties,
