@@ -17,6 +17,10 @@
         "order": [
             "https://raw.githubusercontent.com/charlie42/reproschema-builder/new-repro-version/activities/qr72/qr72_schema"
         ],
-        "shuffle": false
+        "shuffle": false,
+        "allow": [
+            "reproschema:AutoAdvance",
+            "reproschema:DisableBack"
+        ]
     }
 }

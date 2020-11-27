@@ -2,7 +2,7 @@
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
     "@type": "reproschema:Field",
     "@id": "q25",
-    "prefLabel": "q25",
+    "prefLabel": "question 25",
     "schemaVersion": "0.0.1",
     "version": "0.0.1",
     "ui": {

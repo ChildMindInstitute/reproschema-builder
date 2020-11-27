@@ -30,7 +30,7 @@ const HTMLParser =  require ('node-html-parser');
 
 const schemaMap = {
     "Variable / Field Name": "@id", // column A
-    "Item Display Name": "skos:prefLabel",
+    "Item Display Name": "prefLabel",
     "Field Annotation": "description", // column R
     "Section Header": "preamble", // todo: check this // column C
     "Field Label": "question", // column E
@@ -85,6 +85,7 @@ let matrixList = [];
 let protocolAddProperties = [];
 let protocolVisibilityObj = {};
 let protocolOrder = [];
+let protocolAllow = [];
 
 let options = {
     delimiter: ',',
@@ -122,7 +123,7 @@ csv
             visibilityObj = {};
             addProperties = [];
             matrixList = [];
-            //console.log(fieldList[0]['Form Display Name']);
+            console.log("FORM DISPLAY NAME "+fieldList[0]['Form Display Name']);
             activityDisplayName = fieldList[0]['Form Display Name'];
             activityDescription = fieldList[0]['Form Note'];
             fieldList.forEach( field => {
@@ -195,7 +196,7 @@ function processRow(form, data){
     rowData['@context'] = schemaContextUrl;
     rowData['@type'] = 'reproschema:Field';
     rowData['@id'] = data['Variable / Field Name'];
-    rowData['prefLabel'] = data['Variable / Field Name'];
+    rowData['prefLabel'] = data["Item Display Name"];
     rowData['schemaVersion'] = '0.0.1';
     rowData['version'] = '0.0.1';
 
@@ -282,19 +283,21 @@ function processRow(form, data){
 
         //Parse 'allow' array
         if (schemaMap[current_key] === 'allow' && data[current_key] !== '') {
-            let uiKey = schemaMap[current_key];
-            let uiValue = data[current_key].split(', ');
-            //uiValue.forEach(val => {
-            //    allowList.push(val)
-            //})
-            // add object to ui element of the item
-            if (rowData.hasOwnProperty('ui')) {
-                rowData.ui[uiKey] = uiValue; // append to existing ui object
-            }
-            else { // create new ui object
-                ui[uiKey] = uiValue;
-                rowData['ui'] = ui;
-            }
+            // let uiKey = schemaMap[current_key];
+            // let uiValue = data[current_key].split(', ');
+            // //uiValue.forEach(val => {
+            // //    allowList.push(val)
+            // //})
+            // // add object to ui element of the item
+            // if (rowData.hasOwnProperty('ui')) {
+            //     rowData.ui[uiKey] = uiValue; // append to existing ui object
+            // }
+            // else { // create new ui object
+            //     ui[uiKey] = uiValue;
+            //     rowData['ui'] = ui;
+            // }
+
+            protocolAllow = data[current_key].split(', ');
         }
         // check all ui elements to be nested under 'ui' key of the item
         else if (uiList.indexOf(schemaMap[current_key]) > -1 && data[current_key] !== '') {
@@ -604,7 +607,8 @@ function createProtocolSchema(protocolName, protocolContextUrl) {
         "ui": {
             "addProperties": protocolAddProperties,
             "order": protocolOrder,
-            "shuffle": false
+            "shuffle": false,
+            "allow": protocolAllow,
             //"visibility": protocolVisibilityObj
         }
     };

@@ -2,6 +2,7 @@
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
     "@type": "reproschema:Activity",
     "@id": "qr72_schema",
+    "prefLabel": "questionnaire 72",
     "schemaVersion": "0.0.1",
     "version": "0.0.1",
     "ui": {
