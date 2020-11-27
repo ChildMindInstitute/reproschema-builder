@@ -6,7 +6,7 @@
         "en": "Your protocol display name"
     },
     "description": "Description for your protocol",
-    "schemaVersion": "0.0.1",
+    "schemaVersion": "1.0.0-rc1.post",
     "version": "0.0.1",
     "ui": {
         "addProperties": [

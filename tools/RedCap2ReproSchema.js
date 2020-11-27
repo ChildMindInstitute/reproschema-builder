@@ -60,6 +60,7 @@ const responseList = ['type', 'requiredValue'];
 const additionalNotesList = ['Field Note', 'Question Number (surveys only)'];
 const defaultLanguage = 'en';
 const datas = {};
+const schemaVersion = "1.0.0-rc1.post"
 
 /* **************************************************************************************** */
 
@@ -197,7 +198,7 @@ function processRow(form, data){
     rowData['@type'] = 'reproschema:Field';
     rowData['@id'] = data['Variable / Field Name'];
     rowData['prefLabel'] = data["Item Display Name"];
-    rowData['schemaVersion'] = '0.0.1';
+    rowData['schemaVersion'] = schemaVersion;
     rowData['version'] = '0.0.1';
 
     // map Choices, Calculations, OR Slider Labels column to choices or scoringLogic key
@@ -549,7 +550,7 @@ function createFormSchema(form, formContextUrl) {
         "prefLabel": activityDisplayName,
         //"skos:altLabel": `${form}_schema`,
         "description": activityDescription,
-        "schemaVersion": "0.0.1",
+        "schemaVersion": schemaVersion,
         "version": "0.0.1",
         // todo: preamble: Field Type = descriptive represents preamble in the CSV file., it also has branching logic. so should preamble be an item in our schema?
         "ui": {
@@ -603,7 +604,7 @@ function createProtocolSchema(protocolName, protocolContextUrl) {
         },
         //"skos:altLabel": `${protocolName}_schema`,
         "description": protocolDescription,
-        "schemaVersion": "0.0.1",
+        "schemaVersion": schemaVersion,
         "version": "0.0.1",
         // todo: preamble: Field Type = descriptive represents preamble in the CSV file., it also has branching logic. so should preamble be an item in our schema?
         "ui": {
