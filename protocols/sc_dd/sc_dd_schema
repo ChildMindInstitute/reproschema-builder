@@ -14,15 +14,18 @@
                 "variableName": "qr72",
                 "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/new-repro-version/activities/qr72/qr72_schema",
                 "isVis": true
+            },
+            {
+                "variableName": "qr1000",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/new-repro-version/activities/qr1000/qr1000_schema",
+                "isVis": true
             }
         ],
         "order": [
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/new-repro-version/activities/qr72/qr72_schema"
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/new-repro-version/activities/qr72/qr72_schema",
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/new-repro-version/activities/qr1000/qr1000_schema"
         ],
         "shuffle": false,
-        "allow": [
-            "reproschema:AutoAdvance",
-            "reproschema:DisableBack"
-        ]
+        "allow": []
     }
 }
