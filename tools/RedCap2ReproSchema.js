@@ -392,7 +392,9 @@ function processRow(form, data){
                 if (cs.length === 3) {
                     choiceObj['value'] = parseInt(cs[0]);
                     let cnameList = cs[1];
-                    choiceObj['name'] = cnameList;
+                    choiceObj['name'] = {
+                        [defaultLanguage]: cnameList
+                    };
                     //choiceObj['@type'] = "schema:option";
                     choiceObj['schema:image'] = imagePath + cs[2] + '.png';
                     choiceList.push(choiceObj);
@@ -400,7 +402,9 @@ function processRow(form, data){
                 // for no image, create name and value pair for each choice option
                     choiceObj['value'] = parseInt(cs[0]);
                     let cnameList = cs[1];
-                    choiceObj['name'] = cnameList;
+                    choiceObj['name'] = {
+                        [defaultLanguage]: cnameList
+                    };
                     //choiceObj['@type'] = "schema:option";
                     choiceList.push(choiceObj);
                 }

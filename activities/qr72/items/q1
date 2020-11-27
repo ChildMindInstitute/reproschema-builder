@@ -14,23 +14,33 @@
         "choices": [
             {
                 "value": 0,
-                "name": "No"
+                "name": {
+                    "en": "No"
+                }
             },
             {
                 "value": 1,
-                "name": "1-2"
+                "name": {
+                    "en": "1-2"
+                }
             },
             {
                 "value": 2,
-                "name": "3-4"
+                "name": {
+                    "en": "3-4"
+                }
             },
             {
                 "value": 3,
-                "name": "5-6"
+                "name": {
+                    "en": "5-6"
+                }
             },
             {
                 "value": 4,
-                "name": "7 times or more"
+                "name": {
+                    "en": "7 times or more"
+                }
             }
         ],
         "minValue": "0",
