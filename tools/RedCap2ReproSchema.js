@@ -86,7 +86,7 @@ let matrixList = [];
 let protocolAddProperties = [];
 let protocolVisibilityObj = {};
 let protocolOrder = [];
-let protocolAllow = [];
+let protocolAllow = []; 
 let preamble = '';
 
 let options = {
@@ -286,6 +286,7 @@ function processRow(form, data){
 
         //Parse 'allow' array
         if (schemaMap[current_key] === 'allow' && data[current_key] !== '') {
+            // :todo move from items to activities
             // let uiKey = schemaMap[current_key];
             // let uiValue = data[current_key].split(', ');
             // //uiValue.forEach(val => {
@@ -299,8 +300,6 @@ function processRow(form, data){
             //     ui[uiKey] = uiValue;
             //     rowData['ui'] = ui;
             // }
-
-            protocolAllow = data[current_key].split(', ');
         }
         // check all ui elements to be nested under 'ui' key of the item
         else if (uiList.indexOf(schemaMap[current_key]) > -1 && data[current_key] !== '') {
@@ -620,7 +619,7 @@ function createProtocolSchema(protocolName, protocolContextUrl) {
             "addProperties": protocolAddProperties,
             "order": protocolOrder,
             "shuffle": false,
-            "allow": protocolAllow,
+            //"allow": protocolAllow,
             //"visibility": protocolVisibilityObj
         }
     };
