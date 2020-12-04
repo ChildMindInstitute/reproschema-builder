@@ -1,0 +1,25 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+    "@type": "reproschema:Activity",
+    "@id": "qr1000_schema",
+    "prefLabel": "questionnaire 1000",
+    "schemaVersion": "1.0.0-rc1.post",
+    "version": "0.0.1",
+    "preamble": {
+        "en": "Preamble 2"
+    },
+    "ui": {
+        "order": [
+            "items/q1"
+        ],
+        "addProperties": [
+            {
+                "variableName": "q1",
+                "isAbout": "items/q1",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}
