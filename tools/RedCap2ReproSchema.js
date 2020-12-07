@@ -259,7 +259,7 @@ function processRow(form, data){
         else if (data['Field Type'] === 'radio') {
             inputType = 'radio';
             multipleChoice = false;
-            valueType = 'xsd:integer';
+            valueType = '';
         }
         else if (data['Field Type'] === 'checkbox') {
             inputType = 'radio';
