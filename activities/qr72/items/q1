@@ -2,9 +2,9 @@
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
     "@type": "reproschema:Field",
     "@id": "q1",
-    "prefLabel": "question 1",
-    "schemaVersion": "1.0.0-rc1.post",
-    "version": "0.0.1",
+    "skos:prefLabel": "question 1",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
     "ui": {
         "inputType": "radio"
     },
