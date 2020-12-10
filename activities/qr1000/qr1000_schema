@@ -1,5 +1,8 @@
 {
-    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/qr1000/qr1000_context"
+    ],
     "@type": "reproschema:Activity",
     "@id": "qr1000_schema",
     "skos:prefLabel": "questionnaire 1000",

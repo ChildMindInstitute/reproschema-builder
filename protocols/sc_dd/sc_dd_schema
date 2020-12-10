@@ -1,5 +1,8 @@
 {
-    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/protocols/sc_dd/sc_dd_context"
+    ],
     "@type": "reproschema:Protocol",
     "@id": "sc_dd_schema",
     "skos:prefLabel": "Your protocol display name",
