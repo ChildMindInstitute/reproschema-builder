@@ -2,28 +2,28 @@
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
     "@type": "reproschema:Protocol",
     "@id": "sc_dd_schema",
-    "prefLabel": {
+    "skos:prefLabel": {
         "en": "Your protocol display name"
     },
-    "description": "Description for your protocol",
-    "schemaVersion": "1.0.0-rc1.post",
-    "version": "0.0.1",
+    "schema:description": "Description for your protocol",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
     "ui": {
         "addProperties": [
             {
                 "variableName": "qr72",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/new-repro-version/activities/qr72/qr72_schema",
+                "isAbout": "qr72_schema",
                 "isVis": true
             },
             {
                 "variableName": "qr1000",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/new-repro-version/activities/qr1000/qr1000_schema",
+                "isAbout": "qr1000_schema",
                 "isVis": true
             }
         ],
         "order": [
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/new-repro-version/activities/qr72/qr72_schema",
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/new-repro-version/activities/qr1000/qr1000_schema"
+            "qr72_schema",
+            "qr1000_schema"
         ],
         "shuffle": false
     }
