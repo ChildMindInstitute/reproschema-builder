@@ -13,12 +13,12 @@
     },
     "ui": {
         "order": [
-            "items/q1"
+            "q1"
         ],
         "addProperties": [
             {
                 "variableName": "q1",
-                "isAbout": "items/q1",
+                "isAbout": "q1",
                 "isVis": true,
                 "requiredValue": true
             }

@@ -13,19 +13,19 @@
     },
     "ui": {
         "order": [
-            "items/q1",
-            "items/q25"
+            "q1",
+            "q25"
         ],
         "addProperties": [
             {
                 "variableName": "q1",
-                "isAbout": "items/q1",
+                "isAbout": "q1",
                 "isVis": true,
                 "requiredValue": true
             },
             {
                 "variableName": "q25",
-                "isAbout": "items/q25",
+                "isAbout": "q25",
                 "isVis": true,
                 "requiredValue": true
             }
