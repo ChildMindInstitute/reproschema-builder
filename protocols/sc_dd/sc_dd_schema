@@ -12,19 +12,19 @@
     "ui": {
         "addProperties": [
             {
-                "variableName": "qr72",
-                "isAbout": "qr72",
+                "variableName": "qr72_schema",
+                "isAbout": "qr72_schema",
                 "isVis": true
             },
             {
-                "variableName": "qr1000",
-                "isAbout": "qr1000",
+                "variableName": "qr1000_schema",
+                "isAbout": "qr1000_schema",
                 "isVis": true
             }
         ],
         "order": [
-            "qr72",
-            "qr1000"
+            "qr72_schema",
+            "qr1000_schema"
         ],
         "shuffle": false
     }
