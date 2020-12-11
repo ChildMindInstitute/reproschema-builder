@@ -9,7 +9,7 @@ const protocolDisplayName = "Your protocol display name";
 //2. create your raw github repo URL
 const userName = 'charlie42';
 const repoName = 'reproschema-builder';
-const branchName = 'master';
+const branchName = 'mhdb-format';
 
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`;
 
@@ -194,7 +194,9 @@ function processRow(form, data){
     let ui = {};
     let rspObj = {};
     let choiceList = [];
-    let isVis = '';
+    //let isVis = '';
+    //mhdb:
+    let isVis = true;
    
     rowData['@context'] = [schemaContextUrl];
     rowData['@type'] = 'reproschema:Field';
@@ -276,6 +278,13 @@ function processRow(form, data){
         else if (data['Field Type'] === 'descriptive') {
             inputType = 'static';
         }
+        //mhdb
+        else if (data['Field Type'] === '1') {
+            inputType = 'radio';
+            multipleChoice = false;
+            valueType = '';
+        }
+        //console.log("UNPUT TYPE" + inputType + " " + data['Field Type'])
         rowData['ui'] = {'inputType': inputType};
         if (valueType) {
             rowData['responseOptions'] = {'valueType': valueType};
@@ -308,6 +317,7 @@ function processRow(form, data){
             if (inputTypeMap.hasOwnProperty(data[current_key])) { // map Field type to supported inputTypes
                 uiValue = inputTypeMap[data[current_key]];
             }
+        
             // else if ((uiKey === 'inputType') && (uiValue === 'text') && data['Text Validation Type OR Show Slider Number'] === 'number') {
             //     uiValue = 'integer';
             //     valueType = 'xsd:int'
@@ -316,6 +326,11 @@ function processRow(form, data){
             //     uiValue = 'date';
             //     valueType = 'xsd:date';
             // }
+
+            //mhdb:
+            else if ((uiKey === 'inputType') && (uiValue === '1')) {
+                uiValue = 'radio';
+            }
 
             // add object to ui element of the item
             if (rowData.hasOwnProperty('ui')) {
@@ -384,11 +399,11 @@ function processRow(form, data){
         else if (schemaMap[current_key] === 'choices' && data[current_key] !== '') {
 
             // split string wrt '|' to get each choice
-            let c = data[current_key].split('|');
+            let c = data[current_key].split(',');
             // split each choice wrt ',' to get name and value
             c.forEach(ch => { // ch = { value, name}
                 let choiceObj = {};
-                let cs = ch.split(', ');
+                let cs = ch.split('=');
                 // create name and value pair + image link for each choice option
                 if (cs.length === 3) {
                     choiceObj['schema:value'] = parseInt(cs[0]);

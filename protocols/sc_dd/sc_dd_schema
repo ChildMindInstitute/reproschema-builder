@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/protocols/sc_dd/sc_dd_context"
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/protocols/sc_dd/sc_dd_context"
     ],
     "@type": "reproschema:Protocol",
     "@id": "sc_dd_schema",
@@ -12,13 +12,13 @@
     "ui": {
         "addProperties": [
             {
-                "variableName": "94",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/94/94_schema",
+                "variableName": "q94",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/q94/q94_schema",
                 "isVis": true
             }
         ],
         "order": [
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/94/94_schema"
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/q94/q94_schema"
         ],
         "shuffle": false
     }
