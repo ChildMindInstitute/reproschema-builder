@@ -1,5 +1,7 @@
 {
-    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
     "@type": "reproschema:Field",
     "@id": "q1",
     "skos:prefLabel": "question 1",
@@ -8,54 +10,47 @@
     "ui": {
         "inputType": "radio"
     },
+    "preamble": {
+        "en": "We are trying to find out about your level of physical activity from the last 7 days."
+    },
     "responseOptions": {
-        "valueType": "xsd:integer",
         "multipleChoice": false,
         "choices": [
             {
-                "@type": "schema:option",
                 "schema:value": 0,
                 "schema:name": {
                     "en": "No"
                 }
             },
             {
-                "@type": "schema:option",
                 "schema:value": 1,
                 "schema:name": {
                     "en": "1-2"
                 }
             },
             {
-                "@type": "schema:option",
                 "schema:value": 2,
                 "schema:name": {
                     "en": "3-4"
                 }
             },
             {
-                "@type": "schema:option",
                 "schema:value": 3,
                 "schema:name": {
                     "en": "5-6"
                 }
             },
             {
-                "@type": "schema:option",
                 "schema:value": 4,
                 "schema:name": {
                     "en": "7 times or more"
                 }
             }
-        ]
-    },
-    "preamble": {
-        "en": "We are trying to find out about your level of physical activity from the last 7 days."
+        ],
+        "schema:minValue": 0,
+        "schema:maxValue": 4
     },
     "question": {
         "en": "Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)"
-    },
-    "description": {
-        "en": "q1 descr"
     }
 }

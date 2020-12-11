@@ -1,5 +1,7 @@
 {
-    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
     "@type": "reproschema:Field",
     "@id": "q1",
     "skos:prefLabel": "question 1",
@@ -17,8 +19,5 @@
     },
     "question": {
         "en": "Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)"
-    },
-    "description": {
-        "en": "q1 descr"
     }
 }

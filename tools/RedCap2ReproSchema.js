@@ -9,7 +9,7 @@ const protocolDisplayName = "Your protocol display name";
 //2. create your raw github repo URL
 const userName = 'charlie42';
 const repoName = 'reproschema-builder';
-const branchName = 'new-repro-version';
+const branchName = 'master';
 
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`;
 
@@ -30,15 +30,15 @@ const HTMLParser =  require ('node-html-parser');
 
 const schemaMap = {
     "Variable / Field Name": "@id", // column A
-    "Item Display Name": "prefLabel",
-    "Field Annotation": "description", // column R
+    "Item Display Name": "skos:prefLabel",
+    "Field Annotation": "schema:description", // column R
     "Section Header": "preamble", // todo: check this // column C
     "Field Label": "question", // column E
     "Field Type": "inputType", // column D
     "Allow": "allow",
     "Required Field?": "requiredValue", //column M
-    "Text Validation Min": "minValue", // column I
-    "Text Validation Max": "maxValue", // column J
+    "Text Validation Min": "schema:minValue", // column I
+    "Text Validation Max": "schema:maxValue", // column J
     "Choices, Calculations, OR Slider Labels": "choices", // column F
     "Branching Logic (Show field only if...)": "visibility", // column L
     "Custom Alignment": "customAlignment", // column N
@@ -196,12 +196,12 @@ function processRow(form, data){
     let choiceList = [];
     let isVis = '';
    
-    rowData['@context'] = schemaContextUrl;
+    rowData['@context'] = [schemaContextUrl];
     rowData['@type'] = 'reproschema:Field';
     rowData['@id'] = data['Variable / Field Name'];
-    rowData['prefLabel'] = data["Item Display Name"];
-    rowData['schemaVersion'] = schemaVersion;
-    rowData['version'] = '0.0.1';
+    rowData['skos:prefLabel'] = data["Item Display Name"];
+    rowData['schema:schemaVersion'] = schemaVersion;
+    rowData['schema:version'] = '0.0.1';
 
     // map Choices, Calculations, OR Slider Labels column to choices or scoringLogic key
     if (data['Field Type'] === 'calc')
@@ -342,7 +342,7 @@ function processRow(form, data){
             }
         }
         //parse minVal
-        else if (schemaMap[current_key] === 'minValue' && data[current_key] !== '') {
+        else if (schemaMap[current_key] === 'schema:minValue' && data[current_key] !== '') {
             let minValVal = parseInt(data[current_key]);
             
             // insert 'multiplechoices' key inside responseOptions of the item
@@ -355,7 +355,7 @@ function processRow(form, data){
             }
         }
         //parse maxVal
-        else if (schemaMap[current_key] === 'maxValue' && data[current_key] !== '') {
+        else if (schemaMap[current_key] === 'schema:maxValue' && data[current_key] !== '') {
             let maxValVal = parseInt(data[current_key]);
             // insert 'multiplechoices' key inside responseOptions of the item
             if (rowData.hasOwnProperty('responseOptions')) {
@@ -391,9 +391,9 @@ function processRow(form, data){
                 let cs = ch.split(', ');
                 // create name and value pair + image link for each choice option
                 if (cs.length === 3) {
-                    choiceObj['value'] = parseInt(cs[0]);
+                    choiceObj['schema:value'] = parseInt(cs[0]);
                     let cnameList = cs[1];
-                    choiceObj['name'] = {
+                    choiceObj['schema:name'] = {
                         [defaultLanguage]: cnameList
                     };
                     //choiceObj['@type'] = "schema:option";
@@ -401,9 +401,9 @@ function processRow(form, data){
                     choiceList.push(choiceObj);
                 } else {
                 // for no image, create name and value pair for each choice option
-                    choiceObj['value'] = parseInt(cs[0]);
+                    choiceObj['schema:value'] = parseInt(cs[0]);
                     let cnameList = cs[1];
-                    choiceObj['name'] = {
+                    choiceObj['schema:name'] = {
                         [defaultLanguage]: cnameList
                     };
                     //choiceObj['@type'] = "schema:option";
@@ -519,7 +519,7 @@ function processRow(form, data){
     // add field to addProperties
     addProperties.push({
         "variableName": field_name, 
-        "isAbout": 'items/'+field_name,
+        "isAbout": field_name,
         "isVis": isVis, 
         //:todo configure requiredValue
         "requiredValue": true,
@@ -532,9 +532,9 @@ function processRow(form, data){
     // check if 'order' object exists for the activity and add the items to the respective order array
     if (!order[form]) {
         order[form] = [];
-        order[form].push('items/'+field_name);
+        order[form].push(field_name);
     }
-    else order[form].push('items/'+field_name);
+    else order[form].push(field_name);
 
     // write to item_x file
     fs.writeFile('activities/' + form + '/items/' + field_name, JSON.stringify(rowData, null, 4), function (err) {
@@ -548,15 +548,15 @@ function createFormSchema(form, formContextUrl) {
     //console.log(27, form, visibilityObj);
     console.log("!!" + addProperties);
     let jsonLD = {
-        //"@context": [schemaContextUrl, formContextUrl],
-        "@context": schemaContextUrl,
+        "@context": [schemaContextUrl, formContextUrl],
+        //"@context": schemaContextUrl,
         "@type": "reproschema:Activity",
         "@id": `${form}_schema`,
-        "prefLabel": activityDisplayName,
+        "skos:prefLabel": activityDisplayName,
         //"skos:altLabel": `${form}_schema`,
-        "description": activityDescription,
-        "schemaVersion": schemaVersion,
-        "version": "0.0.1",
+        "schema:description": activityDescription,
+        "schema:schemaVersion": schemaVersion,
+        "schema:version": "0.0.1",
         // todo: preamble: Field Type = descriptive represents preamble in the CSV file., it also has branching logic. so should preamble be an item in our schema?
         "preamble": {
             [defaultLanguage]: preamble,
@@ -603,17 +603,15 @@ function processActivities(activityName) {
 
 function createProtocolSchema(protocolName, protocolContextUrl) {
     let protocolSchema = {
-        //"@context": [schemaContextUrl, protocolContextUrl],
-        "@context": schemaContextUrl,
+        "@context": [schemaContextUrl, protocolContextUrl],
+        //"@context": schemaContextUrl,
         "@type": "reproschema:Protocol",
         "@id": `${protocolName}_schema`,
-        "prefLabel": {
-            [defaultLanguage]: protocolDisplayName
-        },
+        "skos:prefLabel": protocolDisplayName,
         //"skos:altLabel": `${protocolName}_schema`,
-        "description": protocolDescription,
-        "schemaVersion": schemaVersion,
-        "version": "0.0.1",
+        "schema:description": protocolDescription,
+        "schema:schemaVersion": schemaVersion,
+        "schema:version": "0.0.1",
         // todo: preamble: Field Type = descriptive represents preamble in the CSV file., it also has branching logic. so should preamble be an item in our schema?
         "ui": {
             "addProperties": protocolAddProperties,
