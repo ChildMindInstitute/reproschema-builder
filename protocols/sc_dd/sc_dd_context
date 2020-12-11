@@ -1,14 +1,10 @@
 {
     "@context": {
-        "@version": 1.1,
-        "activity_path": "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/",
-        "qr72": {
-            "@id": "activity_path:qr72/qr72_schema",
+        "94": {
+            "@id": "activity_path:94/94_schema",
             "@type": "@id"
         },
-        "qr1000": {
-            "@id": "activity_path:qr1000/qr1000_schema",
-            "@type": "@id"
-        }
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/"
     }
 }
