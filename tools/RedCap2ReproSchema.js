@@ -201,7 +201,9 @@ function processRow(form, data){
     rowData['@context'] = [schemaContextUrl];
     rowData['@type'] = 'reproschema:Field';
     rowData['@id'] = data['Variable / Field Name'];
-    rowData['skos:prefLabel'] = data["Item Display Name"];
+    //mhdb: no display name for questions
+    //rowData['skos:prefLabel'] = data["Item Display Name"];
+    rowData['skos:prefLabel'] = data["Variable / Field Name"];
     rowData['schema:schemaVersion'] = schemaVersion;
     rowData['schema:version'] = '0.0.1';
 

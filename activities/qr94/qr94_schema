@@ -5,6 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr94_schema",
+    "skos:prefLabel": "Sleep Disturbance Scale for Children",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {
