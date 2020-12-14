@@ -13,18 +13,18 @@
         "addProperties": [
             {
                 "variableName": "qr72",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/qr72/qr72_schema",
+                "isAbout": "qr72_schema",
                 "isVis": true
             },
             {
                 "variableName": "qr1000",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/qr1000/qr1000_schema",
+                "isAbout": "qr1000_schema",
                 "isVis": true
             }
         ],
         "order": [
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/qr72/qr72_schema",
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/qr1000/qr1000_schema"
+            "qr72_schema",
+            "qr1000_schema"
         ],
         "shuffle": false
     }
