@@ -4,7 +4,7 @@
 const protocolName = "sc_dd";
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "Your protocol display name";
+const protocolDisplayName = "test protocol";
 
 //2. create your raw github repo URL
 const userName = 'charlie42';
@@ -391,21 +391,23 @@ function processRow(form, data){
                 let cs = ch.split(', ');
                 // create name and value pair + image link for each choice option
                 if (cs.length === 3) {
-                    choiceObj['schema:value'] = parseInt(cs[0]);
+                    choiceObj['value'] = parseInt(cs[0]);
                     let cnameList = cs[1];
-                    choiceObj['schema:name'] = {
-                        [defaultLanguage]: cnameList
-                    };
+                    // choiceObj['schema:name'] = {
+                    //     [defaultLanguage]: cnameList
+                    // };
+                    choiceObj['name'] = cnameList;
                     //choiceObj['@type'] = "schema:option";
                     choiceObj['schema:image'] = imagePath + cs[2] + '.png';
                     choiceList.push(choiceObj);
                 } else {
                 // for no image, create name and value pair for each choice option
-                    choiceObj['schema:value'] = parseInt(cs[0]);
+                    choiceObj['value'] = parseInt(cs[0]);
                     let cnameList = cs[1];
-                    choiceObj['schema:name'] = {
-                        [defaultLanguage]: cnameList
-                    };
+                    // choiceObj['name'] = {
+                    //     [defaultLanguage]: cnameList
+                    // };
+                    choiceObj['name'] = cnameList
                     //choiceObj['@type'] = "schema:option";
                     choiceList.push(choiceObj);
                 }

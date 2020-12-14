@@ -17,34 +17,24 @@
         "multipleChoice": false,
         "choices": [
             {
-                "schema:value": 0,
-                "schema:name": {
-                    "en": "No"
-                }
+                "value": 0,
+                "name": "No"
             },
             {
-                "schema:value": 1,
-                "schema:name": {
-                    "en": "1-2"
-                }
+                "value": 1,
+                "name": "1-2"
             },
             {
-                "schema:value": 2,
-                "schema:name": {
-                    "en": "3-4"
-                }
+                "value": 2,
+                "name": "3-4"
             },
             {
-                "schema:value": 3,
-                "schema:name": {
-                    "en": "5-6"
-                }
+                "value": 3,
+                "name": "5-6"
             },
             {
-                "schema:value": 4,
-                "schema:name": {
-                    "en": "7 times or more"
-                }
+                "value": 4,
+                "name": "7 times or more"
             }
         ],
         "schema:minValue": 0,
