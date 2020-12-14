@@ -10,11 +10,12 @@
     "ui": {
         "inputType": "4"
     },
-    "question": {
-        "en": "If Yes, what prevented you?"
-    },
     "responseOptions": {
+        "valueType": "xsd:string",
         "schema:minValue": null,
         "schema:maxValue": null
+    },
+    "question": {
+        "en": "If Yes, what prevented you?"
     }
 }
