@@ -302,7 +302,7 @@ function processRow(form, data){
             valueType = 'xsd:string';
         }
 
-        //console.log("UNPUT TYPE" + inputType + " " + data['Field Type'])
+        console.log("INPUT TYPE" + inputType + " " + data['Field Type'])
         rowData['ui'] = {'inputType': inputType};
         if (valueType) {
             rowData['responseOptions'] = {'valueType': valueType};
@@ -351,15 +351,15 @@ function processRow(form, data){
                 valueType = '';
             }
             else if ((uiKey === 'inputType') && (uiValue === '2')) {
-                inputType = 'radio';
+                uiValue = 'radio';
                 valueType = 'radio';
             }
             else if ((uiKey === 'inputType') && (uiValue === '3')) {
-                inputType = 'slider';
+                uiValue = 'slider';
                 valueType = 'slider';
             }
             else if ((uiKey === 'inputType') && (uiValue === '4')) {
-                inputType = 'text';
+                uiValue = 'text';
                 valueType = 'xsd:string';
             }
 
