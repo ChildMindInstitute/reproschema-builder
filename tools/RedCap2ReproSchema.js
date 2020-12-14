@@ -502,7 +502,9 @@ function processRow(form, data){
         }
         // decode html fields
         else if ((schemaMap[current_key] === 'question' || schemaMap[current_key] ==='description'
-            || schemaMap[current_key] === 'preamble') && data[current_key] !== '') {
+            //mhdb: preamble only before questionnaire, not items
+            //|| schemaMap[current_key] === 'preamble'
+            ) && data[current_key] !== '') {
             let questions = parseHtml(data[current_key]);
             // console.log(231, form, schemaMap[current_key], questions);
             rowData[schemaMap[current_key]] = questions;
