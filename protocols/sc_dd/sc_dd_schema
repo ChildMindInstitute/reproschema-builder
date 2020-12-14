@@ -15,10 +15,16 @@
                 "variableName": "qr94",
                 "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr94/qr94_schema",
                 "isVis": true
+            },
+            {
+                "variableName": "qr72",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr72/qr72_schema",
+                "isVis": true
             }
         ],
         "order": [
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr94/qr94_schema"
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr94/qr94_schema",
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr72/qr72_schema"
         ],
         "shuffle": false
     }

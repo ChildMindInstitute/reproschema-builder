@@ -33,6 +33,8 @@ const schemaMap = {
     "Item Display Name": "skos:prefLabel",
     "Field Annotation": "schema:description", // column R
     "Section Header": "preamble", // todo: check this // column C
+    //mhdb: paper_instructions column - preamble before each item
+    "Item Header": "itemPreamble", // todo: check this // column C
     "Field Label": "question", // column E
     "Field Type": "inputType", // column D
     "Allow": "allow",
@@ -504,6 +506,7 @@ function processRow(form, data){
         else if ((schemaMap[current_key] === 'question' || schemaMap[current_key] ==='description'
             //mhdb: preamble only before questionnaire, not items
             //|| schemaMap[current_key] === 'preamble'
+            || schemaMap[current_key] === 'itemPreamble'
             ) && data[current_key] !== '') {
             let questions = parseHtml(data[current_key]);
             // console.log(231, form, schemaMap[current_key], questions);
