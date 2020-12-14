@@ -282,12 +282,26 @@ function processRow(form, data){
         else if (data['Field Type'] === 'descriptive') {
             inputType = 'static';
         }
-        //mhdb
+        //mhdb:
         else if (data['Field Type'] === '1') {
             inputType = 'radio';
             multipleChoice = false;
             valueType = '';
         }
+        else if (data['Field Type'] === '2') {
+            inputType = 'radio';
+            valueType = 'radio';
+            multipleChoice = true;
+        }
+        else if (data['Field Type'] === '3') {
+            inputType = 'slider';
+            valueType = 'slider';
+        }
+        else if (data['Field Type'] === '4') {
+            inputType = 'text';
+            valueType = 'xsd:string';
+        }
+
         //console.log("UNPUT TYPE" + inputType + " " + data['Field Type'])
         rowData['ui'] = {'inputType': inputType};
         if (valueType) {
@@ -334,6 +348,19 @@ function processRow(form, data){
             //mhdb:
             else if ((uiKey === 'inputType') && (uiValue === '1')) {
                 uiValue = 'radio';
+                valueType = '';
+            }
+            else if ((uiKey === 'inputType') && (uiValue === '2')) {
+                inputType = 'radio';
+                valueType = 'radio';
+            }
+            else if ((uiKey === 'inputType') && (uiValue === '3')) {
+                inputType = 'slider';
+                valueType = 'slider';
+            }
+            else if ((uiKey === 'inputType') && (uiValue === '4')) {
+                inputType = 'text';
+                valueType = 'xsd:string';
             }
 
             // add object to ui element of the item
