@@ -9,6 +9,10 @@
         "qr72": {
             "@id": "activity_path:qr72/qr72_schema",
             "@type": "@id"
+        },
+        "qr24": {
+            "@id": "activity_path:qr24/qr24_schema",
+            "@type": "@id"
         }
     }
 }
