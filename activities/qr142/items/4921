@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4921",
+    "skos:prefLabel": "4921",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Remembering scary things"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Never"
+            },
+            {
+                "value": 1,
+                "name": "Sometimes"
+            },
+            {
+                "value": 2,
+                "name": "Lots of the time"
+            },
+            {
+                "value": 3,
+                "name": "Almost all the time"
+            }
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr58/qr58_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr58_schema",
+    "skos:prefLabel": "58",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "For each of the statements below, select one response that best describes your observations of your child in the past two weeks. (Indicate your response for each item by circling the number that best corresponds to your choice. You may change an item response by drawing an X through your original choice and selecting a new response). Remember, for each statement, pick one answer that best describes your observations of your child in the PAST TWO WEEKS. "
+    },
+    "ui": {
+        "order": [
+            "1328",
+            "1329",
+            "1330",
+            "1331",
+            "1332",
+            "1333",
+            "1334",
+            "1335",
+            "1336",
+            "1337",
+            "1338",
+            "1339",
+            "1340",
+            "1341",
+            "1342",
+            "1343",
+            "1344"
+        ],
+        "addProperties": [
+            {
+                "variableName": "1328",
+                "isAbout": "1328",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1329",
+                "isAbout": "1329",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1330",
+                "isAbout": "1330",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1331",
+                "isAbout": "1331",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1332",
+                "isAbout": "1332",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1333",
+                "isAbout": "1333",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1334",
+                "isAbout": "1334",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1335",
+                "isAbout": "1335",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1336",
+                "isAbout": "1336",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1337",
+                "isAbout": "1337",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1338",
+                "isAbout": "1338",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1339",
+                "isAbout": "1339",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1340",
+                "isAbout": "1340",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1341",
+                "isAbout": "1341",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1342",
+                "isAbout": "1342",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1343",
+                "isAbout": "1343",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1344",
+                "isAbout": "1344",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4572",
+    "skos:prefLabel": "4572",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Please read the following statements and rate the extent to which they apply to you when you think about negative experiences or problems."
+    },
+    "question": {
+        "en": "I feel driven to continue dwelling on the same issue"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": null,
+                "name": " 0, Rarely "
+            }
+        ]
+    }
+}

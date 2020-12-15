@@ -1,0 +1,329 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr93/qr93_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr93_schema",
+    "skos:prefLabel": "93",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Please rate this person's behavior by reading each of the items listed and then choosing the score that best describes how much of a problem the item is for the person. Be sure to read and score all items listed. Make your ratings based on your observations and interactions with the person over the last month."
+    },
+    "ui": {
+        "order": [
+            "585",
+            "586",
+            "587",
+            "588",
+            "589",
+            "590",
+            "591",
+            "592",
+            "593",
+            "594",
+            "595",
+            "596",
+            "597",
+            "598",
+            "599",
+            "600",
+            "601",
+            "602",
+            "603",
+            "604",
+            "605",
+            "606",
+            "607",
+            "608",
+            "609",
+            "610",
+            "611",
+            "612",
+            "613",
+            "614",
+            "615",
+            "616",
+            "617",
+            "618",
+            "619",
+            "620",
+            "621",
+            "622",
+            "623",
+            "624",
+            "625",
+            "626",
+            "627",
+            "628"
+        ],
+        "addProperties": [
+            {
+                "variableName": "585",
+                "isAbout": "585",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "586",
+                "isAbout": "586",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "587",
+                "isAbout": "587",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "588",
+                "isAbout": "588",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "589",
+                "isAbout": "589",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "590",
+                "isAbout": "590",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "591",
+                "isAbout": "591",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "592",
+                "isAbout": "592",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "593",
+                "isAbout": "593",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "594",
+                "isAbout": "594",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "595",
+                "isAbout": "595",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "596",
+                "isAbout": "596",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "597",
+                "isAbout": "597",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "598",
+                "isAbout": "598",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "599",
+                "isAbout": "599",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "600",
+                "isAbout": "600",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "601",
+                "isAbout": "601",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "602",
+                "isAbout": "602",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "603",
+                "isAbout": "603",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "604",
+                "isAbout": "604",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "605",
+                "isAbout": "605",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "606",
+                "isAbout": "606",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "607",
+                "isAbout": "607",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "608",
+                "isAbout": "608",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "609",
+                "isAbout": "609",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "610",
+                "isAbout": "610",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "611",
+                "isAbout": "611",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "612",
+                "isAbout": "612",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "613",
+                "isAbout": "613",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "614",
+                "isAbout": "614",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "615",
+                "isAbout": "615",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "616",
+                "isAbout": "616",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "617",
+                "isAbout": "617",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "618",
+                "isAbout": "618",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "619",
+                "isAbout": "619",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "620",
+                "isAbout": "620",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "621",
+                "isAbout": "621",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "622",
+                "isAbout": "622",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "623",
+                "isAbout": "623",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "624",
+                "isAbout": "624",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "625",
+                "isAbout": "625",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "626",
+                "isAbout": "626",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "627",
+                "isAbout": "627",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "628",
+                "isAbout": "628",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

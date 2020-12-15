@@ -1,0 +1,84 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr169/qr169_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr169_schema",
+    "skos:prefLabel": "169",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "“I’m going to ask you a few questions that I ask all my patients. Please\nbe honest. I will keep your answers confidential.”"
+    },
+    "ui": {
+        "order": [
+            "4347",
+            "4348",
+            "4349",
+            "4350",
+            "4351",
+            "4352",
+            "4353",
+            "4354",
+            "4355"
+        ],
+        "addProperties": [
+            {
+                "variableName": "4347",
+                "isAbout": "4347",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4348",
+                "isAbout": "4348",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4349",
+                "isAbout": "4349",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4350",
+                "isAbout": "4350",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4351",
+                "isAbout": "4351",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4352",
+                "isAbout": "4352",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4353",
+                "isAbout": "4353",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4354",
+                "isAbout": "4354",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4355",
+                "isAbout": "4355",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

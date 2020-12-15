@@ -1,0 +1,30 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "490",
+    "skos:prefLabel": "490",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "The child's mother or father acted badly in front of the child's friends (did things like yelled at them or criticized them)."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "No"
+            },
+            {
+                "value": 1,
+                "name": "Yes"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}

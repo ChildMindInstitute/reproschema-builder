@@ -1,0 +1,51 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5225",
+    "skos:prefLabel": "5225",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Stimulus"
+    },
+    "question": {
+        "en": "When you use, with whom do you use typically?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " Alone"
+            },
+            {
+                "value": 2,
+                "name": " Friend(s)"
+            },
+            {
+                "value": 3,
+                "name": " Sibling(s)"
+            },
+            {
+                "value": 4,
+                "name": " Parent(s)"
+            },
+            {
+                "value": 5,
+                "name": " Acquaintance(s)"
+            },
+            {
+                "value": 6,
+                "name": " Strangers"
+            },
+            {
+                "value": 7,
+                "name": " Other"
+            }
+        ]
+    }
+}

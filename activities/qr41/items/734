@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "734",
+    "skos:prefLabel": "734",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "has special routines: insists on no change (i.e. may need to have exactly the same change; troubles with even the slightest change in his/her environment, or routines or activities)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "No"
+            },
+            {
+                "value": 1,
+                "name": "Somewhat"
+            },
+            {
+                "value": 2,
+                "name": "Yes"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}

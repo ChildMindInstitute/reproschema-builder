@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1236",
+    "skos:prefLabel": "1236",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Fears he/she might think or do something bad"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Not true"
+            },
+            {
+                "value": 1,
+                "name": "Somewhat or sometimes true"
+            },
+            {
+                "value": 2,
+                "name": "Very true or often true"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": 2
+    }
+}

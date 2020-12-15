@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "3210",
+    "skos:prefLabel": "3210",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Loss of Pleasure"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "I get as much pleasure as i ever did from things I enjoy"
+            },
+            {
+                "value": 1,
+                "name": "I don't enjoy things as much as I used to"
+            },
+            {
+                "value": 2,
+                "name": "I get very little pleasure from the things I used to enjoy"
+            },
+            {
+                "value": 3,
+                "name": " I can't get pleasure from things i used to enjoy"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": 3
+    }
+}

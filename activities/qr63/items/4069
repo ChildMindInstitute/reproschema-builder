@@ -1,0 +1,63 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4069",
+    "skos:prefLabel": "4069",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "radio",
+        "choices": [
+            {
+                "value": 1,
+                "name": "\"Supplemental Security Income (SSI)\""
+            },
+            {
+                "value": 2,
+                "name": "\"Social Security Disability (SSD)\""
+            },
+            {
+                "value": 3,
+                "name": "\"Social Security Retirement Benefits\""
+            },
+            {
+                "value": 4,
+                "name": "\"Social Security Survivors Benefits\""
+            },
+            {
+                "value": 5,
+                "name": "\"Civil Service Pension\""
+            },
+            {
+                "value": 6,
+                "name": "\"Medical disability payment\""
+            },
+            {
+                "value": 7,
+                "name": "\"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)\""
+            },
+            {
+                "value": 8,
+                "name": "\"Supplemental Nutrition Assistance Program (SNAP) Benefits\""
+            },
+            {
+                "value": 9,
+                "name": "\"NYC Cash Assistance Program\""
+            },
+            {
+                "value": 10,
+                "name": "\"Military Retired Pay/Survivors Benefit Plan Anuity (SBP)\""
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    },
+    "question": {
+        "en": "Are you, your spouse, or your child eligible for any of the following (choose all that apply)?"
+    }
+}

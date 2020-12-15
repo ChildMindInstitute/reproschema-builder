@@ -1,0 +1,91 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr48/qr48_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr48_schema",
+    "skos:prefLabel": "48",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Prior to your 18th birthday:"
+    },
+    "ui": {
+        "order": [
+            "829",
+            "830",
+            "831",
+            "832",
+            "833",
+            "834",
+            "835",
+            "836",
+            "837",
+            "838"
+        ],
+        "addProperties": [
+            {
+                "variableName": "829",
+                "isAbout": "829",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "830",
+                "isAbout": "830",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "831",
+                "isAbout": "831",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "832",
+                "isAbout": "832",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "833",
+                "isAbout": "833",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "834",
+                "isAbout": "834",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "835",
+                "isAbout": "835",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "836",
+                "isAbout": "836",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "837",
+                "isAbout": "837",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "838",
+                "isAbout": "838",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

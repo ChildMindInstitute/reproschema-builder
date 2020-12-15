@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5602",
+    "skos:prefLabel": "5602",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "It is important for me to maintain or develop American cultural practices. "
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Disagree"
+            },
+            {
+                "value": 9,
+                "name": "Agree"
+            }
+        ]
+    }
+}

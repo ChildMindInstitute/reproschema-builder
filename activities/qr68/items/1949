@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1949",
+    "skos:prefLabel": "1949",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "choices": [
+            {
+                "value": 0,
+                "name": " \"No, never\""
+            },
+            {
+                "value": 1,
+                "name": " \"Yes, but no in the past 3 months\""
+            },
+            {
+                "value": 2,
+                "name": " \"Yes, in the past 3 months\""
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": 6
+    },
+    "itemPreamble": {
+        "en": "7. Have you ever tried and fail to control, cut down or stop using (first drug, second drug, etc)?"
+    },
+    "question": {
+        "en": "Specify"
+    }
+}

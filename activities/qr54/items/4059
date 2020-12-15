@@ -1,0 +1,53 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4059",
+    "skos:prefLabel": "4059",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Select the appropriate response for your level of school completed and your child's other caregivers' level of school completed.\n\nLevel of school completed:"
+    },
+    "question": {
+        "en": "You"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 3,
+                "name": "Less than 7th grade"
+            },
+            {
+                "value": 6,
+                "name": "Junior high/Middle school (9th grade)"
+            },
+            {
+                "value": 9,
+                "name": "Partial high school (10th or 11th grade)"
+            },
+            {
+                "value": 12,
+                "name": "High school graduate"
+            },
+            {
+                "value": 15,
+                "name": "Partial college (at least one year)"
+            },
+            {
+                "value": 18,
+                "name": "College education"
+            },
+            {
+                "value": 21,
+                "name": "Graduate degree"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}

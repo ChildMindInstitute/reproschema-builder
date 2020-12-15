@@ -1,0 +1,43 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2085",
+    "skos:prefLabel": "2085",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "When we say “FOOD” we want you to think of ANY “junk food” like those above.\nIn the past 12 months:"
+    },
+    "question": {
+        "en": "The way I eat causes me problems. (ex. problems at school, with my parents, with my friends)."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Never"
+            },
+            {
+                "value": 1,
+                "name": "Rarely"
+            },
+            {
+                "value": 2,
+                "name": "Sometimes"
+            },
+            {
+                "value": 3,
+                "name": "Very Often"
+            },
+            {
+                "value": 4,
+                "name": "Always"
+            }
+        ]
+    }
+}

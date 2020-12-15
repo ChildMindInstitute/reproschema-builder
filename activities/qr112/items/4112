@@ -1,0 +1,24 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4112",
+    "skos:prefLabel": "4112",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "schema:minValue": null,
+        "schema:maxValue": null
+    },
+    "itemPreamble": {
+        "en": "Over the past four weeks (28 days)……."
+    },
+    "question": {
+        "en": "Over the past 28 days, how many times have you made yourself sick (vomit) as a means of controlling your shape or weight?"
+    }
+}

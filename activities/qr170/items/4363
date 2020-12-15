@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4363",
+    "skos:prefLabel": "4363",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Moving or speaking so slowly that other people could have noticed? Or the opposite – being so fidgety or restless that you were moving around a lot more than usual?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Not at All"
+            },
+            {
+                "value": 1,
+                "name": "Several Days"
+            },
+            {
+                "value": 2,
+                "name": "More than Half the Days"
+            },
+            {
+                "value": 3,
+                "name": "Nearly Every day"
+            }
+        ]
+    }
+}

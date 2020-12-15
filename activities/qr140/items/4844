@@ -1,0 +1,43 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4844",
+    "skos:prefLabel": "4844",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Here is a list of problems people sometimes have after very bad thing happen. Please THINK about the bad thing that happened to you that you said bothers you the most. Then, READ each problem on the list carefully. PICK ONE of the numbers (0,1,2,3, or 4) that tells how often the problem has happened to you in the last month. HOW MUCH OF THE TIME DURING THE PAST MONTH:"
+    },
+    "question": {
+        "en": "I feel like staying by myself and not being with my friends."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": " None"
+            },
+            {
+                "value": 1,
+                "name": " Little (Two times a month)"
+            },
+            {
+                "value": 2,
+                "name": " Some (1-2 times a week)"
+            },
+            {
+                "value": 3,
+                "name": " Much (2-3 times each week)"
+            },
+            {
+                "value": 4,
+                "name": " Most (Almost every day)"
+            }
+        ]
+    }
+}

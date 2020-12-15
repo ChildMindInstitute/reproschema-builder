@@ -1,0 +1,112 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr111/qr111_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr111_schema",
+    "skos:prefLabel": "111",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Answer the questions as completely as you can. \nPlease pick the one best answer to each question."
+    },
+    "ui": {
+        "order": [
+            "4130",
+            "4131",
+            "4132",
+            "4133",
+            "4134",
+            "4135",
+            "4136",
+            "4137",
+            "4138",
+            "4139",
+            "4140",
+            "4141",
+            "4142"
+        ],
+        "addProperties": [
+            {
+                "variableName": "4130",
+                "isAbout": "4130",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4131",
+                "isAbout": "4131",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4132",
+                "isAbout": "4132",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4133",
+                "isAbout": "4133",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4134",
+                "isAbout": "4134",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4135",
+                "isAbout": "4135",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4136",
+                "isAbout": "4136",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4137",
+                "isAbout": "4137",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4138",
+                "isAbout": "4138",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4139",
+                "isAbout": "4139",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4140",
+                "isAbout": "4140",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4141",
+                "isAbout": "4141",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4142",
+                "isAbout": "4142",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4140",
+    "skos:prefLabel": "4140",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "The following is about these feelings"
+    },
+    "question": {
+        "en": "When you actually experience the feelings in your legs, how distressing are they?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Not at all distressing"
+            },
+            {
+                "value": 1,
+                "name": "A little bit"
+            },
+            {
+                "value": 2,
+                "name": "Moderately"
+            },
+            {
+                "value": 3,
+                "name": "Extremely distressing"
+            }
+        ]
+    }
+}

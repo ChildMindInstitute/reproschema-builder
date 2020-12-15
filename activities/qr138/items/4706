@@ -1,0 +1,51 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4706",
+    "skos:prefLabel": "4706",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "The next 6 questions ask about drinking alcohol. This includes drinking beer, wine, wine coolers, and liquor such as rum, gin, vodka, or whiskey. For these questions, drinking alcohol does not include drinking a few sips of wine for religious purposes."
+    },
+    "question": {
+        "en": "During the past 30 days, on how many days did you have 5 or more drinks of alcohol in a row, that is, within a couple of hours?("
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " 0 days"
+            },
+            {
+                "value": 2,
+                "name": " 1 day"
+            },
+            {
+                "value": 3,
+                "name": " 2 days"
+            },
+            {
+                "value": 4,
+                "name": " 3 to 5 days"
+            },
+            {
+                "value": 5,
+                "name": " 6 to 9 days"
+            },
+            {
+                "value": 6,
+                "name": " 10 to 19 days"
+            },
+            {
+                "value": 7,
+                "name": " 20 or more days"
+            }
+        ]
+    }
+}

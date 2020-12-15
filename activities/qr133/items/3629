@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "3629",
+    "skos:prefLabel": "3629",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Interrupts parents when they are talking on the phone.(BASC12_50)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": " Never"
+            },
+            {
+                "value": 1,
+                "name": " Sometimes"
+            },
+            {
+                "value": 2,
+                "name": " Often"
+            },
+            {
+                "value": 3,
+                "name": " Almost always"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": 3
+    }
+}

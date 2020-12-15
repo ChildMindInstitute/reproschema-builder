@@ -1,0 +1,31 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5856",
+    "skos:prefLabel": "5856",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Recent Traumatic Events Scale"
+    },
+    "question": {
+        "en": "Within the last 3 years, did you have a traumatic sexual experience (raped, molested, etc.)?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Yes"
+            },
+            {
+                "value": 1,
+                "name": "No"
+            }
+        ]
+    }
+}

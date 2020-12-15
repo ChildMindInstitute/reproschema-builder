@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "413",
+    "skos:prefLabel": "413",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Having a child has caused more problems than I expected in my relationship with my spouse/parenting partner."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": null,
+                "name": "Strongly Agree, A"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}

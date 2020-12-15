@@ -1,0 +1,48 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4135",
+    "skos:prefLabel": "4135",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "radio",
+        "choices": [
+            {
+                "value": 1,
+                "name": "Morning"
+            },
+            {
+                "value": 2,
+                "name": "Mid-day"
+            },
+            {
+                "value": 3,
+                "name": "Afternoon"
+            },
+            {
+                "value": 4,
+                "name": "Evening"
+            },
+            {
+                "value": 5,
+                "name": "Night"
+            },
+            {
+                "value": 6,
+                "name": "About equal at all times"
+            }
+        ]
+    },
+    "itemPreamble": {
+        "en": "The following is about these feelings"
+    },
+    "question": {
+        "en": "Which times of day are these feelings in your legs least likely to occur? (Please circle one or more than one) "
+    }
+}

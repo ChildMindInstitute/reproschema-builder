@@ -1,0 +1,112 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr53/qr53_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr53_schema",
+    "skos:prefLabel": "53",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Please circle the answer that is correct for you."
+    },
+    "ui": {
+        "order": [
+            "1021",
+            "1022",
+            "1023",
+            "1024",
+            "1025",
+            "1026",
+            "1027",
+            "1028",
+            "1029",
+            "1030",
+            "1031",
+            "1032",
+            "1033"
+        ],
+        "addProperties": [
+            {
+                "variableName": "1021",
+                "isAbout": "1021",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1022",
+                "isAbout": "1022",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1023",
+                "isAbout": "1023",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1024",
+                "isAbout": "1024",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1025",
+                "isAbout": "1025",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1026",
+                "isAbout": "1026",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1027",
+                "isAbout": "1027",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1028",
+                "isAbout": "1028",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1029",
+                "isAbout": "1029",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1030",
+                "isAbout": "1030",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1031",
+                "isAbout": "1031",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1032",
+                "isAbout": "1032",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1033",
+                "isAbout": "1033",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

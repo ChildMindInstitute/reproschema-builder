@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4124",
+    "skos:prefLabel": "4124",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "On how many of the past 28 days ……"
+    },
+    "question": {
+        "en": "How uncomfortable have you felt about others seeing your shape or figure (for example, in communal changing rooms, when swimming, or wearing tight clothes)?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Not at all"
+            },
+            {
+                "value": 1,
+                "name": "Slightly"
+            },
+            {
+                "value": 3,
+                "name": "Moderately"
+            },
+            {
+                "value": 5,
+                "name": "Markedly"
+            }
+        ]
+    }
+}

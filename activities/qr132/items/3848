@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "3848",
+    "skos:prefLabel": "3848",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Tries to bring out the best in other people.(BASC2C_117)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": " Never"
+            },
+            {
+                "value": 1,
+                "name": " Sometimes"
+            },
+            {
+                "value": 2,
+                "name": " Often"
+            },
+            {
+                "value": 3,
+                "name": " Almost always"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": 3
+    }
+}

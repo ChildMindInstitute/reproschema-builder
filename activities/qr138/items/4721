@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4721",
+    "skos:prefLabel": "4721",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "The next 10 questions ask about other drugs."
+    },
+    "question": {
+        "en": "During you life, how many times have you used a needle to inject any illegal drug into your body?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " 0 times"
+            },
+            {
+                "value": 2,
+                "name": " 1 time"
+            },
+            {
+                "value": 3,
+                "name": " 2 or more times"
+            }
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr116/qr116_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr116_schema",
+    "skos:prefLabel": "116",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "We would like to ask you some questions about your emotional life, in particular, how you control (that is, regulate and manage) your emotions. The questions below involve two distinct aspects of your emotional life. One is your EMOTIONAL EXPERIENCE, or what you feel like inside. The other is your EMOTIONAL EXPRESSION, or how you show your emotions in the way you talk, gesture, or behave. Although some of the following quesitons may seem similar to one another, they differ in impotant ways. For each item, please answer using the scale provided:"
+    },
+    "ui": {
+        "order": [
+            "5675",
+            "5676",
+            "5677",
+            "5678",
+            "5679",
+            "5680",
+            "5681",
+            "5682",
+            "5683",
+            "5684"
+        ],
+        "addProperties": [
+            {
+                "variableName": "5675",
+                "isAbout": "5675",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5676",
+                "isAbout": "5676",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5677",
+                "isAbout": "5677",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5678",
+                "isAbout": "5678",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5679",
+                "isAbout": "5679",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5680",
+                "isAbout": "5680",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5681",
+                "isAbout": "5681",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5682",
+                "isAbout": "5682",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5683",
+                "isAbout": "5683",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5684",
+                "isAbout": "5684",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

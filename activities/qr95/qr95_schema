@@ -1,0 +1,91 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr95/qr95_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr95_schema",
+    "skos:prefLabel": "95",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "How does your child compare with other children/people of his/her age in the following situations: "
+    },
+    "ui": {
+        "order": [
+            "662",
+            "663",
+            "664",
+            "665",
+            "666",
+            "667",
+            "668",
+            "669",
+            "670",
+            "671"
+        ],
+        "addProperties": [
+            {
+                "variableName": "662",
+                "isAbout": "662",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "663",
+                "isAbout": "663",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "664",
+                "isAbout": "664",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "665",
+                "isAbout": "665",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "666",
+                "isAbout": "666",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "667",
+                "isAbout": "667",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "668",
+                "isAbout": "668",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "669",
+                "isAbout": "669",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "670",
+                "isAbout": "670",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "671",
+                "isAbout": "671",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5684",
+    "skos:prefLabel": "5684",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "When I want to feel less negative emotion, I change the way I’m thinking about the situation."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Strongly Disagree"
+            },
+            {
+                "value": 4,
+                "name": "Neutral"
+            },
+            {
+                "value": 7,
+                "name": "Strongly Agree"
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5264",
+    "skos:prefLabel": "5264",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Inhalants"
+    },
+    "question": {
+        "en": "In the past year, what was your peak pattern of use?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": " No past year use"
+            },
+            {
+                "value": 1,
+                "name": " One to ten times"
+            },
+            {
+                "value": 2,
+                "name": " Episodic use"
+            },
+            {
+                "value": 3,
+                "name": " Binge use only"
+            },
+            {
+                "value": 4,
+                "name": " Once per month"
+            },
+            {
+                "value": 5,
+                "name": " Two or more times per month"
+            },
+            {
+                "value": 6,
+                "name": " Once per week"
+            },
+            {
+                "value": 7,
+                "name": " Two or more times per week"
+            },
+            {
+                "value": 8,
+                "name": " Once per day"
+            },
+            {
+                "value": 9,
+                "name": " More than once per day"
+            }
+        ]
+    }
+}

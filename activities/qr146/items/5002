@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5002",
+    "skos:prefLabel": "5002",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Some people think of me as cold and calculating."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Strongly Agree"
+            },
+            {
+                "value": 1,
+                "name": "Agree"
+            },
+            {
+                "value": 2,
+                "name": "Neutral"
+            },
+            {
+                "value": 3,
+                "name": "Disagree"
+            },
+            {
+                "value": 4,
+                "name": "Strongly Disagree"
+            }
+        ]
+    }
+}

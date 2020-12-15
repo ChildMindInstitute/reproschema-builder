@@ -1,0 +1,31 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4734",
+    "skos:prefLabel": "4734",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "The next 5 questions ask about body weight."
+    },
+    "question": {
+        "en": "During the past 30 days, did you vomit or take laxatives to lose weight or to keep from gaining weight?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Yes"
+            },
+            {
+                "value": 2,
+                "name": "No"
+            }
+        ]
+    }
+}

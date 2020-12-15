@@ -1,0 +1,24 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1925",
+    "skos:prefLabel": "1925",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "schema:minValue": null,
+        "schema:maxValue": null
+    },
+    "itemPreamble": {
+        "en": "5. During the past 3 months, how often have you failed to do what was nornally expected of you because of your use of (first drug, second drug, etc)?"
+    },
+    "question": {
+        "en": "Specify"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5667",
+    "skos:prefLabel": "5667",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "think “Why do I have problems other people don’t have?”"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Almost Never"
+            },
+            {
+                "value": 2,
+                "name": "Sometimes"
+            },
+            {
+                "value": 3,
+                "name": "Often"
+            },
+            {
+                "value": 4,
+                "name": "Almost always"
+            }
+        ]
+    }
+}

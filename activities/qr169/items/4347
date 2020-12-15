@@ -1,0 +1,31 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4347",
+    "skos:prefLabel": "4347",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Part A: During the PAST 12 MONTHS, did you: No Yes"
+    },
+    "question": {
+        "en": "Drink any alcohol (more than a few sips)? (Do not count sips of alcohol taken during family or religious events.) "
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Yes"
+            },
+            {
+                "value": 1,
+                "name": "No"
+            }
+        ]
+    }
+}

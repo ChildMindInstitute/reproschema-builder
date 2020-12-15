@@ -1,0 +1,47 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4672",
+    "skos:prefLabel": "4672",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "The next 4 questions ask about safety."
+    },
+    "question": {
+        "en": "When you rode a bicycle during the past 12 months, how often did you wear a helmet?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " I did not ride a bicycle during the past 12 months"
+            },
+            {
+                "value": 2,
+                "name": " Never wore a helmet"
+            },
+            {
+                "value": 3,
+                "name": " Rarely wore a helmet"
+            },
+            {
+                "value": 4,
+                "name": " Sometimes wore a helmet"
+            },
+            {
+                "value": 5,
+                "name": " Most of the time wore a helmet"
+            },
+            {
+                "value": 6,
+                "name": " Always wore a helmet"
+            }
+        ]
+    }
+}

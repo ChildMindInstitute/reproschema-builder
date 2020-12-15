@@ -1,0 +1,126 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr135/qr135_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr135_schema",
+    "skos:prefLabel": "135",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "In this questionnaire, you will be asked to describe how you typically think about negative experiences or problems. Please read the following statements and rate the extend to which they apply to you when you think about negative experiences or problems."
+    },
+    "ui": {
+        "order": [
+            "4560",
+            "4561",
+            "4562",
+            "4563",
+            "4564",
+            "4565",
+            "4566",
+            "4567",
+            "4568",
+            "4569",
+            "4570",
+            "4571",
+            "4572",
+            "4573",
+            "4574"
+        ],
+        "addProperties": [
+            {
+                "variableName": "4560",
+                "isAbout": "4560",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4561",
+                "isAbout": "4561",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4562",
+                "isAbout": "4562",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4563",
+                "isAbout": "4563",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4564",
+                "isAbout": "4564",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4565",
+                "isAbout": "4565",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4566",
+                "isAbout": "4566",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4567",
+                "isAbout": "4567",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4568",
+                "isAbout": "4568",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4569",
+                "isAbout": "4569",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4570",
+                "isAbout": "4570",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4571",
+                "isAbout": "4571",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4572",
+                "isAbout": "4572",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4573",
+                "isAbout": "4573",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4574",
+                "isAbout": "4574",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

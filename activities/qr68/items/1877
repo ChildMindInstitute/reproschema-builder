@@ -1,0 +1,29 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1877",
+    "skos:prefLabel": "1877",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "2.In the past three months, how often have you used the substances you mentioned (first drug, second drug, etc)?"
+    },
+    "question": {
+        "en": "N/A, proceed to next question"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": -1,
+                "name": " \"N/A, proceed to next question\""
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}

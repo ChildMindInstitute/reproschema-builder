@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "408",
+    "skos:prefLabel": "408",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "I feel trapped by my responsibilities as a parent."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": null,
+                "name": "Strongly Agree, A"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}

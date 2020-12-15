@@ -1,0 +1,22 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5248",
+    "skos:prefLabel": "5248",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string"
+    },
+    "itemPreamble": {
+        "en": "Narcotics"
+    },
+    "question": {
+        "en": "How long have you used? Enter Years here and enter Months below:"
+    }
+}

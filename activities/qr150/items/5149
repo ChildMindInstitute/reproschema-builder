@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5149",
+    "skos:prefLabel": "5149",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Since my weight goes up and down, I have gone on reducing diets more than once."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "False"
+            },
+            {
+                "value": 1,
+                "name": "True"
+            }
+        ]
+    }
+}

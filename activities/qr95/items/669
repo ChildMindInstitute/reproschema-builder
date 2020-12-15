@@ -1,0 +1,42 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "669",
+    "skos:prefLabel": "669",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "After doing something wrong, s/he's able to say sorry and sort it out so that there are no hard feelings."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "A lot worse than average"
+            },
+            {
+                "value": 1,
+                "name": "A bit worse than average"
+            },
+            {
+                "value": 2,
+                "name": "About average"
+            },
+            {
+                "value": 3,
+                "name": "A bit better than average"
+            },
+            {
+                "value": 4,
+                "name": "A lot better than average"
+            }
+        ],
+        "schema:minValue": 0,
+        "schema:maxValue": null
+    }
+}

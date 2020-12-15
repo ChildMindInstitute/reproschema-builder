@@ -1,0 +1,24 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4110",
+    "skos:prefLabel": "4110",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "schema:minValue": null,
+        "schema:maxValue": null
+    },
+    "itemPreamble": {
+        "en": "Over the past four weeks (28 days)……."
+    },
+    "question": {
+        "en": "On how many of these times did you have a sense of having lost control over your eating (at the time that you were eating)?"
+    }
+}

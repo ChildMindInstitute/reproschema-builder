@@ -1,0 +1,51 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4656",
+    "skos:prefLabel": "4656",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "The next 4 questions ask about sexual intercourse."
+    },
+    "question": {
+        "en": "How old were you when you had sexual intercourse for the first time?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " I have never had sexual intercourse"
+            },
+            {
+                "value": 2,
+                "name": " 8 years old or younger"
+            },
+            {
+                "value": 3,
+                "name": " 9 years old"
+            },
+            {
+                "value": 4,
+                "name": " 10 years old"
+            },
+            {
+                "value": 5,
+                "name": " 11 years old"
+            },
+            {
+                "value": 6,
+                "name": " 12 years old"
+            },
+            {
+                "value": 7,
+                "name": " 13 years old or older"
+            }
+        ]
+    }
+}

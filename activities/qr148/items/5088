@@ -1,0 +1,51 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5088",
+    "skos:prefLabel": "5088",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Expected Benefits"
+    },
+    "question": {
+        "en": "Drinking heavily at a social function."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " \"No benefits at all\""
+            },
+            {
+                "value": 2,
+                "name": " \"\""
+            },
+            {
+                "value": 3,
+                "name": " \"\""
+            },
+            {
+                "value": 4,
+                "name": " \"Moderate Benefits\""
+            },
+            {
+                "value": 5,
+                "name": " \"\""
+            },
+            {
+                "value": 6,
+                "name": " \"\""
+            },
+            {
+                "value": 7,
+                "name": " \"Great Benefits\""
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5154",
+    "skos:prefLabel": "5154",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "It is not difficult for me to leave something on my plate."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "False"
+            },
+            {
+                "value": 1,
+                "name": "True"
+            }
+        ]
+    }
+}

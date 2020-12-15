@@ -1,0 +1,161 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr26/qr26_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr26_schema",
+    "skos:prefLabel": "26",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "This questionnaire consists of 21 groups of statements. Please read each group of statements carefully, and then pick out the one statement in each group that best describes the way you have been feeling during the past two weeks, including today. If several statements in the group seem to apply equally well, choose the highest number for that group. Be sure that you do not choose more than one statement for any group."
+    },
+    "ui": {
+        "order": [
+            "3207",
+            "3208",
+            "3209",
+            "3210",
+            "3211",
+            "3212",
+            "3213",
+            "3214",
+            "3215",
+            "3216",
+            "3217",
+            "3218",
+            "3219",
+            "3220",
+            "3221",
+            "3222",
+            "3223",
+            "3224",
+            "3225",
+            "3226"
+        ],
+        "addProperties": [
+            {
+                "variableName": "3207",
+                "isAbout": "3207",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3208",
+                "isAbout": "3208",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3209",
+                "isAbout": "3209",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3210",
+                "isAbout": "3210",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3211",
+                "isAbout": "3211",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3212",
+                "isAbout": "3212",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3213",
+                "isAbout": "3213",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3214",
+                "isAbout": "3214",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3215",
+                "isAbout": "3215",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3216",
+                "isAbout": "3216",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3217",
+                "isAbout": "3217",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3218",
+                "isAbout": "3218",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3219",
+                "isAbout": "3219",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3220",
+                "isAbout": "3220",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3221",
+                "isAbout": "3221",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3222",
+                "isAbout": "3222",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3223",
+                "isAbout": "3223",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3224",
+                "isAbout": "3224",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3225",
+                "isAbout": "3225",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3226",
+                "isAbout": "3226",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

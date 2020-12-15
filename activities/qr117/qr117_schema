@@ -1,0 +1,98 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr117/qr117_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr117_schema",
+    "skos:prefLabel": "117",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Rate each of the following statements on a scale of 1 (“not at all typical of me”) to 5 (“very typical of me”). Please do not leave any items blank."
+    },
+    "ui": {
+        "order": [
+            "5685",
+            "5686",
+            "5687",
+            "5688",
+            "5689",
+            "5690",
+            "5691",
+            "5692",
+            "5693",
+            "5694",
+            "5695"
+        ],
+        "addProperties": [
+            {
+                "variableName": "5685",
+                "isAbout": "5685",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5686",
+                "isAbout": "5686",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5687",
+                "isAbout": "5687",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5688",
+                "isAbout": "5688",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5689",
+                "isAbout": "5689",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5690",
+                "isAbout": "5690",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5691",
+                "isAbout": "5691",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5692",
+                "isAbout": "5692",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5693",
+                "isAbout": "5693",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5694",
+                "isAbout": "5694",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "5695",
+                "isAbout": "5695",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

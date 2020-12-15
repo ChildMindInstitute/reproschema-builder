@@ -1,0 +1,31 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4685",
+    "skos:prefLabel": "4685",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "The next 2 questions ask about bullying. Bullying is when 1 or more students tease, threaten, spread rumors about, hit, shove, or hurt another student over and over again. It is not bullying when 2 students of about the same strength or power argue or fight or tease each other in a friendly way."
+    },
+    "question": {
+        "en": "During the past 12 months, have you ever been bullied on school property?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Yes"
+            },
+            {
+                "value": 2,
+                "name": "No"
+            }
+        ]
+    }
+}

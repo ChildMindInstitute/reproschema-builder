@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "3409",
+    "skos:prefLabel": "3409",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "The idea of going away to camp scares my child"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Never true about me"
+            },
+            {
+                "value": 1,
+                "name": "Rarely true about me"
+            },
+            {
+                "value": 2,
+                "name": "Sometimes true about me"
+            },
+            {
+                "value": 3,
+                "name": "Often true about me"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": 3
+    }
+}

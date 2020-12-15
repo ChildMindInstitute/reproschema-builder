@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "406",
+    "skos:prefLabel": "406",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "I often have the feeling that I cannot handle things very well."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": null,
+                "name": "Strongly Agree, A"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}

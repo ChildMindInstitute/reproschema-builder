@@ -1,0 +1,47 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4628",
+    "skos:prefLabel": "4628",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "The next 4 questions ask about safety."
+    },
+    "question": {
+        "en": "\nWhen you rollerblade or ride a skateboard, how often do you wear a helmet?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " I do not rollerblade or ride a skateboard"
+            },
+            {
+                "value": 2,
+                "name": " Never wear a helmet"
+            },
+            {
+                "value": 3,
+                "name": " Rarely wear a helmet"
+            },
+            {
+                "value": 4,
+                "name": " Sometimes wear a helmet"
+            },
+            {
+                "value": 5,
+                "name": " Most of the time wear a helmet"
+            },
+            {
+                "value": 6,
+                "name": " Always wear a helmet"
+            }
+        ]
+    }
+}

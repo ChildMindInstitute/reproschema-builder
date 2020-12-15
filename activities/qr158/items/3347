@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "3347",
+    "skos:prefLabel": "3347",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Fear of dying"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Not at all"
+            },
+            {
+                "value": 1,
+                "name": "Mildly but it didn't bother me"
+            },
+            {
+                "value": 2,
+                "name": "Moderately-it wasn't pleasant at all times"
+            },
+            {
+                "value": 3,
+                "name": "Severely-it bothered me a lot"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": 3
+    }
+}

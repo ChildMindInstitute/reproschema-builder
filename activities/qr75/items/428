@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "428",
+    "skos:prefLabel": "428",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "I expected to have closer and warmer feelings for my child than I do, and this bothers me."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": null,
+                "name": "Strongly Agree, A"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}

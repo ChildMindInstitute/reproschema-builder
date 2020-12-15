@@ -1,0 +1,41 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "622",
+    "skos:prefLabel": "622",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Section: V. Sameness Behavior Scale \n"
+    },
+    "question": {
+        "en": "Insists on same routine, household, school or work schedule everyday"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Behavior does not occur"
+            },
+            {
+                "value": 1,
+                "name": "Behavior occurs and is a mild problem"
+            },
+            {
+                "value": 2,
+                "name": "Behavior occurs and is a moderate problem"
+            },
+            {
+                "value": 3,
+                "name": "Behavior occurs and is a severe problem"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": 3
+    }
+}

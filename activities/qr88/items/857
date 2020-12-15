@@ -1,0 +1,43 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "857",
+    "skos:prefLabel": "857",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Compared to other children of the same age, how well does this child:"
+    },
+    "question": {
+        "en": "Control anxiety in challenging social situations"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": -3,
+                "name": " Far Below Average,\n-2"
+            },
+            {
+                "value": 0,
+                "name": " Average"
+            },
+            {
+                "value": 1,
+                "name": " Slightly Above Average"
+            },
+            {
+                "value": 2,
+                "name": " Above Average"
+            },
+            {
+                "value": 3,
+                "name": " Far Above Average"
+            }
+        ]
+    }
+}

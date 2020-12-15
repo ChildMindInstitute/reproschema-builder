@@ -1,0 +1,66 @@
+{
+    "@context": {
+        "442": {
+            "@id": "qr60:442",
+            "@type": "@id"
+        },
+        "443": {
+            "@id": "qr60:443",
+            "@type": "@id"
+        },
+        "444": {
+            "@id": "qr60:444",
+            "@type": "@id"
+        },
+        "445": {
+            "@id": "qr60:445",
+            "@type": "@id"
+        },
+        "446": {
+            "@id": "qr60:446",
+            "@type": "@id"
+        },
+        "447": {
+            "@id": "qr60:447",
+            "@type": "@id"
+        },
+        "448": {
+            "@id": "qr60:448",
+            "@type": "@id"
+        },
+        "449": {
+            "@id": "qr60:449",
+            "@type": "@id"
+        },
+        "450": {
+            "@id": "qr60:450",
+            "@type": "@id"
+        },
+        "451": {
+            "@id": "qr60:451",
+            "@type": "@id"
+        },
+        "452": {
+            "@id": "qr60:452",
+            "@type": "@id"
+        },
+        "453": {
+            "@id": "qr60:453",
+            "@type": "@id"
+        },
+        "454": {
+            "@id": "qr60:454",
+            "@type": "@id"
+        },
+        "455": {
+            "@id": "qr60:455",
+            "@type": "@id"
+        },
+        "456": {
+            "@id": "qr60:456",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "qr60": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr60/items/"
+    }
+}

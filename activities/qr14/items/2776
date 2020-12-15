@@ -1,0 +1,49 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2776",
+    "skos:prefLabel": "2776",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "How often does this occur with this child? "
+    },
+    "question": {
+        "en": "Is easily distracted"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "\"Never\""
+            },
+            {
+                "value": 2
+            },
+            {
+                "value": 3,
+                "name": "\"Seldom\""
+            },
+            {
+                "value": 4,
+                "name": "\"Sometimes\""
+            },
+            {
+                "value": 5
+            },
+            {
+                "value": 6,
+                "name": "\"Often\""
+            },
+            {
+                "value": 7,
+                "name": "\"Always\""
+            }
+        ]
+    }
+}

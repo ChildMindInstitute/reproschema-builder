@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4707",
+    "skos:prefLabel": "4707",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "The next 6 questions ask about drinking alcohol. This includes drinking beer, wine, wine coolers, and liquor such as rum, gin, vodka, or whiskey. For these questions, drinking alcohol does not include drinking a few sips of wine for religious purposes."
+    },
+    "question": {
+        "en": "During the past 30 days, how did you usually get the alcohol you drank?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " \"I did not smoke cigarettes during the past 30 days\""
+            },
+            {
+                "value": 2,
+                "name": " \"I bought them in a store such as a convenience store, supermarket, discount store, or gas station\""
+            },
+            {
+                "value": 3,
+                "name": " \"I bought them from a vending machine\""
+            },
+            {
+                "value": 4,
+                "name": " \"I gave someone else money to buy them for me\""
+            },
+            {
+                "value": 5,
+                "name": " \"I borrowed (or bummed) them from someone else\""
+            },
+            {
+                "value": 6,
+                "name": " \"A person 18 years old or older gave them to me\""
+            },
+            {
+                "value": 7,
+                "name": " \"I took them from a store or family member\""
+            },
+            {
+                "value": 8,
+                "name": " \"I got them some other way\""
+            }
+        ]
+    }
+}

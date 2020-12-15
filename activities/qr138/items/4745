@@ -1,0 +1,47 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4745",
+    "skos:prefLabel": "4745",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "The next 5 questions ask about physical activity."
+    },
+    "question": {
+        "en": "In an average week when you are in school, on how many days do you go to physical education (PE) classes?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " 0 days"
+            },
+            {
+                "value": 2,
+                "name": " 1 day"
+            },
+            {
+                "value": 3,
+                "name": " 2 days"
+            },
+            {
+                "value": 4,
+                "name": " 3 days"
+            },
+            {
+                "value": 5,
+                "name": " 4 days"
+            },
+            {
+                "value": 6,
+                "name": " 5 days"
+            }
+        ]
+    }
+}

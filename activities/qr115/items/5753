@@ -1,0 +1,83 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5753",
+    "skos:prefLabel": "5753",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "During the past month, "
+    },
+    "question": {
+        "en": "How many hours of actual sleep did you get at night? (This may be different than the number of hours you spent in bed.)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " 1 hour"
+            },
+            {
+                "value": 2,
+                "name": " 2 hours"
+            },
+            {
+                "value": 3,
+                "name": " 3 hours"
+            },
+            {
+                "value": 4,
+                "name": " 4 hours"
+            },
+            {
+                "value": 5,
+                "name": " 5 hours"
+            },
+            {
+                "value": 6,
+                "name": " 6 hours"
+            },
+            {
+                "value": 7,
+                "name": " 7 hours"
+            },
+            {
+                "value": 8,
+                "name": " 8 hours"
+            },
+            {
+                "value": 9,
+                "name": " 9 hours"
+            },
+            {
+                "value": 10,
+                "name": " 10 hours"
+            },
+            {
+                "value": 11,
+                "name": " 11 hours"
+            },
+            {
+                "value": 12,
+                "name": " 12 hours"
+            },
+            {
+                "value": 13,
+                "name": " 13 hours"
+            },
+            {
+                "value": 14,
+                "name": " 14 hours"
+            },
+            {
+                "value": 15,
+                "name": " 15 hours"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "@context": {
+        "5675": {
+            "@id": "qr116:5675",
+            "@type": "@id"
+        },
+        "5676": {
+            "@id": "qr116:5676",
+            "@type": "@id"
+        },
+        "5677": {
+            "@id": "qr116:5677",
+            "@type": "@id"
+        },
+        "5678": {
+            "@id": "qr116:5678",
+            "@type": "@id"
+        },
+        "5679": {
+            "@id": "qr116:5679",
+            "@type": "@id"
+        },
+        "5680": {
+            "@id": "qr116:5680",
+            "@type": "@id"
+        },
+        "5681": {
+            "@id": "qr116:5681",
+            "@type": "@id"
+        },
+        "5682": {
+            "@id": "qr116:5682",
+            "@type": "@id"
+        },
+        "5683": {
+            "@id": "qr116:5683",
+            "@type": "@id"
+        },
+        "5684": {
+            "@id": "qr116:5684",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "qr116": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr116/items/"
+    }
+}

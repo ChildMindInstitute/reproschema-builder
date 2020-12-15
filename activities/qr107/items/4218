@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4218",
+    "skos:prefLabel": "4218",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Sexual Interest"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Normal not increased"
+            },
+            {
+                "value": 1,
+                "name": "Mildly or possibly increased"
+            },
+            {
+                "value": 2,
+                "name": "Definite subjective increase"
+            },
+            {
+                "value": 3,
+                "name": "Spontaneous sexual content elaborates on sexual matters hypersexual"
+            },
+            {
+                "value": 4,
+                "name": "Overt sexual acts"
+            }
+        ]
+    }
+}

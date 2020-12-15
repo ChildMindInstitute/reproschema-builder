@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5182",
+    "skos:prefLabel": "5182",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "How likely are you to shop for low calorie foods?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "unlikely"
+            },
+            {
+                "value": 2,
+                "name": "slightly unlikely"
+            },
+            {
+                "value": 3,
+                "name": "moderately likely"
+            },
+            {
+                "value": 4,
+                "name": "very likely"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "860",
+    "skos:prefLabel": "860",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Compared to other children of the same age, most of the time, how well does this child:"
+    },
+    "question": {
+        "en": "Avoid or control ‘arguing or yelling’ at school"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": -3,
+                "name": " Far Below Average,\n-2"
+            },
+            {
+                "value": 0,
+                "name": " Average"
+            },
+            {
+                "value": 1,
+                "name": " Slightly Above Average"
+            },
+            {
+                "value": 2,
+                "name": " Above Average"
+            },
+            {
+                "value": 3,
+                "name": " Far Above Average"
+            }
+        ]
+    }
+}

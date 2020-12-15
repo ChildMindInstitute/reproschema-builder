@@ -1,0 +1,30 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "679",
+    "skos:prefLabel": "679",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Does she/he ever have things that she/he seems to have to do in a very particular way or order or rituals that she/he insists that you go through?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": " No"
+            },
+            {
+                "value": 1,
+                "name": " Yes"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}

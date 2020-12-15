@@ -1,0 +1,73 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4874",
+    "skos:prefLabel": "4874",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "radio",
+        "choices": [
+            {
+                "value": 1,
+                "name": " \"earthquake\""
+            },
+            {
+                "value": 2,
+                "name": " \"other disaster (ex. fire or flood)\""
+            },
+            {
+                "value": 3,
+                "name": " \"serious car accident\""
+            },
+            {
+                "value": 4,
+                "name": " \"war\""
+            },
+            {
+                "value": 5,
+                "name": " \"hit, punched or kicked\""
+            },
+            {
+                "value": 6,
+                "name": " \"seeing a family member being hit, punched or kicked very hard at home\""
+            },
+            {
+                "value": 7,
+                "name": " \"being beaten up, shot at or threatened to be hurt badly\""
+            },
+            {
+                "value": 8,
+                "name": " \"seeing someone beaten up, shot or killed\""
+            },
+            {
+                "value": 9,
+                "name": " \"seeing dead body (not funeral)\""
+            },
+            {
+                "value": 10,
+                "name": " \"having an adult or someone much older touch your child's private sexual body parts\""
+            },
+            {
+                "value": 11,
+                "name": " \"hearing about the violent death or serious injury of loved one\""
+            },
+            {
+                "value": 12,
+                "name": " \"painful, scary medical treatment\""
+            },
+            {
+                "value": 13,
+                "name": " \"other really scary, dangerous, or violent situation\""
+            }
+        ]
+    },
+    "question": {
+        "en": "If you answered \"YES\" to only ONE thing in the above list of questions, pick the number from the list. If you answered \"YES\" to MORE THAN ONE THING, pick the number of the thing that BOTHERS YOUR CHILD THE MOST NOW:"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "407",
+    "skos:prefLabel": "407",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "I find myself giving up more of my life to meet my children's needs than I ever expected."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": null,
+                "name": "Strongly Agree, A"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}

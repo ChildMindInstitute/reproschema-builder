@@ -1,0 +1,175 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr158/qr158_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr158_schema",
+    "skos:prefLabel": "158",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": ""
+    },
+    "ui": {
+        "order": [
+            "3331",
+            "3332",
+            "3333",
+            "3334",
+            "3335",
+            "3336",
+            "3337",
+            "3338",
+            "3339",
+            "3340",
+            "3341",
+            "3342",
+            "3343",
+            "3344",
+            "3345",
+            "3346",
+            "3347",
+            "3348",
+            "3349",
+            "3350",
+            "3351",
+            "3352"
+        ],
+        "addProperties": [
+            {
+                "variableName": "3331",
+                "isAbout": "3331",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3332",
+                "isAbout": "3332",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3333",
+                "isAbout": "3333",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3334",
+                "isAbout": "3334",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3335",
+                "isAbout": "3335",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3336",
+                "isAbout": "3336",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3337",
+                "isAbout": "3337",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3338",
+                "isAbout": "3338",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3339",
+                "isAbout": "3339",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3340",
+                "isAbout": "3340",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3341",
+                "isAbout": "3341",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3342",
+                "isAbout": "3342",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3343",
+                "isAbout": "3343",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3344",
+                "isAbout": "3344",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3345",
+                "isAbout": "3345",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3346",
+                "isAbout": "3346",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3347",
+                "isAbout": "3347",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3348",
+                "isAbout": "3348",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3349",
+                "isAbout": "3349",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3350",
+                "isAbout": "3350",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3351",
+                "isAbout": "3351",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "3352",
+                "isAbout": "3352",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

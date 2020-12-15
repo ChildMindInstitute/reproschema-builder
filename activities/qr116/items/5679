@@ -1,0 +1,32 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5679",
+    "skos:prefLabel": "5679",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "When I’m faced with a stressful situation, I make myself think about it in a way that helps me stay calm."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Strongly Disagree"
+            },
+            {
+                "value": 4,
+                "name": "Neutral"
+            },
+            {
+                "value": 7,
+                "name": "Strongly Agree"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5826",
+    "skos:prefLabel": "5826",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string"
+    },
+    "itemPreamble": {
+        "en": "Childhood Traumatic Events Scale"
+    },
+    "question": {
+        "en": "If yes, how old were you?"
+    }
+}

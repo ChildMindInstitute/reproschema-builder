@@ -1,0 +1,54 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1556",
+    "skos:prefLabel": "1556",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "When did you FIRST try crack?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "11 years old or less"
+            },
+            {
+                "value": 2,
+                "name": "12 years old"
+            },
+            {
+                "value": 3,
+                "name": "13 years old"
+            },
+            {
+                "value": 4,
+                "name": "14 years old"
+            },
+            {
+                "value": 5,
+                "name": "15 years old"
+            },
+            {
+                "value": 6,
+                "name": "16 years old"
+            },
+            {
+                "value": 7,
+                "name": "17 years old"
+            },
+            {
+                "value": 8,
+                "name": "18 years old or more"
+            }
+        ],
+        "schema:minValue": 1,
+        "schema:maxValue": null
+    }
+}

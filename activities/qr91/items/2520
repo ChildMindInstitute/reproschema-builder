@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2520",
+    "skos:prefLabel": "2520",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "How interesting are most of your courses to you?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " Very interesting and stimulating"
+            },
+            {
+                "value": 2,
+                "name": " Quite interesting"
+            },
+            {
+                "value": 3,
+                "name": " Fairly interesting"
+            },
+            {
+                "value": 4,
+                "name": " Slightly boring"
+            },
+            {
+                "value": 5,
+                "name": " very boring"
+            }
+        ]
+    }
+}

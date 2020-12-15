@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5177",
+    "skos:prefLabel": "5177",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "How often do you feel hungry?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "only at mealtimes"
+            },
+            {
+                "value": 2,
+                "name": "sometimes between meals"
+            },
+            {
+                "value": 3,
+                "name": "often between meals"
+            },
+            {
+                "value": 4,
+                "name": "almost always"
+            }
+        ]
+    }
+}

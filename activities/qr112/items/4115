@@ -1,0 +1,51 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4115",
+    "skos:prefLabel": "4115",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Please circle the appropriate number. Please note that for these questions the term “binge eating” means eating what others would regard as an unusually large amount of food for the circumstances, accompanied by a sense of having lost control over eating"
+    },
+    "question": {
+        "en": "Over the past 28 days, on how many days have you eaten in secret (ie, furtively)?......Do not count episodes of binge eating"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "No days"
+            },
+            {
+                "value": 1,
+                "name": "1 to 5 days"
+            },
+            {
+                "value": 2,
+                "name": "6 to 12 days"
+            },
+            {
+                "value": 3,
+                "name": "13 to 15 days"
+            },
+            {
+                "value": 4,
+                "name": "16 to 22 days"
+            },
+            {
+                "value": 5,
+                "name": "23 to 27 days"
+            },
+            {
+                "value": 6,
+                "name": "Every day."
+            }
+        ]
+    }
+}

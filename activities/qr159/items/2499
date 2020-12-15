@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2499",
+    "skos:prefLabel": "2499",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Concentrates too much on parts of things rather than seeing the whole picture. For example, spins the wheels of a toy car but doesn't play with it as a car, or plays with doll's hair but not with the whole doll."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Not true"
+            },
+            {
+                "value": 2,
+                "name": "Sometimes true"
+            },
+            {
+                "value": 3,
+                "name": "Often true"
+            },
+            {
+                "value": 4,
+                "name": "Almost always true"
+            }
+        ]
+    }
+}

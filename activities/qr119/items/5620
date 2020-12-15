@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5620",
+    "skos:prefLabel": "5620",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "My daydreams often contain depressing events which upset me."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Very true or strongly characteristic of me"
+            },
+            {
+                "value": 2,
+                "name": "Moderately true or characteristic of me"
+            },
+            {
+                "value": 3,
+                "name": "Neither particularly characteristic nor uncharacteristic of me"
+            },
+            {
+                "value": 4,
+                "name": "Moderately untrue or uncharacteristic of me"
+            },
+            {
+                "value": 5,
+                "name": "Definitely untrue or strongly uncharacteristic of me."
+            }
+        ]
+    }
+}

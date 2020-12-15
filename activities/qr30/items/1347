@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1347",
+    "skos:prefLabel": "1347",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "From this group of three sentences, pick one sentence that describes you best for the past two weeks."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": " I do most things OK"
+            },
+            {
+                "value": 1,
+                "name": " I do many things wrong"
+            },
+            {
+                "value": 2,
+                "name": " I do everything wrong"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": 2
+    }
+}

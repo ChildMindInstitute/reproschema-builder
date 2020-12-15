@@ -1,0 +1,112 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr170/qr170_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr170_schema",
+    "skos:prefLabel": "170",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "How often have you been bothered by each of the following symptoms during the\npast two weeks? For each symptom put an “X” in the box beneath the answer that best\ndescribes how you have been feeling."
+    },
+    "ui": {
+        "order": [
+            "4356",
+            "4357",
+            "4358",
+            "4359",
+            "4360",
+            "4361",
+            "4362",
+            "4363",
+            "4364",
+            "4365",
+            "4366",
+            "4367",
+            "4368"
+        ],
+        "addProperties": [
+            {
+                "variableName": "4356",
+                "isAbout": "4356",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4357",
+                "isAbout": "4357",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4358",
+                "isAbout": "4358",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4359",
+                "isAbout": "4359",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4360",
+                "isAbout": "4360",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4361",
+                "isAbout": "4361",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4362",
+                "isAbout": "4362",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4363",
+                "isAbout": "4363",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4364",
+                "isAbout": "4364",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4365",
+                "isAbout": "4365",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4366",
+                "isAbout": "4366",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4367",
+                "isAbout": "4367",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4368",
+                "isAbout": "4368",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

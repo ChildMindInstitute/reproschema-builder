@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2530",
+    "skos:prefLabel": "2530",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "What percentage of the students in your grade at your school have smoked any cigarettes this year? Would you say.."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " 0 to 20% (none or almost none)"
+            },
+            {
+                "value": 2,
+                "name": " 21 to 40% (less than half)"
+            },
+            {
+                "value": 3,
+                "name": " 41 to 60% (about half)"
+            },
+            {
+                "value": 4,
+                "name": " 61 to 80% (more than half)"
+            },
+            {
+                "value": 5,
+                "name": " 81 to 100% (almost all or all)"
+            }
+        ]
+    }
+}

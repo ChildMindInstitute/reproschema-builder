@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2676",
+    "skos:prefLabel": "2676",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Does not follow through on instructions and fails to finish schoolwork, chores, or duties in the workplace (not due to oppositional behavior or failure to understand instructions)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Not at all"
+            },
+            {
+                "value": 1,
+                "name": "Just a little"
+            },
+            {
+                "value": 2,
+                "name": "Pretty much"
+            },
+            {
+                "value": 3,
+                "name": "Very much"
+            }
+        ]
+    }
+}

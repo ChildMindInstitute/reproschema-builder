@@ -1,0 +1,37 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "634",
+    "skos:prefLabel": "634",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": " "
+    },
+    "question": {
+        "en": "Rather solitary, prefers to play alone (for 11-17 year olds: Would rather be alone than with other youth)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Not True"
+            },
+            {
+                "value": 1,
+                "name": "Somewhat True"
+            },
+            {
+                "value": 2,
+                "name": "Certainly True"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": 2
+    }
+}

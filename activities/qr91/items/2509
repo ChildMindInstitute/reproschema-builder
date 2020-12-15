@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2509",
+    "skos:prefLabel": "2509",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "In my school, students have lots of chances to help decide things like class activities and rules."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " NO!"
+            },
+            {
+                "value": 2,
+                "name": " no"
+            },
+            {
+                "value": 3,
+                "name": " yes"
+            },
+            {
+                "value": 4,
+                "name": " YES!"
+            }
+        ],
+        "schema:minValue": 1,
+        "schema:maxValue": null
+    }
+}

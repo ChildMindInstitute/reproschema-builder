@@ -1,0 +1,54 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4071",
+    "skos:prefLabel": "4071",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "What type of residence is this?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "\"Apartment\""
+            },
+            {
+                "value": 2,
+                "name": "\"Condo/townhouse\""
+            },
+            {
+                "value": 3,
+                "name": "\"Semi-detached house\""
+            },
+            {
+                "value": 4,
+                "name": "\"Single Family House\""
+            },
+            {
+                "value": 5,
+                "name": "\"Multi Family House\""
+            },
+            {
+                "value": 6,
+                "name": "\"Low Income Housing\""
+            },
+            {
+                "value": 7,
+                "name": "\"Mini Home/Trailer\""
+            },
+            {
+                "value": 8,
+                "name": "\"Choose not to disclose\""
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}

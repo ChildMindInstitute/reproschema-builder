@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4781",
+    "skos:prefLabel": "4781",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "I am able to pace myself so as to get things done on time."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Agree strongly"
+            },
+            {
+                "value": 2,
+                "name": "Agree some"
+            },
+            {
+                "value": 3,
+                "name": "Disagree some"
+            },
+            {
+                "value": 4,
+                "name": "Disagree strongly"
+            }
+        ]
+    }
+}

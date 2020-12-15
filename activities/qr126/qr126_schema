@@ -1,0 +1,63 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr126/qr126_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr126_schema",
+    "skos:prefLabel": "126",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "How do you see yourself in terms of masculinity and femininity? \"Masculine\" refers to men or women who feel, look and act like \"real\" men or in a manner which most people think that men should be like. \"Feminine\" is the opposite of masculine and refers to what usually is expected from women. People, men or women, who look and behave like \"real\" women are called feminine. Indicate on a scale from \"not at all\" to \"extremely\" how masculine or feminine you think you are."
+    },
+    "ui": {
+        "order": [
+            "4544",
+            "4545",
+            "4546",
+            "4547",
+            "4548",
+            "4549"
+        ],
+        "addProperties": [
+            {
+                "variableName": "4544",
+                "isAbout": "4544",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4545",
+                "isAbout": "4545",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4546",
+                "isAbout": "4546",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4547",
+                "isAbout": "4547",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4548",
+                "isAbout": "4548",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4549",
+                "isAbout": "4549",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2376",
+    "skos:prefLabel": "2376",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "I get in a state of tension or turmoil as I think over my recent concerns and interests"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Not at all"
+            },
+            {
+                "value": 2,
+                "name": "Somewhat"
+            },
+            {
+                "value": 3,
+                "name": "Moderately so"
+            },
+            {
+                "value": 4,
+                "name": "Very much so"
+            }
+        ]
+    }
+}

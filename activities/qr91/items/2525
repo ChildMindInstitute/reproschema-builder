@@ -1,0 +1,56 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2525",
+    "skos:prefLabel": "2525",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Think about the school you (currently/last) (attend/attended). What grade (are/were) you in?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " Fourth"
+            },
+            {
+                "value": 2,
+                "name": " Fifth"
+            },
+            {
+                "value": 3,
+                "name": " Sixth"
+            },
+            {
+                "value": 4,
+                "name": " Seventh"
+            },
+            {
+                "value": 5,
+                "name": " Eighth"
+            },
+            {
+                "value": 6,
+                "name": " Ninth"
+            },
+            {
+                "value": 7,
+                "name": " Tenth"
+            },
+            {
+                "value": 8,
+                "name": " Eleventh"
+            },
+            {
+                "value": 9,
+                "name": " Twelfth"
+            }
+        ]
+    }
+}

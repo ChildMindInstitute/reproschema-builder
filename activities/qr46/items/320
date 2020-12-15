@@ -1,0 +1,21 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "320",
+    "skos:prefLabel": "320",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "schema:minValue": null,
+        "schema:maxValue": null
+    },
+    "question": {
+        "en": "In the past 30 days, not counting the days that he/she was totally unable, for how many days did he/she cut back or reduce his/her usual activities or work because of any health condition?"
+    }
+}

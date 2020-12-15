@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5139",
+    "skos:prefLabel": "5139",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "When I smell a sizzling steak or see a juicy piece of meat, I find it very difficult to keep from eating, even if I have just finished a meal."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "False"
+            },
+            {
+                "value": 1,
+                "name": "True"
+            }
+        ]
+    }
+}

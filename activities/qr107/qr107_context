@@ -1,0 +1,50 @@
+{
+    "@context": {
+        "4216": {
+            "@id": "qr107:4216",
+            "@type": "@id"
+        },
+        "4217": {
+            "@id": "qr107:4217",
+            "@type": "@id"
+        },
+        "4218": {
+            "@id": "qr107:4218",
+            "@type": "@id"
+        },
+        "4219": {
+            "@id": "qr107:4219",
+            "@type": "@id"
+        },
+        "4220": {
+            "@id": "qr107:4220",
+            "@type": "@id"
+        },
+        "4221": {
+            "@id": "qr107:4221",
+            "@type": "@id"
+        },
+        "4222": {
+            "@id": "qr107:4222",
+            "@type": "@id"
+        },
+        "4223": {
+            "@id": "qr107:4223",
+            "@type": "@id"
+        },
+        "4224": {
+            "@id": "qr107:4224",
+            "@type": "@id"
+        },
+        "4225": {
+            "@id": "qr107:4225",
+            "@type": "@id"
+        },
+        "4226": {
+            "@id": "qr107:4226",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "qr107": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr107/items/"
+    }
+}

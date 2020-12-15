@@ -1,0 +1,30 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "680",
+    "skos:prefLabel": "680",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Does her/his facial expression usually seem appropriate to the particular situation, as far as you can tell?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": " No"
+            },
+            {
+                "value": 1,
+                "name": " Yes"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}

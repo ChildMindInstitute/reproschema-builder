@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4875",
+    "skos:prefLabel": "4875",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "About how long ago did this bad thing happen to your child?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " 1 month ago or less"
+            },
+            {
+                "value": 2,
+                "name": " 2 - 6 months ago"
+            },
+            {
+                "value": 3,
+                "name": " 7 - 12 months ago"
+            },
+            {
+                "value": 4,
+                "name": " 1 -3 years ago"
+            },
+            {
+                "value": 5,
+                "name": " 3 year ago or more"
+            }
+        ]
+    }
+}

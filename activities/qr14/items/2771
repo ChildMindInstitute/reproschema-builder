@@ -1,0 +1,31 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2771",
+    "skos:prefLabel": "2771",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Is this a problem for you?"
+    },
+    "question": {
+        "en": "Verbally fights with brothers and sisters"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "YES"
+            },
+            {
+                "value": 1,
+                "name": "NO"
+            }
+        ]
+    }
+}

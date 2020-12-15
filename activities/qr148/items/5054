@@ -1,0 +1,51 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5054",
+    "skos:prefLabel": "5054",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Risk Perception"
+    },
+    "question": {
+        "en": "Admitting that your tastes are different from those of a friend."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " Not at all Risky"
+            },
+            {
+                "value": 2,
+                "name": " Slightly Risky"
+            },
+            {
+                "value": 3,
+                "name": " Somewhat Risky"
+            },
+            {
+                "value": 4,
+                "name": " Moderately Risky"
+            },
+            {
+                "value": 5,
+                "name": " Risky"
+            },
+            {
+                "value": 6,
+                "name": "Very Risky"
+            },
+            {
+                "value": 7,
+                "name": " Extremely Risky"
+            }
+        ]
+    }
+}

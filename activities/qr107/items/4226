@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4226",
+    "skos:prefLabel": "4226",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Insight"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Present, admits illness agrees with need for treatment 1",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/Possibly ill.png"
+            },
+            {
+                "value": 2,
+                "name": "Admits behavior change but denies illness 3",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/Admits possible change in behavior but denies illness.png"
+            },
+            {
+                "value": 4,
+                "name": "Denies any behavior change"
+            }
+        ]
+    }
+}

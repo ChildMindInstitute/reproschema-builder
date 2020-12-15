@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4185",
+    "skos:prefLabel": "4185",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "My child takes more than 30 minutes to finish a meal"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "never"
+            },
+            {
+                "value": 2,
+                "name": "rarely"
+            },
+            {
+                "value": 3,
+                "name": "sometimes"
+            },
+            {
+                "value": 4,
+                "name": "often"
+            },
+            {
+                "value": 5,
+                "name": "always"
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "5587",
+    "skos:prefLabel": "5587",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string"
+    },
+    "question": {
+        "en": "In the past 2 months, on how many days did you use drugs for nonmedical purposes (including marijuana, amphetamines, and other drugs except alcohol and nicotine)?(OASR_127)"
+    }
+}

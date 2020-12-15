@@ -1,0 +1,43 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4896",
+    "skos:prefLabel": "4896",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Here is a list of problems children sometimes have after very stressful experiences. Please think about your child's stressful experience that you wrote about in Question 14. Then, read each problem on the list carefully. SELECT one of the number (0, 1, 2, 3, 4, or 5) that tells how often the problem has happened to your child in the past month. Note: If you are unsure about how often your child has experienced a particular problem, then try to make your best estimation. Only circle \"Don't Know\" if you absolutely cannot give an answer. PLEASE BE SURE TO ANSWER ALL QUESTIONS"
+    },
+    "question": {
+        "en": "My child feels alone inside and not close to other people."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": " None"
+            },
+            {
+                "value": 1,
+                "name": " Little (Two times a month)"
+            },
+            {
+                "value": 2,
+                "name": " Some (1-2 times a week)"
+            },
+            {
+                "value": 3,
+                "name": " Much (2-3 times each week)"
+            },
+            {
+                "value": 4,
+                "name": " Most (Almost every day)"
+            }
+        ]
+    }
+}

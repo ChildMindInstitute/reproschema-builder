@@ -1,0 +1,51 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4666",
+    "skos:prefLabel": "4666",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "The next 5 questions ask about physical activity."
+    },
+    "question": {
+        "en": "On an average school day, how many hours do you play video or computer games or use a computer for something that is not school work? (Include activities such as Xbox, PlayStation, Nintendo DS, iPod touch, Facebook, and the Internet.)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " I do not play video or computer games or use a computer for something that is not school work"
+            },
+            {
+                "value": 2,
+                "name": " Less than 1 hour per day"
+            },
+            {
+                "value": 3,
+                "name": " 1 hour per day"
+            },
+            {
+                "value": 4,
+                "name": " 2 hours per day"
+            },
+            {
+                "value": 5,
+                "name": " 3 hours per day"
+            },
+            {
+                "value": 6,
+                "name": " 4 hours per day"
+            },
+            {
+                "value": 7,
+                "name": " 5 or more hours per day"
+            }
+        ]
+    }
+}
