@@ -17,7 +17,23 @@
         "choices": [
             {
                 "value": 1,
-                "name": "None\n2"
+                "name": "None"
+            },
+            {
+                "value": 2,
+                "name": "1 time last week"
+            },
+            {
+                "value": 3,
+                "name": "2 or 3 times last week"
+            },
+            {
+                "value": 4,
+                "name": "4 or 5 times last week"
+            },
+            {
+                "value": 5,
+                "name": "6 or 7 times last week"
             }
         ],
         "schema:minValue": 1,

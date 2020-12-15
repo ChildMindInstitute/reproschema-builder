@@ -430,9 +430,11 @@ function processRow(form, data){
         else if (schemaMap[current_key] === 'choices' && data[current_key] !== '') {
 
             // split string wrt '|' to get each choice
-            let c = data[current_key].split(',');
+            let c = data[current_key].split(/, |,\n|,|\n|; (?=\d)/gm);
+            console.log("REGEXP " + c)
             // split each choice wrt ',' to get name and value
             c.forEach(ch => { // ch = { value, name}
+                console.log("FOREACH " + ch)
                 let choiceObj = {};
                 let cs = ch.split('=');
                 // create name and value pair + image link for each choice option
