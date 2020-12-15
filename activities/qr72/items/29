@@ -17,13 +17,7 @@
         "choices": [
             {
                 "value": 1,
-                "name": "\"Sat down (talking"
-            },
-            {
-                "value": null
-            },
-            {
-                "value": null
+                "name": "\"Sat down (talking, reading, doing schoolwork)\""
             },
             {
                 "value": 2,
