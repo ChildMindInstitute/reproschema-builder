@@ -37,6 +37,6 @@
             }
         ],
         "schema:minValue": 5,
-        "schema:maxValue": null
+        "schema:maxValue": 1
     }
 }
