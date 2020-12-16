@@ -1,0 +1,671 @@
+Variable / Field Name,Form Name,Section Header,,Item Header,,Field Label,"Choices, Calculations, OR Slider Labels",Field Type,,,Text Validation Min,Text Validation Max,,,Form Display Name
+84,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,How many hours of sleep does your child get on most nights?,"1=9-11 hours, 2=8-9 hours, 3=7-8 hours, 4=5-7 hours, 5=less than 5 hours",1,1,1,5,oo,,5,Sleep Disturbance Scale for Children
+85,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,How long after going to bed does your child usually fall asleep?,"1=less than 15 min, 2=15-30 min, 3=30-45 min, 4=45-60 min, 5=more than 60 min",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+86,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child goes to bed reluctantly,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+87,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child has difficulty getting to sleep at night,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+88,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child feels anxious or afraid when falling asleep,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+89,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child startles or jerks parts of the body while falling asleep,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+90,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child shows repetitive actions such as rocking or head banging while falling asleep,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+91,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child experiences vivid dream-like scenes while falling asleep,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+92,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child sweats excessively while falling asleep,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+93,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child wakes up more than twice per night,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+94,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,"After waking up in the night, the child has difficulty to fall asleep again","1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+95,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child has frequent twitching or jerking of legs while asleep or often changes position during the night or kicks the covers off the bed,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+96,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child has difficulty in breathing during the night,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+97,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child gasps for breath or is unable to breathe during sleep,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+98,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child snores,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+99,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child sweats excessively during the night,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+100,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,You have observed the child sleepwalking,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+101,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,You have observed the child talking in his/her sleep,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+102,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child grinds teeth during sleep,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+103,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,"The child wakes from sleep screaming or confused so that you cannot seem to get through to him/her, but has no memory of these events the next morning","1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+104,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child has nightmares which he/she doesn’t remember the next day,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+105,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child is unusually difficult to wake up in the morning,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+106,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child awakes in the morning feeling tired,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+107,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child feels unable to move when waking up in the morning,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+108,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child experiences daytime somnolence,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 to 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+109,qr94,"INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by circling or striking the number 1 to 5. Thank you very much for your help.
+","INSTRUCTIONS: This questionnaire will allow to your doctor to have a better understanding of the sleep-wake rhythm of your child and of any problems in his/her sleep behavior. Try to answer every question; in answering, consider each question as pertaining to the past 6 months of the child’s life. Please answer the questions by selecting the number 1 to 5.",,,The child falls asleep suddenly in inappropriate situations,"1=Never, 2=Occasionally (once or twice per month or less), 3=Sometimes (once or twice per week), 4=Often (3 or 5 times per week), 5=Always (daily)",1,1,1,oo,5,,5,Sleep Disturbance Scale for Children
+1,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Skipping,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+2,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Rowing/canoeing,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+3,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",In-line skating,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+4,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Tag,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+5,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Walking for exercise,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+6,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Bicycling,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+7,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Jogging or running,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+8,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Aerobics,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+9,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Swimming,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+10,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)","Baseball, softball","1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+11,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Dance,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+12,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Football,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+13,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Badminton,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+14,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Skateboarding,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+15,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Soccer,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+16,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Street hockey,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+17,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Volleyball,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+18,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Floor hockey,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+19,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Basketball,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+20,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Ice skating,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+21,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Cross-country skiing,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+22,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Ice hockey/ringette,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+23,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Name of other physical activity,,4,3,1,n/a,n/a,,,Physical Activity Questionnaire for Adolescents 
+24,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Frequency of other physical activity,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+25,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Name of other physical activity,,4,3,N/A,n/a,n/a,,,Physical Activity Questionnaire for Adolescents 
+26,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)","Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Select only one of the options.)",Frequency of other physical activity,"1=""No"", 2=""1-2"", 3=""3-4"", 4=""5-6"", 5=""7 times or more""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+27,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ",,,"In the last 7 days, during your physical education (PE) classes, how often were you very active (playing hard, running, jumping, throwing)? (Check one only.)","1=""I don't do PE"", 2=""Hardly ever"", 3=""Sometimes"", 4=""Quite often"", 5=""Always""",1,1,1,2,5,,,Physical Activity Questionnaire for Adolescents 
+28,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ",,,"In the last 7 days, what did you do most of the time at recess? (Check one only.) ","1=""Sat down (talking, reading, doing schoolwork)"",
+2=""Stood around or walked around"",
+3=""Ran or played a little bit"",
+4=""Ran around and played quite a bit"",
+5=""Ran and played hard most of the time""",1,1,1,n/a,n/a,,,Physical Activity Questionnaire for Adolescents 
+29,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ",,,"In the last 7 days, what did you normally do at lunch (besides eating lunch)? (Check one only.) ","1=""Sat down (talking, reading, doing schoolwork)"",
+2=""Stood around or walked around"",
+3=""Ran or played a little bit"",
+4=""Ran around and played quite a bit"",
+5=""Ran and played hard most of the time""",1,1,1,n/a,n/a,,,Physical Activity Questionnaire for Adolescents 
+30,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ",,,"In the last 7 days, on how many days right after school, did you do sports, dance, or play games in which you were very active? (Check one only.) ","1=None,
+2=1 time last week,
+3=2 or 3 times last week,
+4=4 times last week,
+5=5 times last week",1,1,1,1,oo,,,Physical Activity Questionnaire for Adolescents 
+31,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ",,,"In the last 7 days, on how many evenings did you do sports, dance, or play games in which you were very active? (Check one only.)","1=None
+2=1 time last week
+3=2 or 3 times last week
+4=4 or 5 times last week
+5=6 or 7 times last week",1,1,1,1,oo,,,Physical Activity Questionnaire for Adolescents 
+32,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ",,,"On the last weekend, how many times did you do sports, dance, or play games in which you were very active? (Check one only.) ","1=None,
+2=1 time,
+3=2 or 3 times,
+4=4 or 5 times,
+5=6 or more times",1,1,1,1,oo,,,Physical Activity Questionnaire for Adolescents 
+33,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ",,,Which one of the following describes you best for the last 7 days?  Read all 5 statements before deciding on the one answer that describes you.,"1= ""All or most of my free time was spent doing things that involve little physical effort"",
+2=""I sometimes (1-2 times last week) did physical things in my free time (e.g. played sports, went running, swimming, bike riding, did aerobics)"",
+3=""I often (3-4 times last week) did physical things in my free time"",
+4=""I quite often (5-6 times last week) did physical things in my free time"",
+5=""I very often (7 or more times last week) did physical things in my free time""",1,1,1,oo,oo,,,Physical Activity Questionnaire for Adolescents 
+34,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Mark how often you did physical activity (like playing sports, games, doing dance, or any other physical activity) for each day last week.","Select how often you did physical activity (like playing sports, games, doing dance, or any other physical activity) for each day last week.",Monday,"1=None, 2=Little Bit, 3=Medium, 4=Often, 5=Very Often",1,1,1,1,oo,,,Physical Activity Questionnaire for Adolescents 
+35,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Mark how often you did physical activity (like playing sports, games, doing dance, or any other physical activity) for each day last week.","Select how often you did physical activity (like playing sports, games, doing dance, or any other physical activity) for each day last week.",Tuesday,"1=None, 2=Little Bit, 3=Medium, 4=Often, 5=Very Often",1,1,1,1,oo,,,Physical Activity Questionnaire for Adolescents 
+36,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Mark how often you did physical activity (like playing sports, games, doing dance, or any other physical activity) for each day last week.","Select how often you did physical activity (like playing sports, games, doing dance, or any other physical activity) for each day last week.",Wednesday,"1=None, 2=Little Bit, 3=Medium, 4=Often, 5=Very Often",1,1,1,1,oo,,,Physical Activity Questionnaire for Adolescents 
+37,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Mark how often you did physical activity (like playing sports, games, doing dance, or any other physical activity) for each day last week.","Select how often you did physical activity (like playing sports, games, doing dance, or any other physical activity) for each day last week.",Thursday,"1=None, 2=Little Bit, 3=Medium, 4=Often, 5=Very Often",1,1,1,1,oo,,,Physical Activity Questionnaire for Adolescents 
+38,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Mark how often you did physical activity (like playing sports, games, doing dance, or any other physical activity) for each day last week.","Select how often you did physical activity (like playing sports, games, doing dance, or any other physical activity) for each day last week.",Friday,"1=None, 2=Little Bit, 3=Medium, 4=Often, 5=Very Often",1,1,1,1,oo,,,Physical Activity Questionnaire for Adolescents 
+39,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Mark how often you did physical activity (like playing sports, games, doing dance, or any other physical activity) for each day last week.","Select how often you did physical activity (like playing sports, games, doing dance, or any other physical activity) for each day last week.",Saturday,"1=None, 2=Little Bit, 3=Medium, 4=Often, 5=Very Often",1,1,1,1,oo,,,Physical Activity Questionnaire for Adolescents 
+40,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","Mark how often you did physical activity (like playing sports, games, doing dance, or any other physical activity) for each day last week.","Select how often you did physical activity (like playing sports, games, doing dance, or any other physical activity) for each day last week.",Sunday,"1=None, 2=Little Bit, 3=Medium, 4=Often, 5=Very Often",1,1,1,1,oo,,,Physical Activity Questionnaire for Adolescents 
+41,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ",,,"Were you sick last week, or did anything prevent you from doing your normal physical activities? (Check one.)","0=No, 1=Yes",1,2,1,n/a,n/a,,,Physical Activity Questionnaire for Adolescents 
+42,qr72,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers — this is not a test.
+2. Please answer all the questions as honestly and accurately as you can — this is very
+important. ",,,"If Yes, what prevented you?",,4,3,N/A,n/a,n/a,,,Physical Activity Questionnaire for Adolescents 
+110,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,"When I feel frightened, it is hard to breathe","0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+111,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I get headaches when I am at school,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+112,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I don’t like to be with people I don’t know well,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+113,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I get scared if I sleep away from home,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+114,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I worry about other people liking me,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+115,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,"When I get frightened, I feel like passing out","0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+116,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I am nervous,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+117,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I follow my mother or father wherever they go,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+118,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,People tell me that I look nervous,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+119,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I feel nervous with people I don’t know well,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+120,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I get stomach aches at school,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+121,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,"When I get frightened, I feel like I am going crazy","0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+122,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I worry about sleeping alone,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+123,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I worry about being as good as other kids,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+124,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,"When I get frightened, I feel like things are not real","0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+125,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I have nightmares about something bad happening to my parents,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+126,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I worry about going to school,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+127,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,"When I get frightened, my heart beats fast","0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+128,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I get shaky,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+129,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I have nightmares about something bad happening to me,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+130,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I worry about things working out for me,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+131,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,"When I get frightened, I sweat a lot","0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+132,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I am a worrier,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+133,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I get really frightened for no reason at all,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+134,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I am afraid to be alone in the house,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+135,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,It is hard for me to talk with people I don’t know well,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+136,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,"When I get frightened, I feel like I am choking","0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+137,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,People tell me that I worry too much,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+138,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I don’t like to be away from my family,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+139,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I am afraid of having anxiety (or panic) attacks,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+140,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I worry that something bad might happen to my parents,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+163,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I feel shy with people I don’t know well,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+164,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I worry about what is going to happen in the future,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+165,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,"When I get frightened, I feel like throwing up","0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+166,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I worry about how well I do things,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+167,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I am scared to go to school,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+168,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I worry about things that have already happened,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+169,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,"When I get frightened, I feel dizzy","0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+170,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,"I feel nervous when I am with other children or adults and I have to do something while they watch me (for example: read aloud, speak, play a game, play a sport)","0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+171,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,"I feel nervous when I am going to parties, dances, or any place where there will be people that I don’t know well","0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+172,qr24,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, fill in one circle that corresponds to the response that seems to describe you for the last 3 months","Below is a list of sentences that describe how people feel. Read each phrase and decide if it is ""Not True or Hardly Ever True"" or ""Somewhat True or Sometimes True"" or ""Very True or Often True"" for you. Then, for each sentence, select one option that corresponds to the response that seems to describe you for the last 3 months",,,I am shy,"0=Not True or Hardly Ever True, 1=Somewhat True or Sometimes True, 2=Very True or Often True",1,1,0,oo,2,,,Screen for Child Anxiety Related Disorders - Child Version
+173,qr38,"For each item, please mark the box for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions","For each item, please select the option for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions   ",,,I am easily annoyed by others,"0=Not True, 1=Somewhat True, 2=Certainly True",1,1,0,oo,2,,,38
+174,qr38,"For each item, please mark the box for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions","For each item, please select the option for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions   ",,,I often lose my temper,"0=Not True, 1=Somewhat True, 2=Certainly True",1,1,0,oo,2,,,38
+175,qr38,"For each item, please mark the box for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions","For each item, please select the option for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions   ",,,I stay angry for a long time,"0=Not True, 1=Somewhat True, 2=Certainly True",1,1,0,oo,2,,,38
+176,qr38,"For each item, please mark the box for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions","For each item, please select the option for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions   ",,,I am angry most of the time,"0=Not True, 1=Somewhat True, 2=Certainly True",1,1,0,oo,2,,,38
+177,qr38,"For each item, please mark the box for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions","For each item, please select the option for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions   ",,,I get angry frequently,"0=Not True, 1=Somewhat True, 2=Certainly True",1,1,0,oo,2,,,38
+178,qr38,"For each item, please mark the box for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions","For each item, please select the option for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions   ",,,I lose my temper easily,"0=Not True, 1=Somewhat True, 2=Certainly True",1,1,0,oo,2,,,38
+179,qr38,"For each item, please mark the box for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions","For each item, please select the option for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions   ",,,"Overall, my irritability causes me problems","0=Not True, 1=Somewhat True, 2=Certainly True",1,1,0,oo,2,,,38
