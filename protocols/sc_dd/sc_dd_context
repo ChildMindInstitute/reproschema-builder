@@ -229,6 +229,42 @@
         "qr32": {
             "@id": "activity_path:qr32/qr32_schema",
             "@type": "@id"
+        },
+        "qr31": {
+            "@id": "activity_path:qr31/qr31_schema",
+            "@type": "@id"
+        },
+        "qr23": {
+            "@id": "activity_path:qr23/qr23_schema",
+            "@type": "@id"
+        },
+        "qr26": {
+            "@id": "activity_path:qr26/qr26_schema",
+            "@type": "@id"
+        },
+        "qr15": {
+            "@id": "activity_path:qr15/qr15_schema",
+            "@type": "@id"
+        },
+        "qr9": {
+            "@id": "activity_path:qr9/qr9_schema",
+            "@type": "@id"
+        },
+        "qr157": {
+            "@id": "activity_path:qr157/qr157_schema",
+            "@type": "@id"
+        },
+        "qr158": {
+            "@id": "activity_path:qr158/qr158_schema",
+            "@type": "@id"
+        },
+        "qr81": {
+            "@id": "activity_path:qr81/qr81_schema",
+            "@type": "@id"
+        },
+        "qr80": {
+            "@id": "activity_path:qr80/qr80_schema",
+            "@type": "@id"
         }
     }
 }
