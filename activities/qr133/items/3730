@@ -8,13 +8,14 @@
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "ui": {
-        "inputType": "radio"
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "schema:minValue": null,
+        "schema:maxValue": null
     },
     "question": {
         "en": "AGE(BASC12_151)"
-    },
-    "responseOptions": {
-        "schema:minValue": null,
-        "schema:maxValue": null
     }
 }
