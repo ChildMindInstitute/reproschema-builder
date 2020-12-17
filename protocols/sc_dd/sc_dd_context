@@ -5,14 +5,6 @@
         "qr133": {
             "@id": "activity_path:qr133/qr133_schema",
             "@type": "@id"
-        },
-        "qr132": {
-            "@id": "activity_path:qr132/qr132_schema",
-            "@type": "@id"
-        },
-        "qr129": {
-            "@id": "activity_path:qr129/qr129_schema",
-            "@type": "@id"
         }
     }
 }

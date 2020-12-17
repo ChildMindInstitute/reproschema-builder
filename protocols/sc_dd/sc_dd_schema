@@ -15,22 +15,10 @@
                 "variableName": "qr133",
                 "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr133/qr133_schema",
                 "isVis": true
-            },
-            {
-                "variableName": "qr132",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr132/qr132_schema",
-                "isVis": true
-            },
-            {
-                "variableName": "qr129",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr129/qr129_schema",
-                "isVis": true
             }
         ],
         "order": [
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr133/qr133_schema",
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr132/qr132_schema",
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr129/qr129_schema"
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr133/qr133_schema"
         ],
         "shuffle": false
     }
