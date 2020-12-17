@@ -79,3 +79,10 @@ reproschema validate /Users/charlie/Documents/projects/cmi/phd/reproschema-build
 reproschema validate /Users/charlie/Documents/projects/cmi/phd/reproschema-builder/activities/qr112/qr112_schema
 reproschema validate /Users/charlie/Documents/projects/cmi/phd/reproschema-builder/activities/qr113/qr113_schema
 reproschema validate /Users/charlie/Documents/projects/cmi/phd/reproschema-builder/activities/qr115/qr115_schema
+#
+reproschema validate /Users/charlie/Documents/projects/cmi/phd/reproschema-builder/activities/qr133/qr133_schema
+reproschema validate /Users/charlie/Documents/projects/cmi/phd/reproschema-builder/activities/qr132/qr132_schema
+reproschema validate /Users/charlie/Documents/projects/cmi/phd/reproschema-builder/activities/qr129/qr129_schema
+#
+reproschema validate /Users/charlie/Documents/projects/cmi/phd/reproschema-builder/activities/qr129/qr129_schema
+reproschema validate /Users/charlie/Documents/projects/cmi/phd/reproschema-builder/activities/qr37/qr37_schema
