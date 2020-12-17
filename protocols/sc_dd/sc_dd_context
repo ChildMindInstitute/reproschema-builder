@@ -113,6 +113,58 @@
         "qr48": {
             "@id": "activity_path:qr48/qr48_schema",
             "@type": "@id"
+        },
+        "qr88": {
+            "@id": "activity_path:qr88/qr88_schema",
+            "@type": "@id"
+        },
+        "qr50": {
+            "@id": "activity_path:qr50/qr50_schema",
+            "@type": "@id"
+        },
+        "qr53": {
+            "@id": "activity_path:qr53/qr53_schema",
+            "@type": "@id"
+        },
+        "qr56": {
+            "@id": "activity_path:qr56/qr56_schema",
+            "@type": "@id"
+        },
+        "qr16": {
+            "@id": "activity_path:qr16/qr16_schema",
+            "@type": "@id"
+        },
+        "qr18": {
+            "@id": "activity_path:qr18/qr18_schema",
+            "@type": "@id"
+        },
+        "qr58": {
+            "@id": "activity_path:qr58/qr58_schema",
+            "@type": "@id"
+        },
+        "qr30": {
+            "@id": "activity_path:qr30/qr30_schema",
+            "@type": "@id"
+        },
+        "qr62": {
+            "@id": "activity_path:qr62/qr62_schema",
+            "@type": "@id"
+        },
+        "qr89": {
+            "@id": "activity_path:qr89/qr89_schema",
+            "@type": "@id"
+        },
+        "qr63": {
+            "@id": "activity_path:qr63/qr63_schema",
+            "@type": "@id"
+        },
+        "qr64": {
+            "@id": "activity_path:qr64/qr64_schema",
+            "@type": "@id"
+        },
+        "qr65": {
+            "@id": "activity_path:qr65/qr65_schema",
+            "@type": "@id"
         }
     }
 }
