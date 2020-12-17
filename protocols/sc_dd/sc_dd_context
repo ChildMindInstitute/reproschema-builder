@@ -29,10 +29,6 @@
         "qr160": {
             "@id": "activity_path:qr160/qr160_schema",
             "@type": "@id"
-        },
-        "qr66": {
-            "@id": "activity_path:qr66/qr66_schema",
-            "@type": "@id"
         }
     }
 }
