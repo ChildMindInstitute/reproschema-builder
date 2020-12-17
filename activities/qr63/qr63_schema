@@ -29,7 +29,17 @@
             "1842",
             "1843",
             "1844",
-            "1845"
+            "1845",
+            "4063",
+            "4064",
+            "4065",
+            "4066",
+            "4067",
+            "4068",
+            "4069",
+            "4070",
+            "4071",
+            "4072"
         ],
         "addProperties": [
             {
@@ -131,6 +141,66 @@
             {
                 "variableName": "1845",
                 "isAbout": "1845",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4063",
+                "isAbout": "4063",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4064",
+                "isAbout": "4064",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4065",
+                "isAbout": "4065",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4066",
+                "isAbout": "4066",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4067",
+                "isAbout": "4067",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4068",
+                "isAbout": "4068",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4069",
+                "isAbout": "4069",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4070",
+                "isAbout": "4070",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4071",
+                "isAbout": "4071",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "4072",
+                "isAbout": "4072",
                 "isVis": true,
                 "requiredValue": true
             }

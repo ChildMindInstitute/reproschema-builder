@@ -36,7 +36,7 @@
                 "name": "more than 60 min"
             }
         ],
-        "schema:minValue": 1,
+        "schema:minValue": null,
         "schema:maxValue": 5
     }
 }
