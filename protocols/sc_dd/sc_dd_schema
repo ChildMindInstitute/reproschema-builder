@@ -12,6 +12,11 @@
     "ui": {
         "addProperties": [
             {
+                "variableName": "qr10",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr10/qr10_schema",
+                "isVis": true
+            },
+            {
                 "variableName": "qr133",
                 "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr133/qr133_schema",
                 "isVis": true
@@ -33,6 +38,7 @@
             }
         ],
         "order": [
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr10/qr10_schema",
             "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr133/qr133_schema",
             "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr132/qr132_schema",
             "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr129/qr129_schema",
