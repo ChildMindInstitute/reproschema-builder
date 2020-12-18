@@ -269,6 +269,98 @@
         "qr10": {
             "@id": "activity_path:qr10/qr10_schema",
             "@type": "@id"
+        },
+        "qr133": {
+            "@id": "activity_path:qr133/qr133_schema",
+            "@type": "@id"
+        },
+        "qr132": {
+            "@id": "activity_path:qr132/qr132_schema",
+            "@type": "@id"
+        },
+        "qr129": {
+            "@id": "activity_path:qr129/qr129_schema",
+            "@type": "@id"
+        },
+        "qr37": {
+            "@id": "activity_path:qr37/qr37_schema",
+            "@type": "@id"
+        },
+        "qr27": {
+            "@id": "activity_path:qr27/qr27_schema",
+            "@type": "@id"
+        },
+        "qr156": {
+            "@id": "activity_path:qr156/qr156_schema",
+            "@type": "@id"
+        },
+        "qr61": {
+            "@id": "activity_path:qr61/qr61_schema",
+            "@type": "@id"
+        },
+        "qr54": {
+            "@id": "activity_path:qr54/qr54_schema",
+            "@type": "@id"
+        },
+        "qr74": {
+            "@id": "activity_path:qr74/qr74_schema",
+            "@type": "@id"
+        },
+        "qr112": {
+            "@id": "activity_path:qr112/qr112_schema",
+            "@type": "@id"
+        },
+        "qr111": {
+            "@id": "activity_path:qr111/qr111_schema",
+            "@type": "@id"
+        },
+        "qr149": {
+            "@id": "activity_path:qr149/qr149_schema",
+            "@type": "@id"
+        },
+        "qr110": {
+            "@id": "activity_path:qr110/qr110_schema",
+            "@type": "@id"
+        },
+        "qr109": {
+            "@id": "activity_path:qr109/qr109_schema",
+            "@type": "@id"
+        },
+        "qr107": {
+            "@id": "activity_path:qr107/qr107_schema",
+            "@type": "@id"
+        },
+        "qr108": {
+            "@id": "activity_path:qr108/qr108_schema",
+            "@type": "@id"
+        },
+        "qr168": {
+            "@id": "activity_path:qr168/qr168_schema",
+            "@type": "@id"
+        },
+        "qr169": {
+            "@id": "activity_path:qr169/qr169_schema",
+            "@type": "@id"
+        },
+        "qr170": {
+            "@id": "activity_path:qr170/qr170_schema",
+            "@type": "@id"
+        },
+        "qr163": {
+            "@id": "activity_path:qr163/qr163_schema",
+            "@type": "@id"
+        },
+        "qr126": {
+            "@id": "activity_path:qr126/qr126_schema",
+            "@type": "@id"
+        },
+        "qr135": {
+            "@id": "activity_path:qr135/qr135_schema",
+            "@type": "@id"
+        },
+        "qr136": {
+            "@id": "activity_path:qr136/qr136_schema",
+            "@type": "@id"
         }
     }
 }
