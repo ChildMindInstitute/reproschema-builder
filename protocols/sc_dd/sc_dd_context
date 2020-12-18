@@ -5,38 +5,6 @@
         "qr97": {
             "@id": "activity_path:qr97/qr97_schema",
             "@type": "@id"
-        },
-        "qr137": {
-            "@id": "activity_path:qr137/qr137_schema",
-            "@type": "@id"
-        },
-        "qr138": {
-            "@id": "activity_path:qr138/qr138_schema",
-            "@type": "@id"
-        },
-        "qr139": {
-            "@id": "activity_path:qr139/qr139_schema",
-            "@type": "@id"
-        },
-        "qr140": {
-            "@id": "activity_path:qr140/qr140_schema",
-            "@type": "@id"
-        },
-        "qr141": {
-            "@id": "activity_path:qr141/qr141_schema",
-            "@type": "@id"
-        },
-        "qr142": {
-            "@id": "activity_path:qr142/qr142_schema",
-            "@type": "@id"
-        },
-        "qr146": {
-            "@id": "activity_path:qr146/qr146_schema",
-            "@type": "@id"
-        },
-        "qr148": {
-            "@id": "activity_path:qr148/qr148_schema",
-            "@type": "@id"
         }
     }
 }
