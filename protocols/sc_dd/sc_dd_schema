@@ -12,13 +12,13 @@
     "ui": {
         "addProperties": [
             {
-                "variableName": "qr148",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr148/qr148_schema",
+                "variableName": "undefined",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/undefined/undefined_schema",
                 "isVis": true
             }
         ],
         "order": [
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr148/qr148_schema"
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/undefined/undefined_schema"
         ],
         "shuffle": false
     }
