@@ -33,7 +33,7 @@ const schemaMap = {
     "Item Display Name": "skos:prefLabel",
     "Field Annotation": "schema:description", // column R
     "Section Header": "preamble", // todo: check this // column C
-    //mhdb: paper_instructions column - preamble before each item
+    //mhdb: digital_instructions column - preamble before each item
     "Item Header": "itemPreamble", // todo: check this // column C
     "Field Label": "question", // column E
     "Field Type": "inputType", // column D
