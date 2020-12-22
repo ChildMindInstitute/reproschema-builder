@@ -12,13 +12,43 @@
     "ui": {
         "addProperties": [
             {
-                "variableName": "undefined",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/undefined/undefined_schema",
+                "variableName": "qr32",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr32/qr32_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr96",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr96/qr96_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr58",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr58/qr58_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr30",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr30/qr30_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr140",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr140/qr140_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr141",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr141/qr141_schema",
                 "isVis": true
             }
         ],
         "order": [
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/undefined/undefined_schema"
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr32/qr32_schema",
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr96/qr96_schema",
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr58/qr58_schema",
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr30/qr30_schema",
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr140/qr140_schema",
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr141/qr141_schema"
         ],
         "shuffle": false
     }

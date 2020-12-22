@@ -1,3 +1,4 @@
+Variable / Field Name,Form Name,Section Header,,Item Header,,Field Label,"Choices, Calculations, OR Slider Labels",Field Type,,,Text Validation Min,Text Validation Max,,,Form Display Name
 3046,qr32,,,,,I am clear about my feelings,"1=almost never (0-10%), 2=sometimes (11-35%), 3=about half the time (36-65%), 4=most of the time (66-90%), 5=almost always (91-100%)",1,,,,,,,32
 3047,qr32,,,,,I pay attention to how I feel,"1=almost never (0-10%), 2=sometimes (11-35%), 3=about half the time (36-65%), 4=most of the time (66-90%), 5=almost always (91-100%)",1,,,,,,,32
 3048,qr32,,,,,I experience my emotions as overwhelming and out of control,"1=almost never (0-10%), 2=sometimes (11-35%), 3=about half the time (36-65%), 4=most of the time (66-90%), 5=almost always (91-100%)",1,,,,,,,32
