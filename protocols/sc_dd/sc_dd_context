@@ -90,10 +90,6 @@
             "@id": "activity_path:qr40/qr40_schema",
             "@type": "@id"
         },
-        "qr75": {
-            "@id": "activity_path:qr75/qr75_schema",
-            "@type": "@id"
-        },
         "qr49": {
             "@id": "activity_path:qr49/qr49_schema",
             "@type": "@id"
