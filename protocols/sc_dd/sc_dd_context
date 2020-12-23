@@ -2,32 +2,32 @@
     "@context": {
         "@version": 1.1,
         "activity_path": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/",
-        "qr75": {
-            "@id": "activity_path:qr75/qr75_schema",
+        "qr64": {
+            "@id": "activity_path:qr64/qr64_schema",
             "@type": "@id"
         },
-        "qr49": {
-            "@id": "activity_path:qr49/qr49_schema",
+        "qr53": {
+            "@id": "activity_path:qr53/qr53_schema",
             "@type": "@id"
         },
-        "qr50": {
-            "@id": "activity_path:qr50/qr50_schema",
+        "qr65": {
+            "@id": "activity_path:qr65/qr65_schema",
             "@type": "@id"
         },
-        "qr60": {
-            "@id": "activity_path:qr60/qr60_schema",
+        "qr62": {
+            "@id": "activity_path:qr62/qr62_schema",
             "@type": "@id"
         },
-        "qr57": {
-            "@id": "activity_path:qr57/qr57_schema",
+        "qr66": {
+            "@id": "activity_path:qr66/qr66_schema",
             "@type": "@id"
         },
-        "qr69": {
-            "@id": "activity_path:qr69/qr69_schema",
+        "qr73": {
+            "@id": "activity_path:qr73/qr73_schema",
             "@type": "@id"
         },
-        "qr48": {
-            "@id": "activity_path:qr48/qr48_schema",
+        "qr77": {
+            "@id": "activity_path:qr77/qr77_schema",
             "@type": "@id"
         }
     }
