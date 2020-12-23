@@ -117,6 +117,34 @@
         "qr40": {
             "@id": "activity_path:qr40/qr40_schema",
             "@type": "@id"
+        },
+        "qr75": {
+            "@id": "activity_path:qr75/qr75_schema",
+            "@type": "@id"
+        },
+        "qr49": {
+            "@id": "activity_path:qr49/qr49_schema",
+            "@type": "@id"
+        },
+        "qr50": {
+            "@id": "activity_path:qr50/qr50_schema",
+            "@type": "@id"
+        },
+        "qr60": {
+            "@id": "activity_path:qr60/qr60_schema",
+            "@type": "@id"
+        },
+        "qr57": {
+            "@id": "activity_path:qr57/qr57_schema",
+            "@type": "@id"
+        },
+        "qr69": {
+            "@id": "activity_path:qr69/qr69_schema",
+            "@type": "@id"
+        },
+        "qr48": {
+            "@id": "activity_path:qr48/qr48_schema",
+            "@type": "@id"
         }
     }
 }
