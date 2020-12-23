@@ -2,84 +2,40 @@
     "@context": {
         "@version": 1.1,
         "activity_path": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/",
-        "qr20": {
-            "@id": "activity_path:qr20/qr20_schema",
+        "qr156": {
+            "@id": "activity_path:qr156/qr156_schema",
             "@type": "@id"
         },
-        "qr19": {
-            "@id": "activity_path:qr19/qr19_schema",
+        "qr61": {
+            "@id": "activity_path:qr61/qr61_schema",
             "@type": "@id"
         },
-        "qr24": {
-            "@id": "activity_path:qr24/qr24_schema",
+        "qr71": {
+            "@id": "activity_path:qr71/qr71_schema",
             "@type": "@id"
         },
-        "qr25": {
-            "@id": "activity_path:qr25/qr25_schema",
+        "qr72": {
+            "@id": "activity_path:qr72/qr72_schema",
             "@type": "@id"
         },
-        "qr36": {
-            "@id": "activity_path:qr36/qr36_schema",
+        "qr54": {
+            "@id": "activity_path:qr54/qr54_schema",
             "@type": "@id"
         },
-        "qr37": {
-            "@id": "activity_path:qr37/qr37_schema",
+        "qr63": {
+            "@id": "activity_path:qr63/qr63_schema",
             "@type": "@id"
         },
-        "qr38": {
-            "@id": "activity_path:qr38/qr38_schema",
+        "qr102": {
+            "@id": "activity_path:qr102/qr102_schema",
             "@type": "@id"
         },
-        "qr27": {
-            "@id": "activity_path:qr27/qr27_schema",
+        "qr97": {
+            "@id": "activity_path:qr97/qr97_schema",
             "@type": "@id"
         },
-        "qr88": {
-            "@id": "activity_path:qr88/qr88_schema",
-            "@type": "@id"
-        },
-        "qr39": {
-            "@id": "activity_path:qr39/qr39_schema",
-            "@type": "@id"
-        },
-        "qr41": {
-            "@id": "activity_path:qr41/qr41_schema",
-            "@type": "@id"
-        },
-        "qr42": {
-            "@id": "activity_path:qr42/qr42_schema",
-            "@type": "@id"
-        },
-        "qr96": {
-            "@id": "activity_path:qr96/qr96_schema",
-            "@type": "@id"
-        },
-        "qr45": {
-            "@id": "activity_path:qr45/qr45_schema",
-            "@type": "@id"
-        },
-        "qr87": {
-            "@id": "activity_path:qr87/qr87_schema",
-            "@type": "@id"
-        },
-        "qr95": {
-            "@id": "activity_path:qr95/qr95_schema",
-            "@type": "@id"
-        },
-        "qr46": {
-            "@id": "activity_path:qr46/qr46_schema",
-            "@type": "@id"
-        },
-        "qr98": {
-            "@id": "activity_path:qr98/qr98_schema",
-            "@type": "@id"
-        },
-        "qr89": {
-            "@id": "activity_path:qr89/qr89_schema",
-            "@type": "@id"
-        },
-        "qr40": {
-            "@id": "activity_path:qr40/qr40_schema",
+        "qr23": {
+            "@id": "activity_path:qr23/qr23_schema",
             "@type": "@id"
         },
         "qr75": {
