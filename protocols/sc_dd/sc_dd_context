@@ -2,32 +2,12 @@
     "@context": {
         "@version": 1.1,
         "activity_path": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/",
-        "qr156": {
-            "@id": "activity_path:qr156/qr156_schema",
+        "qr97": {
+            "@id": "activity_path:qr97/qr97_schema",
             "@type": "@id"
         },
-        "qr61": {
-            "@id": "activity_path:qr61/qr61_schema",
-            "@type": "@id"
-        },
-        "qr71": {
-            "@id": "activity_path:qr71/qr71_schema",
-            "@type": "@id"
-        },
-        "qr72": {
-            "@id": "activity_path:qr72/qr72_schema",
-            "@type": "@id"
-        },
-        "qr54": {
-            "@id": "activity_path:qr54/qr54_schema",
-            "@type": "@id"
-        },
-        "qr63": {
-            "@id": "activity_path:qr63/qr63_schema",
-            "@type": "@id"
-        },
-        "qr102": {
-            "@id": "activity_path:qr102/qr102_schema",
+        "qr23": {
+            "@id": "activity_path:qr23/qr23_schema",
             "@type": "@id"
         }
     }
