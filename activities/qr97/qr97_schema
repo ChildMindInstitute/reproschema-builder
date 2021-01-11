@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr97_schema",
-    "skos:prefLabel": "97",
+    "skos:prefLabel": "Yale Global Tic Severity Scale ",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {

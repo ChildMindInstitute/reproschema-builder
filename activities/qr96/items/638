@@ -10,9 +10,6 @@
     "ui": {
         "inputType": "radio"
     },
-    "itemPreamble": {
-        "en": " "
-    },
     "question": {
         "en": "Constantly fidgeting or squirming"
     },

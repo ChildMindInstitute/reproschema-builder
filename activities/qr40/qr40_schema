@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr40_schema",
-    "skos:prefLabel": "40",
+    "skos:prefLabel": "Inventory of Callous and Unemotional Traits  - Parent Report",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {

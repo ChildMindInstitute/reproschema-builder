@@ -10,9 +10,6 @@
     "ui": {
         "inputType": "radio"
     },
-    "itemPreamble": {
-        "en": " "
-    },
     "question": {
         "en": "Many worries or often seems worried"
     },

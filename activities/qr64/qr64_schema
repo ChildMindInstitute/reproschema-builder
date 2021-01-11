@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr64_schema",
-    "skos:prefLabel": "64",
+    "skos:prefLabel": "Fagerstrom Test for Nicotine Dependence",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {

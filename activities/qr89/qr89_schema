@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr89_schema",
-    "skos:prefLabel": "89",
+    "skos:prefLabel": "Food Frequency Questionnaire",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {

@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr48_schema",
-    "skos:prefLabel": "48",
+    "skos:prefLabel": "Adverse Childhood Experience Scale",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {

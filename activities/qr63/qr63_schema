@@ -5,31 +5,14 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr63_schema",
-    "skos:prefLabel": "63",
+    "skos:prefLabel": "Financial Support Questionnaire",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {
-        "en": ""
+        "en": "In this survey, Parent/Guardian 1 refers to you. Parent/Guardian 2 refers to your spouse or the child's other caregiver.\n\nIf you are the child's only caregiver, answer only about yourself."
     },
     "ui": {
         "order": [
-            "1829",
-            "1830",
-            "1831",
-            "1832",
-            "1833",
-            "1834",
-            "1835",
-            "1836",
-            "1837",
-            "1838",
-            "1839",
-            "1840",
-            "1841",
-            "1842",
-            "1843",
-            "1844",
-            "1845",
             "4063",
             "4064",
             "4065",
@@ -42,108 +25,6 @@
             "4072"
         ],
         "addProperties": [
-            {
-                "variableName": "1829",
-                "isAbout": "1829",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1830",
-                "isAbout": "1830",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1831",
-                "isAbout": "1831",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1832",
-                "isAbout": "1832",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1833",
-                "isAbout": "1833",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1834",
-                "isAbout": "1834",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1835",
-                "isAbout": "1835",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1836",
-                "isAbout": "1836",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1837",
-                "isAbout": "1837",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1838",
-                "isAbout": "1838",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1839",
-                "isAbout": "1839",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1840",
-                "isAbout": "1840",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1841",
-                "isAbout": "1841",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1842",
-                "isAbout": "1842",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1843",
-                "isAbout": "1843",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1844",
-                "isAbout": "1844",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "1845",
-                "isAbout": "1845",
-                "isVis": true,
-                "requiredValue": true
-            },
             {
                 "variableName": "4063",
                 "isAbout": "4063",

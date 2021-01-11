@@ -5,11 +5,11 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr95_schema",
-    "skos:prefLabel": "95",
+    "skos:prefLabel": "Social Aptitudes Scale",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {
-        "en": "How does your child compare with other children/people of his/her age in the following situations: "
+        "en": "How does your child compare with other children/people of his/her age in the following situations:"
     },
     "ui": {
         "order": [

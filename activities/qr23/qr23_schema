@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr23_schema",
-    "skos:prefLabel": "23",
+    "skos:prefLabel": "Children's Yale-Brown Obsessive Compulsive Scale",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {

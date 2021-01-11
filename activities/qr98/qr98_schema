@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr98_schema",
-    "skos:prefLabel": "98",
+    "skos:prefLabel": "The World Health Organization Disability Assessment Schedule 2.0 - Self Report",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {

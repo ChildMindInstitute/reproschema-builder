@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr88_schema",
-    "skos:prefLabel": "88",
+    "skos:prefLabel": "Extended Strengths and Weaknesses Assessment of Normal Behavior",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {

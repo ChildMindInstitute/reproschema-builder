@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr41_schema",
-    "skos:prefLabel": "41",
+    "skos:prefLabel": "Autism Spectrum Screening Questionnaire",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {

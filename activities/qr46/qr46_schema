@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr46_schema",
-    "skos:prefLabel": "46",
+    "skos:prefLabel": "The World Health Organization Disability Assessment Schedule 2.0 - Parent Report",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {
