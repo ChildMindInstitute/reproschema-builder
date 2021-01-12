@@ -10,6 +10,9 @@
     "ui": {
         "inputType": "radio"
     },
+    "itemPreamble": {
+        "en": " "
+    },
     "question": {
         "en": "Generally liked by other children (for 11-17 year olds: Generally liked by other youth)"
     },

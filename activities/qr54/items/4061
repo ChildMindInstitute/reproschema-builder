@@ -58,8 +58,6 @@
                 "value": 45,
                 "name": "\"Physician, attorney, professor, chemical and aerospace engineer, judge, CEO, senior manager, public official, psychologist, pharmacist, accountant.\""
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     }
 }

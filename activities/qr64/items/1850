@@ -23,8 +23,6 @@
                 "value": 0,
                 "name": "Any other"
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     }
 }

@@ -24,8 +24,6 @@
                 "name": "Mobile Research Vehicle (MRV),  3",
                 "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/Midtown Manhattan.png"
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     }
 }

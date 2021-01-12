@@ -11,9 +11,7 @@
         "inputType": "text"
     },
     "responseOptions": {
-        "valueType": "xsd:string",
-        "schema:minValue": null,
-        "schema:maxValue": null
+        "valueType": "xsd:string"
     },
     "question": {
         "en": "In the past 30 days, not counting the days that you were totally unable, for how many days did you cut back or reduce your usual activities or work because of any health condition?"

@@ -27,8 +27,6 @@
                 "value": 2,
                 "name": "Panent/Guardian 2"
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     }
 }

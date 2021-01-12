@@ -46,8 +46,6 @@
                 "value": 21,
                 "name": "Graduate degree"
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     }
 }

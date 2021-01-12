@@ -11,9 +11,7 @@
         "inputType": "text"
     },
     "responseOptions": {
-        "valueType": "xsd:string",
-        "schema:minValue": null,
-        "schema:maxValue": null
+        "valueType": "xsd:string"
     },
     "question": {
         "en": "Chicken, Frequency last week"

@@ -47,8 +47,6 @@
                 "value": 8,
                 "name": "\"Other\""
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     }
 }

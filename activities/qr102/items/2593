@@ -11,9 +11,7 @@
         "inputType": "text"
     },
     "responseOptions": {
-        "valueType": "xsd:string",
-        "schema:minValue": null,
-        "schema:maxValue": null
+        "valueType": "xsd:string"
     },
     "question": {
         "en": "How old was your child when the mother/ you started feeding him/ her water, juice without sugar or other liquids without sugar?"

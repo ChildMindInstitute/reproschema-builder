@@ -26,8 +26,6 @@
                 "value": 2,
                 "name": "No"
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     }
 }

@@ -1,0 +1,12 @@
+import pandas
+questions = pandas.read_csv('hbn-all.csv', encoding = 'unicode_escape')
+#print(questions)
+assessments = pandas.read_csv('assessment-titles-dict.csv', encoding = 'unicode_escape')
+#print(assessments)
+assessments['index'] = assessments['index'].astype(str)
+assessments_dict = dict(assessments.values.tolist())
+#print(assessments_dict)
+questions['Form Display Name'] = questions['Form Display Name'].map(assessments_dict).fillna(questions['Form Display Name'])
+#print(questions)
+#print(questions['Form Display Name'][5570] == list(assessments_dict.keys())[list(assessments_dict.values()).index('Physical Activity Questionnaire for Adolescents ')])
+questions.to_csv('hbn-all-titles.csv', index=False)  

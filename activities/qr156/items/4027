@@ -23,8 +23,6 @@
                 "value": 2,
                 "name": "Release 2 (September 2017)"
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     }
 }

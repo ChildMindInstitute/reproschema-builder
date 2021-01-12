@@ -23,8 +23,6 @@
                 "value": 1,
                 "name": " Female"
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     }
 }

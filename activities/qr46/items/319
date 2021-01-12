@@ -11,9 +11,7 @@
         "inputType": "text"
     },
     "responseOptions": {
-        "valueType": "xsd:string",
-        "schema:minValue": null,
-        "schema:maxValue": null
+        "valueType": "xsd:string"
     },
     "question": {
         "en": "In the past 30 days, for how many days was he/she totally unable to carry out his/her usual activities or work because of any health condition?"

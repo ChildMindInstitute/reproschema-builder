@@ -23,8 +23,6 @@
                 "value": 2,
                 "name": "Not Available"
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     }
 }

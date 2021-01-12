@@ -11,9 +11,7 @@
         "inputType": "text"
     },
     "responseOptions": {
-        "valueType": "xsd:string",
-        "schema:minValue": null,
-        "schema:maxValue": null
+        "valueType": "xsd:string"
     },
     "itemPreamble": {
         "en": "Physical activity in your spare time. Have you done any of the following activities in the past 7 days (last week)? If yes, how many times? (Mark only one circle per row)"

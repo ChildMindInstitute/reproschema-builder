@@ -27,8 +27,6 @@
                 "value": 3,
                 "name": "\"Choose not to disclose\""
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     }
 }

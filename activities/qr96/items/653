@@ -10,6 +10,9 @@
     "ui": {
         "inputType": "radio"
     },
+    "itemPreamble": {
+        "en": " "
+    },
     "question": {
         "en": "Good attention span, sees chores or homework through to the end"
     },

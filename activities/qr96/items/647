@@ -10,6 +10,9 @@
     "ui": {
         "inputType": "radio"
     },
+    "itemPreamble": {
+        "en": " "
+    },
     "question": {
         "en": "Picked on or bullied by other children (for 11-17 year olds: Picked on or bullied by other youth)"
     },

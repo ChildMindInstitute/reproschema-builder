@@ -26,8 +26,6 @@
                 "value": 1,
                 "name": "Checked"
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     }
 }

@@ -35,8 +35,6 @@
                 "value": 5,
                 "name": "\"Ran or played hard most of the time\""
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     }
 }

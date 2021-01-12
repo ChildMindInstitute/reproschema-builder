@@ -53,9 +53,7 @@
                 "value": 10,
                 "name": "\"Military Retired Pay/Survivors Benefit Plan Anuity (SBP)\""
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     },
     "question": {
         "en": "Are you, your spouse, or your child eligible for any of the following (choose all that apply)?"

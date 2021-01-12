@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "question": {
-        "en": "Have you ever gone to anyone for help for a narcotics problem?"
+        "en": " Have you ever gone to anyone for help for a narcotics problem?"
     },
     "responseOptions": {
         "choices": [
@@ -23,8 +23,6 @@
                 "value": 1,
                 "name": "yes"
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": null
+        ]
     }
 }
