@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "question": {
-        "en": " I don't have much energy"
+        "en": "I don't have much energy"
     },
     "responseOptions": {
         "choices": [

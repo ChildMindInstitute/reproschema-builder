@@ -10,9 +10,6 @@
     "ui": {
         "inputType": "radio"
     },
-    "itemPreamble": {
-        "en": " "
-    },
     "question": {
         "en": "Helpful if someone is hurt, upset or feeling ill"
     },
