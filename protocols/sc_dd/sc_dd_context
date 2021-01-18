@@ -70,14 +70,6 @@
             "@id": "activity_path:qr27/qr27_schema",
             "@type": "@id"
         },
-        "qr88": {
-            "@id": "activity_path:qr88/qr88_schema",
-            "@type": "@id"
-        },
-        "qr39": {
-            "@id": "activity_path:qr39/qr39_schema",
-            "@type": "@id"
-        },
         "qr41": {
             "@id": "activity_path:qr41/qr41_schema",
             "@type": "@id"
