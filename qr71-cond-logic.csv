@@ -1,0 +1,27 @@
+Variable / Field Name,Form Name,Section Header,Unnamed: 3,Item Header,Unnamed: 5,Field Label,"Choices, Calculations, OR Slider Labels",Field Type,Unnamed: 9,Unnamed: 10,Text Validation Min,Text Validation Max,Unnamed: 13,Unnamed: 14,Form Display Name,,Branching Logic (Show field only if...)
+82,qr71,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers â this is not a test.
+2. Please answer all the questions as honestly and accurately as you can â this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers â this is not a test.
+2. Please answer all the questions as honestly and accurately as you can â this is very
+important. ",,,"Were you sick last week, or did anything prevent you from doing your normal physical activities? (check one)","1=No, 2=Yes",1,2,1,,,,,Physical Activity Questionnaire for Adolescents,,
+83,qr71,"We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers â this is not a test.
+2. Please answer all the questions as honestly and accurately as you can â this is very
+important. ","We are trying to find out about your level of physical activity from the last 7 days (in the last
+week). This includes sports or dance that make you sweat or make your legs feel tired, or games
+that make you breathe hard, like tag, skipping, running, climbing, and others.
+Remember:
+1. There are no right and wrong answers â this is not a test.
+2. Please answer all the questions as honestly and accurately as you can â this is very
+important. ",,,"If Yes, what prevented you?",,4,3,,,,,,Physical Activity Questionnaire for Adolescents,,[41] = '1'
