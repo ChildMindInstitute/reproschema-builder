@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr71/qr71_context"
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/branching-logic/activities/qr71/qr71_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "qr71_schema",
