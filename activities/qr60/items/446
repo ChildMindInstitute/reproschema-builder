@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "question": {
-        "en": "Thereâs nothing worse than feeling distressed or upset"
+        "en": "There’s nothing worse than feeling distressed or upset"
     },
     "responseOptions": {
         "choices": [
@@ -39,4 +39,5 @@
         "schema:minValue": null,
         "schema:maxValue": 5
     }
+}}
 }

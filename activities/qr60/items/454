@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "question": {
-        "en": "Iâll do anything to stop feeling distressed or upset."
+        "en": "I’ll do anything to stop feeling distressed or upset."
     },
     "responseOptions": {
         "choices": [
@@ -39,4 +39,5 @@
         "schema:minValue": null,
         "schema:maxValue": 5
     }
+}}
 }

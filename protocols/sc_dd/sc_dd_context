@@ -161,6 +161,18 @@
         "qr77": {
             "@id": "activity_path:qr77/qr77_schema",
             "@type": "@id"
+        },
+        "qr161": {
+            "@id": "activity_path:qr161/qr161_schema",
+            "@type": "@id"
+        },
+        "qr43": {
+            "@id": "activity_path:qr43/qr43_schema",
+            "@type": "@id"
+        },
+        "qr56": {
+            "@id": "activity_path:qr56/qr56_schema",
+            "@type": "@id"
         }
     }
 }
