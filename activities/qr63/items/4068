@@ -1,0 +1,74 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4068",
+    "skos:prefLabel": "4068",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "What is your annual household income?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "\"Less than $10000\""
+            },
+            {
+                "value": 2,
+                "name": "\"$10000 to $19999\""
+            },
+            {
+                "value": 3,
+                "name": "\"$20000 to $29999\""
+            },
+            {
+                "value": 4,
+                "name": "\"$30000 to $39999\""
+            },
+            {
+                "value": 5,
+                "name": "\"$40000 to $49999\""
+            },
+            {
+                "value": 6,
+                "name": "\"$50000 to $59999\""
+            },
+            {
+                "value": 7,
+                "name": "\"$60000 to $69999\""
+            },
+            {
+                "value": 8,
+                "name": "\"$70000 to $79999\""
+            },
+            {
+                "value": 9,
+                "name": "\"$80000 to $89999\""
+            },
+            {
+                "value": 10,
+                "name": "\"$90000 to $99999\""
+            },
+            {
+                "value": 11,
+                "name": "\"$100000 to $149999\""
+            },
+            {
+                "value": 12,
+                "name": "\"$150000 or more\""
+            },
+            {
+                "value": 13,
+                "name": "\"Choose not to disclose\""
+            }
+        ],
+        "schema:minValue": 1,
+        "schema:maxValue": 12
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "33",
+    "skos:prefLabel": "33",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Which one of the following describes you best for the last 7 days?  Read all 5 statements before deciding on the one answer that describes you."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " \"All or most of my free time was spent doing things that involve little physical effort\""
+            },
+            {
+                "value": 2,
+                "name": "\"I sometimes (1-2 times last week) did physical things in my free time (e.g. played sports, went running, swimming, bike riding, did aerobics)\""
+            },
+            {
+                "value": 3,
+                "name": "\"I often (3-4 times last week) did physical things in my free time\""
+            },
+            {
+                "value": 4,
+                "name": "\"I quite often (5-6 times last week) did physical things in my free time\""
+            },
+            {
+                "value": 5,
+                "name": "\"I very often (7 or more times last week) did physical things in my free time\""
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}

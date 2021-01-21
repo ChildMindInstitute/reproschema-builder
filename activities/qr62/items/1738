@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1738",
+    "skos:prefLabel": "1738",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Have you ever neglected your family or missed work because of your use of anabolic steroids?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "no"
+            },
+            {
+                "value": 1,
+                "name": "yes"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2588",
+    "skos:prefLabel": "2588",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "For how many weeks did the mother/ you feed the child using breast milk only? (i.e. except for vitamins or medicine, the mother/ you did not give your child any water, formula milk, other liquids or solid food)."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " Unknown"
+            },
+            {
+                "value": 2,
+                "name": "Not Available"
+            }
+        ]
+    }
+}

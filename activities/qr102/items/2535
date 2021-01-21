@@ -1,0 +1,44 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2535",
+    "skos:prefLabel": "2535",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "What is your relation to the child?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " \"Biological Mother\""
+            },
+            {
+                "value": 2,
+                "name": " \"Biological Father\""
+            },
+            {
+                "value": 3,
+                "name": " \"Stepmother\""
+            },
+            {
+                "value": 4,
+                "name": " \"Stepfather\""
+            },
+            {
+                "value": 5,
+                "name": " \"Guardian\""
+            },
+            {
+                "value": 6,
+                "name": " \"Other, please specify\""
+            }
+        ]
+    }
+}

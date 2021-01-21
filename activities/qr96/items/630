@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "630",
+    "skos:prefLabel": "630",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Restless, overactive, cannot stay still for long"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Not True"
+            },
+            {
+                "value": 1,
+                "name": "Somewhat True"
+            },
+            {
+                "value": 2,
+                "name": "Certainly True"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": 2
+    }
+}

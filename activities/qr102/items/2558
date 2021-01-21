@@ -1,0 +1,45 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2558",
+    "skos:prefLabel": "2558",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "During the pregnancy, did THE MOTHER/ did you experience any of the following:"
+    },
+    "question": {
+        "en": "Was the mother (were you) granted leave from work because of pregnancy?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " No"
+            },
+            {
+                "value": 2,
+                "name": " Yes"
+            },
+            {
+                "value": 3,
+                "name": " Unknown"
+            },
+            {
+                "value": 4,
+                "name": " Not Available, "
+            },
+            {
+                "value": 5,
+                "name": " Did not work during pregnancy"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}

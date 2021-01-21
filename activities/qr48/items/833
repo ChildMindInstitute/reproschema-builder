@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "833",
+    "skos:prefLabel": "833",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Did you often or very often feel that â¦ You didnât have enough to eat, had to wear dirty clothes, and had no one to protect you? Or your parents were too drunk or high to take care of you or take you to the doctor if you needed it?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "No"
+            },
+            {
+                "value": 1,
+                "name": "Yes"
+            }
+        ]
+    }
+}
