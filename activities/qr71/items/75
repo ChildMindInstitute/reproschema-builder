@@ -24,8 +24,11 @@
             },
             {
                 "value": 2,
-                "name": "\"Little Bit\",  3",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/\"Medium\".png"
+                "name": "\"Little Bit\""
+            },
+            {
+                "value": 3,
+                "name": "\"Medium\""
             },
             {
                 "value": 4,

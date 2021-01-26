@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "question": {
-        "en": "I have trouble sleeping (describe): "
+        "en": "I have trouble sleeping (describe):"
     },
     "responseOptions": {
         "choices": [

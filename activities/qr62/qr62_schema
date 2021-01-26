@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr62_schema",
-    "skos:prefLabel": "The European School Survey Project on Alcohol and Other Drugs ",
+    "skos:prefLabel": "The European School Survey Project on Alcohol and Other Drugs",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {

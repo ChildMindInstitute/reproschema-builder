@@ -10,9 +10,6 @@
     "ui": {
         "inputType": "radio"
     },
-    "itemPreamble": {
-        "en": " "
-    },
     "question": {
         "en": "Kind to younger children"
     },

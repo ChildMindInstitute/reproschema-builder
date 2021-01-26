@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr53_schema",
-    "skos:prefLabel": "Alcohol Use Disorders Identification Test ",
+    "skos:prefLabel": "Alcohol Use Disorders Identification Test",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {
