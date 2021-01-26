@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "CSC_18C": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/CSC_18C/items/",
+        "CSC": {
+            "@id": "CSC_18C:CSC",
+            "@type": "@id"
+        }
+    }
+}

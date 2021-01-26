@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/CFS_03/CFS_03_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "CFS_03_schema",
+    "skos:prefLabel": "Child Flourishing Scale",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": ""
+    },
+    "ui": {
+        "order": [
+            "CFS"
+        ],
+        "addProperties": [
+            {
+                "variableName": "CFS",
+                "isAbout": "CFS",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "CFS",
+    "skos:prefLabel": "CFS",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "child shows interest and curiosity in learning new things."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " Never"
+            },
+            {
+                "value": 2,
+                "name": "Rarely"
+            },
+            {
+                "value": 3,
+                "name": " Sometimes"
+            },
+            {
+                "value": 4,
+                "name": " Usualy"
+            },
+            {
+                "value": 5,
+                "name": " Always"
+            }
+        ],
+        "schema:minValue": 1,
+        "schema:maxValue": 5
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/PBS_08/PBS_08_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "PBS_08_schema",
+    "skos:prefLabel": "Positive Behavior Scale",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "the target child:"
+    },
+    "ui": {
+        "order": [
+            "PBS"
+        ],
+        "addProperties": [
+            {
+                "variableName": "PBS",
+                "isAbout": "PBS",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}
