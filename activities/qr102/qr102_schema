@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr102_schema",
-    "skos:prefLabel": "Pregnancy and Birth Questionnaire",
+    "skos:prefLabel": "Pregnancy and Birth Questionnaire ",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {

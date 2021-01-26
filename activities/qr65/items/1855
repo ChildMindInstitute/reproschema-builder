@@ -17,19 +17,7 @@
         "choices": [
             {
                 "value": 0,
-                "name": " A. Over 26 cigarettes a day"
-            },
-            {
-                "value": 1,
-                "name": " B. About 16-25 cigarettes a day"
-            },
-            {
-                "value": 2,
-                "name": " C. About 1-15 cigarettes a day"
-            },
-            {
-                "value": 3,
-                "name": " D. Less than 1 day"
+                "name": " A. Over 26 cigarettes a day,  1"
             }
         ],
         "schema:minValue": 0,

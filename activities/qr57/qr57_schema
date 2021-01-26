@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr57_schema",
-    "skos:prefLabel": "Children's Coping Strategies Checklist",
+    "skos:prefLabel": "Children's Coping Strategies Checklist ",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {

@@ -10,6 +10,9 @@
     "ui": {
         "inputType": "radio"
     },
+    "itemPreamble": {
+        "en": " "
+    },
     "question": {
         "en": "Gets along better with adults than other children (for 11-17 year olds: Gets along better with adults than with other youth)"
     },

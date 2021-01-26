@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr20_schema",
-    "skos:prefLabel": "Youth Self Report",
+    "skos:prefLabel": "Youth Self Report ",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {

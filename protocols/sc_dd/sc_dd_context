@@ -70,6 +70,14 @@
             "@id": "activity_path:qr27/qr27_schema",
             "@type": "@id"
         },
+        "qr88": {
+            "@id": "activity_path:qr88/qr88_schema",
+            "@type": "@id"
+        },
+        "qr39": {
+            "@id": "activity_path:qr39/qr39_schema",
+            "@type": "@id"
+        },
         "qr41": {
             "@id": "activity_path:qr41/qr41_schema",
             "@type": "@id"
@@ -160,34 +168,6 @@
         },
         "qr77": {
             "@id": "activity_path:qr77/qr77_schema",
-            "@type": "@id"
-        },
-        "qr161": {
-            "@id": "activity_path:qr161/qr161_schema",
-            "@type": "@id"
-        },
-        "qr43": {
-            "@id": "activity_path:qr43/qr43_schema",
-            "@type": "@id"
-        },
-        "qr56": {
-            "@id": "activity_path:qr56/qr56_schema",
-            "@type": "@id"
-        },
-        "CSC": {
-            "@id": "activity_path:CSC/CSC_schema",
-            "@type": "@id"
-        },
-        "PBS": {
-            "@id": "activity_path:PBS/PBS_schema",
-            "@type": "@id"
-        },
-        "CFS": {
-            "@id": "activity_path:CFS/CFS_schema",
-            "@type": "@id"
-        },
-        "qr172": {
-            "@id": "activity_path:qr172/qr172_schema",
             "@type": "@id"
         }
     }

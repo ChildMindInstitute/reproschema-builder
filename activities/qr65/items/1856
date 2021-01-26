@@ -17,15 +17,7 @@
         "choices": [
             {
                 "value": 0,
-                "name": " A. Always"
-            },
-            {
-                "value": 1,
-                "name": " B. Quite Often"
-            },
-            {
-                "value": 2,
-                "name": " C. Seldom"
+                "name": " A. Always,  1"
             },
             {
                 "value": 3,

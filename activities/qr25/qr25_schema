@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Activity",
     "@id": "qr25_schema",
-    "skos:prefLabel": "Screen for Child Anxiety Related Disorders - Parent report",
+    "skos:prefLabel": "Screen for Child Anxiety Related Disorders - Parent report ",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {

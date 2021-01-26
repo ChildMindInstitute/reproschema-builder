@@ -10,6 +10,9 @@
     "ui": {
         "inputType": "radio"
     },
+    "itemPreamble": {
+        "en": " "
+    },
     "question": {
         "en": "Often fights with other children or bullies them (for 11-17 year olds: Often fights with other youth or bullies them)"
     },
