@@ -1,0 +1,30 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "CSC_20C",
+    "skos:prefLabel": "CSC_20C",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Often feels very nervous when he/she has to do things in front of others (Current)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "No"
+            },
+            {
+                "value": 1,
+                "name": "Yes"
+            }
+        ],
+        "schema:minValue": 0,
+        "schema:maxValue": 1
+    }
+}

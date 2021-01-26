@@ -5178,278 +5178,278 @@ When the following questions ask about âCERTAIN FOODSâ please think of
 1098,qr56,Listed below are items concerning behaviors or problems sometimes experienced by adults. Read each item carefully and decide how much or how frequently each item describes you recently. Indicate your response for each item by selecting the number that corresponds to your choice. Click the Next button to begin. ,Listed below are items concerning behaviors or problems sometimes experienced by adults. Read each item carefully and decide how much or how frequently each item describes you recently. Indicate your response for each item by selecting the number that corresponds to your choice.,,,I can’t keep my mind on something unless it’s really interesting.,"0=""Not at all, never""; 1=""Just a little, once in a while""; 2=""Pretty much, often""; 3=""Very much, very frequently""",1,,,,,,,"Conners Adult ADHD Rating Scale – Self Report, Short Version "
 1099,qr56,Listed below are items concerning behaviors or problems sometimes experienced by adults. Read each item carefully and decide how much or how frequently each item describes you recently. Indicate your response for each item by selecting the number that corresponds to your choice. Click the Next button to begin. ,Listed below are items concerning behaviors or problems sometimes experienced by adults. Read each item carefully and decide how much or how frequently each item describes you recently. Indicate your response for each item by selecting the number that corresponds to your choice.,,,I wish I had greater confidence in my abilities.,"0=""Not at all, never""; 1=""Just a little, once in a while""; 2=""Pretty much, often""; 3=""Very much, very frequently""",1,,,,,,,"Conners Adult ADHD Rating Scale – Self Report, Short Version "
 1100,qr56,Listed below are items concerning behaviors or problems sometimes experienced by adults. Read each item carefully and decide how much or how frequently each item describes you recently. Indicate your response for each item by selecting the number that corresponds to your choice. Click the Next button to begin. ,Listed below are items concerning behaviors or problems sometimes experienced by adults. Read each item carefully and decide how much or how frequently each item describes you recently. Indicate your response for each item by selecting the number that corresponds to your choice.,,,My past failures make it hard for me to believe in myself.,"0=""Not at all, never""; 1=""Just a little, once in a while""; 2=""Pretty much, often""; 3=""Very much, very frequently""",1,,,,,,,"Conners Adult ADHD Rating Scale – Self Report, Short Version "
-CSC,CSC_01C,My Child…,,,,Feels sad and down most days for at least 1 week (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_01P,My Child…,,,,Feels sad and down most days for at least 1 week (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_02C,My Child…,,,,Often feels annoyed and irritated (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_02P,My Child…,,,,Often feels annoyed and irritated (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_03C,My Child…,,,,Has a loss of interest in previously enjoyable activities (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_03P,My Child…,,,,Has a loss of interest in previously enjoyable activities (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_04C,My Child…,,,,"Often feels overly happy and silly, above and beyond a normal feeling (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_04P,My Child…,,,,"Often feels overly happy and silly, above and beyond a normal feeling (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_05C,My Child…,,,,Has strong and explosive feelings of anger (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_05P,My Child…,,,,Has strong and explosive feelings of anger (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_06C,My Child…,,,,Has periods of unusual energy and activity (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_06P,My Child…,,,,Has periods of unusual energy and activity (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_07C,My Child…,,,,Has times when he/she sleeps much less than usual but still feels rested (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_07P,My Child…,,,,Has times when he/she sleeps much less than usual but still feels rested (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_08C,My Child…,,,,Has times when he/she is much more interested in sex than usual (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_08P,My Child…,,,,Has times when he/she is much more interested in sex than usual (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_09P,My Child…,,,,"Hears, sees, or smells things that other people cannot (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_09C,My Child…,,,,"Hears, sees, or smells things that other people cannot (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_10C,My Child…,,,,Has unusual thoughts or beliefs that others cannot understand or believe (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_10P,My Child…,,,,Has unusual thoughts or beliefs that others cannot understand or believe (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_11C,My Child…,,,,"Has anxiety attacks, where out of the blue he/she suddenly feels scared (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_11P,My Child…,,,,"Has anxiety attacks, where out of the blue he/she suddenly feels scared (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_12C,My Child…,,,,"eels very afraid of being in a crowded place, or going outside in public alone (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_12P,My Child…,,,,"eels very afraid of being in a crowded place, or going outside in public alone (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_13C,My Child…,,,,"Feels very afraid of being on a bridge or traveling in a car, bus, or train (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_13P,My Child…,,,,"Feels very afraid of being on a bridge or traveling in a car, bus, or train (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_14C,My Child…,,,,Worries about being separated from parent/guardian because of getting lost or kidnapped (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_14P,My Child…,,,,Worries about being separated from parent/guardian because of getting lost or kidnapped (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_15C,My Child…,,,,Worries excessively about harm occuring to parents/guardians (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_15P,My Child…,,,,Worries excessively about harm occuring to parents/guardians (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_16C,My Child…,,,,"Often does not want to go to school, due to worry about parent/guardian separation  (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_16P,My Child…,,,,"Often does not want to go to school, due to worry about parent/guardian separation  (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_17C,My Child…,,,,Often has trouble going to sleep without parent/guardian nearby (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_17P,My Child…,,,,Often has trouble going to sleep without parent/guardian nearby (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_18C,My Child…,,,,Is afraid of being alone at home or in a different room than parent/guardian (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_18P,My Child…,,,,Is afraid of being alone at home or in a different room than parent/guardian (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_19C,My Child…,,,,Often feels very nervous around people (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_19P,My Child…,,,,Often feels very nervous around people (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_20C,My Child…,,,,Often feels very nervous when he/she has to do things in front of others (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_20P,My Child…,,,,Often feels very nervous when he/she has to do things in front of others (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_21C,My Child…,,,,"Is unable to speak in specific situations, such as school, despite being able to speak without a problem in other situations (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_21P,My Child…,,,,"Is unable to speak in specific situations, such as school, despite being able to speak without a problem in other situations (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_22C,My Child…,,,,"Has intense fears of specific animals, situations, or anything else (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_22P,My Child…,,,,"Has intense fears of specific animals, situations, or anything else (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_23C,My Child…,,,,Worries most days of the week (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_23P,My Child…,,,,Worries most days of the week (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_24C,My Child…,,,,Often misses school or other activities because he/she doesn't feel well (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_24P,My Child…,,,,Often misses school or other activities because he/she doesn't feel well (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_25C,My Child…,,,,Feels very nervous and unable to relax most days of the week (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_25P,My Child…,,,,Feels very nervous and unable to relax most days of the week (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_26C,My Child…,,,,Is bothered by thoughts which keep coming into his/her head for no reason (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_26P,My Child…,,,,Is bothered by thoughts which keep coming into his/her head for no reason (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_27C,My Child…,,,,"Feels like he/she has to do certain things in a very specific way (handwashing, checking, doing things multiple times) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_27P,My Child…,,,,"Feels like he/she has to do certain things in a very specific way (handwashing, checking, doing things multiple times) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_28C,My Child…,,,,Often has accidents when he/she wets the bed or self during the day (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_28P,My Child…,,,,Often has accidents when he/she wets the bed or self during the day (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_29C,My Child…,,,,Often has accidents when he/she soild the bed or self during the day (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_29P,My Child…,,,,Often has accidents when he/she soild the bed or self during the day (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_30C,My Child…,,,,Feels extremely worried about gaining weight or becoming fat (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_30P,My Child…,,,,Feels extremely worried about gaining weight or becoming fat (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_31C,My Child…,,,,Is underweight for his/her age and height (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_31P,My Child…,,,,Is underweight for his/her age and height (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_32C,My Child…,,,,"Uses diet pills, throws up, or works out excessively to try to lose weight (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_32P,My Child…,,,,"Uses diet pills, throws up, or works out excessively to try to lose weight (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_33C,My Child…,,,,"Has frequent eating binges, and it feels out of control (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_33P,My Child…,,,,"Has frequent eating binges, and it feels out of control (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_34C,My Child…,,,,"Has trouble paying attention, and it affects school work or performance (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_34P,My Child…,,,,"Has trouble paying attention, and it affects school work or performance (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_35C,My Child…,,,,Is often easily distracted (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_35P,My Child…,,,,Is often easily distracted (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_36C,My Child…,,,,Has difficulty remaining seated at home or school (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_36P,My Child…,,,,Has difficulty remaining seated at home or school (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_37C,My Child…,,,,Often acts before thinking (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_37P,My Child…,,,,Often acts before thinking (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_38C,My Child…,,,,Often becomes really upset and loses his/her temper (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_38P,My Child…,,,,Often becomes really upset and loses his/her temper (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_39C,My Child…,,,,"Argues or talks back to adults, more than others his/her age (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_39P,My Child…,,,,"Argues or talks back to adults, more than others his/her age (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_40C,My Child…,,,,Actively disobeys or doesn't listen to adult rules (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_40P,My Child…,,,,Actively disobeys or doesn't listen to adult rules (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_41C,My Child…,,,,Frequently lies (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_41P,My Child…,,,,Frequently lies (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_42C,My Child…,,,,Has skipped a part or a whole day of school (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_42P,My Child…,,,,Has skipped a part or a whole day of school (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_43C,My Child…,,,,Frequently starts physical fights with peers (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_43P,My Child…,,,,Frequently starts physical fights with peers (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_44C,My Child…,,,,"Bullies, threatens, or intimidates others (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_44P,My Child…,,,,"Bullies, threatens, or intimidates others (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_45C,My Child…,,,,Has stolen or shoplifted items (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_45P,My Child…,,,,Has stolen or shoplifted items (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_46C,My Child…,,,,"Notices muscles moving uncontrollably (blinking a lot, shrugging) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_46P,My Child…,,,,"Notices muscles moving uncontrollably (blinking a lot, shrugging) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_47C,My Child…,,,,"Makes noises that he/she can't control (repeating sounds, sniffing) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_47P,My Child…,,,,"Makes noises that he/she can't control (repeating sounds, sniffing) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_48C,My Child…,,,,Has unusual physical mannerisms (rocked body or flapping hands) (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_48P,My Child…,,,,Has unusual physical mannerisms (rocked body or flapping hands) (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_49C,My Child…,,,,Feels really upset when there is an unexpected change in his/her schedule (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_49P,My Child…,,,,Feels really upset when there is an unexpected change in his/her schedule (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_50C,My Child…,,,,"Is preoccupied with very specific objects, routines, or interests (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_50P,My Child…,,,,"Is preoccupied with very specific objects, routines, or interests (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_51C,My Child…,,,,Often has a difficult time making eye contact (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_51P,My Child…,,,,Often has a difficult time making eye contact (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_52C,My Child…,,,,Has a hard time expressing feelings on his/her face during social interactions (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_52P,My Child…,,,,Has a hard time expressing feelings on his/her face during social interactions (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_53C,My Child…,,,,Smokes or chews tobacco (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_53P,My Child…,,,,Smokes or chews tobacco (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_54C,My Child…,,,,Drinks alcohol (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_54P,My Child…,,,,Drinks alcohol (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55aC,My Child…,,Has used the following drugs:,,"Cannabis (marijuana, pot, hash, THC) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55aP,My Child…,,,,"Cannabis (marijuana, pot, hash, THC) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55bC,My Child…,,,,"Stimulants (speed, amphetamines, dexedrine, diet pills, crystal meth) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55bP,My Child…,,,,"Stimulants (speed, amphetamines, dexedrine, diet pills, crystal meth) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55cC,My Child…,,,,"Sedatives/Hypnotics (barbiturates, quaalude, valium, xanax) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55cP,My Child…,,,,"Sedatives/Hypnotics (barbiturates, quaalude, valium, xanax) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55dC,My Child…,,,,"Cocaine (coke, crack) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55dP,My Child…,,,,"Cocaine (coke, crack) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55eC,My Child…,,,,"Opioids (heroin, morphine, codeine, methadone, percodan, oxycotin) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55eP,My Child…,,,,"Opioids (heroin, morphine, codeine, methadone, percodan, oxycotin) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55fC,My Child…,,,,PCP (angel dust) (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55fP,My Child…,,,,PCP (angel dust) (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55gC,My Child…,,,,"Hallucinogens (psychedelics, LSD, mescaline, peyote) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55gP,My Child…,,,,"Hallucinogens (psychedelics, LSD, mescaline, peyote) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55hC,My Child…,,,,"Solvents/Inhalants (glue, gasoline, chloroform, ether, paint) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55hP,My Child…,,,,"Solvents/Inhalants (glue, gasoline, chloroform, ether, paint) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55iC,My Child…,,,,"Other (prescription drugs, nitrous oxide, ecstasy, MDMA, etc.) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-CSC,CSC_55iP,My Child…,,,,"Other (prescription drugs, nitrous oxide, ecstasy, MDMA, etc.) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
-PBS,PBS_01,the target child:,,,,"Is cheerful, happy","0 = Never
+CSC_01C,CSC,My Child…,,,,Feels sad and down most days for at least 1 week (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_01P,CSC,My Child…,,,,Feels sad and down most days for at least 1 week (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_02C,CSC,My Child…,,,,Often feels annoyed and irritated (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_02P,CSC,My Child…,,,,Often feels annoyed and irritated (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_03C,CSC,My Child…,,,,Has a loss of interest in previously enjoyable activities (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_03P,CSC,My Child…,,,,Has a loss of interest in previously enjoyable activities (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_04C,CSC,My Child…,,,,"Often feels overly happy and silly, above and beyond a normal feeling (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_04P,CSC,My Child…,,,,"Often feels overly happy and silly, above and beyond a normal feeling (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_05C,CSC,My Child…,,,,Has strong and explosive feelings of anger (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_05P,CSC,My Child…,,,,Has strong and explosive feelings of anger (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_06C,CSC,My Child…,,,,Has periods of unusual energy and activity (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_06P,CSC,My Child…,,,,Has periods of unusual energy and activity (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_07C,CSC,My Child…,,,,Has times when he/she sleeps much less than usual but still feels rested (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_07P,CSC,My Child…,,,,Has times when he/she sleeps much less than usual but still feels rested (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_08C,CSC,My Child…,,,,Has times when he/she is much more interested in sex than usual (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_08P,CSC,My Child…,,,,Has times when he/she is much more interested in sex than usual (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_09P,CSC,My Child…,,,,"Hears, sees, or smells things that other people cannot (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_09C,CSC,My Child…,,,,"Hears, sees, or smells things that other people cannot (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_10C,CSC,My Child…,,,,Has unusual thoughts or beliefs that others cannot understand or believe (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_10P,CSC,My Child…,,,,Has unusual thoughts or beliefs that others cannot understand or believe (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_11C,CSC,My Child…,,,,"Has anxiety attacks, where out of the blue he/she suddenly feels scared (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_11P,CSC,My Child…,,,,"Has anxiety attacks, where out of the blue he/she suddenly feels scared (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_12C,CSC,My Child…,,,,"eels very afraid of being in a crowded place, or going outside in public alone (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_12P,CSC,My Child…,,,,"eels very afraid of being in a crowded place, or going outside in public alone (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_13C,CSC,My Child…,,,,"Feels very afraid of being on a bridge or traveling in a car, bus, or train (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_13P,CSC,My Child…,,,,"Feels very afraid of being on a bridge or traveling in a car, bus, or train (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_14C,CSC,My Child…,,,,Worries about being separated from parent/guardian because of getting lost or kidnapped (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_14P,CSC,My Child…,,,,Worries about being separated from parent/guardian because of getting lost or kidnapped (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_15C,CSC,My Child…,,,,Worries excessively about harm occuring to parents/guardians (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_15P,CSC,My Child…,,,,Worries excessively about harm occuring to parents/guardians (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_16C,CSC,My Child…,,,,"Often does not want to go to school, due to worry about parent/guardian separation  (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_16P,CSC,My Child…,,,,"Often does not want to go to school, due to worry about parent/guardian separation  (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_17C,CSC,My Child…,,,,Often has trouble going to sleep without parent/guardian nearby (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_17P,CSC,My Child…,,,,Often has trouble going to sleep without parent/guardian nearby (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_18C,CSC,My Child…,,,,Is afraid of being alone at home or in a different room than parent/guardian (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_18P,CSC,My Child…,,,,Is afraid of being alone at home or in a different room than parent/guardian (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_19C,CSC,My Child…,,,,Often feels very nervous around people (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_19P,CSC,My Child…,,,,Often feels very nervous around people (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_20C,CSC,My Child…,,,,Often feels very nervous when he/she has to do things in front of others (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_20P,CSC,My Child…,,,,Often feels very nervous when he/she has to do things in front of others (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_21C,CSC,My Child…,,,,"Is unable to speak in specific situations, such as school, despite being able to speak without a problem in other situations (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_21P,CSC,My Child…,,,,"Is unable to speak in specific situations, such as school, despite being able to speak without a problem in other situations (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_22C,CSC,My Child…,,,,"Has intense fears of specific animals, situations, or anything else (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_22P,CSC,My Child…,,,,"Has intense fears of specific animals, situations, or anything else (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_23C,CSC,My Child…,,,,Worries most days of the week (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_23P,CSC,My Child…,,,,Worries most days of the week (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_24C,CSC,My Child…,,,,Often misses school or other activities because he/she doesn't feel well (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_24P,CSC,My Child…,,,,Often misses school or other activities because he/she doesn't feel well (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_25C,CSC,My Child…,,,,Feels very nervous and unable to relax most days of the week (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_25P,CSC,My Child…,,,,Feels very nervous and unable to relax most days of the week (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_26C,CSC,My Child…,,,,Is bothered by thoughts which keep coming into his/her head for no reason (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_26P,CSC,My Child…,,,,Is bothered by thoughts which keep coming into his/her head for no reason (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_27C,CSC,My Child…,,,,"Feels like he/she has to do certain things in a very specific way (handwashing, checking, doing things multiple times) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_27P,CSC,My Child…,,,,"Feels like he/she has to do certain things in a very specific way (handwashing, checking, doing things multiple times) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_28C,CSC,My Child…,,,,Often has accidents when he/she wets the bed or self during the day (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_28P,CSC,My Child…,,,,Often has accidents when he/she wets the bed or self during the day (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_29C,CSC,My Child…,,,,Often has accidents when he/she soild the bed or self during the day (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_29P,CSC,My Child…,,,,Often has accidents when he/she soild the bed or self during the day (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_30C,CSC,My Child…,,,,Feels extremely worried about gaining weight or becoming fat (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_30P,CSC,My Child…,,,,Feels extremely worried about gaining weight or becoming fat (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_31C,CSC,My Child…,,,,Is underweight for his/her age and height (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_31P,CSC,My Child…,,,,Is underweight for his/her age and height (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_32C,CSC,My Child…,,,,"Uses diet pills, throws up, or works out excessively to try to lose weight (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_32P,CSC,My Child…,,,,"Uses diet pills, throws up, or works out excessively to try to lose weight (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_33C,CSC,My Child…,,,,"Has frequent eating binges, and it feels out of control (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_33P,CSC,My Child…,,,,"Has frequent eating binges, and it feels out of control (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_34C,CSC,My Child…,,,,"Has trouble paying attention, and it affects school work or performance (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_34P,CSC,My Child…,,,,"Has trouble paying attention, and it affects school work or performance (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_35C,CSC,My Child…,,,,Is often easily distracted (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_35P,CSC,My Child…,,,,Is often easily distracted (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_36C,CSC,My Child…,,,,Has difficulty remaining seated at home or school (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_36P,CSC,My Child…,,,,Has difficulty remaining seated at home or school (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_37C,CSC,My Child…,,,,Often acts before thinking (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_37P,CSC,My Child…,,,,Often acts before thinking (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_38C,CSC,My Child…,,,,Often becomes really upset and loses his/her temper (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_38P,CSC,My Child…,,,,Often becomes really upset and loses his/her temper (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_39C,CSC,My Child…,,,,"Argues or talks back to adults, more than others his/her age (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_39P,CSC,My Child…,,,,"Argues or talks back to adults, more than others his/her age (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_40C,CSC,My Child…,,,,Actively disobeys or doesn't listen to adult rules (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_40P,CSC,My Child…,,,,Actively disobeys or doesn't listen to adult rules (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_41C,CSC,My Child…,,,,Frequently lies (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_41P,CSC,My Child…,,,,Frequently lies (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_42C,CSC,My Child…,,,,Has skipped a part or a whole day of school (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_42P,CSC,My Child…,,,,Has skipped a part or a whole day of school (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_43C,CSC,My Child…,,,,Frequently starts physical fights with peers (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_43P,CSC,My Child…,,,,Frequently starts physical fights with peers (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_44C,CSC,My Child…,,,,"Bullies, threatens, or intimidates others (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_44P,CSC,My Child…,,,,"Bullies, threatens, or intimidates others (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_45C,CSC,My Child…,,,,Has stolen or shoplifted items (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_45P,CSC,My Child…,,,,Has stolen or shoplifted items (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_46C,CSC,My Child…,,,,"Notices muscles moving uncontrollably (blinking a lot, shrugging) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_46P,CSC,My Child…,,,,"Notices muscles moving uncontrollably (blinking a lot, shrugging) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_47C,CSC,My Child…,,,,"Makes noises that he/she can't control (repeating sounds, sniffing) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_47P,CSC,My Child…,,,,"Makes noises that he/she can't control (repeating sounds, sniffing) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_48C,CSC,My Child…,,,,Has unusual physical mannerisms (rocked body or flapping hands) (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_48P,CSC,My Child…,,,,Has unusual physical mannerisms (rocked body or flapping hands) (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_49C,CSC,My Child…,,,,Feels really upset when there is an unexpected change in his/her schedule (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_49P,CSC,My Child…,,,,Feels really upset when there is an unexpected change in his/her schedule (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_50C,CSC,My Child…,,,,"Is preoccupied with very specific objects, routines, or interests (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_50P,CSC,My Child…,,,,"Is preoccupied with very specific objects, routines, or interests (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_51C,CSC,My Child…,,,,Often has a difficult time making eye contact (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_51P,CSC,My Child…,,,,Often has a difficult time making eye contact (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_52C,CSC,My Child…,,,,Has a hard time expressing feelings on his/her face during social interactions (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_52P,CSC,My Child…,,,,Has a hard time expressing feelings on his/her face during social interactions (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_53C,CSC,My Child…,,,,Smokes or chews tobacco (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_53P,CSC,My Child…,,,,Smokes or chews tobacco (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_54C,CSC,My Child…,,,,Drinks alcohol (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_54P,CSC,My Child…,,,,Drinks alcohol (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55aC,CSC,My Child…,,Has used the following drugs:,,"Cannabis (marijuana, pot, hash, THC) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55aP,CSC,My Child…,,,,"Cannabis (marijuana, pot, hash, THC) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55bC,CSC,My Child…,,,,"Stimulants (speed, amphetamines, dexedrine, diet pills, crystal meth) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55bP,CSC,My Child…,,,,"Stimulants (speed, amphetamines, dexedrine, diet pills, crystal meth) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55cC,CSC,My Child…,,,,"Sedatives/Hypnotics (barbiturates, quaalude, valium, xanax) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55cP,CSC,My Child…,,,,"Sedatives/Hypnotics (barbiturates, quaalude, valium, xanax) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55dC,CSC,My Child…,,,,"Cocaine (coke, crack) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55dP,CSC,My Child…,,,,"Cocaine (coke, crack) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55eC,CSC,My Child…,,,,"Opioids (heroin, morphine, codeine, methadone, percodan, oxycotin) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55eP,CSC,My Child…,,,,"Opioids (heroin, morphine, codeine, methadone, percodan, oxycotin) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55fC,CSC,My Child…,,,,PCP (angel dust) (Current),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55fP,CSC,My Child…,,,,PCP (angel dust) (Past),"0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55gC,CSC,My Child…,,,,"Hallucinogens (psychedelics, LSD, mescaline, peyote) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55gP,CSC,My Child…,,,,"Hallucinogens (psychedelics, LSD, mescaline, peyote) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55hC,CSC,My Child…,,,,"Solvents/Inhalants (glue, gasoline, chloroform, ether, paint) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55hP,CSC,My Child…,,,,"Solvents/Inhalants (glue, gasoline, chloroform, ether, paint) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55iC,CSC,My Child…,,,,"Other (prescription drugs, nitrous oxide, ecstasy, MDMA, etc.) (Current)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+CSC_55iP,CSC,My Child…,,,,"Other (prescription drugs, nitrous oxide, ecstasy, MDMA, etc.) (Past)","0=No, 1=Yes",1,,,0,1,,,CMI Symptom Checklist – Parent Report
+PBS_01,PBS,the target child:,,,,"Is cheerful, happy","0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_02,the target child:,,,,"Is warm, loving","0 = Never
+PBS_02,PBS,the target child:,,,,"Is warm, loving","0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_03,the target child:,,,,Is curious and exploring likes new experiences,"0 = Never
+PBS_03,PBS,the target child:,,,,Is curious and exploring likes new experiences,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_04,the target child:,,,,Gets along well with other kids,"0 = Never
+PBS_04,PBS,the target child:,,,,Gets along well with other kids,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_05,the target child:,,,,Can get over being upset quickly,"0 = Never
+PBS_05,PBS,the target child:,,,,Can get over being upset quickly,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_06,the target child:,,,,Is admired and well liked by other kids,"0 = Never
+PBS_06,PBS,the target child:,,,,Is admired and well liked by other kids,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_07,the target child:,,,,Shows concern for other people's feelings,"0 = Never
+PBS_07,PBS,the target child:,,,,Shows concern for other people's feelings,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_08,the target child:,,,,Is easily calmed when (he/she) gets angry,"0 = Never
+PBS_08,PBS,the target child:,,,,Is easily calmed when (he/she) gets angry,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_09,the target child:,,,,Is helpful and cooperative ,"0 = Never
+PBS_09,PBS,the target child:,,,,Is helpful and cooperative ,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_10,the target child:,,,,Is considerate and thoughtful of other kids,"0 = Never
+PBS_10,PBS,the target child:,,,,Is considerate and thoughtful of other kids,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_11,the target child:,,,,"Tends to give, lend, and share","0 = Never
+PBS_11,PBS,the target child:,,,,"Tends to give, lend, and share","0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_12,the target child:,,,,"Does things for (him/her)self, is self-reliant","0 = Never
+PBS_12,PBS,the target child:,,,,"Does things for (him/her)self, is self-reliant","0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_13,the target child:,,,,Can easily find something to do on (his/her) own,"0 = Never
+PBS_13,PBS,the target child:,,,,Can easily find something to do on (his/her) own,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_14,the target child:,,,,Shows pride when (he/she) does something well or learns something new,"0 = Never
+PBS_14,PBS,the target child:,,,,Shows pride when (he/she) does something well or learns something new,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_15,the target child:,,,,"Sticks up for (him/her) self, is self-assertive","0 = Never
+PBS_15,PBS,the target child:,,,,"Sticks up for (him/her) self, is self-assertive","0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_16,the target child:,,,,"Is independent, does things (him/her)self","0 = Never
+PBS_16,PBS,the target child:,,,,"Is independent, does things (him/her)self","0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_17,the target child:,,,,Waits his or her turn during actitivies,"0 = Never
+PBS_17,PBS,the target child:,,,,Waits his or her turn during actitivies,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_18,the target child:,,,,"Thinks before he or she acts, is not impulsive","0 = Never
+PBS_18,PBS,the target child:,,,,"Thinks before he or she acts, is not impulsive","0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_19,the target child:,,,,Usually does what I tell (him/her) to do,"0 = Never
+PBS_19,PBS,the target child:,,,,Usually does what I tell (him/her) to do,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_20,the target child:,,,,Is able to concentrate or focus on an activity,"0 = Never
+PBS_20,PBS,the target child:,,,,Is able to concentrate or focus on an activity,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_21,the target child:,,,,"Is obedient, follows rules","0 = Never
+PBS_21,PBS,the target child:,,,,"Is obedient, follows rules","0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_22,the target child:,,,,"Is calm, easy-going","0 = Never
+PBS_22,PBS,the target child:,,,,"Is calm, easy-going","0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_23,the target child:,,,,Sticks with an activity unitl it is finished,"0 = Never
+PBS_23,PBS,the target child:,,,,Sticks with an activity unitl it is finished,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_24,the target child:,,,,Is eager to please,"0 = Never
+PBS_24,PBS,the target child:,,,,Is eager to please,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-PBS,PBS_25,the target child:,,,,Is patient when (he/she) wants somethings,"0 = Never
+PBS_25,PBS,the target child:,,,,Is patient when (he/she) wants somethings,"0 = Never
 1 = Rarely
 2 = Someimtes
 3 = Very often
 4 = All of the time",1,,,0,4,,,Positive Behavior Scale
-CFS,CFS_01,,,,,child shows interest and curiosity in learning new things.,"1 = Never
+CFS_01,CFS,,,,,child shows interest and curiosity in learning new things.,"1 = Never
 2 =Rarely
 3 = Sometimes
 4 = Usualy
 5 = Always",1,,,1,5,,,Child Flourishing Scale
-CFS,CFS_02,,,,,Child stays calm and in control when faced with a chllenge ,"1 = Never
+CFS_02,CFS,,,,,Child stays calm and in control when faced with a chllenge ,"1 = Never
 2 =Rarely
 3 = Sometimes
 4 = Usualy
 5 = Always",1,,,1,5,,,Child Flourishing Scale
-CFS,CFS_03,,,,,Child finishes task and follows through with plans ,"1 = Never
+CFS_03,CFS,,,,,Child finishes task and follows through with plans ,"1 = Never
 2 =Rarely
 3 = Sometimes
 4 = Usualy
 5 = Always",1,,,1,5,,,Child Flourishing Scale
-CFS,CFS_04,,,,,Child cares about doing well at school.,"1 = Never
+CFS_04,CFS,,,,,Child cares about doing well at school.,"1 = Never
 2 =Rarely
 3 = Sometimes
 4 = Usualy
 5 = Always",1,,,1,5,,,Child Flourishing Scale
-CFS,CFS_05,,,,,Child completes all required homework ,"1 = Never
+CFS_05,CFS,,,,,Child completes all required homework ,"1 = Never
 2 =Rarely
 3 = Sometimes
 4 = Usualy

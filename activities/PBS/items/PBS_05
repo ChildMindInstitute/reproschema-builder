@@ -1,0 +1,42 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "PBS_05",
+    "skos:prefLabel": "PBS_05",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Can get over being upset quickly"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": " Never"
+            },
+            {
+                "value": 1,
+                "name": " Rarely"
+            },
+            {
+                "value": 2,
+                "name": " Someimtes"
+            },
+            {
+                "value": 3,
+                "name": " Very often"
+            },
+            {
+                "value": 4,
+                "name": " All of the time"
+            }
+        ],
+        "schema:minValue": 0,
+        "schema:maxValue": 4
+    }
+}
