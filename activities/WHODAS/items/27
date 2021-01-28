@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "27",
+    "skos:prefLabel": "27",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Getting out of their home?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "None"
+            },
+            {
+                "value": 1,
+                "name": "Mild"
+            },
+            {
+                "value": 2,
+                "name": "Moderate"
+            },
+            {
+                "value": 3,
+                "name": "Severe"
+            },
+            {
+                "value": 4,
+                "name": "Extreme or cant do"
+            }
+        ]
+    }
+}

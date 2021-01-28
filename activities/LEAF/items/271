@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "271",
+    "skos:prefLabel": "271",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Doesn’t listen when others are teaching or talking to him/her."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Never"
+            },
+            {
+                "value": 1,
+                "name": "Sometimes"
+            },
+            {
+                "value": 2,
+                "name": "Often"
+            },
+            {
+                "value": 3,
+                "name": "Very Often"
+            }
+        ]
+    }
+}

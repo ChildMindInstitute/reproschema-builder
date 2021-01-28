@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "55",
+    "skos:prefLabel": "55",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Difficulty making or keeping friends"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Never"
+            },
+            {
+                "value": 1,
+                "name": "Rarely"
+            },
+            {
+                "value": 2,
+                "name": "Sometimes"
+            },
+            {
+                "value": 3,
+                "name": "Frequently"
+            },
+            {
+                "value": 4,
+                "name": "Always"
+            }
+        ]
+    }
+}
