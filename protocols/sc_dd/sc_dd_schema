@@ -12,31 +12,6 @@
     "ui": {
         "addProperties": [
             {
-                "variableName": "515",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/515/515_schema",
-                "isVis": true
-            },
-            {
-                "variableName": "PSC17",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/PSC17/PSC17_schema",
-                "isVis": true
-            },
-            {
-                "variableName": "WHODAS",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/WHODAS/WHODAS_schema",
-                "isVis": true
-            },
-            {
-                "variableName": "Colorado",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/Colorado/Colorado_schema",
-                "isVis": true
-            },
-            {
-                "variableName": "LEAF",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/LEAF/LEAF_schema",
-                "isVis": true
-            },
-            {
                 "variableName": "PSC17Meta",
                 "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/PSC17Meta/PSC17Meta_schema",
                 "isVis": true
@@ -63,11 +38,6 @@
             }
         ],
         "order": [
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/515/515_schema",
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/PSC17/PSC17_schema",
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/WHODAS/WHODAS_schema",
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/Colorado/Colorado_schema",
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/LEAF/LEAF_schema",
             "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/PSC17Meta/PSC17Meta_schema",
             "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/WHODASMeta/WHODASMeta_schema",
             "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/ColoradoMeta/ColoradoMeta_schema",

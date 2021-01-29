@@ -28,5 +28,8 @@
                 "name": "Not at all"
             }
         ]
+    },
+    "itemPreamble": {
+        "en": "How well did you understand this question?"
     }
 }
