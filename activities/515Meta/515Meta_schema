@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/515Meta/515Meta_context"
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/515Meta/515Meta_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "515Meta_schema",

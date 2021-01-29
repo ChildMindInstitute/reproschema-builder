@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/PSC17Meta/PSC17Meta_context"
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/PSC17Meta/PSC17Meta_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "PSC17Meta_schema",

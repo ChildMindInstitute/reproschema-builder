@@ -69,6 +69,6 @@
             "@type": "@id"
         },
         "@version": 1.1,
-        "PSC17Meta": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/PSC17Meta/items/"
+        "PSC17Meta": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/PSC17Meta/items/"
     }
 }

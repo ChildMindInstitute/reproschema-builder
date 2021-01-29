@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "activity_path": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/",
+        "activity_path": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/",
         "PSC17Meta": {
             "@id": "activity_path:PSC17Meta/PSC17Meta_schema",
             "@type": "@id"

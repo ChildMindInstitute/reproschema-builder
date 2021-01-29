@@ -221,6 +221,6 @@
             "@type": "@id"
         },
         "@version": 1.1,
-        "LEAFMeta": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/LEAFMeta/items/"
+        "LEAFMeta": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/LEAFMeta/items/"
     }
 }

@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/ColoradoMeta/ColoradoMeta_context"
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/ColoradoMeta/ColoradoMeta_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "ColoradoMeta_schema",

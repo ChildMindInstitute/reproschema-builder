@@ -1,11 +1,11 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/protocols/sc_dd/sc_dd_context"
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/protocols/sc_dd/sc_dd_context"
     ],
     "@type": "reproschema:Protocol",
     "@id": "sc_dd_schema",
-    "skos:prefLabel": "LISA",
+    "skos:prefLabel": "LISA META",
     "schema:description": "Description for your protocol",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
@@ -13,36 +13,36 @@
         "addProperties": [
             {
                 "variableName": "PSC17Meta",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/PSC17Meta/PSC17Meta_schema",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/PSC17Meta/PSC17Meta_schema",
                 "isVis": true
             },
             {
                 "variableName": "WHODASMeta",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/WHODASMeta/WHODASMeta_schema",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/WHODASMeta/WHODASMeta_schema",
                 "isVis": true
             },
             {
                 "variableName": "ColoradoMeta",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/ColoradoMeta/ColoradoMeta_schema",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/ColoradoMeta/ColoradoMeta_schema",
                 "isVis": true
             },
             {
                 "variableName": "515Meta",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/515Meta/515Meta_schema",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/515Meta/515Meta_schema",
                 "isVis": true
             },
             {
                 "variableName": "LEAFMeta",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/LEAFMeta/LEAFMeta_schema",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/LEAFMeta/LEAFMeta_schema",
                 "isVis": true
             }
         ],
         "order": [
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/PSC17Meta/PSC17Meta_schema",
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/WHODASMeta/WHODASMeta_schema",
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/ColoradoMeta/ColoradoMeta_schema",
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/515Meta/515Meta_schema",
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/LEAFMeta/LEAFMeta_schema"
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/PSC17Meta/PSC17Meta_schema",
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/WHODASMeta/WHODASMeta_schema",
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/ColoradoMeta/ColoradoMeta_schema",
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/515Meta/515Meta_schema",
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea-meta/activities/LEAFMeta/LEAFMeta_schema"
         ],
         "shuffle": false
     }
