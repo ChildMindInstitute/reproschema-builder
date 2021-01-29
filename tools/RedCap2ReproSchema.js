@@ -4,12 +4,12 @@
 const protocolName = "sc_dd";
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "LISA";
+const protocolDisplayName = "LISA META";
 
 //2. create your raw github repo URL
 const userName = 'charlie42';
 const repoName = 'reproschema-builder';
-const branchName = 'ifea';
+const branchName = 'ifea-meta';
 
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`;
 
