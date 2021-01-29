@@ -21,26 +21,6 @@
         "LEAF": {
             "@id": "activity_path:LEAF/LEAF_schema",
             "@type": "@id"
-        },
-        "PSC17Meta": {
-            "@id": "activity_path:PSC17Meta/PSC17Meta_schema",
-            "@type": "@id"
-        },
-        "WHODASMeta": {
-            "@id": "activity_path:WHODASMeta/WHODASMeta_schema",
-            "@type": "@id"
-        },
-        "ColoradoMeta": {
-            "@id": "activity_path:ColoradoMeta/ColoradoMeta_schema",
-            "@type": "@id"
-        },
-        "515Meta": {
-            "@id": "activity_path:515Meta/515Meta_schema",
-            "@type": "@id"
-        },
-        "LEAFMeta": {
-            "@id": "activity_path:LEAFMeta/LEAFMeta_schema",
-            "@type": "@id"
         }
     }
 }
