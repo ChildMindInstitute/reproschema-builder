@@ -1,0 +1,140 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/PSC17Meta/PSC17Meta_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "PSC17Meta_schema",
+    "skos:prefLabel": "PSC-17 Meta",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "How well did you understand these questions?"
+    },
+    "ui": {
+        "order": [
+            "312",
+            "313",
+            "314",
+            "315",
+            "316",
+            "317",
+            "318",
+            "319",
+            "320",
+            "321",
+            "322",
+            "323",
+            "324",
+            "325",
+            "326",
+            "327",
+            "328"
+        ],
+        "addProperties": [
+            {
+                "variableName": "312",
+                "isAbout": "312",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "313",
+                "isAbout": "313",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "314",
+                "isAbout": "314",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "315",
+                "isAbout": "315",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "316",
+                "isAbout": "316",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "317",
+                "isAbout": "317",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "318",
+                "isAbout": "318",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "319",
+                "isAbout": "319",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "320",
+                "isAbout": "320",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "321",
+                "isAbout": "321",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "322",
+                "isAbout": "322",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "323",
+                "isAbout": "323",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "324",
+                "isAbout": "324",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "325",
+                "isAbout": "325",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "326",
+                "isAbout": "326",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "327",
+                "isAbout": "327",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "328",
+                "isAbout": "328",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

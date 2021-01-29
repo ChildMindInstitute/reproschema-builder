@@ -1,0 +1,161 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/ColoradoMeta/ColoradoMeta_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "ColoradoMeta_schema",
+    "skos:prefLabel": "Colorado Learning Disabilities Questionnaire – Reading Subscale (CLDQ-R) Meta",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "How well did you understand these questions?"
+    },
+    "ui": {
+        "order": [
+            "356",
+            "357",
+            "358",
+            "359",
+            "360",
+            "361",
+            "362",
+            "363",
+            "364",
+            "365",
+            "366",
+            "367",
+            "368",
+            "369",
+            "370",
+            "371",
+            "372",
+            "373",
+            "374",
+            "375"
+        ],
+        "addProperties": [
+            {
+                "variableName": "356",
+                "isAbout": "356",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "357",
+                "isAbout": "357",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "358",
+                "isAbout": "358",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "359",
+                "isAbout": "359",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "360",
+                "isAbout": "360",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "361",
+                "isAbout": "361",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "362",
+                "isAbout": "362",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "363",
+                "isAbout": "363",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "364",
+                "isAbout": "364",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "365",
+                "isAbout": "365",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "366",
+                "isAbout": "366",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "367",
+                "isAbout": "367",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "368",
+                "isAbout": "368",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "369",
+                "isAbout": "369",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "370",
+                "isAbout": "370",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "371",
+                "isAbout": "371",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "372",
+                "isAbout": "372",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "373",
+                "isAbout": "373",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "374",
+                "isAbout": "374",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "375",
+                "isAbout": "375",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

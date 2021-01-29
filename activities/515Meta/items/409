@@ -1,0 +1,32 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "409",
+    "skos:prefLabel": "409",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Often blurts out answers before the question has been completed"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Perfectly"
+            },
+            {
+                "value": 1,
+                "name": "Somewhat"
+            },
+            {
+                "value": 2,
+                "name": "Not at all"
+            }
+        ]
+    }
+}

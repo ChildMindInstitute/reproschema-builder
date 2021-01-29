@@ -1,0 +1,74 @@
+{
+    "@context": {
+        "312": {
+            "@id": "PSC17Meta:312",
+            "@type": "@id"
+        },
+        "313": {
+            "@id": "PSC17Meta:313",
+            "@type": "@id"
+        },
+        "314": {
+            "@id": "PSC17Meta:314",
+            "@type": "@id"
+        },
+        "315": {
+            "@id": "PSC17Meta:315",
+            "@type": "@id"
+        },
+        "316": {
+            "@id": "PSC17Meta:316",
+            "@type": "@id"
+        },
+        "317": {
+            "@id": "PSC17Meta:317",
+            "@type": "@id"
+        },
+        "318": {
+            "@id": "PSC17Meta:318",
+            "@type": "@id"
+        },
+        "319": {
+            "@id": "PSC17Meta:319",
+            "@type": "@id"
+        },
+        "320": {
+            "@id": "PSC17Meta:320",
+            "@type": "@id"
+        },
+        "321": {
+            "@id": "PSC17Meta:321",
+            "@type": "@id"
+        },
+        "322": {
+            "@id": "PSC17Meta:322",
+            "@type": "@id"
+        },
+        "323": {
+            "@id": "PSC17Meta:323",
+            "@type": "@id"
+        },
+        "324": {
+            "@id": "PSC17Meta:324",
+            "@type": "@id"
+        },
+        "325": {
+            "@id": "PSC17Meta:325",
+            "@type": "@id"
+        },
+        "326": {
+            "@id": "PSC17Meta:326",
+            "@type": "@id"
+        },
+        "327": {
+            "@id": "PSC17Meta:327",
+            "@type": "@id"
+        },
+        "328": {
+            "@id": "PSC17Meta:328",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "PSC17Meta": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/PSC17Meta/items/"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "547",
+    "skos:prefLabel": "547",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Often teases others by deliberately doing things that are perceived as provocative"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Perfectly"
+            },
+            {
+                "value": 1,
+                "name": "Somewhat"
+            },
+            {
+                "value": 2,
+                "name": "Not at all"
+            }
+        ]
+    }
+}
