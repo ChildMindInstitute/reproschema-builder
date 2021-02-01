@@ -21,6 +21,10 @@
         "LEAF": {
             "@id": "activity_path:LEAF/LEAF_schema",
             "@type": "@id"
+        },
+        "Meta": {
+            "@id": "activity_path:Meta/Meta_schema",
+            "@type": "@id"
         }
     }
 }

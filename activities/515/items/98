@@ -26,6 +26,10 @@
             {
                 "value": 2,
                 "name": "Applies"
+            },
+            {
+                "value": 3,
+                "name": "I don't know"
             }
         ]
     }

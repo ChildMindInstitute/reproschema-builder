@@ -26,7 +26,14 @@
             {
                 "value": 2,
                 "name": "Often"
+            },
+            {
+                "value": 3,
+                "name": "I don't know"
             }
         ]
+    },
+    "itemPreamble": {
+        "en": "Please mark what best fits the student"
     }
 }

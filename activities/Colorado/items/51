@@ -34,7 +34,14 @@
             {
                 "value": 4,
                 "name": "Always"
+            },
+            {
+                "value": 5,
+                "name": "I don't know"
             }
         ]
+    },
+    "itemPreamble": {
+        "en": "Does/did the student have: "
     }
 }

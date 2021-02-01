@@ -8,9 +8,7 @@
     "skos:prefLabel": "WHODAS",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
-    "preamble": {
-        "en": "In the past 30 days, how much difficulty did the student have in:"
-    },
+    "preamble": {},
     "ui": {
         "order": [
             "18",

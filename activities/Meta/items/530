@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "530",
+    "skos:prefLabel": "530",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Eye contact in face to face situations is abnormal or missing"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Perfectly"
+            },
+            {
+                "value": 1,
+                "name": "Somewhat"
+            },
+            {
+                "value": 2,
+                "name": "Not at all"
+            }
+        ]
+    },
+    "itemPreamble": {
+        "en": "How well did you understand this question?"
+    }
+}

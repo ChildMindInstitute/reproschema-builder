@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "431",
+    "skos:prefLabel": "431",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Does not have a sense of how clothes fit, does not straighten socks or trousers that have slid down"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Perfectly"
+            },
+            {
+                "value": 1,
+                "name": "Somewhat"
+            },
+            {
+                "value": 2,
+                "name": "Not at all"
+            }
+        ]
+    },
+    "itemPreamble": {
+        "en": "How well did you understand this question?"
+    }
+}

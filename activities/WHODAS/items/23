@@ -34,7 +34,14 @@
             {
                 "value": 4,
                 "name": "Extreme or cant do"
+            },
+            {
+                "value": 5,
+                "name": "I don't know"
             }
         ]
+    },
+    "itemPreamble": {
+        "en": "In the past 30 days, how much difficulty did the student have in:"
     }
 }

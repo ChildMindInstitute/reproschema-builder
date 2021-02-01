@@ -35,6 +35,11 @@
                 "variableName": "LEAF",
                 "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/LEAF/LEAF_schema",
                 "isVis": true
+            },
+            {
+                "variableName": "Meta",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/Meta/Meta_schema",
+                "isVis": true
             }
         ],
         "order": [
@@ -42,7 +47,8 @@
             "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/PSC17/PSC17_schema",
             "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/WHODAS/WHODAS_schema",
             "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/Colorado/Colorado_schema",
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/LEAF/LEAF_schema"
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/LEAF/LEAF_schema",
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/ifea/activities/Meta/Meta_schema"
         ],
         "shuffle": false
     }

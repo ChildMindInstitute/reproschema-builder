@@ -30,6 +30,10 @@
             {
                 "value": 3,
                 "name": "Very much "
+            },
+            {
+                "value": 4,
+                "name": "I don't know"
             }
         ]
     }
