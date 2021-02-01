@@ -1,0 +1,126 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr60/qr60_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr60_schema",
+    "skos:prefLabel": "Distress Tolerance Scale",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Think of times that you feel distressed or upset. Select the item that best describes your beliefs about feeling distressed or upset. Please answer regarding your feelings of distress \"in general\", that is, on the average."
+    },
+    "ui": {
+        "order": [
+            "442",
+            "443",
+            "444",
+            "445",
+            "446",
+            "447",
+            "448",
+            "449",
+            "450",
+            "451",
+            "452",
+            "453",
+            "454",
+            "455",
+            "456"
+        ],
+        "addProperties": [
+            {
+                "variableName": "442",
+                "isAbout": "442",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "443",
+                "isAbout": "443",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "444",
+                "isAbout": "444",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "445",
+                "isAbout": "445",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "446",
+                "isAbout": "446",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "447",
+                "isAbout": "447",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "448",
+                "isAbout": "448",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "449",
+                "isAbout": "449",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "450",
+                "isAbout": "450",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "451",
+                "isAbout": "451",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "452",
+                "isAbout": "452",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "453",
+                "isAbout": "453",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "454",
+                "isAbout": "454",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "455",
+                "isAbout": "455",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "456",
+                "isAbout": "456",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}
