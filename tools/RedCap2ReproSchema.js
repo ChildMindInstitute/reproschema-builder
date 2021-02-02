@@ -4,7 +4,7 @@
 const protocolName = "sc_dd";
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "LISA";
+const protocolDisplayName = "LISA 2 iteration";
 
 //2. create your raw github repo URL
 const userName = 'charlie42';
