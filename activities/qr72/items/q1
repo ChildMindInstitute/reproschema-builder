@@ -15,23 +15,28 @@
         "choices": [
             {
                 "value": 0,
-                "name": " No"
+                "name": " No",
+                "@type": "schema:option"
             },
             {
                 "value": 1,
-                "name": " 1-2"
+                "name": " 1-2",
+                "@type": "schema:option"
             },
             {
                 "value": 2,
-                "name": " 3-4"
+                "name": " 3-4",
+                "@type": "schema:option"
             },
             {
                 "value": 3,
-                "name": " 5-6"
+                "name": " 5-6",
+                "@type": "schema:option"
             },
             {
                 "value": 4,
-                "name": " 7 times or more"
+                "name": " 7 times or more",
+                "@type": "schema:option"
             }
         ]
     },
