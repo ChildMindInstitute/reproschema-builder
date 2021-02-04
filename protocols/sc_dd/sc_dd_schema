@@ -11,7 +11,7 @@
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "landingPage": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet1/master/README.md",
-   "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet1/master/images/png/DBT.png",
+    "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet1/master/images/png/DBT.png",
     "ui": {
         "addProperties": [
             {

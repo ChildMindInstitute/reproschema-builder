@@ -8,11 +8,6 @@
     "skos:prefLabel": "questionnaire 72",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
-    "skos:altLabel": "qr72_schema",
-    "schema:description": "description",
-    "schema:schemaVersion": "0.0.1",
-    "schema:version": "0.0.1",
-    "scoringLogic": {},
     "preamble": {},
     "ui": {
         "order": [
@@ -22,7 +17,8 @@
             {
                 "variableName": "q1",
                 "isAbout": "q1",
-                "isVis": true
+                "isVis": true,
+                "requiredValue": true
             }
         ],
         "shuffle": false
