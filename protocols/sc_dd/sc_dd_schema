@@ -6,10 +6,10 @@
     "@type": "reproschema:Protocol",
     "@id": "sc_dd_schema",
     "skos:prefLabel": "test protocol",
-    "skos:altLabel": "sc_dd_schema",
     "schema:description": "Description for your protocol",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
+    "landingPage": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet1/master/README.md",
     "ui": {
         "addProperties": [
             {
