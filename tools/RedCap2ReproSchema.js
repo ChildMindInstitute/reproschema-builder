@@ -63,6 +63,7 @@ const additionalNotesList = ['Field Note', 'Question Number (surveys only)'];
 const defaultLanguage = 'en';
 const datas = {};
 const schemaVersion = "1.0.0-rc1.post"
+const landingPage = "https://github.com/charlie42/reproschema-builder";
 
 /* **************************************************************************************** */
 
@@ -665,6 +666,7 @@ function createProtocolSchema(protocolName, protocolContextUrl) {
         "schema:description": protocolDescription,
         "schema:schemaVersion": schemaVersion,
         "schema:version": "0.0.1",
+        "landingPage": landingPage,
         // todo: preamble: Field Type = descriptive represents preamble in the CSV file., it also has branching logic. so should preamble be an item in our schema?
         "ui": {
             "addProperties": protocolAddProperties,
