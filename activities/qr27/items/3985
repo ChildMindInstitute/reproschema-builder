@@ -1,0 +1,45 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "3985",
+    "skos:prefLabel": "3985",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Section: Intensity of Ideation\n\nThe following features should be rated with respect to the most severe type of ideation (i.e. from 1-5 from above, with 1 being the least severe and 5 being the most severe). Ask about the time he/she was feeling the most suicidal."
+    },
+    "question": {
+        "en": "Frequency - Most Severe Past 1 Month (CSSRS1_014)\n\"How many times have you had these thoughts?\""
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " Less than once a week"
+            },
+            {
+                "value": 2,
+                "name": " Once a week"
+            },
+            {
+                "value": 3,
+                "name": " 2 to 5 times in week"
+            },
+            {
+                "value": 4,
+                "name": " Daily or almost daily"
+            },
+            {
+                "value": 5,
+                "name": " Many times each day"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": 5
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1769",
+    "skos:prefLabel": "1769",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string"
+    },
+    "question": {
+        "en": "French fries, tater tots, Frequency last week"
+    }
+}

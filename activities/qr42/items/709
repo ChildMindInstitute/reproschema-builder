@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "709",
+    "skos:prefLabel": "709",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "If you come into a room and start talkking to her/him without calling her/his name, does she/he usually look up and pay attention to you?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": " No"
+            },
+            {
+                "value": 1,
+                "name": " Yes"
+            }
+        ]
+    }
+}
