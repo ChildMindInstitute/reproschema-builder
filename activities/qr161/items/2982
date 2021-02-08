@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "question": {
-        "en": "Physical problems without known medical cause: Eye problems (not if corrected by glasses) (describe):"
+        "en": "Physical problems without known medical cause: Eye problems "
     },
     "responseOptions": {
         "choices": [
