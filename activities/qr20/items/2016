@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "question": {
-        "en": "I can be pretty friendly"
+        "en": "Please write in any problems the pupils has that were not listed above."
     },
     "responseOptions": {
         "choices": [

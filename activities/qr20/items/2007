@@ -11,10 +11,10 @@
         "inputType": "radio"
     },
     "itemPreamble": {
-        "en": "56. Physical problems without known medical cause:"
+        "en": "56. Physical"
     },
     "question": {
-        "en": "Headaches"
+        "en": "Please write in any problems the pupils has that were not listed above."
     },
     "responseOptions": {
         "choices": [

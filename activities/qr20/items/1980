@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "question": {
-        "en": "I am afraid of going to school"
+        "en": "Please write in any problems the pupils has that were not listed above."
     },
     "responseOptions": {
         "choices": [

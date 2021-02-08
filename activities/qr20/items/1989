@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "question": {
-        "en": "I hang around with kids who get in trouble"
+        "en": "Please write in any problems the pupils has that were not listed above."
     },
     "responseOptions": {
         "choices": [
