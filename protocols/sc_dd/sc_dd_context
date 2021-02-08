@@ -49,50 +49,6 @@
         "qr43": {
             "@id": "activity_path:qr43/qr43_schema",
             "@type": "@id"
-        },
-        "qr96": {
-            "@id": "activity_path:qr96/qr96_schema",
-            "@type": "@id"
-        },
-        "qr45": {
-            "@id": "activity_path:qr45/qr45_schema",
-            "@type": "@id"
-        },
-        "qr87": {
-            "@id": "activity_path:qr87/qr87_schema",
-            "@type": "@id"
-        },
-        "qr95": {
-            "@id": "activity_path:qr95/qr95_schema",
-            "@type": "@id"
-        },
-        "qr46": {
-            "@id": "activity_path:qr46/qr46_schema",
-            "@type": "@id"
-        },
-        "qr98": {
-            "@id": "activity_path:qr98/qr98_schema",
-            "@type": "@id"
-        },
-        "qr89": {
-            "@id": "activity_path:qr89/qr89_schema",
-            "@type": "@id"
-        },
-        "qr172": {
-            "@id": "activity_path:qr172/qr172_schema",
-            "@type": "@id"
-        },
-        "qr40": {
-            "@id": "activity_path:qr40/qr40_schema",
-            "@type": "@id"
-        },
-        "PBS": {
-            "@id": "activity_path:PBS/PBS_schema",
-            "@type": "@id"
-        },
-        "CFS": {
-            "@id": "activity_path:CFS/CFS_schema",
-            "@type": "@id"
         }
     }
 }

@@ -14,7 +14,7 @@
         "valueType": "xsd:string"
     },
     "itemPreamble": {
-        "en": "Section: Suicidal Behavior\n\nCheck all that apply, so long as these are separate events; must ask about types"
+        "en": "Section: Suicidal Behavior\r\n\r\nCheck all that apply, so long as these are separate events; must ask about types"
     },
     "question": {
         "en": "Total number of interrupted attempts - Past 3 months (CSSRS1_032)"

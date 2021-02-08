@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "itemPreamble": {
-        "en": "Section: Intensity of Ideation\n\nThe following features should be rated with respect to the most severe type of ideation (i.e. from 1-5 from above, with 1 being the least severe and 5 being the most severe). Ask about the time he/she was feeling the most suicidal."
+        "en": "Section: Intensity of Ideation\r\n\r\nThe following features should be rated with respect to the most severe type of ideation (i.e. from 1-5 from above, with 1 being the least severe and 5 being the most severe). Ask about the time he/she was feeling the most suicidal."
     },
     "question": {
         "en": "Reasons for Ideation - Most Severe Past 1 Month  (CSSRS1_022) What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling or was it to get attention, revenge or a reaction from others? Or both?"

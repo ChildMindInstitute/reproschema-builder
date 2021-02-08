@@ -11,10 +11,10 @@
         "inputType": "radio"
     },
     "itemPreamble": {
-        "en": "Section: Suicidal Behavior\n\nCheck all that apply, so long as these are separate events; must ask about types"
+        "en": "Section: Suicidal Behavior\r\n\r\nCheck all that apply, so long as these are separate events; must ask about types"
     },
     "question": {
-        "en": "Aborted or Self-Interrupted Attempt - Lifetime (CSSRS1_033)\n\"Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything?\" If yes, describe..."
+        "en": "Aborted or Self-Interrupted Attempt - Lifetime (CSSRS1_033)\r\n\"Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything?\" If yes, describe..."
     },
     "responseOptions": {
         "choices": [

@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "itemPreamble": {
-        "en": "Section: Suicidal Behavior\n\nCheck all that apply, so long as these are separate events; must ask about types"
+        "en": "Section: Suicidal Behavior\r\n\r\nCheck all that apply, so long as these are separate events; must ask about types"
     },
     "question": {
         "en": "Potential Lethality - Most Lethal Attempt (CSSRS1_045) One Answer if actual Lethality = 0. Enter date under \"Specify Detail\""

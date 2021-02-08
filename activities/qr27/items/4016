@@ -11,10 +11,10 @@
         "inputType": "radio"
     },
     "itemPreamble": {
-        "en": "Section: Suicidal Behavior\n\nCheck all that apply, so long as these are separate events; must ask about types"
+        "en": "Section: Suicidal Behavior\r\n\r\nCheck all that apply, so long as these are separate events; must ask about types"
     },
     "question": {
-        "en": "Preparatory Acts or Behavior - Lifetime (CSSRS1_037)\n\"Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)?\" If yes, describe..."
+        "en": "Preparatory Acts or Behavior - Lifetime (CSSRS1_037)\r\n\"Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)?\" If yes, describe..."
     },
     "responseOptions": {
         "choices": [

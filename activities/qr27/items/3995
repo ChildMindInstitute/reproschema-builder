@@ -14,9 +14,9 @@
         "valueType": "xsd:string"
     },
     "itemPreamble": {
-        "en": "Section: Suicidal Behavior\n\nCheck all that apply, so long as these are separate events; must ask about types"
+        "en": "Section: Suicidal Behavior\r\n\r\nCheck all that apply, so long as these are separate events; must ask about types"
     },
     "question": {
-        "en": "Total number of attempts - Lifetime  (CSSRS1_024)\nEnter the total number of suicide attempts in their lifetime."
+        "en": "Total number of attempts - Lifetime  (CSSRS1_024)\r\nEnter the total number of suicide attempts in their lifetime."
     }
 }

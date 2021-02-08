@@ -11,10 +11,10 @@
         "inputType": "radio"
     },
     "itemPreamble": {
-        "en": "Section: Suicidal Behavior\n\nCheck all that apply, so long as these are separate events; must ask about types"
+        "en": "Section: Suicidal Behavior\r\n\r\nCheck all that apply, so long as these are separate events; must ask about types"
     },
     "question": {
-        "en": "Interrupted Attempt - Past 3 months (CSSRS1_031)\nWhen the person is interrupted (by an outside circumstance) from starting the potentially self-injurious act. \"Has there been a time when you started to do something to end your life but someone or something stopped you before you actually did anything?\" If yes, describe..."
+        "en": "Interrupted Attempt - Past 3 months (CSSRS1_031)\r\nWhen the person is interrupted (by an outside circumstance) from starting the potentially self-injurious act. \"Has there been a time when you started to do something to end your life but someone or something stopped you before you actually did anything?\" If yes, describe..."
     },
     "responseOptions": {
         "choices": [
