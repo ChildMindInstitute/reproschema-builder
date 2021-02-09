@@ -62,7 +62,7 @@ const responseList = ['type', 'requiredValue'];
 const additionalNotesList = ['Field Note', 'Question Number (surveys only)'];
 const defaultLanguage = 'en';
 const datas = {};
-const schemaVersion = "1.0.0-rc1.post"
+const schemaVersion = "0.0.1"
 const landingPage = "https://github.com/charlie42/reproschema-builder";
 
 /* **************************************************************************************** */

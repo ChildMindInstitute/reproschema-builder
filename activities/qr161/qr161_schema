@@ -6,11 +6,11 @@
     "@type": "reproschema:Activity",
     "@id": "qr161_schema",
     "skos:prefLabel": "CBCL for Ages 6-18 - Parent Report Form",
-    "skos:altLabel": "qr161_schema",
-    "schema:description": "Record your emotions, target behaviors, and DBT skills used for today",
-    "schema:schemaVersion": "1.0.0",
+    "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "scoringLogic": {},
+    "preamble": {
+        "en": "Following"
+    },
     "ui": {
         "order": [
             "2924",
@@ -21,17 +21,20 @@
             {
                 "variableName": "2924",
                 "isAbout": "2924",
-                "isVis": true
+                "isVis": true,
+                "requiredValue": true
             },
             {
                 "variableName": "3043",
                 "isAbout": "3043",
-                "isVis": true
+                "isVis": true,
+                "requiredValue": true
             },
             {
                 "variableName": "3045",
                 "isAbout": "3045",
-                "isVis": true
+                "isVis": true,
+                "requiredValue": true
             }
         ],
         "shuffle": false
