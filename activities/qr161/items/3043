@@ -4,16 +4,12 @@
     ],
     "@type": "reproschema:Field",
     "@id": "3043",
-    "skos:prefLabel": "3043",
-    "schema:schemaVersion": "1.0.0-rc1.post",
-    "schema:version": "0.0.1",
+    "skos:altLabel": "3043",
     "ui": {
-        "inputType": "text"
+        "inputType": "text",
+        "allow": [
+            "dontKnow"
+        ]
     },
-    "responseOptions": {
-        "valueType": "xsd:string"
-    },
-    "question": {
-        "en": "Acts too young for his/her age"
-    }
+    "question": "Acts too young for his/her age"
 }
