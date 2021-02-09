@@ -6,11 +6,11 @@
     "@type": "reproschema:Activity",
     "@id": "qr20_schema",
     "skos:prefLabel": "Youth Self Report",
+    "skos:altLabel": "qr20_schema",
+    "schema:description": "Record your emotions, target behaviors, and DBT skills used for today",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
-    "preamble": {
-        "en": "Below"
-    },
+    "scoringLogic": {},
     "ui": {
         "order": [
             "1951",
@@ -23,25 +23,21 @@
                 "variableName": "1951",
                 "isAbout": "1951",
                 "isVis": true,
-                "requiredValue": true
             },
             {
                 "variableName": "1952",
                 "isAbout": "1952",
                 "isVis": true,
-                "requiredValue": true
             },
             {
                 "variableName": "2006",
                 "isAbout": "2006",
                 "isVis": true,
-                "requiredValue": true
             },
             {
                 "variableName": "2014",
                 "isAbout": "2014",
                 "isVis": true,
-                "requiredValue": true
             }
         ],
         "shuffle": false
