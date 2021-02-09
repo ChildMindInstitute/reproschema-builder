@@ -6,11 +6,10 @@
     "@type": "reproschema:Activity",
     "@id": "qr161_schema",
     "skos:prefLabel": "CBCL for Ages 6-18 - Parent Report Form",
+    "skos:altLabel": "qr161_schema",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
-    "preamble": {
-        "en": "Following"
-    },
+    "scoringLogic": {},
     "ui": {
         "order": [
             "2924",
@@ -21,20 +20,17 @@
             {
                 "variableName": "2924",
                 "isAbout": "2924",
-                "isVis": true,
-                "requiredValue": true
+                "isVis": true
             },
             {
                 "variableName": "3043",
                 "isAbout": "3043",
-                "isVis": true,
-                "requiredValue": true
+                "isVis": true
             },
             {
                 "variableName": "3045",
                 "isAbout": "3045",
-                "isVis": true,
-                "requiredValue": true
+                "isVis": true
             }
         ],
         "shuffle": false
