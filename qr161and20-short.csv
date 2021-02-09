@@ -1,8 +1,8 @@
-Variable / Field Name,Form Name,Section Header,Unnamed: 3,Item Header,Unnamed: 5,Field Label,"Choices, Calculations, OR Slider Labels",Field Type,Unnamed: 9,Unnamed: 10,Text Validation Min,Text Validation Max,Unnamed: 13,Unnamed: 14,Form Display Name
-2924,qr161,Following,,,,Acts too young for his/her age,"0=Not True (as far as you know), 1=Somewhat or Sometimes True, 2=Very True or Often True",1,,,,,,,CBCL for Ages 6-18 - Parent Report Form
-3043,qr161,Following,,,,Acts too young for his/her age,,4,,,,,,,CBCL for Ages 6-18 - Parent Report Form
-3045,qr161,Following,,,,Please write in any problems the pupils has that were not listed above.,,4,,,,,,,CBCL for Ages 6-18 - Parent Report Form
-1951,qr20,Below,,,,Please write in any problems the pupils has that were not listed above.,"0= Not True, 1= Somewhat or Sometimes True, 2= Very True or Often True",1,1,0,oo,2,,,Youth Self Report
-1952,qr20,Below,,,,Please write in any problems the pupils has that were not listed above.,"0= Not True (as far as you know), 1= Somewhat or Sometimes True, 2= Very True or Often True",1,1,0,oo,2,,,Youth Self Report
-2006,qr20,Below,,56. Physical,56. Physical,Please write in any problems the pupils has that were not listed above.,"0= Not True (as far as you know), 1= Somewhat or Sometimes True, 2= Very True or Often True",1,1,0,oo,2,,,Youth Self Report
-2014,qr20,Below,,,,Please write in any problems the pupils has that were not listed above.,"0= Not True (as far as you know), 1= Somewhat or Sometimes True, 2= Very True or Often True",1,1,0,oo,2,,,Youth Self Report
+Variable / Field Name,Form Name,Section Header,Unnamed: 3,Item Header,Unnamed: 5,Field Label,"Choices, Calculations, OR Slider Labels",Field Type,Unnamed: 9,Unnamed: 10,Text Validation Min,Text Validation Max,Unnamed: 13,Unnamed: 14,Form Display Name,Allow
+2924,qr161,Following,,,,Acts too young for his/her age,"0=Not True (as far as you know), 1=Somewhat or Sometimes True, 2=Very True or Often True",1,,,,,,,CBCL for Ages 6-18 - Parent Report Form,autoAdvance
+3043,qr161,Following,,,,Acts too young for his/her age,,4,,,,,,,CBCL for Ages 6-18 - Parent Report Form,autoAdvance
+3045,qr161,Following,,,,Please write in any problems the pupils has that were not listed above.,,4,,,,,,,CBCL for Ages 6-18 - Parent Report Form,autoAdvance
+1951,qr20,Below,,,,Please write in any problems the pupils has that were not listed above.,"0= Not True, 1= Somewhat or Sometimes True, 2= Very True or Often True",1,1,0,oo,2,,,Youth Self Report,autoAdvance
+1952,qr20,Below,,,,Please write in any problems the pupils has that were not listed above.,"0= Not True (as far as you know), 1= Somewhat or Sometimes True, 2= Very True or Often True",1,1,0,oo,2,,,Youth Self Report,autoAdvance
+2006,qr20,Below,,56. Physical,56. Physical,Please write in any problems the pupils has that were not listed above.,"0= Not True (as far as you know), 1= Somewhat or Sometimes True, 2= Very True or Often True",1,1,0,oo,2,,,Youth Self Report,autoAdvance
+2014,qr20,Below,,,,Please write in any problems the pupils has that were not listed above.,"0= Not True (as far as you know), 1= Somewhat or Sometimes True, 2= Very True or Often True",1,1,0,oo,2,,,Youth Self Report,autoAdvance

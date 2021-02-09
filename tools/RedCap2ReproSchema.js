@@ -303,7 +303,7 @@ function processRow(form, data){
             valueType = 'xsd:string';
         }
 
-        console.log("INPUT TYPE" + inputType + " " + data['Field Type'])
+        //console.log("INPUT TYPE" + inputType + " " + data['Field Type'])
         rowData['ui'] = {'inputType': inputType};
         if (valueType) {
             rowData['responseOptions'] = {'valueType': valueType};
@@ -314,20 +314,19 @@ function processRow(form, data){
 
         //Parse 'allow' array
         if (schemaMap[current_key] === 'allow' && data[current_key] !== '') {
-            // :todo move from items to activities
-            // let uiKey = schemaMap[current_key];
-            // let uiValue = data[current_key].split(', ');
-            // //uiValue.forEach(val => {
-            // //    allowList.push(val)
-            // //})
-            // // add object to ui element of the item
-            // if (rowData.hasOwnProperty('ui')) {
-            //     rowData.ui[uiKey] = uiValue; // append to existing ui object
-            // }
-            // else { // create new ui object
-            //     ui[uiKey] = uiValue;
-            //     rowData['ui'] = ui;
-            // }
+            let uiKey = schemaMap[current_key];
+            let uiValue = data[current_key].split(', ');
+            //uiValue.forEach(val => {
+            //    allowList.push(val)
+            //})
+            // add object to ui element of the item
+            if (rowData.hasOwnProperty('ui')) {
+                rowData.ui[uiKey] = uiValue; // append to existing ui object
+            }
+            else { // create new ui object
+                ui[uiKey] = uiValue;
+                rowData['ui'] = ui;
+            }
         }
         // check all ui elements to be nested under 'ui' key of the item
         else if (uiList.indexOf(schemaMap[current_key]) > -1 && data[current_key] !== '') {
