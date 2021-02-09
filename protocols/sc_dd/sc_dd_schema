@@ -8,7 +8,7 @@
     "skos:prefLabel": "test protocol",
     "skos:altLabel": "sc_dd_schema",
     "schema:description": "Description for your protocol",
-    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:schemaVersion": "1.0.0",
     "schema:version": "0.0.1",
     "landingPage": "https://github.com/charlie42/reproschema-builder",
     "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet1/master/images/png/DBT.png",
