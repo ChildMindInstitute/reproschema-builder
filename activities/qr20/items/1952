@@ -4,31 +4,27 @@
     ],
     "@type": "reproschema:Field",
     "@id": "1952",
-    "skos:prefLabel": "1952",
-    "schema:schemaVersion": "1.0.0-rc1.post",
-    "schema:version": "0.0.1",
     "ui": {
         "inputType": "radio"
     },
-    "question": {
-        "en": "Please write in any problems the pupils has that were not listed above."
-    },
+    "question": "Please write in any problems the pupils has that were not listed above.",
     "responseOptions": {
         "choices": [
             {
                 "value": 0,
-                "name": " Not True (as far as you know)"
+                "name": " Not True (as far as you know)",
+                "@type": "schema:option"
             },
             {
                 "value": 1,
-                "name": " Somewhat or Sometimes True"
+                "name": " Somewhat or Sometimes True",
+                "@type": "schema:option"
             },
             {
                 "value": 2,
-                "name": " Very True or Often True"
+                "name": " Very True or Often True",
+                "@type": "schema:option"
             }
         ],
-        "schema:minValue": null,
-        "schema:maxValue": 2
     }
 }
