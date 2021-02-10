@@ -1,0 +1,42 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "663",
+    "skos:prefLabel": "663",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Easy to chat with, even if it isn't on a topic that specially interests him/her."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "A lot worse than average"
+            },
+            {
+                "value": 1,
+                "name": "A bit worse than average"
+            },
+            {
+                "value": 2,
+                "name": "About average"
+            },
+            {
+                "value": 3,
+                "name": "A bit better than average"
+            },
+            {
+                "value": 4,
+                "name": "A lot better than average"
+            }
+        ],
+        "schema:minValue": 0,
+        "schema:maxValue": null
+    }
+}

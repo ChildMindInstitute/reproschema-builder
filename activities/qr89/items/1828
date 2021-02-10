@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1828",
+    "skos:prefLabel": "1828",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Milk type"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " Whole milk"
+            },
+            {
+                "value": 2,
+                "name": " Reduced fat 2%"
+            },
+            {
+                "value": 3,
+                "name": " Low fat 1%"
+            },
+            {
+                "value": 4,
+                "name": " Non-fat"
+            },
+            {
+                "value": 5,
+                "name": " Chocolate milk"
+            },
+            {
+                "value": 6,
+                "name": " Soy milk"
+            },
+            {
+                "value": 7,
+                "name": " Lactaid milk"
+            },
+            {
+                "value": 8,
+                "name": " Don't know,\nM ",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/ Missing.png"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": null
+    }
+}
