@@ -5,6 +5,10 @@
         "qr161": {
             "@id": "activity_path:qr161/qr161_schema",
             "@type": "@id"
+        },
+        "qr24": {
+            "@id": "activity_path:qr24/qr24_schema",
+            "@type": "@id"
         }
     }
 }
