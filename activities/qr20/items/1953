@@ -3,21 +3,15 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "@id": "2006",
-    "skos:prefLabel": "2006",
+    "@id": "1953",
+    "skos:prefLabel": "1953",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "ui": {
-        "inputType": "radio",
-        "allow": [
-            "autoAdvance"
-        ]
-    },
-    "itemPreamble": {
-        "en": "56. Physical"
+        "inputType": "radio"
     },
     "question": {
-        "en": "Please write in any problems the pupils has that were not listed above."
+        "en": "I argue a lot"
     },
     "responseOptions": {
         "choices": [

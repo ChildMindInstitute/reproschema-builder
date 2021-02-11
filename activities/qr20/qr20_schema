@@ -9,14 +9,15 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "preamble": {
-        "en": "Below"
+        "en": "Below is a list of items that describe kids. For each item that describes you now or within the past 6 months, please circle the 2 if the item is very true or often true of you. Circle the 1 if the item is somewhat or sometimes true of you. If the item is not true of you, circle the 0."
     },
     "ui": {
         "order": [
             "1951",
             "1952",
-            "2006",
-            "2014"
+            "1953",
+            "1954",
+            "1955"
         ],
         "addProperties": [
             {
@@ -32,14 +33,20 @@
                 "requiredValue": true
             },
             {
-                "variableName": "2006",
-                "isAbout": "2006",
+                "variableName": "1953",
+                "isAbout": "1953",
                 "isVis": true,
                 "requiredValue": true
             },
             {
-                "variableName": "2014",
-                "isAbout": "2014",
+                "variableName": "1954",
+                "isAbout": "1954",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "1955",
+                "isAbout": "1955",
                 "isVis": true,
                 "requiredValue": true
             }

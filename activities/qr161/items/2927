@@ -3,35 +3,30 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "@id": "2014",
-    "skos:prefLabel": "2014",
+    "@id": "2927",
+    "skos:prefLabel": "2927",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "ui": {
-        "inputType": "radio",
-        "allow": [
-            "autoAdvance"
-        ]
+        "inputType": "radio"
     },
     "question": {
-        "en": "Please write in any problems the pupils has that were not listed above."
+        "en": "Fails to finish things he/she starts"
     },
     "responseOptions": {
         "choices": [
             {
                 "value": 0,
-                "name": " Not True (as far as you know)"
+                "name": "Not True (as far as you know)"
             },
             {
                 "value": 1,
-                "name": " Somewhat or Sometimes True"
+                "name": "Somewhat or Sometimes True"
             },
             {
                 "value": 2,
-                "name": " Very True or Often True"
+                "name": "Very True or Often True"
             }
-        ],
-        "schema:minValue": null,
-        "schema:maxValue": 2
+        ]
     }
 }
