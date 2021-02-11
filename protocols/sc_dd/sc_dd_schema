@@ -13,18 +13,12 @@
     "ui": {
         "addProperties": [
             {
-                "variableName": "qr161",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr161/qr161_schema",
-                "isVis": true
-            },
-            {
                 "variableName": "qr20",
                 "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr20/qr20_schema",
                 "isVis": true
             }
         ],
         "order": [
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr161/qr161_schema",
             "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/qr20/qr20_schema"
         ],
         "shuffle": false
