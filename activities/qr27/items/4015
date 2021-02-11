@@ -1,0 +1,22 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4015",
+    "skos:prefLabel": "4015",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string"
+    },
+    "itemPreamble": {
+        "en": "Section: Suicidal Behavior\r\n\r\nCheck all that apply, so long as these are separate events; must ask about types"
+    },
+    "question": {
+        "en": "Total number of aborted or self-interrupted attempts - Past 3 months (CSSRS1_036)"
+    }
+}
