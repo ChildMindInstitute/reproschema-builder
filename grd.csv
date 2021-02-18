@@ -1,64 +1,64 @@
 Variable / Field Name,Form Name,Section Header,Item Header,Field Label,"Choices, Calculations, OR Slider Labels",Field Type,Text Validation Min,Text Validation Max,Form Display Name,Allow
-1,grd,,I will ask you to perform different actions with your right hand. Please try to act naturally as you perform each of the actions.  We’ll start by calibrating the devices on your wrist.,"First, pretend to scratch or pull hair on the back of your head until I tell you to stop.",1=Trained,1,,,GRD,autoAdvance
+1,grd,"Coordinator:  TRAINING MODEL #1 sitting upright: Keen ON, GRD OFF; Train the Keen on the following 4 behaviors sitting upright (GRD already pre-trained on these behaviors).",I will ask you to perform different actions with your right hand. Please try to act naturally as you perform each of the actions.  We’ll start by calibrating the devices on your wrist.,"First, pretend to scratch or pull hair on the back of your head until I tell you to stop.",1=Trained,1,,,GRD,autoAdvance
 2,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear until I tell you to stop.,1=Trained,1,,,GRD,autoAdvance
 3,grd,,,Now pretend to pull your right eyelash until I tell you to stop.,1=Trained,1,,,GRD,autoAdvance
 4,grd,,,Now pretend to bite your nails until I tell you to stop.,1=Trained,1,,,GRD,autoAdvance
-5,grd,,,"Once again, pretend to bite your nails until I tell you to stop.",1=Trained,1,,,GRD,autoAdvance
+5,grd,"Coordinator: TRAINING MODEL #1 sitting upright: Keen ON, GRD OFF; Train the Keen on the following behavior in 3 positions (GRD already pre-trained on this behavior).",,"Once again, pretend to bite your nails until I tell you to stop.",1=Trained,1,,,GRD,autoAdvance
 6,grd,,,Now lean back and look up at the ceiling and pretend to bite your nails until I tell you to stop.,1=Trained,1,,,GRD,autoAdvance
 7,grd,,,"Finally, lie on your left side and pretend to bite your nails until I tell you to stop.",1=Trained,1,,,GRD,autoAdvance
-8,grd,,"Okay, we’re done with calibration. Next, we’ll repeat these actions, but this time I want you to place your right hand on your lap, perform the action I ask you to do for 5 seconds, then place your hand back down on your lap.  Okay, let’s start with your right hand on your lap.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+8,grd,"TEST 1. Coordinator:  TEST MODEL #1 sitting upright: Group A: Keen ON, GRD OFF; Group B: Keen OFF, GRD ON","Okay, we’re done with calibration. Next, we’ll repeat these actions, but this time I want you to place your right hand on your lap, perform the action I ask you to do for 5 seconds, then place your hand back down on your lap.  Okay, let’s start with your right hand on your lap.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 9,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 10,grd,,,Now pretend to pull your right eyelash for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 11,grd,,,Now pretend to bite your nails for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-12,grd,,"Let’s repeat these actions, but this time I want you to lean back and look up at the ceiling.  Okay, let’s start with your right hand on your lap.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+12,grd,"Coordinator: TEST MODEL #1 leaning back: Group A: Keen ON, GRD OFF; Group B: Keen OFF, GRD ON","Let’s repeat these actions, but this time I want you to lean back and look up at the ceiling.  Okay, let’s start with your right hand on your lap.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 13,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 14,grd,,,Now pretend to pull your right eyelash for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 15,grd,,,Now pretend to bite your nails for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-16,grd,,"Now this time I want you to lie on your left side.  Okay, let’s start with your right hand on your leg.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+16,grd,"Coordinator:  TEST MODEL #1 lying on left side: Group A: Keen ON, GRD OFF; Group B: Keen OFF, GRD ON","Now this time I want you to lie on your left side.  Okay, let’s start with your right hand on your leg.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 17,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 18,grd,,,Now pretend to pull your right eyelash for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 19,grd,,,Now pretend to bite your nails for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-20,grd,,,"Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+20,grd,"Coordinator:  TEST MODEL #1 standing: Group A: Keen ON, GRD OFF; Group B: Keen OFF, GRD ON",,"Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 21,grd,,,Now please hold this phone up high in front of your face for a few seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-22,grd,,Thank you!  Let’s repeat everything we’ve just done. Please sit down again and place your right hand on your lap.,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+22,grd,"Coordinator:  TEST MODEL #1 sitting upright: Group A: Keen OFF, GRD ON; Group B: Keen ON, GRD OFF",Thank you!  Let’s repeat everything we’ve just done. Please sit down again and place your right hand on your lap.,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 23,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 24,grd,,,Now pretend to pull your right eyelash for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 25,grd,,,Now pretend to bite your nails for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-26,grd,,"Let’s repeat these actions, but this time I want you to lean back and look up at the ceiling.  Okay, let’s start with your right hand on your lap.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+26,grd,"Coordinator: TEST MODEL #1 leaning back: Group A: Keen OFF, GRD ON; Group B: Keen ON, GRD OFF","Let’s repeat these actions, but this time I want you to lean back and look up at the ceiling.  Okay, let’s start with your right hand on your lap.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 27,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 28,grd,,,Now pretend to pull your right eyelash for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 29,grd,,,Now pretend to bite your nails for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-30,grd,,"Now this time I want you to lie on your left side.  Okay, let’s start with your right hand on your leg.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+30,grd,"Coordinator:  TEST MODEL #1 lying on left side: Group A: Keen OFF, GRD ON; Group B: Keen ON, GRD OFF","Now this time I want you to lie on your left side.  Okay, let’s start with your right hand on your leg.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 31,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 32,grd,,,Now pretend to pull your right eyelash for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 33,grd,,,Now pretend to bite your nails for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-34,grd,,,"Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+34,grd,"Coordinator:  TEST MODEL #1 standing: Group A: Group A: Keen OFF, GRD ON; Group B: Keen ON, GRD OFF",,"Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 35,grd,,,Now please hold this phone up high in front of your face for a few seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-36,grd,,Let’s repeat everything once more. Please sit down again and place your right hand on your lap.,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+36,grd,"TEST 2. Coordinator:  TEST MODEL #2 sitting upright: Group A: Keen ON, GRD OFF; Group B: Keen OFF, GRD ON",Let’s repeat everything once more. Please sit down again and place your right hand on your lap.,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 37,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 38,grd,,,Now pretend to pull your right eyelash for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 39,grd,,,Now pretend to bite your nails for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-40,grd,,"Let’s repeat these actions, but this time I want you to lean back and look up at the ceiling.  Okay, let’s start with your right hand on your lap.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+40,grd,"Coordinator: TEST MODEL #2 leaning back: Group A: Keen ON, GRD OFF; Group B: Keen OFF, GRD ON","Let’s repeat these actions, but this time I want you to lean back and look up at the ceiling.  Okay, let’s start with your right hand on your lap.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 41,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 42,grd,,,Now pretend to pull your right eyelash for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 43,grd,,,Now pretend to bite your nails for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-44,grd,,"Now this time I want you to lie on your left side.  Okay, let’s start with your right hand on your leg.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+44,grd,"Coordinator:  TEST MODEL #2 lying on left side: Group A: Keen ON, GRD OFF; Group B: Keen OFF, GRD ON","Now this time I want you to lie on your left side.  Okay, let’s start with your right hand on your leg.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 45,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 46,grd,,,Now pretend to pull your right eyelash for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 47,grd,,,Now pretend to bite your nails for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-48,grd,,,"Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+48,grd,"Coordinator:  TEST MODEL #2 standing: Group A: Keen ON, GRD OFF; Group B: Keen OFF, GRD ON",,"Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 49,grd,,,Now please hold this phone up high in front of your face for a few seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-50,grd,,Thank you!  Let’s repeat some of these actions. Please sit down again and place your right hand on your lap.,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+50,grd,"Coordinator:  TEST MODEL #2 sitting upright: Group A: Keen OFF, GRD ON; Group B: Keen ON, GRD OFF",Thank you!  Let’s repeat some of these actions. Please sit down again and place your right hand on your lap.,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 51,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 52,grd,,,Now pretend to pull your right eyelash for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 53,grd,,,Now pretend to bite your nails for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-54,grd,,"Let’s repeat these actions, but this time I want you to lean back and look up at the ceiling.  Okay, let’s start with your right hand on your lap.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+54,grd,"Coordinator: TEST MODEL #1 leaning back: Group A: Keen OFF, GRD ON; Group B: Keen ON, GRD OFF","Let’s repeat these actions, but this time I want you to lean back and look up at the ceiling.  Okay, let’s start with your right hand on your lap.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 55,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 56,grd,,,Now pretend to pull your right eyelash for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 57,grd,,,Now pretend to bite your nails for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-58,grd,,"Now this time I want you to lie on your left side.  Okay, let’s start with your right hand on your leg.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+58,grd,"Coordinator:  TEST MODEL #1 lying on left side: Group A: Keen OFF, GRD ON; Group B: Keen ON, GRD OFF","Now this time I want you to lie on your left side.  Okay, let’s start with your right hand on your leg.","First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 59,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 60,grd,,,Now pretend to pull your right eyelash for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 61,grd,,,Now pretend to bite your nails for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
-62,grd,,,"Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+62,grd,"Coordinator:  TEST MODEL #1 standing: Group A: Group A: Keen OFF, GRD ON; Group B: Keen ON, GRD OFF",,"Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 63,grd,,,Now please hold this phone up high in front of your face for a few seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance

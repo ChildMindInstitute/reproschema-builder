@@ -9,6 +9,9 @@
     "ui": {
         "inputType": "1"
     },
+    "preamble": {
+        "en": "Coordinator: TRAINING MODEL #1 sitting upright: Keen ON, GRD OFF; Train the Keen on the following behavior in 3 positions (GRD already pre-trained on this behavior)."
+    },
     "question": {
         "en": "Once again, pretend to bite your nails until I tell you to stop."
     },
