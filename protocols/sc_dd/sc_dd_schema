@@ -12,19 +12,13 @@
     "ui": {
         "addProperties": [
             {
-                "variableName": "qr72",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/qr72/qr72_schema",
-                "isVis": true
-            },
-            {
-                "variableName": "qr1000",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/qr1000/qr1000_schema",
+                "variableName": "grd",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/grd/grd_schema",
                 "isVis": true
             }
         ],
         "order": [
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/qr72/qr72_schema",
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/qr1000/qr1000_schema"
+            "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/grd/grd_schema"
         ],
         "shuffle": false
     }

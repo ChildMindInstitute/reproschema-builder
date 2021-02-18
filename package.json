@@ -22,7 +22,7 @@
   "dependencies": {
     "camelcase": "^5.0.0",
     "csv-writer": "^1.6.0",
-    "fast-csv": "^2.4.1",
+    "fast-csv": "^2.5.0",
     "is-html": "^1.1.0",
     "json-2-csv": "^3.6.2",
     "jsonld": "^3.0.1",

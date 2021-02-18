@@ -1,0 +1,20 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "57",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "question": {
+        "en": "Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "1=BUZZ"
+            }
+        ]
+    }
+}

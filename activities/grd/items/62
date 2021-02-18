@@ -1,0 +1,12 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "62",
+    "schema:schemaVersion": "1.0.0-rc1.post",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "SWITCH 2. Coordinator:� TEST MODEL #2 sitting upright: Group A: Keen OFF, GRD ON; Group B: Keen ON, GRD OFF"
+    }
+}
