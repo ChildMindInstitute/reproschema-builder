@@ -9,9 +9,6 @@
     "ui": {
         "inputType": "1"
     },
-    "preamble": {
-        "en": "Coordinator:� TEST MODEL #1 standing: Group A: Group A: Keen OFF, GRD ON; Group B: Keen ON, GRD OFF"
-    },
     "question": {
         "en": "Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position."
     },
