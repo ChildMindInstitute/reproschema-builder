@@ -6,10 +6,20 @@
     "@id": "1",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "1"
+    },
     "preamble": {
         "en": "Coordinator:� TRAINING MODEL #1 sitting upright: Keen ON, GRD OFF; Train the Keen on the following 4 behaviors sitting upright (GRD already pre-trained on these behaviors)."
     },
     "question": {
         "en": "First, pretend to scratch or pull hair on the back of your head until I tell you to stop."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1
+            }
+        ]
     }
 }
