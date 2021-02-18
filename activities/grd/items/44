@@ -6,6 +6,15 @@
     "@id": "44",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "1"
+    },
+    "preamble": {
+        "en": "Coordinator:� TEST MODEL #2 lying on left side: Group A: Keen ON, GRD OFF; Group B: Keen OFF, GRD ON"
+    },
+    "question": {
+        "en": "First, pretend to scratch or pull hair on the back of your head for 5 seconds."
+    },
     "responseOptions": {
         "choices": [
             {

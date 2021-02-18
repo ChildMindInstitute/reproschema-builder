@@ -9,7 +9,7 @@
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
     "preamble": {
-        "en": "TRAINING. Coordinator:� All instructions to you (the coordinator) begin with �Coordinator:�; otherwise, all instructions are to be posed to the study participant. On each of the following screens (not including instructional screens like this one), check �BUZZ� if the device being tested buzzed between the time the participant starts and stops a directed action. Otherwise tap �NO BUZZ�."
+        "en": "Coordinator:� TRAINING MODEL #1 sitting upright: Keen ON, GRD OFF; Train the Keen on the following 4 behaviors sitting upright (GRD already pre-trained on these behaviors)."
     },
     "ui": {
         "order": [
@@ -75,23 +75,7 @@
             "60",
             "61",
             "62",
-            "63",
-            "64",
-            "65",
-            "66",
-            "67",
-            "68",
-            "69",
-            "70",
-            "71",
-            "72",
-            "73",
-            "74",
-            "75",
-            "76",
-            "77",
-            "78",
-            "79"
+            "63"
         ],
         "addProperties": [
             {
@@ -469,102 +453,6 @@
             {
                 "variableName": "63",
                 "isAbout": "63",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "64",
-                "isAbout": "64",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "65",
-                "isAbout": "65",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "66",
-                "isAbout": "66",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "67",
-                "isAbout": "67",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "68",
-                "isAbout": "68",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "69",
-                "isAbout": "69",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "70",
-                "isAbout": "70",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "71",
-                "isAbout": "71",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "72",
-                "isAbout": "72",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "73",
-                "isAbout": "73",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "74",
-                "isAbout": "74",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "75",
-                "isAbout": "75",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "76",
-                "isAbout": "76",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "77",
-                "isAbout": "77",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "78",
-                "isAbout": "78",
-                "isVis": "",
-                "requiredValue": true
-            },
-            {
-                "variableName": "79",
-                "isAbout": "79",
                 "isVis": "",
                 "requiredValue": true
             }

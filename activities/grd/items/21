@@ -6,7 +6,18 @@
     "@id": "21",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
-    "preamble": {
-        "en": "Coordinator:� TEST MODEL #1 lying on left side: Group A: Keen ON, GRD OFF; Group B: Keen OFF, GRD ON"
+    "ui": {
+        "inputType": "1"
+    },
+    "question": {
+        "en": "Now please hold this phone up high in front of your face for a few seconds."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "1=BUZZ"
+            }
+        ]
     }
 }

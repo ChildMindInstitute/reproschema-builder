@@ -6,8 +6,14 @@
     "@id": "36",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "1"
+    },
+    "preamble": {
+        "en": "TEST 2. Coordinator:� TEST MODEL #2 sitting upright: Group A: Keen ON, GRD OFF; Group B: Keen OFF, GRD ON"
+    },
     "question": {
-        "en": "Now pretend to pull your right eyelash for 5 seconds."
+        "en": "First, pretend to scratch or pull hair on the back of your head for 5 seconds."
     },
     "responseOptions": {
         "choices": [

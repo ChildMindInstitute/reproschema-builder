@@ -6,7 +6,10 @@
     "@id": "5",
     "schema:schemaVersion": "1.0.0-rc1.post",
     "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Coordinator: TRAINING MODEL #1 sitting upright: Keen ON, GRD OFF; Train the Keen on the following behavior in 3 positions (GRD already pre-trained on this behavior)."
+    },
     "question": {
-        "en": "Now pretend to pull your right eyelash until I tell you to stop."
+        "en": "Once again, pretend to bite your nails until I tell you to stop."
     }
 }
