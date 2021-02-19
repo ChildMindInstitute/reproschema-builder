@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "44",
+    "skos:prefLabel": "44",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "itemPreamble": {
+        "en": "Now this time I want you to lie on your left side.� Okay, let�s start with your right hand on your leg."
+    },
+    "question": {
+        "en": "First, pretend to scratch or pull hair on the back of your head for 5 seconds."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "NO BUZZ"
+            },
+            {
+                "value": 1,
+                "name": "BUZZ"
+            }
+        ]
+    }
+}
