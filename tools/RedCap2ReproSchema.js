@@ -302,7 +302,9 @@ function processRow(form, data){
             inputType = 'text';
             valueType = 'xsd:string';
         }
-
+        else if (data['Field Type'] === '0') {
+            inputType = 'markdown-message';
+        }
         //console.log("INPUT TYPE" + inputType + " " + data['Field Type'])
         rowData['ui'] = {'inputType': inputType};
         if (valueType) {
@@ -361,6 +363,9 @@ function processRow(form, data){
             else if ((uiKey === 'inputType') && (uiValue === '4')) {
                 uiValue = 'text';
                 valueType = 'xsd:string';
+            }
+            else if ((uiKey === 'inputType') && (uiValue === '0')) {
+                uiValue = 'markdown-message';
             }
 
             // add object to ui element of the item
