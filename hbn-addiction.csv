@@ -1,0 +1,1149 @@
+Variable / Field Name,Form Name,Section Header,,Item Header,,Field Label,"Choices, Calculations, OR Slider Labels",Field Type,,,Text Validation Min,Text Validation Max,,,Form Display Name
+1846,qr64,,,,,Are you currently a smoker?,"0= No, 1= Yes",1,2,n/a,n/a,n/a,,,64
+1847,qr64,"If No, do not answer the remaining questions.","If No, do not answer the remaining questions.",,,Have you been a smoker within the past two years?,"0= No, 1= Yes",1,2,n/a,n/a,n/a,,,64
+1848,qr64,,,,,How soon after you wake up do you smoke your first cigarette?,"0=After 60 minutes,
+1=31-60 minutes,
+2=6-30 minutes,
+3=Within 5 minutes",1,1,0,3,oo,,,64
+1849,qr64,,,,,"Do you find it difficult to refrain from smoking in the places where it is forbidden (e.g. in church, at the library, in cinema)?","0= No, 1= Yes",1,2,n/a,n/a,n/a,,,64
+1850,qr64,,,,,Which cigarette would you hate most to give up?,"1= First thing in the morning,
+0=Any other",1,1,0,n/a,n/a,,,64
+1851,qr64,,,,,How many cigarettes/day do you smoke?,"0=10 or less,
+1=11-20,
+2=21-30,
+3=31 or more",1,1,0,oo,3,,,64
+1852,qr64,,,,,Do you smoke more frequently during the first hours after waking than during the rest of the day?,"0= No, 1= Yes",1,2,n/a,n/a,n/a,,,64
+1853,qr64,,,,,Do you smoke if you are so ill that you are in bed most of the day?,"0= No, 1= Yes",1,2,n/a,n/a,n/a,,,64
+1021,qr53,Please circle the answer that is correct for you.,Please select the answer that is correct for you.,,,How often do you have a drink containing alcohol?,"0=Never, 1=Monthly or Less, 2=Two to Four Times a Month, 3=Two to Three Times a Week, 4=Four or More Times a Week",1,,,,,,,53
+1022,qr53,Please circle the answer that is correct for you.,Please select the answer that is correct for you.,,,How many drinks containing alcohol do you have on a typical day when you are drinking?,"0=""1 or 2"", 1=""3 or 4"", 2=""5 or 6"", 3=""7 to 9"", 4=""10 or more""",1,,,,,,,53
+1023,qr53,Please circle the answer that is correct for you.,Please select the answer that is correct for you.,,,Have you ever had at least three drinks on one occasion?,"0=No, 1=Yes",1,,,,,,,53
+1024,qr53,Please circle the answer that is correct for you.,Please select the answer that is correct for you.,,,Have you ever had at least two drinks on one occasion?,"0=No, 1=Yes",1,,,,,,,53
+1025,qr53,Please circle the answer that is correct for you.,Please select the answer that is correct for you.,,,How often do you have six or more drinks on one occassion?,"0=Never, 1=Less than Monthly, 2=Monthly, 3=Weekly, 4=Daily or Almost Daily",1,,,,,,,53
+1026,qr53,Please circle the answer that is correct for you.,Please select the answer that is correct for you.,,,How often during the last year have you found that you were not able to stop drinking once you had started?,"0=Never, 1=Less than Monthly, 2=Monthly, 3=Weekly, 4=Daily or Almost Daily",1,,,,,,,53
+1027,qr53,Please circle the answer that is correct for you.,Please select the answer that is correct for you.,,,IF NEVER: Have you ever found that you were not able to stop drinking once you had started?,"0=No, 1=Yes",1,,,,,,,53
+1028,qr53,Please circle the answer that is correct for you.,Please select the answer that is correct for you.,,,How often during the last year have you failed to do what was normally expected of you because of drinking?,"0=Never, 1=Less than Monthly, 2=Monthly, 3=Weekly, 4=Daily or Almost Daily",1,,,,,,,53
+1029,qr53,Please circle the answer that is correct for you.,Please select the answer that is correct for you.,,,How often during the last year have you needed a first drink in the morning to get yourself going after a heavy drinking session?,"0=Never, 1=Less than Monthly, 2=Monthly, 3=Weekly, 4=Daily or Almost Daily",1,,,,,,,53
+1030,qr53,Please circle the answer that is correct for you.,Please select the answer that is correct for you.,,,How often during the last year have you had a feeling of guilt or remorse after drinking?,"0=Never, 1=Less than Monthly, 2=Monthly, 3=Weekly, 4=Daily or Almost Daily",1,,,,,,,53
+1031,qr53,Please circle the answer that is correct for you.,Please select the answer that is correct for you.,,,How often during the last year have you been unable to remember what happened the night before because you had been drinking?,"0=Never, 1=Less than Monthly, 2=Monthly, 3=Weekly, 4=Daily or Almost Daily",1,,,,,,,53
+1032,qr53,Please circle the answer that is correct for you.,Please select the answer that is correct for you.,,,Have you or someone else been injured as a result of your drinking?,"0=""No"", 2=""Yes, but not in the last year"", 4=""Yes, during the year""",1,,,,,,,53
+1033,qr53,Please circle the answer that is correct for you.,Please select the answer that is correct for you.,,,"Has a relative or friend, or a doctor or other health worker been concerned about your drinking or suggested you cut down?","0=""No"", 2=""Yes, but not in the last year"", 4=""Yes, during the year""",1,,,,,,,53
+1854,qr65,,,,,Do you currently smoke?,"0=No, 1=Yes",1,2,n/a,n/a,n/a,,,65
+1855,qr65,"If No, do not answer the remaining questions.","If No, do not answer the remaining questions.",,,How many cigarettes a day do you smoke?,"0= A. Over 26 cigarettes a day,  1= B. About 16-25 cigarettes a day,  2= C. About 1-15 cigarettes a day,  3= D. Less than 1 day",1,1,3,0,oo,,,65
+1856,qr65,,,,,Do you inhale?,"0= A. Always,  1= B. Quite Often,  2= C. Seldom, 3= D. Never",1,1,3,0,oo,,,65
+1857,qr65,,,,,How soon after you wake do you smoke your first cigarette?,"0= A. Within 30 minutes, 1= B. More than 30 minutes after waking but before noon, 2= C. In the afternoon, 3= D. In the evening ",1,1,3,0,oo,,,65
+1858,qr65,,,,,Which cigarette would you hate to give up?,"0= A. First cigarette in the morning, 1= B. Any other cigarette before noon, 2= C. Any other cigarette in the afternoon, 3= D. Any other cigarette in the evening",1,1,3,oo,oo,,,65
+1859,qr65,,,,,"Do you find it difficult to refrain from smoking in places where it is forbidden (church, library, movies, etc.)?","0= ""A. Yes, very difficult"", 1= ""B. Yes, somewhat difficult"", 2= ""C. No, not usually difficult"", 3= ""D. No, not at all difficult""",1,1,3,0,oo,,,65
+1860,qr65,,,,,Do you smoke if you are so ill that you are in bed most of the day?,"0= ""A. Yes, always"", 1= ""B. Yes, quite often"", 2=""C. No, not usually"", 3= ""D. No, never""",1,1,3,0,oo,,,65
+1861,qr65,,,,,Do you smoke more during the first 2 hours than during the rest of the day?,"0= No, 1= Yes",1,2,N/A,n/a,n/a,,,65
+1373,qr62,,,,,"Have you ever heard of marijuana (grass, pot) or hashish (has, hash oil)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1374,qr62,,,,,"Have you ever used marijuana (grass, pot) or hashish (hash, hash oil)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1375,qr62,,,,,"Have you ever sniffed a substance (glue, aerosols, etc.) to get high?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1376,qr62,,,,,"Have you ever used tranquillizers or sedatives (without a doctor's prescription) (e.g. benzodiazepines such as valium or xanax;barbiturates, barbs or downers such as amytal, or seconal)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1377,qr62,,,,,"Have you ever used amphetamines (speed), methamphetamine (crystal meth), or desoxyn?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1378,qr62,,,,,Have you ever used LSD (acid)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1379,qr62,,,,,Have you ever used magic mushrooms or other hallucinogens (excluding LSD)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1380,qr62,,,,,Have you ever used crack?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1381,qr62,,,,,Have you ever used cocaine?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1382,qr62,,,,,Have you ever used relevin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1383,qr62,,,,,Have you ever used heroin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1384,qr62,,,,,"Have you ever used narcotics (e.g. opium, morphine, codeine)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1385,qr62,,,,,Have you ever used ecstasy (MDMA)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1386,qr62,,,,,"Have you ever used ketamine (Ket, K) or Phencyclidine (PCP, or angel dust)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1387,qr62,,,,,Have you ever used GHB or liquid ecstasy?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1388,qr62,,,,,Have you ever used anabolic steroids?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1389,qr62,,,,,"On how many occasions IN YOUR WHOLE LIFETIME have you used marijuana (grass, pot) or hashish (hash, hash oil)?","1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,2,1,oo,6,,,62
+1390,qr62,,,,,"On how many occasions OVER THE LAST 12 MONTHS have you used marijuana (grass, pot) or hashish (hash, hash oil)?","1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,2,1,oo,6,,,62
+1391,qr62,,,,,"On how many occasions OVER THE LAST 30 DAYS have you used marijuana (grass, pot) or hashish (hash, hash oil)?","1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,2,1,oo,6,,,62
+1392,qr62,,,,,"On how many occasions OVER THE LAST WEEK have you used marijuana (grass, pot) or hashish (hash, hash oil)?","1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,2,1,oo,6,,,62
+1393,qr62,,,,,"Please indicate if you have used marijuana (grass, pot) or hashish (hash, hash oil) on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1394,qr62,,,,,Do you abuse more than one drug at a time when you use marijuana / hashish?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1395,qr62,,,,,Can you get through the week without using marijuana / hashish (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1396,qr62,,,,,Are you always able to stop using marijuana / hashish when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1397,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of marijuana / hashish use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1398,qr62,,,,,Do you ever feel bad about your marijuana / hashish abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1399,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with marijuana/ hashish?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1400,qr62,,,,,Has marijuana / hashish abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1401,qr62,,,,,Have you ever lost friends because of your use of marijuana / hashish?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1402,qr62,,,,,Have you ever neglected your family or missed work because of your use of marijuana / hashish?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1403,qr62,,,,,Have you ever been in trouble at work because of marijuana / hashish abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1404,qr62,,,,,Have you ever lost a job because of marijuana / hashish abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1405,qr62,,,,,Have you ever gotten into fights when under the influence of marijuana / hashish?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1406,qr62,,,,,Have you engaged in illegal activities in order to obtain marijuana / hashish?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1407,qr62,,,,,Have you ever been arrested for possession of marijuana / hashish?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1408,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy marijuana / hashish intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1409,qr62,,,,,"Have you had medical problems as a result of your marijuana / hashish use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1410,qr62,,,,,Have you ever gone to anyone for help for a marijuana / hashish problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1411,qr62,,,,,Have you ever been treated as an out-patient for problems related to marijuana / hashish abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1412,qr62,,,,,When did you FIRST try marijuana?,1=11 years old or less; 2=12 years old; 3=13 years old; 4=14 years old; 5=15 years old; 6=16 years old; 7=17 years old; 8=18 years old or more,1,1,1,1,oo,,,62
+1413,qr62,,,,,"On how many occasions IN YOUR WHOLE LIFETIME have you sniffed a substance (glue, aerosols, etc.) to get high?","1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1414,qr62,,,,,"On how many occasions OVER THE LAST 12 MONTHS have you sniffed a substance (glue, aerosols, etc.) to get high?","1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1415,qr62,,,,,"On how many occasions OVER THE LAST 30 DAYS have you sniffed a substance (glue, aerosols, etc.) to get high?","1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1416,qr62,,,,,"On how many occasions OVER THE LAST WEEK have you sniffed a substance (glue, aerosols, etc.) to get high?","1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1417,qr62,,,,,"Please indicate if you have sniffed a substance (glue, aerosols, etc.) to get high on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1418,qr62,,,,,Do you abuse more than one drug at a time when you use inhalants (glue/aerosols) to get high?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1419,qr62,,,,,Can you get through the week without using inhalants to get high (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1420,qr62,,,,,Are you always able to stop using inhalants (glue/aerosols) to get high when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1421,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of inhalant (glue/aerosol) use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1422,qr62,,,,,Do you ever feel bad about your abuse of inhalants (glue/aerosols)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1423,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with inhalants (glue/aerosols)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1424,qr62,,,,,Has inhalant (glue/aerosol) abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1425,qr62,,,,,Have you ever lost friends because of your use of inhalants (glue/aerosols)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1426,qr62,,,,,Have you ever neglected your family or missed work because of your use of inhalants (glue/aerosols)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1427,qr62,,,,,Have you ever been in trouble at work because of inhalant (glue/aerosol) abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1428,qr62,,,,,Have you ever lost a job because of inhalant (glue/aerosol) abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1429,qr62,,,,,Have you ever gotten into fights when under the influence of inhalants (glue/aerosols)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1430,qr62,,,,,Have you engaged in illegal activities in order to obtain inhalants (glue/aerosols) to get high?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1431,qr62,,,,,Have you ever been arrested for possession of inhalants (glue/aerosols)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1432,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy inhalant (glue/aerosol) intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1433,qr62,,,,,"Have you had medical problems as a result of your inhalant (glue/aerosol) use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1434,qr62,,,,,Have you ever gone to anyone for help for an inhalant (glue/aerosol) problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1435,qr62,,,,,Have you ever been treated as an out-patient for problems related to inhalant (glue/aerosol) abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1436,qr62,,,,,"When did you FIRST use inhalants (glue, etc.) to get high?","1=11 years old or less, 2=12 years old, 3=13 years old, 4=14 years old, 5=15 years old, 6=16 years old, 7=17 years old, 8=18 years old or more",1,1,1,1,oo,,,62
+1437,qr62,,,,,"On how many occasions in your lifetime have you used tranquilizers or sedatives (without a doctor's prescription) (e.g. benzodiazepines such as valium or xanax; barbiturates, barbs or downers such as amytal, or seconal)?","1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1438,qr62,,,,,On how many occasions OVER THE LAST 12 MONTHS have you used tranquilizers?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1439,qr62,,,,,On how many occasions OVER THE LAST 30 DAYS have you used tranquilizers?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1440,qr62,,,,,On how many occasions OVER THE LAST WEEK have you used tranquilizers?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1441,qr62,,,,,Please indicate if you have used tranquilizers or sedatives (without a doctor's prescription) on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1442,qr62,,,,,Do you abuse more than one drug at a time when you use tranquilizers?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1443,qr62,,,,,Can you get through the week without using tranquilizers (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1444,qr62,,,,,Are you always able to stop using tranquilizers when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1445,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of tranquilizer use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1446,qr62,,,,,Do you ever feel bad about your tranquilizer abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1447,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with tranquilizers?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1448,qr62,,,,,Has tranquilizer abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1449,qr62,,,,,Have you ever lost friends because of your use of tranquilizers?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1450,qr62,,,,,Have you ever neglected your family or missed work because of your use of tranquilizers?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1451,qr62,,,,,Have you ever been in trouble at work because of tranquilizer abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1452,qr62,,,,,Have you ever lost a job because of tranquilizer abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1453,qr62,,,,,Have you ever gotten into fights when under the influence of tranquilizers?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1454,qr62,,,,,Have you engaged in illegal activities in order to obtain tranquilizers?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1455,qr62,,,,,Have you ever been arrested for possession of tranquilizers?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1456,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy tranquilizer intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1457,qr62,,,,,"Have you had medical problems as a result of your tranquilizer use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1458,qr62,,,,,Have you ever gone to anyone for help for a tranquilizer problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1459,qr62,,,,,Have you ever been treated as an out-patient for problems related to tranquilizer abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1460,qr62,,,,,"When did you FIRST try tranquilizers or sedatives (without a doctor's prescription) (e.g. benzodiazepines such as valium or xanax; barbiturates, barbs or downers such as amytal, or seconal)?","1=11 years old or less, 2=12 years old, 3=13 years old, 4=14 years old, 5=15 years old, 6=16 years old, 7=17 years old, 8=18 years old or more",1,1,1,1,oo,,,62
+1461,qr62,,,,,"On how many occasions in your lifetime have you used amphetamines (speed), methamphetamine (crystal meth) or desoxyn?","1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1462,qr62,,,,,On how many occasions OVER THE LAST 12 MONTHS have you used amphetamines (speed)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1463,qr62,,,,,On how many occasions OVER THE LAST 30 DAYS have you used amphetamines (speed)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1464,qr62,,,,,On how many occasions OVER THE LAST WEEK have you used amphetamines (speed)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1465,qr62,,,,,"Please indicate if you have used amphetamines (speed), methamphetamine (crystal meth) or desoxyn on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1466,qr62,,,,,Do you abuse more than one drug at a time when you use amphetamines?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1467,qr62,,,,,Can you get through the week without using amphetamines (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1468,qr62,,,,,Are you always able to stop using amphetamines when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1469,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of amphetamine use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1470,qr62,,,,,Do you ever feel bad about your amphetamine abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1471,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with amphetamines?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1472,qr62,,,,,Has amphetamine abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1473,qr62,,,,,Have you ever lost friends because of your use of amphetamines?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1474,qr62,,,,,Have you ever neglected your family or missed work because of your use of amphetamines?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1475,qr62,,,,,Have you ever been in trouble at work because of amphetamine abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1476,qr62,,,,,Have you ever lost a job because of amphetamine abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1477,qr62,,,,,Have you ever gotten into fights when under the influence of amphetamines?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1478,qr62,,,,,Have you engaged in illegal activities in order to obtain amphetamines?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1479,qr62,,,,,Have you ever been arrested for possession of amphetamines?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1480,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy amphetamine intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1481,qr62,,,,,"Have you had medical problems as a result of your amphetamine use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1482,qr62,,,,,Have you ever gone to anyone for help for an amphetamine problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1483,qr62,,,,,Have you ever been treated as an out-patient for problems related to amphetamine abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1484,qr62,,,,,"When did you FIRST try amphetamines (speed), methamphetamine (crystal meth) or desoxyn?","1=11 years old or less, 2=12 years old, 3=13 years old, 4=14 years old, 5=15 years old, 6=16 years old, 7=17 years old, 8=18 years old or more",1,1,1,1,oo,,,62
+1485,qr62,,,,,On how many occasions in your lifetime have you used LSD (acid)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1486,qr62,,,,,On how many occasions OVER THE LAST 12 MONTHS have you used LSD (acid)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1487,qr62,,,,,On how many occasions OVER THE LAST 30 DAYS have you used LSD (acid)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1488,qr62,,,,,On how many occasions OVER THE LAST WEEK have you used LSD (acid)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1489,qr62,,,,,Please indicate if you have used LSD on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1490,qr62,,,,,Do you abuse more than one drug at a time when you use LSD?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1491,qr62,,,,,Can you get through the week without using LSD (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1492,qr62,,,,,Are you always able to stop using LSD when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1493,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of LSD use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1494,qr62,,,,,Do you ever feel bad about your LSD abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1495,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with LSD?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1496,qr62,,,,,Has LSD abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1497,qr62,,,,,Have you ever lost friends because of your use of LSD?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1498,qr62,,,,,Have you ever neglected your family or missed work because of your use of LSD?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1499,qr62,,,,,Have you ever been in trouble at work because of LSD abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1500,qr62,,,,,Have you ever lost a job because of LSD abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1501,qr62,,,,,Have you ever gotten into fights when under the influence of LSD?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1502,qr62,,,,,Have you engaged in illegal activities in order to obtain LSD?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1503,qr62,,,,,Have you ever been arrested for possession of LSD?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1504,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy LSD intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1505,qr62,,,,,"Have you had medical problems as a result of your LSD use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1506,qr62,,,,,Have you ever gone to anyone for help for a LSD problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1507,qr62,,,,,Have you ever been treated as an out-patient for problems related to LSD abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1508,qr62,,,,,When did you FIRST try LSD (acid)?,"1=11 years old or less, 2=12 years old, 3=13 years old, 4=14 years old, 5=15 years old, 6=16 years old, 7=17 years old, 8=18 years old or more",1,1,1,1,oo,,,62
+1509,qr62,,,,,On how many occasions in your lifetime have you used magic mushrooms or other hallucinogens (excluding LSD)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1510,qr62,,,,,On how many occasions OVER THE LAST 12 MONTHS have you used magic mushrooms or other hallucinogens (excluding LSD)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1511,qr62,,,,,On how many occasions OVER THE LAST 30 DAYS have you used magic mushrooms or other hallucinogens (excluding LSD)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1512,qr62,,,,,On how many occasions OVER THE LAST WEEK have you used magic mushrooms or other hallucinogens (excluding LSD)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1513,qr62,,,,,Please indicate if you have used magic mushrooms or other hallucinogens (excluding LSD) on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1514,qr62,,,,,Do you abuse more than one drug at a time when you use hallucinogens?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1515,qr62,,,,,Can you get through the week without using hallucinogens (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1516,qr62,,,,,Are you always able to stop using hallucinogens when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1517,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of hallucinogens use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1518,qr62,,,,, Do you ever feel bad about your hallucinogens abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1519,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with hallucinogens?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1520,qr62,,,,,Has hallucinogens abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1521,qr62,,,,,Have you ever lost friends because of your use of hallucinogens?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1522,qr62,,,,,Have you ever neglected your family or missed work because of your use of hallucinogens?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1523,qr62,,,,,Have you ever been in trouble at work because of hallucinogens abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1524,qr62,,,,,Have you ever lost a job because of hallucinogens abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1525,qr62,,,,,Have you ever gotten into fights when under the influence of hallucinogens?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1526,qr62,,,,,Have you engaged in illegal activities in order to obtain hallucinogens?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1527,qr62,,,,,Have you ever been arrested for possession of hallucinogens?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1528,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy hallucinogens intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1529,qr62,,,,,"Have you had medical problems as a result of your hallucinogens use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1530,qr62,,,,,Have you ever gone to anyone for help for an hallucinogens problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1531,qr62,,,,,Have you ever been treated as an out-patient for problems related to hallucinogens abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1532,qr62,,,,,When did you FIRST try magic mushrooms or other hallucinogens (excluding LSD)?,"1=11 years old or less, 2=12 years old, 3=13 years old, 4=14 years old, 5=15 years old, 6=16 years old, 7=17 years old, 8=18 years old or more",1,1,1,1,oo,,,62
+1533,qr62,,,,,On how many occasions in your lifetime have you used crack?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1534,qr62,,,,,On how many occasions OVER THE LAST 12 MONTHS have you used crack?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1535,qr62,,,,,On how many occasions OVER THE LAST 30 DAYS have you used crack?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1536,qr62,,,,,On how many occasions OVER THE LAST WEEK have you used crack?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1537,qr62,,,,,Please indicate if you have used crack on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1538,qr62,,,,,Do you abuse more than one drug at a time when you use crack?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1539,qr62,,,,,Can you get through the week without using crack (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1540,qr62,,,,,Are you always able to stop using crack when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1541,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of crack use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1542,qr62,,,,,Do you ever feel bad about your crack abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1543,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with crack?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1544,qr62,,,,,Has crack abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1545,qr62,,,,,Have you ever lost friends because of your use of crack?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1546,qr62,,,,,Have you ever neglected your family or missed work because of your use of crack?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1547,qr62,,,,,Have you ever been in trouble at work because of crack abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1548,qr62,,,,,Have you ever lost a job because of crack abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1549,qr62,,,,,Have you ever gotten into fights when under the influence of crack?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1550,qr62,,,,,Have you engaged in illegal activities in order to obtain crack?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1551,qr62,,,,,Have you ever been arrested for possession of crack?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1552,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy crack intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1553,qr62,,,,,"Have you had medical problems as a result of your crack use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1554,qr62,,,,,Have you ever gone to anyone for help for a crack problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1555,qr62,,,,,Have you ever been treated as an out-patient for problems related to crack abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1556,qr62,,,,,When did you FIRST try crack?,"1=11 years old or less, 2=12 years old, 3=13 years old, 4=14 years old, 5=15 years old, 6=16 years old, 7=17 years old, 8=18 years old or more",1,1,1,1,oo,,,62
+1557,qr62,,,,,On how many occasions in your lifetime have you used cocaine?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1558,qr62,,,,,On how many occasions OVER THE LAST 12 MONTHS have you used cocaine?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1559,qr62,,,,,On how many occasions OVER THE LAST 30 DAYS have you used cocaine?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1560,qr62,,,,,On how many occasions OVER THE LAST WEEK have you used cocaine?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1561,qr62,,,,,Please indicate if you have used cocaine on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1562,qr62,,,,,Do you abuse more than one drug at a time when you use cocaine?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1563,qr62,,,,,Can you get through the week without using cocaine (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1564,qr62,,,,,Are you always able to stop using cocaine when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1565,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of cocaine use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1566,qr62,,,,,Do you ever feel bad about your cocaine abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1567,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with cocaine?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1568,qr62,,,,,Has cocaine abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1569,qr62,,,,,Have you ever lost friends because of your use of cocaine?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1570,qr62,,,,,Have you ever neglected your family or missed work because of your use of cocaine?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1571,qr62,,,,,Have you ever been in trouble at work because of cocaine abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1572,qr62,,,,,Have you ever lost a job because of cocaine abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1573,qr62,,,,,Have you ever gotten into fights when under the influence of cocaine?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1574,qr62,,,,,Have you engaged in illegal activities in order to obtain cocaine?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1575,qr62,,,,,Have you ever been arrested for possession of cocaine?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1576,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy cocaine intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1577,qr62,,,,,"Have you had medical problems as a result of your cocaine use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1578,qr62,,,,,Have you ever gone to anyone for help for a cocaine problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1579,qr62,,,,,Have you ever been treated as an out-patient for problems related to cocaine abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1580,qr62,,,,,When did you FIRST try cocaine?,"1=11 years old or less, 2=12 years old, 3=13 years old, 4=14 years old, 5=15 years old, 6=16 years old, 7=17 years old, 8=18 years old or more",1,1,1,1,oo,,,62
+1581,qr62,,,,,On how many occasions in your lifetime have you used relevin?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1582,qr62,,,,,On how many occasions OVER THE LAST 12 MONTHS have you used relevin?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1583,qr62,,,,,On how many occasions OVER THE LAST 30 DAYS have you used relevin?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1584,qr62,,,,,On how many occasions OVER THE LAST WEEK have you used relevin?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1585,qr62,,,,,Please indicate if you have used relevin on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1586,qr62,,,,,Do you abuse more than one drug at a time when you use relevin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1587,qr62,,,,,Can you get through the week without using relevin (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1588,qr62,,,,,Are you always able to stop using relevin when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1589,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of relevin use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1590,qr62,,,,,Do you ever feel bad about your relevin abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1591,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with relevin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1592,qr62,,,,,Has relevin abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1593,qr62,,,,,Have you ever lost friends because of your use of relevin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1594,qr62,,,,,Have you ever neglected your family or missed work because of your use of relevin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1595,qr62,,,,,Have you ever been in trouble at work because of relevin abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1596,qr62,,,,,Have you ever lost a job because of relevin abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1597,qr62,,,,,Have you ever gotten into fights when under the influence of relevin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1598,qr62,,,,,Have you engaged in illegal activities in order to obtain relevin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1599,qr62,,,,,Have you ever been arrested for possession of relevin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1600,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy relevin intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1601,qr62,,,,,"Have you had medical problems as a result of your relevin use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1602,qr62,,,,,Have you ever gone to anyone for help for a relevin problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1603,qr62,,,,,Have you ever been treated as an out-patient for problems related to relevin abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1604,qr62,,,,,When did you FIRST try relevin?,"1=11 years old or less, 2=12 years old, 3=13 years old, 4=14 years old, 5=15 years old, 6=16 years old, 7=17 years old, 8=18 years old or more",1,1,1,1,oo,,,62
+1605,qr62,,,,,On how many occasions in your lifetime have you used heroin?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1606,qr62,,,,,On how many occasions OVER THE LAST 12 MONTHS have you used heroin?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1607,qr62,,,,,On how many occasions OVER THE LAST 30 DAYS have you used heroin?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1608,qr62,,,,,On how many occasions OVER THE LAST WEEK have you used heroin?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1609,qr62,,,,,Please indicate if you have used heroin on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1610,qr62,,,,,Do you abuse more than one drug at a time when you use heroin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1611,qr62,,,,,Can you get through the week without using heroin (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1612,qr62,,,,,Are you always able to stop using heroin when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1613,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of heroin use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1614,qr62,,,,,Do you ever feel bad about your heroin abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1615,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with heroin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1616,qr62,,,,,Has heroin abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1617,qr62,,,,,Have you ever lost friends because of your use of heroin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1618,qr62,,,,,Have you ever neglected your family or missed work because of your use of heroin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1619,qr62,,,,,Have you ever been in trouble at work because of heroin abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1620,qr62,,,,,Have you ever lost a job because of heroin abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1621,qr62,,,,,Have you ever gotten into fights when under the influence of heroin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1622,qr62,,,,,Have you engaged in illegal activities in order to obtain heroin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1623,qr62,,,,,Have you ever been arrested for possession of heroin?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1624,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy heroin intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1625,qr62,,,,,"Have you had medical problems as a result of your heroin use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1626,qr62,,,,,Have you ever gone to anyone for help for a heroin problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1627,qr62,,,,,Have you ever been treated as an out-patient for problems related to heroin abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1628,qr62,,,,,When did you FIRST try heroin?,"1=11 years old or less, 2=12 years old, 3=13 years old, 4=14 years old, 5=15 years old, 6=16 years old, 7=17 years old, 8=18 years old or more",1,1,1,1,oo,,,62
+1629,qr62,,,,,"On how many occasions in your lifetime have you used narcotics (e.g. opium, morphine, codeine)?","1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1630,qr62,,,,,"On how many occasions OVER THE LAST 12 MONTHS have you used narcotics (e.g. opium, morphine, codeine)?","1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1631,qr62,,,,,"On how many occasions OVER THE LAST 30 DAYS have you used narcotics (e.g. opium, morphine, codeine)?","1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1632,qr62,,,,,"On how many occasions OVER THE LAST WEEK have you used narcotics (e.g. opium, morphine, codeine)?","1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1633,qr62,,,,,Please indicate if you have used narcotics on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1634,qr62,,,,,Do you abuse more than one drug at a time when you use narcotics?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1635,qr62,,,,,Can you get through the week without using narcotics (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1636,qr62,,,,,Are you always able to stop using narcotics when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1637,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of narcotics use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1638,qr62,,,,,Do you ever feel bad about your narcotics abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1639,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with narcotics?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1640,qr62,,,,,Has narcotics abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1641,qr62,,,,,Have you ever lost friends because of your use of narcotics?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1642,qr62,,,,,Have you ever neglected your family or missed work because of your use of narcotics?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1643,qr62,,,,,Have you ever been in trouble at work because of narcotics abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1644,qr62,,,,,Have you ever lost a job because of narcotics abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1645,qr62,,,,,Have you ever gotten into fights when under the influence of narcotics?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1646,qr62,,,,,Have you engaged in illegal activities in order to obtain narcotics?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1647,qr62,,,,,Have you ever been arrested for possession of narcotics?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1648,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy narcotics intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1649,qr62,,,,,"Have you had medical problems as a result of your narcotics use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1650,qr62,,,,, Have you ever gone to anyone for help for a narcotics problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1651,qr62,,,,,Have you ever been treated as an out-patient for problems related to narcotics abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1652,qr62,,,,,When did you FIRST try narcotics?,"1=11 years old or less, 2=12 years old, 3=13 years old, 4=14 years old, 5=15 years old, 6=16 years old, 7=17 years old, 8=18 years old or more",1,1,1,1,oo,,,62
+1653,qr62,,,,,On how many occasions in your lifetime have you used ecstasy (MDMA)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1654,qr62,,,,,On how many occasions OVER THE LAST 12 MONTHS have you used ecstasy (MDMA)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1655,qr62,,,,,On how many occasions OVER THE LAST 30 DAYS have you used ecstasy (MDMA)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1656,qr62,,,,,On how many occasions OVER THE LAST WEEK have you used ecstasy (MDMA)?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1657,qr62,,,,,Please indicate if you have used ecstasy (MDMA) on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1658,qr62,,,,,Do you abuse more than one drug at a time when you use ecstasy (MDMA)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1659,qr62,,,,,Can you get through the week without using ecstasy (MDMA) (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1660,qr62,,,,,Are you always able to stop using ecstasy (MDMA) when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1661,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of ecstasy (MDMA) use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1662,qr62,,,,,Do you ever feel bad about your ecstasy (MDMA) abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1663,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with ecstasy (MDMA)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1664,qr62,,,,, Has ecstasy (MDMA) abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1665,qr62,,,,,Have you ever lost friends because of your use of ecstasy (MDMA)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1666,qr62,,,,,Have you ever neglected your family or missed work because of your use of ecstasy (MDMA)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1667,qr62,,,,,Have you ever been in trouble at work because of ecstasy (MDMA) abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1668,qr62,,,,, Have you ever lost a job because of ecstasy (MDMA) abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1669,qr62,,,,,Have you ever gotten into fights when under the influence of ecstasy (MDMA)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1670,qr62,,,,,Have you engaged in illegal activities in order to obtain ecstasy (MDMA)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1671,qr62,,,,,Have you ever been arrested for possession of ecstasy (MDMA)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1672,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy ecstasy (MDMA) intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1673,qr62,,,,,"Have you had medical problems as a result of your ecstasy (MDMA) use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1674,qr62,,,,,Have you ever gone to anyone for help for an ecstasy (MDMA) problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1675,qr62,,,,,Have you ever been treated as an out-patient for problems related to ecstasy (MDMA) abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1676,qr62,,,,,When did you FIRST try ecstasy (MDMA)?,"1=11 years old or less, 2=12 years old, 3=13 years old, 4=14 years old, 5=15 years old, 6=16 years old, 7=17 years old, 8=18 years old or more",1,1,1,1,oo,,,62
+1677,qr62,,,,,On how many occasions in your lifetime have you used ketamine/PCP?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1678,qr62,,,,,On how many occasions OVER THE LAST 12 MONTHS have you used ketamine/PCP?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1679,qr62,,,,,On how many occasions OVER THE LAST 30 DAYS have you used ketamine/PCP?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1680,qr62,,,,,On how many occasions OVER THE LAST WEEK have you used ketamine/PCP?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1681,qr62,,,,,Please indicate if you have used ketamine/PCP on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1682,qr62,,,,,Do you abuse more than one drug at a time when you use ketamine/PCP?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1683,qr62,,,,,Can you get through the week without using ketamine/PCP (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1684,qr62,,,,,Are you always able to stop using ketamine/PCP when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1685,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of ketamine/PCP use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1686,qr62,,,,,Do you ever feel bad about your ketamine/PCP abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1687,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with ketamine/PCP?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1688,qr62,,,,,Has ketamine/PCP abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1689,qr62,,,,,Have you ever lost friends because of your use of ketamine/PCP?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1690,qr62,,,,,Have you ever neglected your family or missed work because of your use of ketamine/PCP?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1691,qr62,,,,,Have you ever been in trouble at work because of ketamine/PCP abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1692,qr62,,,,,Have you ever lost a job because of ketamine/PCP abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1693,qr62,,,,,Have you ever gotten into fights when under the influence of ketamine/PCP?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1694,qr62,,,,,Have you engaged in illegal activities in order to obtain ketamine/PCP?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1695,qr62,,,,,Have you ever been arrested for possession of ketamine/PCP?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1696,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy ketamine/PCP intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1697,qr62,,,,,"Have you had medical problems as a result of your ketamine/PCP use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1698,qr62,,,,,Have you ever gone to anyone for help for a ketamine/PCP problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1699,qr62,,,,,Have you ever been treated as an out-patient for problems related to ketamine/PCP abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1700,qr62,,,,,When did you FIRST try ketamine/PCP?,"1=11 years old or less, 2=12 years old, 3=13 years old, 4=14 years old, 5=15 years old, 6=16 years old, 7=17 years old, 8=18 years old or more",1,1,1,1,oo,,,62
+1701,qr62,,,,,On how many occasions in your lifetime have you used GHB or liquid ecstasy?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1702,qr62,,,,,On how many occasions OVER THE LAST 12 MONTHS have you used GHB?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1703,qr62,,,,,On how many occasions OVER THE LAST 30 DAYS have you used GHB?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1704,qr62,,,,,On how many occasions OVER THE LAST WEEK have you used GHB?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1705,qr62,,,,,Please indicate if you have used GHB on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1706,qr62,,,,,Do you abuse more than one drug at a time when you use GHB?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1707,qr62,,,,,Can you get through the week without using GHB (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1708,qr62,,,,,Are you always able to stop using GHB when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1709,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of GHB use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1710,qr62,,,,,Do you ever feel bad about your GHB abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1711,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with GHB?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1712,qr62,,,,,Has GHB abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1713,qr62,,,,,Have you ever lost friends because of your use of GHB?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1714,qr62,,,,,Have you ever neglected your family or missed work because of your use of GHB?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1715,qr62,,,,,Have you ever been in trouble at work because of GHB abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1716,qr62,,,,,Have you ever lost a job because of GHB abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1717,qr62,,,,,Have you ever gotten into fights when under the influence of GHB?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1718,qr62,,,,,Have you engaged in illegal activities in order to obtain GHB?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1719,qr62,,,,,Have you ever been arrested for possession of GHB?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1720,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy GHB intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1721,qr62,,,,,"Have you had medical problems as a result of your GHB use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1722,qr62,,,,,Have you ever gone to anyone for help for a GHB problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1723,qr62,,,,,Have you ever been treated as an out-patient for problems related to GHB abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1724,qr62,,,,,When did you FIRST try GHB?,"1=11 years old or less, 2=12 years old, 3=13 years old, 4=14 years old, 5=15 years old, 6=16 years old, 7=17 years old, 8=18 years old or more",1,1,1,1,oo,,,62
+1725,qr62,,,,, On how many occasions in your lifetime have you used anabolic steroids?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1726,qr62,,,,,On how many occasions OVER THE LAST 12 MONTHS have you used anabolic steroids?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1727,qr62,,,,,On how many occasions OVER THE LAST 30 DAYS have you used anabolic steroids?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1728,qr62,,,,,On how many occasions OVER THE LAST WEEK have you used anabolic steroids?,"1=1-2, 2=3-5, 3=6-9, 4=10-19, 5=20-39, 6=40 or more",1,1,1,oo,6,,,62
+1729,qr62,,,,,Please indicate if you have used anabolic steroids on a weekly basis OVER A 12 MONTH PERIOD or in an excessive or problematic way IN YOUR LIFETIME?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1730,qr62,,,,,Do you abuse more than one drug at a time when you use anabolic steroids?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1731,qr62,,,,,Can you get through the week without using anabolic steroids (unless you require it for medical reasons)?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1732,qr62,,,,,Are you always able to stop using anabolic steroids when you want?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1733,qr62,,,,,"Have you had ""blackouts"" or ""flashbacks"" as a result of anabolic steroids use?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1734,qr62,,,,,Do you ever feel bad about your anabolic steroid abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1735,qr62,,,,,Does your spouse (or parents) ever complain about your involvement with anabolic steroids?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1736,qr62,,,,,Has anabolic steroids abuse ever created problems between you and your spouse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1737,qr62,,,,,Have you ever lost friends because of your use of anabolic steroids?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1738,qr62,,,,, Have you ever neglected your family or missed work because of your use of anabolic steroids?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1739,qr62,,,,,Have you ever been in trouble at work because of anabolic steroid abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1740,qr62,,,,,Have you ever lost a job because of anabolic steroid abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1741,qr62,,,,,Have you ever gotten into fights when under the influence of anabolic steroids?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1742,qr62,,,,,Have you engaged in illegal activities in order to obtain anabolic steroids?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1743,qr62,,,,,Have you ever been arrested for possession of anabolic steroids?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1744,qr62,,,,,Have you ever experienced withdrawal symptoms as a result of heavy anabolic steroid intake?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1745,qr62,,,,,"Have you had medical problems as a result of your anabolic steroids use (e.g. memory loss, hepatitis, convulsions, bleeding, etc.)?","0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1746,qr62,,,,,Have you ever gone to anyone for help for an anabolic steroids problem?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1747,qr62,,,,,Have you ever been treated as an out-patient for problems related to anabolic steroid abuse?,"0=no, 1=yes",1,2,n/a,n/a,n/a,,,62
+1748,qr62,,,,,When did you FIRST try anabolic steroids?,"1=11 years old or less, 2=12 years old, 3=13 years old, 4=14 years old, 5=15 years old, 6=16 years old, 7=17 years old, 8=18 years old or more",1,1,1,1,oo,,,62
+232,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often do you find that you stay on-line longer than you intended?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+233,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often do you neglect household chores to spend more time online?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+234,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often do you prefer the excitement of the Internet to intimacy with your partner?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+235,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often do you form new relationships with fellow on-line users?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+236,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often do others in your life complain to you about the amount of time you spend on-line?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+237,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often do your grades or school work suffer because of the amount of time you spend on-line?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+238,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often do you check your e-mail before something else that you need to do?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+239,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often does your job performance or productivity suffer because of the internet?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+240,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often do you become defensive or secretive when anyone asks you what you do on-line?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+241,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often do you block out disturbing thoughts about your life with soothing thoughts of the internet?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+242,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often do you find yourself anticipating when you will go on-line again?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+243,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,"How often do you fear that life without the Internet would be boring, empty, and joyless?","0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+244,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,"How often do you snap, yell, or act annoyed if someone bothers you while you are on-line?","0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+245,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often do you lose sleep due to late-night log-ins?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+246,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,"How often do you feel preoccupied with the Internet when off-line, or fantasize about being on-line?","0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+247,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,"How often do you find yourself saying ""just a few more minutes"" when on-line?","0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+248,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often do you try to cut down the amount of time you spend on-line and fail?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+249,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often do you try to hide how long you've been on-line?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+250,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,How often do you choose to spend more time on-line over going out with others?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+251,qr66,"Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire","Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire",,,"How often do you feel depressed, moody, or nervous when you are off-line, which goes away once you are back on-line?","0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,66
+565,qr73,,,,,How often does your child disobey time limits you set for online use?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+566,qr73,,,,,How often does your child neglect household chores to spend more time online?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+567,qr73,,,,,How often does your child prefer to spend time online rather than with the rest of your family?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+568,qr73,,,,,How often does your child form new relationships with fellow online users?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,1,,,,73
+569,qr73,,,,,How often do you complain about the amount of time your child spends online?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+570,qr73,,,,,How often do your child's grades suffer because of the amount of time he or she spends online?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+571,qr73,,,,,How often does your child check his or her e-mail before doing something else?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+572,qr73,,,,,How often does your child seem withdrawn from others since discovering the Internet?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+573,qr73,,,,,How often does your child become defensive or secretive when asked what he or she does online?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+574,qr73,,,,,How often have you caught your child sneaking online against your wishes?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+575,qr73,,,,,How often does your child spend time along in his or her room playing on the computer?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+576,qr73,,,,,"How often does your child receive strange phone calls from new ""online"" friends?","0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+577,qr73,,,,,"How often does your child snap, yell, or act annoyed if bothered while online?","0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+578,qr73,,,,,How often does your child seem more tired and fatigued than he or she did before the Internet came along?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+579,qr73,,,,,How often does your child seem preoccupied with being back online when off-line?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+580,qr73,,,,,How often does your child throw tantrums with your interference about how long he or she spends online?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+581,qr73,,,,,How often does your child choose to spend time online rather than doing once enjoyed hobbies and/or outside interests?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+582,qr73,,,,,How often does your child become angry or belligerent when your place time limits on how much time he or shes is allowed to spend online?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+583,qr73,,,,,How often does your child choose to spend more time online than going out with friends?,"0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+584,qr73,,,,,"How often does your child feel depressed, moody, or nervous when off-line which seems to go away once back online?","0=Does Not Apply, 1=Rarely, 2=Occasionally, 3=Frequently, 4=Often, 5=Always",1,1,0,oo,5,,,73
+252,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,"I find that when I start eating certain foods, I end up eating much more than planned","0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+253,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,I find myself continuing to consume certain foods even though I am no longer hungry,"0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+254,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,I eat to the point where I feel physically ill,"0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+255,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,Not eating certain types of food or cutting down on certain types of food is something I worry about,"0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+256,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,I spend a lot of time feeling sluggish or fatigued from overeating,"0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+257,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,I find myself constantly eating certain foods throughout the day,"0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+258,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,"I find that when certain foods are not available, I will go out of my way to obtain them. For example, I will drive to the store to purchase certain foods even though I have other options available to me at home.","0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+259,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,"There have been times when I consumed certain foods so often or in such large quantities that I started to eat food instead of working, spending time with my family or friends, or engaging in other important activities or recreational activities I enjoy.","0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+260,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,"There have been times when I consumed certain foods so often or in such large quantities that I spent time dealing with negative feelings from overeating instead of working, spending time with my family or friends, or engaging in other important activities or recreational activities I enjoy.","0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+261,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,"There have been times when I avoided professional or social situations where certain foods were available, because I was afraid I would overeat.","0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+262,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,There have been times when I avoided professional or social situations because I was not able to consume certain foods there.,"0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+263,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,"I have had withdrawal symptoms such as agitation, anxiety, or other physical symptoms when I cut down or stopped eating certain foods. (Please do NOT include withdrawal symptoms caused by cutting down on caffeinated beverages such as soda pop, coffee, tea, energy drinks, etc.)","0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+264,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,"I have consumed certain foods to prevent feelings of anxiety, agitation, or other physical symptoms that were developing. (Please do NOT include consumption of caffeinated beverages such as soda pop, coffee, tea, energy drinks, etc.)","0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+265,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,I have found that I have elevated desire for or urges to consume certain foods when I cut down or stop eating them.,"0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+266,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,My behavior with respect to food and eating causes significant distress.,"0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+267,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",,IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,"I experience significant problems in my ability to function effectively (daily routine, job/school, social activities, family activities, health difficulties) because of food and eating.","0=Never, 1=Once a month, 2=2-4 times a month, 3=2-3 times a week, 4=4 or more times daily",1,1,0,oo,4,,,77
+268,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,"My food consumption has caused significant psychological problems such as depression, anxiety, self-loathing, or guilt.","0=No, 1=Yes",1,2,n/a,n/a,n/a,,,77
+269,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,My food consumption has caused significant physical problems or made a physical problem worse.,"0=No, 1=Yes",1,2,n/a,n/a,n/a,,,77
+270,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,I kept consuming the same types of food or the same amount of food even though I was having emotional and/or physical problems.,"0=No, 1=Yes",1,2,n/a,n/a,n/a,,,77
+271,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,"Over time, I have found that I need to eat more and more to get the feeling I want, such as reduced negative emotions or increased pleasure.","0=No, 1=Yes",1,2,n/a,n/a,n/a,,,77
+272,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,I have found that eating the same amount of food does not reduce my negative emotions or increase pleasurable feelings the way it used to.,"0=No, 1=Yes",1,2,n/a,n/a,n/a,,,77
+273,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,I want to cut down or stop eating certain kinds of food.,"0=No, 1=Yes",1,2,n/a,n/a,n/a,,,77
+274,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,I have tried to cut down or stop eating certain kinds of food.,"0=No, 1=Yes",1,2,n/a,n/a,n/a,,,77
+275,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",IN THE PAST 12 MONTHS:,IN THE PAST 12 MONTHS:,I have been successful at cutting down or not eating these kinds of food,"0=No, 1=Yes",1,2,n/a,n/a,n/a,,,77
+276,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",,,How many times in the past year did you try to cut down or stop eating certain foods altogether?,"0=Never,1=1 time, 2=2 times, 3=3 times, 4=4 times, 5=5 or more times",1,1,0,oo,5,,,77
+277,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Ice Cream,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+278,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Chocolate,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+279,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Apples,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+280,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Doughnuts,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+281,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Broccoli,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+282,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Cookies,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+283,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Cake,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+284,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Candy,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+285,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,White bread,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+286,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Rolls,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+287,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Lettuce,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+288,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Pasta,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+289,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Stawberries,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+290,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Crackers,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+291,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Cake,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+292,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Pretzels,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+293,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,French fries,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+294,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Carrots,"0=Unchecked, 1=Checked",1,2,n7a,n/a,n/a,,,77
+295,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Steak,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+296,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Bananas,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+297,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Chips,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+298,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Hamburgers ,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+299,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Soda Pop,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+300,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Pizza,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+301,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Bacon,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+302,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Rice,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+303,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,Cheeseburgers,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+304,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",Please check ALL of the following foods you have problems with:,Please check ALL of the following foods you have problems with:,None of the above,"0=Unchecked, 1=Checked",1,2,n/a,n/a,n/a,,,77
+305,qr77,"This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.","This survey asks about your eating habits in the past year. People sometimes have difficulty controlling their intake of certain foods such as:
+ - Sweets like ice cream, chocolate, doughnuts, cookies, cake, candy, ice cream
+ - Starches like white bread, rolls, pasta, and rice
+ - Salty snacks like chips, pretzels, and crackers
+ - Fatty foods like steak, bacon, hamburgers, cheeseburgers, pizza, and French fries
+ - Sugary drinks like soda pop
+When the following questions ask about “CERTAIN FOODS” please think of ANY food similar to those listed in the food group or ANY OTHER foods you have had a problem within the past year.",,,Please list any other foods that you have problems with that were not previously listed:,,4,3,N/A,n/a,n/a,,,77

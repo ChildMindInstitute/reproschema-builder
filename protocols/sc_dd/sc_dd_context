@@ -1,7 +1,11 @@
 {
     "@context": {
         "@version": 1.1,
+<<<<<<< HEAD
         "activity_path": "https://raw.githubusercontent.com/charlie42/reproschema-builder/master/activities/",
+=======
+        "activity_path": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/",
+>>>>>>> mhdb-format
         "grd": {
             "@id": "activity_path:grd/grd_schema",
             "@type": "@id"

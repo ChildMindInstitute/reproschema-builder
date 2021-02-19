@@ -1,0 +1,108 @@
+Variable / Field Name,Form Name,Section Header,,Item Header,,Field Label,"Choices, Calculations, OR Slider Labels",Field Type,,,Text Validation Min,Text Validation Max,,,Form Display Name
+4615,qr97,,,,,Has the child/adult experienced tic symptoms this week?,"0=No, 1=Yes",1,,,,,,,97
+4616,qr97,,,Section: Motor Tics,Section: Motor Tics,Motor tics-Number,"0 = 0, 1 = Single Tic, 2 = 2, 3 = 3, 4 = 4, 5 = 5",1,,,,,,,97
+4617,qr97,,,Section: Motor Tics,Section: Motor Tics,Motor Tics-Frequency,"0 = 0, 1 = 1, 2 = 2, 3 = 3, 4 = 4, 5 = 5",1,,,,,,,97
+4618,qr97,,,Section: Motor Tics,Section: Motor Tics,Motor Tics - Intensity,"0 = Absent, 1 = 1, 2 = 2, 3 = 3, 4 = 4, 5 = 5",1,,,,,,,97
+4619,qr97,,,Section: Motor Tics,Section: Motor Tics,Motor Tics- Complexity,"0 = None, 1 = 1, 2 = 2, 3 = 3, 4 = 4, 5 = 5",1,,,,,,,97
+4620,qr97,,,Section: Motor Tics,Section: Motor Tics,Motor Tics-Interference,"0 = None, 1 = 1, 2 = 2, 3 = 3, 4 = 4, 5 = 5",1,,,,,,,97
+4621,qr97,,,Vocal Tics,Vocal Tics,Vocal Tics- Number,"0 = None, 1 = 1, 2 = 2, 3 = 3, 4 = 4, 5 = 5",1,,,,,,,97
+4622,qr97,,,Vocal Tics,Vocal Tics,Vocal Tics- Frequency,"0 = None, 1 = 1, 2 = 2, 3 = 3, 4 = 4, 5 = 5",1,,,,,,,97
+4623,qr97,,,Vocal Tics,Vocal Tics,Vocal Tics- Intensity,"0 = None, 1 = 1, 2 = 2, 3 = 3, 4 = 4, 5 = 5",1,,,,,,,97
+4624,qr97,,,Vocal Tics,Vocal Tics,Vocal Tics-Complexity,"0 = None, 1 = 1, 2 = 2, 3 = 3, 4 = 4, 5 = 5",1,,,,,,,97
+4625,qr97,,,Vocal Tics,Vocal Tics,Vocal Tics-Interference,"0 = None, 1 = 1, 2 = 2, 3 = 3, 4 = 4, 5 = 5",1,,,,,,,97
+4626,qr97,,,Overall Impairment,Overall Impairment,Overall TS Impairment Rating,"0 = 0, 10 = 10, 20 = 20, 30 = 30, 40 = 40, 50 = 50",1,,,,,,,97
+3112,qr23,,,,,"Concern with dirt, germs, certain illnesses (e.g., AIDS)","1=Current, 2=Past",1,2,n/a,oo,1,,,23
+3113,qr23,,,,,"Concerns or disgust with bodily waste or secretions (e.g. urine, feces, saliva)","1=Current, 2=Past",1,2,n/a,oo,1,,,23
+3114,qr23,,,,,"Excessive concern with environmental contaminants (e.g., asbestos, radiation, toxic waste)","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3115,qr23,,,,,"Excessive concern with household items (e.g., cleaners, solvents)","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3116,qr23,,,,,Excessive concern about animals / insects,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3117,qr23,,,,,Excessively bothered by sticky substances or residues,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3118,qr23,,,,,Concerned will get ill because of contaminant,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3119,qr23,,,,,Concerned will get others ill by spreading contaminant (aggressive),"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3120,qr23,,,,,No concern with consequences of contamination other than how it might feel,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3121,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3122,qr23,,,,,Fear might harm self,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3123,qr23,,,,,Fear might harm others,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3124,qr23,,,,,Fear harm will come to self,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3125,qr23,,,,,Fear harm will come to others (maybe because of something child did or did not do),"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3126,qr23,,,,,Violent or horrific images,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3127,qr23,,,,,Fear of blurting out obscenities or insults,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3128,qr23,,,,,Fear of doing something embarrassing,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3129,qr23,,,,,"Fear will act on unwanted impulses (e.g., to stab a family member)","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3130,qr23,,,,,Fear will steal things,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3131,qr23,,,,,"Fear will be responsible for something else terrible happening (e.g. ,fire, burglary, flood)","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3132,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3133,qr23,,,,,"Forbidden or perverse sexual thoughts, images, impulses","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3134,qr23,,,,,Content involves homosexuality,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3135,qr23,,,,,Sexual behavior towards others (aggressive),"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3136,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3137,qr23,,,,,Fear of losing things,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3138,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3139,qr23,,,,,"Lucky / unlucky numbers, colors, words","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3140,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3141,qr23,,,,,Excessive concern with illness or disease,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3142,qr23,,,,,Excessive concern with body part or aspect of appearance (e.g. dysmorphophobia),"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3143,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3144,qr23,,,,,Excessive concern or fear of offending religious objects,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3145,qr23,,,,,Excessive concern with right / wrong morally,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3146,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3147,qr23,,,,,The need to know or remember,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3148,qr23,,,,,Fear of saying certain things,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3149,qr23,,,,,Fear of not saying just the right thing,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3150,qr23,,,,,Intrusive (non-violent) images,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3151,qr23,,,,,"Intrusive sounds, words, music or numbers","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3152,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3153,qr23,,,,,"OBSESSIONS (describe, listing by order of severity, with #1 being the most sever, #2 second most severe, etc)",,4,2,n/a,n/a,n/a,,,23
+3154,qr23,,,,,Excessive or ritualized hand washing,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3155,qr23,,,,,"Excessive or ritualized showering, bathing, tooth brushing, grooming, toilet routine","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3156,qr23,,,,,"Excessive cleaning of items, such as personal clothes or important objects","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3157,qr23,,,,,Other measures to prevent or remove contact with contaminants,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3158,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3159,qr23,,,,,"Checking locks, toys, school books / items, etc","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3160,qr23,,,,,"Checking associated with getting washed, dressed, or undressed","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3161,qr23,,,,,Checking that did not / will not harm others,"1=Current, 2=Past",2,2,n/a,oo,11,,,23
+3162,qr23,,,,,Checking that did not / will not harm self,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3163,qr23,,,,,Checking that nothing terrible did / will happen,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3164,qr23,,,,,Checking that did not make mistake,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3165,qr23,,,,,Checking tied to somatic obsessions,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3166,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3167,qr23,,,,,"Rereading, erasing, or rewriting","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3168,qr23,,,,,"Need to repeat activities (e.g. in / out of doorway, up / down from chair)","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3169,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3170,qr23,,,,,"Objects, certain numbers, words, etc.","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3171,qr23,,,,,Other (describe),"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3172,qr23,,,,,Ordering / Arranging,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3173,qr23,,,,,Need for symmetry / evening up (e.g. lining items up a certain way or arranging personal items in specific patterns),"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3174,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3175,qr23,,,,,Distinguish from hobbies and concern with objects of monetary or sentimental value,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3176,qr23,,,,,"Difficulty throwing things away, saving bits of paper, string, etc.","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3177,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3178,qr23,,,,,"Distinguish from age appropriate magical games (e.g. array of behavior, such as sleeping over certain spots on a floor, touching an object / self certain number of times as a routine game to avoid something bad from happening","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3179,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3180,qr23,,,,,"The need to involve another person (usually a parent) in ritual (e.g. asking a parent to repeatedly answer the same question, making mother perform certain mealtime rituals involving specific utensils)","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3181,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3182,qr23,,,,,Mental rituals other than checking / counting,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3183,qr23,,,,,"Need to tell, ask or confess","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3184,qr23,,,,,Measures (not checking) to prevent,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3185,qr23,,,,,harm to self,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3186,qr23,,,,,harm to others,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3187,qr23,,,,,terrible consequences,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3188,qr23,,,,,Ritualized eating behaviors,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3189,qr23,,,,,Excessive list making,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3190,qr23,,,,,"Need to touch, tap, rub","1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3191,qr23,,,,,Need to do things (e.g. touch or arrange until it feels just right),"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3192,qr23,,,,,Rituals involving blinking or staring,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3193,qr23,,,,,Trichotillomania (hair-pulling),"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3194,qr23,,,,,Other self-damaging or self-mutilating behaviors,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3195,qr23,,,,,Other,"1=Current, 2=Past",2,2,n/a,oo,1,,,23
+3196,qr23,,,,,"COMPULSIONS (describe, listing by order of severity, with #1 being the most sever, #2 second most severe, etc)",,4,3,N/A,n/a,n/a,,,23
+3197,qr23,,,,,"Time Occupied by Obsessive Thoughts (Be sure to exclude ruminations and preoccupations which, unlike obsessions, are ego syntonic and rational (but not exaggerated))","0=None, 1=Mild, 2=Moderate, 3=Severe, 4=Extreme",1,1,0,1,oo,,,23
+3198,qr23,,,,,"Interference Due to Obsessive Thoughts (How much would these habits get in the way of school or doing something with friends, Is there something you dont do because of them (If currently not in school, determine how much performance would be affected if the person was in school))","0=None, 1=Mild, 2=Moderate, 3=Severe, 4=Extreme",1,1,0,oo,4,,,23
+3199,qr23,,,,,Distress Associated with Obsessive Thoughts,"0=None, 1=Mild, 2=Moderate, 3=Severe, 4=Extreme",1,1,0,oo,4,,,23
+3200,qr23,,,,,"Resistance Against Obsessions (How hard do you try to stop thethoughts or ignore them (Only rate effort made to resist, not success or failure in actually controllling the obsessions. If obsessions are minimal, the patient may not feel the need to resist them. In such cases, an 'O"" rating should be given))","0=None, 1=Mild, 2=Moderate, 3=Severe, 4=Extreme",1,1,0,oo,4,,,23
+3201,qr23,,,,,Degree of Control Over Obsessive Thoughts,"0=None, 1=Mild, 2=Moderate, 3=Severe, 4=Extreme",1,1,0,oo,4,,,23
+3202,qr23,,,,,Time spent performing Compulsive Behavious,"0=None, 1=Mild, 2=Moderate, 3=Severe, 4=Extreme",1,1,0,oo,4,,,23
+3203,qr23,,,,,"Interference Due to Compulsive Behaviours (How much would these habits get in the way of school or doing something with friends, Is there something you dont do because of them (If currently not in school, determine how much performance would be affected if the person was in school))","0=None, 1=Mild, 2=Moderate, 3=Severe, 4=Extreme",1,1,0,oo,4,,,23
+3204,qr23,,,,,Distress Associated with Compulsive Behavious (How would you feel if prevented from doing your habits? How upset would you become),"0=None, 1=Mild, 2=Moderate, 3=Severe, 4=Extreme",1,1,0,oo,4,,,23
+3205,qr23,,,,,"Resistance Against Compulsions (How much do you fight the habits (Only rate effort made to resist, not success or failure in controlling the compulsions))","0=None, 1=Mild, 2=Moderate, 3=Severe, 4=Extreme",1,1,0,oo,4,,,23
+3206,qr23,,,,,"Degree of Control Over Compulsive Thoughts (How strong is the feeling that you have to carry out on the habits, when you try to fight them, what happens)","0=None, 1=Mild, 2=Moderate, 3=Severe, 4=Extreme",1,1,0,oo,4,,,23
