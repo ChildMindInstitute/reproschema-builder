@@ -302,7 +302,9 @@ function processRow(form, data){
             inputType = 'text';
             valueType = 'xsd:string';
         }
-
+        else if (data['Field Type'] === '0') {
+            inputType = 'markdown-message';
+        }
         //console.log("INPUT TYPE" + inputType + " " + data['Field Type'])
         rowData['ui'] = {'inputType': inputType};
         if (valueType) {

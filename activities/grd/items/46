@@ -7,6 +7,12 @@
     "skos:prefLabel": "46",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
     "question": {
         "en": "First, pretend to scratch or pull hair on the back of your head for 5 seconds."
     },
@@ -20,11 +26,6 @@
                 "value": 1,
                 "name": "BUZZ"
             }
-        ]
-    },
-    "ui": {
-        "allow": [
-            "autoAdvance"
         ]
     }
 }

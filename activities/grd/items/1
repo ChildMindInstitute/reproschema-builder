@@ -7,12 +7,13 @@
     "skos:prefLabel": "1",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "itemPreamble": {
-        "en": "I will ask you to perform different actions with your right hand. Please try to act naturally as you perform each of the actions.� We�ll start by calibrating the devices on your wrist."
-    },
     "ui": {
+        "inputType": "0",
         "allow": [
             "autoAdvance"
         ]
+    },
+    "itemPreamble": {
+        "en": "I will ask you to perform different actions with your right hand. Please try to act naturally as you perform each of the actions.� We�ll start by calibrating the devices on your wrist."
     }
 }
