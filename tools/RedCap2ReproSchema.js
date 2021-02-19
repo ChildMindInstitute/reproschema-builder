@@ -364,6 +364,9 @@ function processRow(form, data){
                 uiValue = 'text';
                 valueType = 'xsd:string';
             }
+            else if ((uiKey === 'inputType') && (uiValue === '0')) {
+                uiValue = 'markdown-message';
+            }
 
             // add object to ui element of the item
             if (rowData.hasOwnProperty('ui')) {
