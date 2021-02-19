@@ -7,25 +7,12 @@
     "skos:prefLabel": "28",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
+    "itemPreamble": {
+        "en": "Thank you!  Let�s repeat everything we�ve just done. Please sit down again and place your right hand on your lap."
+    },
     "ui": {
-        "inputType": "radio",
         "allow": [
             "autoAdvance"
-        ]
-    },
-    "question": {
-        "en": "Now pretend to pull your right eyelash for 5 seconds."
-    },
-    "responseOptions": {
-        "choices": [
-            {
-                "value": 0,
-                "name": "NO BUZZ"
-            },
-            {
-                "value": 1,
-                "name": "BUZZ"
-            }
         ]
     }
 }

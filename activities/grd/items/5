@@ -7,21 +7,12 @@
     "skos:prefLabel": "5",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
+    "question": {
+        "en": "Now pretend to pull your right eyelash until I tell you to stop."
+    },
     "ui": {
-        "inputType": "radio",
         "allow": [
             "autoAdvance"
-        ]
-    },
-    "question": {
-        "en": "Once again, pretend to bite your nails until I tell you to stop."
-    },
-    "responseOptions": {
-        "choices": [
-            {
-                "value": 1,
-                "name": "Trained"
-            }
         ]
     }
 }

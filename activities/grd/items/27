@@ -7,14 +7,8 @@
     "skos:prefLabel": "27",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "ui": {
-        "inputType": "radio",
-        "allow": [
-            "autoAdvance"
-        ]
-    },
-    "question": {
-        "en": "Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds."
+    "itemPreamble": {
+        "en": "Now please hold this phone up high in front of your face for a few seconds."
     },
     "responseOptions": {
         "choices": [
@@ -26,6 +20,11 @@
                 "value": 1,
                 "name": "BUZZ"
             }
+        ]
+    },
+    "ui": {
+        "allow": [
+            "autoAdvance"
         ]
     }
 }

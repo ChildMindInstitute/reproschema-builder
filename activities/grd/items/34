@@ -7,14 +7,8 @@
     "skos:prefLabel": "34",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "ui": {
-        "inputType": "radio",
-        "allow": [
-            "autoAdvance"
-        ]
-    },
     "question": {
-        "en": "Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position."
+        "en": "First, pretend to scratch or pull hair on the back of your head for 5 seconds."
     },
     "responseOptions": {
         "choices": [
@@ -26,6 +20,11 @@
                 "value": 1,
                 "name": "BUZZ"
             }
+        ]
+    },
+    "ui": {
+        "allow": [
+            "autoAdvance"
         ]
     }
 }
