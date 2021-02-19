@@ -8,24 +8,9 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "ui": {
-        "inputType": "radio",
-        "allow": [
-            "autoAdvance"
-        ]
+        "inputType": "markdown-message"
     },
     "question": {
-        "en": "Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds."
-    },
-    "responseOptions": {
-        "choices": [
-            {
-                "value": 0,
-                "name": "NO BUZZ"
-            },
-            {
-                "value": 1,
-                "name": "BUZZ"
-            }
-        ]
+        "en": "Okay, we�re done with calibration. Next, we�ll repeat these actions, but this time I want you to place your right hand on your lap, perform the action I ask you to do for 5 seconds, then place your hand back down on your lap.� Okay, let�s start with your right hand on your lap."
     }
 }

@@ -13,7 +13,7 @@
             "autoAdvance"
         ]
     },
-    "itemPreamble": {
-        "en": "Let�s repeat these actions, but this time I want you to lean back and look up at the ceiling.� Okay, let�s start with your right hand on your lap."
+    "question": {
+        "en": "Now this time I want you to lie on your left side.� Okay, let�s start with your right hand on your leg."
     }
 }

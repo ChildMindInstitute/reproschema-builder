@@ -8,24 +8,12 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "ui": {
-        "inputType": "radio",
+        "inputType": "markdown-message",
         "allow": [
             "autoAdvance"
         ]
     },
-    "itemPreamble": {
-        "en": "Now please hold this phone up high in front of your face for a few seconds."
-    },
-    "responseOptions": {
-        "choices": [
-            {
-                "value": 0,
-                "name": "NO BUZZ"
-            },
-            {
-                "value": 1,
-                "name": "BUZZ"
-            }
-        ]
+    "question": {
+        "en": "Let�s repeat these actions, but this time I want you to lean back and look up at the ceiling.� Okay, let�s start with your right hand on your lap."
     }
 }

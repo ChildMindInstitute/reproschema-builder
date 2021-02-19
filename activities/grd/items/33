@@ -8,12 +8,9 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "ui": {
-        "inputType": "markdown-message",
-        "allow": [
-            "autoAdvance"
-        ]
+        "inputType": "markdown-message"
     },
-    "itemPreamble": {
-        "en": "Let�s repeat these actions, but this time I want you to lean back and look up at the ceiling.� Okay, let�s start with your right hand on your lap."
+    "question": {
+        "en": "SWITCH. Coordinator:� TEST MODEL #1 sitting upright: Group A: Keen OFF, GRD ON; Group B: Keen ON, GRD OFF"
     }
 }

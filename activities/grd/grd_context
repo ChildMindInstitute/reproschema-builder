@@ -316,6 +316,74 @@
             "@id": "grd:79",
             "@type": "@id"
         },
+        "80": {
+            "@id": "grd:80",
+            "@type": "@id"
+        },
+        "81": {
+            "@id": "grd:81",
+            "@type": "@id"
+        },
+        "82": {
+            "@id": "grd:82",
+            "@type": "@id"
+        },
+        "83": {
+            "@id": "grd:83",
+            "@type": "@id"
+        },
+        "84": {
+            "@id": "grd:84",
+            "@type": "@id"
+        },
+        "85": {
+            "@id": "grd:85",
+            "@type": "@id"
+        },
+        "86": {
+            "@id": "grd:86",
+            "@type": "@id"
+        },
+        "87": {
+            "@id": "grd:87",
+            "@type": "@id"
+        },
+        "88": {
+            "@id": "grd:88",
+            "@type": "@id"
+        },
+        "89": {
+            "@id": "grd:89",
+            "@type": "@id"
+        },
+        "90": {
+            "@id": "grd:90",
+            "@type": "@id"
+        },
+        "91": {
+            "@id": "grd:91",
+            "@type": "@id"
+        },
+        "92": {
+            "@id": "grd:92",
+            "@type": "@id"
+        },
+        "93": {
+            "@id": "grd:93",
+            "@type": "@id"
+        },
+        "94": {
+            "@id": "grd:94",
+            "@type": "@id"
+        },
+        "95": {
+            "@id": "grd:95",
+            "@type": "@id"
+        },
+        "96": {
+            "@id": "grd:96",
+            "@type": "@id"
+        },
         "@version": 1.1,
         "grd": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/grd/items/"
     }

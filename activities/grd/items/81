@@ -1,0 +1,16 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "81",
+    "skos:prefLabel": "81",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": {
+        "en": "Coordinator: TEST MODEL #1 leaning back: Group A: Keen OFF, GRD ON; Group B: Keen ON, GRD OFF"
+    }
+}

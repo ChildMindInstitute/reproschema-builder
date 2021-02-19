@@ -13,7 +13,7 @@
             "autoAdvance"
         ]
     },
-    "itemPreamble": {
-        "en": "Now this time I want you to lie on your left side.� Okay, let�s start with your right hand on your leg."
+    "question": {
+        "en": "Let�s repeat everything once more. Please sit down again and place your right hand on your lap."
     }
 }

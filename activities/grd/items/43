@@ -13,8 +13,8 @@
             "autoAdvance"
         ]
     },
-    "itemPreamble": {
-        "en": "Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position."
+    "question": {
+        "en": "Now pretend to pull your right eyelash for 5 seconds."
     },
     "responseOptions": {
         "choices": [

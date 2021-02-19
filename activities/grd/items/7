@@ -12,5 +12,8 @@
         "allow": [
             "autoAdvance"
         ]
+    },
+    "question": {
+        "en": "Now pretend to bite your nails until I tell you to stop."
     }
 }

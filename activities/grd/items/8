@@ -8,12 +8,9 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "ui": {
-        "inputType": "markdown-message",
-        "allow": [
-            "autoAdvance"
-        ]
+        "inputType": "markdown-message"
     },
     "question": {
-        "en": "Once again, pretend to bite your nails until I tell you to stop."
+        "en": "Coordinator: TRAINING MODEL #1 sitting upright: Keen ON, GRD OFF; Train the Keen on the following behavior in 3 positions (GRD already pre-trained on this behavior)."
     }
 }
