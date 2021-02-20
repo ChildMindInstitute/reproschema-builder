@@ -3,9 +3,9 @@ Variable / Field Name,Form Name,Section Header,Item Header,Field Label,"Choices,
 
 TRAINING. 
 
-All instructions to you (the coordinator) begin with ""Coordinator:""; otherwise, all instructions are to be posed to the study participant. 
+All instructions to you (the coordinator) begin with 'Coordinator:'; otherwise, all instructions are to be posed to the study participant. 
 
-On each of the following screens (not including instructional screens like this one), check ""BUZZ"" if the device being tested buzzed between the time the participant starts and stops a directed action. Otherwise tap ""NO BUZZ"".",,0,,,GRD,autoAdvance
+On each of the following screens (not including instructional screens like this one), check \\""BUZZ\\"" if the device being tested buzzed between the time the participant starts and stops a directed action. Otherwise tap \\""NO BUZZ\\"".",,0,,,GRD,autoAdvance
 2,grd,,,"I will ask you to perform different actions with your right hand. 
 
 Please try to act naturally as you perform each of the actions. 
