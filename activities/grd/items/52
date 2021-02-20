@@ -14,7 +14,7 @@
         ]
     },
     "question": {
-        "en": "Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position."
+        "en": "Coordinator: \n\nTEST MODEL #1 standing: \n\nGroup A: Keen OFF, GRD ON\n\nGroup B: Keen ON, GRD OFFE52"
     },
     "responseOptions": {
         "choices": [

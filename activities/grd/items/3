@@ -11,6 +11,6 @@
         "inputType": "markdown-message"
     },
     "question": {
-        "en": "Coordinator:� TRAINING MODEL #1 sitting upright: Keen ON, GRD OFF; Train the Keen on the following 4 behaviors sitting upright (GRD already pre-trained on these behaviors)."
+        "en": "Coordinator: \n\nTRAINING MODEL #1 sitting upright: Keen ON, GRD OFF\n\nTrain the Keen on the following 4 behaviors sitting upright (GRD already pre-trained on these behaviors)."
     }
 }

@@ -63,7 +63,6 @@
             "48",
             "49",
             "50",
-            "51",
             "52",
             "53",
             "54",
@@ -408,12 +407,6 @@
             {
                 "variableName": "50",
                 "isAbout": "50",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "51",
-                "isAbout": "51",
                 "isVis": true,
                 "requiredValue": true
             },
