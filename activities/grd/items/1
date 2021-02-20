@@ -14,6 +14,6 @@
         ]
     },
     "question": {
-        "en": "Coordinator: \n\nTRAINING. \n\nAll instructions to you (the coordinator) begin with 'Coordinator:'; otherwise, all instructions are to be posed to the study participant. \n\nOn each of the following screens (not including instructional screens like this one), check \\\\\"BUZZ\\\\\" if the device being tested buzzed between the time the participant starts and stops a directed action. Otherwise tap \\\\\"NO BUZZ\\\\\"."
+        "en": "Coordinator: \n\nAll instructions to you (the coordinator) begin with 'Coordinator:' otherwise, all instructions are to be posed to the study participant. \n\nOn each of the following screens (not including instructional screens like this one), check BUZZ if the device being tested buzzed between the time the participant starts and stops a directed action. Otherwise tap  NO BUZZ."
     }
 }

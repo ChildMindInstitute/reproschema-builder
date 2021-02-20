@@ -1,19 +1,17 @@
 Variable / Field Name,Form Name,Section Header,Item Header,Field Label,"Choices, Calculations, OR Slider Labels",Field Type,Text Validation Min,Text Validation Max,Form Display Name,Allow
 1,grd,,,"Coordinator: 
 
-TRAINING. 
+All instructions to you (the coordinator) begin with 'Coordinator:' otherwise, all instructions are to be posed to the study participant. 
 
-All instructions to you (the coordinator) begin with 'Coordinator:'; otherwise, all instructions are to be posed to the study participant. 
-
-On each of the following screens (not including instructional screens like this one), check \\""BUZZ\\"" if the device being tested buzzed between the time the participant starts and stops a directed action. Otherwise tap \\""NO BUZZ\\"".",,0,,,GRD,autoAdvance
+On each of the following screens (not including instructional screens like this one), check BUZZ if the device being tested buzzed between the time the participant starts and stops a directed action. Otherwise tap  NO BUZZ.",,0,,,GRD,autoAdvance
 2,grd,,,"I will ask you to perform different actions with your right hand. 
 
-Please try to act naturally as you perform each of the actions. 
+Please try to act naturally as you perform each of the actions.
 
 We'll start by calibrating the devices on your wrist.",,0,,,GRD,autoAdvance
-3,grd,,,"Coordinator: 
+3,grd,,,"Coordinator:
 
-TRAINING MODEL #1 sitting upright: Keen ON, GRD OFF
+TRAINING MODEL #1 sitting upright: Keen ON, GRD OFF.
 
 Train the Keen on the following 4 behaviors sitting upright (GRD already pre-trained on these behaviors).",,0,,,GRD,
 4,grd,,,"First, pretend to scratch or pull hair on the back of your head until I tell you to stop.",,0,,,GRD,autoAdvance
@@ -22,7 +20,7 @@ Train the Keen on the following 4 behaviors sitting upright (GRD already pre-tra
 7,grd,,,Now pretend to bite your nails until I tell you to stop.,,0,,,GRD,autoAdvance
 8,grd,,,"Coordinator: 
 
-TRAINING MODEL #1 sitting upright: Keen ON, GRD OFF
+TRAINING MODEL #1 sitting upright: Keen ON, GRD OFF.
 
 Train the Keen on the following behavior in 3 positions (GRD already pre-trained on this behavior).",,0,,,GRD,
 9,grd,,,"Once again, pretend to bite your nails until I tell you to stop.",,0,,,GRD,autoAdvance
@@ -32,12 +30,12 @@ Train the Keen on the following behavior in 3 positions (GRD already pre-trained
 
 TEST MODEL #1 sitting upright: 
 
-Group A: Keen ON, GRD OFF
+Group A: Keen ON, GRD OFF.
 
-Group B: Keen OFF, GRD ON",,0,,,GRD,autoAdvance
+Group B: Keen OFF, GRD ON.",,0,,,GRD,autoAdvance
 13,grd,,,"Okay, we're done with calibration. 
 
-Next, we'll repeat these actions, but this time I want you to place your right hand on your lap, perform the action I ask you to do for 5 seconds, then place your hand back down on your lap. 
+Next, we'll repeat these actions, but this time I want you to place your right hand on your lap, perform the action I ask you to do for 5 seconds, then place your hand back down on your lap.
 
 Okay, let's start with your right hand on your lap.",,0,,,GRD,
 14,grd,,,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
@@ -48,9 +46,9 @@ Okay, let's start with your right hand on your lap.",,0,,,GRD,
 
 TEST MODEL #1 leaning back: 
 
-Group A: Keen ON, GRD OFF
+Group A: Keen ON, GRD OFF.
 
-Group B: Keen OFF, GRD ON",,0,,,GRD,
+Group B: Keen OFF, GRD ON.",,0,,,GRD,
 19,grd,,,"Let's repeat these actions, but this time I want you to lean back and look up at the ceiling. Okay, let's start with your right hand on your lap.",,0,,,GRD,autoAdvance
 20,grd,,,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 21,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
@@ -60,9 +58,9 @@ Group B: Keen OFF, GRD ON",,0,,,GRD,
 
 TEST MODEL #1 lying on left side: 
 
-Group A: Keen ON, GRD OFF
+Group A: Keen ON, GRD OFF.
 
-Group B: Keen OFF, GRD ON",,0,,,GRD,
+Group B: Keen OFF, GRD ON.",,0,,,GRD,
 25,grd,,,"Now this time I want you to lie on your left side. Okay, let's start with your right hand on your leg.",,0,,,GRD,autoAdvance
 26,grd,,,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 27,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
@@ -72,18 +70,18 @@ Group B: Keen OFF, GRD ON",,0,,,GRD,
 
 TEST MODEL #1 standing: 
 
-Group A: Keen ON, GRD OFF
+Group A: Keen ON, GRD OFF.
 
-Group B: Keen OFF, GRD ON",,0,,,GRD,
+Group B: Keen OFF, GRD ON.",,0,,,GRD,
 31,grd,,,"Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 32,grd,,,Now please hold this phone up high in front of your face for a few seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 33,grd,,,"Coordinator: 
 
 SWITCH. TEST MODEL #1 sitting upright: 
 
-Group A: Keen OFF, GRD ON
+Group A: Keen OFF, GRD ON.
 
-Group B: Keen ON, GRD OFF",,0,,,GRD,
+Group B: Keen ON, GRD OFF.",,0,,,GRD,
 34,grd,,,Thank you!  Let's repeat everything we've just done. Please sit down again and place your right hand on your lap.,,0,,,GRD,autoAdvance
 35,grd,,,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 36,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
@@ -93,9 +91,9 @@ Group B: Keen ON, GRD OFF",,0,,,GRD,
 
 TEST MODEL #1 leaning back: 
 
-Group A: Keen OFF, GRD ON
+Group A: Keen OFF, GRD ON.
 
-Group B: Keen ON, GRD OFF",,0,,,GRD,
+Group B: Keen ON, GRD OFF.",,0,,,GRD,
 40,grd,,,"Let's repeat these actions, but this time I want you to lean back and look up at the ceiling. Okay, let's start with your right hand on your lap.",,0,,,GRD,autoAdvance
 41,grd,,,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 42,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
@@ -105,9 +103,9 @@ Group B: Keen ON, GRD OFF",,0,,,GRD,
 
 TEST MODEL #1 lying on left side: 
 
-Group A: Keen OFF, GRD ON
+Group A: Keen OFF, GRD ON.
 
-Group B: Keen ON, GRD OFF",,0,,,GRD,
+Group B: Keen ON, GRD OFF.",,0,,,GRD,
 46,grd,,,"Now this time I want you to lie on your left side. Okay, let's start with your right hand on your leg.",,0,,,GRD,autoAdvance
 47,grd,,,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 48,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
@@ -117,17 +115,17 @@ Group B: Keen ON, GRD OFF",,0,,,GRD,
 
 TEST MODEL #1 standing: 
 
-Group A: Keen OFF, GRD ON
+Group A: Keen OFF, GRD ON.
 
-Group B: Keen ON, GRD OFFE52","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
+Group B: Keen ON, GRD OFF.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 53,grd,,,Now please hold this phone up high in front of your face for a few seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 54,grd,,,"Coordinator: 
 
 TEST MODEL #2 sitting upright: 
 
-Group A: Keen ON, GRD OFF
+Group A: Keen ON, GRD OFF.
 
-Group B: Keen OFF, GRD ON",,0,,,GRD,
+Group B: Keen OFF, GRD ON.",,0,,,GRD,
 55,grd,,,Let's repeat everything once more. Please sit down again and place your right hand on your lap.,,0,,,GRD,autoAdvance
 56,grd,,,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 57,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
@@ -137,9 +135,9 @@ Group B: Keen OFF, GRD ON",,0,,,GRD,
 
 TEST MODEL #2 leaning back: 
 
-Group A: Keen ON, GRD OFF
+Group A: Keen ON, GRD OFF.
 
-Group B: Keen OFF, GRD ON",,0,,,GRD,
+Group B: Keen OFF, GRD ON.",,0,,,GRD,
 61,grd,,,"Let's repeat these actions, but this time I want you to lean back and look up at the ceiling. Okay, let's start with your right hand on your lap.",,0,,,GRD,autoAdvance
 62,grd,,,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 63,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
@@ -149,9 +147,9 @@ Group B: Keen OFF, GRD ON",,0,,,GRD,
 
 TEST MODEL #2 lying on left side: 
 
-Group A: Keen ON, GRD OFF
+Group A: Keen ON, GRD OFF.
 
-Group B: Keen OFF, GRD ON",,0,,,GRD,
+Group B: Keen OFF, GRD ON.",,0,,,GRD,
 67,grd,,,"Now this time I want you to lie on your left side. Okay, let's start with your right hand on your leg.",,0,,,GRD,autoAdvance
 68,grd,,,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 69,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
@@ -161,18 +159,18 @@ Group B: Keen OFF, GRD ON",,0,,,GRD,
 
 TEST MODEL #2 standing: 
 
-Group A: Keen ON, GRD OFF
+Group A: Keen ON, GRD OFF.
 
-Group B: Keen OFF, GRD ON",,0,,,GRD,
+Group B: Keen OFF, GRD ON.",,0,,,GRD,
 73,grd,,,"Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 74,grd,,,Now please hold this phone up high in front of your face for a few seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 75,grd,,,"Coordinator: 
 
 SWITCH 2. TEST MODEL #2 sitting upright: 
 
-Group A: Keen OFF, GRD ON
+Group A: Keen OFF, GRD ON.
 
-Group B: Keen ON, GRD OFF",,0,,,GRD,
+Group B: Keen ON, GRD OFF.",,0,,,GRD,
 76,grd,,,Thank you!  Let's repeat some of these actions. Please sit down again and place your right hand on your lap.,,0,,,GRD,autoAdvance
 77,grd,,,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 78,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
@@ -182,9 +180,9 @@ Group B: Keen ON, GRD OFF",,0,,,GRD,
 
 TEST MODEL #1 leaning back: 
 
-Group A: Keen OFF, GRD ON
+Group A: Keen OFF, GRD ON.
 
-Group B: Keen ON, GRD OFF",,0,,,GRD,
+Group B: Keen ON, GRD OFF.",,0,,,GRD,
 82,grd,,,"Let's repeat these actions, but this time I want you to lean back and look up at the ceiling. Okay, let's start with your right hand on your lap.",,0,,,GRD,autoAdvance
 83,grd,,,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 84,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
@@ -194,9 +192,9 @@ Group B: Keen ON, GRD OFF",,0,,,GRD,
 
 TEST MODEL #1 lying on left side: 
 
-Group A: Keen OFF, GRD ON
+Group A: Keen OFF, GRD ON.
 
-Group B: Keen ON, GRD OFF",,0,,,GRD,
+Group B: Keen ON, GRD OFF.",,0,,,GRD,
 88,grd,,,"Now this time I want you to lie on your left side. Okay, let's start with your right hand on your leg.",,0,,,GRD,autoAdvance
 89,grd,,,"First, pretend to scratch or pull hair on the back of your head for 5 seconds.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 90,grd,,,Now pretend to scratch or pull hair on the right side of your head above your ear for 5 seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
@@ -206,9 +204,9 @@ Group B: Keen ON, GRD OFF",,0,,,GRD,
 
 TEST MODEL #1 standing: 
 
-Group A: Keen OFF, GRD ON
+Group A: Keen OFF, GRD ON.
 
-Group B: Keen ON, GRD OFF",,0,,,GRD,
+Group B: Keen ON, GRD OFF.",,0,,,GRD,
 94,grd,,,"Please stand in front of this bookshelf. Now pull this book down, hold it, then place it back in its original position.","0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 95,grd,,,Now please hold this phone up high in front of your face for a few seconds.,"0=NO BUZZ, 1=BUZZ",1,,,GRD,autoAdvance
 96,grd,,,DONE!,,0,,,GRD,

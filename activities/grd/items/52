@@ -14,7 +14,7 @@
         ]
     },
     "question": {
-        "en": "Coordinator: \n\nTEST MODEL #1 standing: \n\nGroup A: Keen OFF, GRD ON\n\nGroup B: Keen ON, GRD OFFE52"
+        "en": "Coordinator: \n\nTEST MODEL #1 standing: \n\nGroup A: Keen OFF, GRD ON.\n\nGroup B: Keen ON, GRD OFF."
     },
     "responseOptions": {
         "choices": [
