@@ -8,7 +8,10 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "markdown-message",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "Coordinator: \n\nTRAINING MODEL #1 sitting upright: Keen ON, GRD OFF.\n\nTrain the Keen on the following behavior in 3 positions (GRD already pre-trained on this behavior)."

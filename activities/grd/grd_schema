@@ -63,6 +63,7 @@
             "48",
             "49",
             "50",
+            "51",
             "52",
             "53",
             "54",
@@ -105,9 +106,7 @@
             "91",
             "92",
             "93",
-            "94",
-            "95",
-            "96"
+            "94"
         ],
         "addProperties": [
             {
@@ -411,6 +410,12 @@
                 "requiredValue": true
             },
             {
+                "variableName": "51",
+                "isAbout": "51",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
                 "variableName": "52",
                 "isAbout": "52",
                 "isVis": true,
@@ -665,18 +670,6 @@
             {
                 "variableName": "94",
                 "isAbout": "94",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "95",
-                "isAbout": "95",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "96",
-                "isAbout": "96",
                 "isVis": true,
                 "requiredValue": true
             }

@@ -8,7 +8,10 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "ui": {
-        "inputType": "markdown-message"
+        "inputType": "markdown-message",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "Coordinator: \n\nTEST MODEL #1 standing: \n\nGroup A: Keen ON, GRD OFF.\n\nGroup B: Keen OFF, GRD ON."
