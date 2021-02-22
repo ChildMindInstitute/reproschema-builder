@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test/",
+        "qr1": {
+            "@id": "activity_path:qr1/qr1_schema",
+            "@type": "@id"
+        },
+        "qr2": {
+            "@id": "activity_path:qr2/qr2_schema",
+            "@type": "@id"
+        }
+    }
+}
