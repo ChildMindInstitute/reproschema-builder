@@ -110,10 +110,10 @@ csv
         if (!datas[data['Form Name']]) {
             datas[data['Form Name']] = [];
             // For each form, create directory structure - activities/form_name/items
-            shell.mkdir('-p', 'activities/' + data['Form Name'] + '/items');          
+            shell.mkdir('-p', 'applets/activities/' + protocolName + '/' + data['Form Name'] + '/items');          
         }
         //create directory for protocol
-        shell.mkdir('-p', 'protocols/' + protocolName);
+        shell.mkdir('-p', 'applets/protocols/' + protocolName);
         // console.log(62, data);
         datas[data['Form Name']].push(data);
     })
@@ -125,7 +125,7 @@ csv
             visibilityList = [];
             let fieldList = datas[form]; // all items of an activity
             createFormContextSchema(form, fieldList); // create context for each activity
-            let formContextUrl = `${yourRepoURL}/activities/${form}/${form}_context`;
+            let formContextUrl = `${yourRepoURL}/applets/activities/${protocolName}/${form}/${form}_context`;
             scoresObj = {};
             visibilityObj = {};
             addProperties = [];
@@ -144,7 +144,7 @@ csv
         });
         //create protocol context
         let activityList = Object.keys(datas);
-        let protocolContextUrl = `${yourRepoURL}/protocols/${protocolName}/${protocolName}_context`;
+        let protocolContextUrl = `${yourRepoURL}/applets/protocols/${protocolName}/${protocolName}_context`;
         createProtocolContext(activityList);
         
         //create protocol schema
@@ -159,7 +159,7 @@ function createFormContextSchema(form, fieldList) {
     // define context file for each form
     let itemOBj = { "@version": 1.1 };
     let formContext = {};
-    itemOBj[form] = `${yourRepoURL}/activities/${form}/items/`;
+    itemOBj[form] = `${yourRepoURL}/applets/activities/${protocolName}/${form}/items/`;
     fieldList.forEach( field => {
         let field_name = field['Variable / Field Name'];
         // define item_x urls to be inserted in context for the corresponding form
@@ -167,7 +167,7 @@ function createFormContextSchema(form, fieldList) {
     });
     formContext['@context'] = itemOBj;
     const fc = JSON.stringify(formContext, null, 4);
-    fs.writeFile(`activities/${form}/${form}_context`, fc, function(err) {
+    fs.writeFile(`applets/activities/${protocolName}/${form}/${form}_context`, fc, function(err) {
         if (err)
             console.log(err);
         else console.log(`Context created for form ${form}`);
@@ -177,7 +177,7 @@ function createFormContextSchema(form, fieldList) {
 function createProtocolContext(activityList) {
     //create protocol context file
     let activityOBj = { "@version": 1.1,
-                    "activity_path": `${yourRepoURL}/activities/`           
+                    "activity_path": `${yourRepoURL}/applets/activities/${protocolName}/`           
     };
     let protocolContext = {};
     activityList.forEach(activity => {
@@ -187,7 +187,7 @@ function createProtocolContext(activityList) {
     });
     protocolContext['@context'] = activityOBj;
     const pc = JSON.stringify(protocolContext, null, 4);
-    fs.writeFile(`protocols/${protocolName}/${protocolName}_context`, pc, function(err) {
+    fs.writeFile(`applets/protocols/${protocolName}/${protocolName}_context`, pc, function(err) {
         if (err)
             console.log(err);
         else console.log(`Protocol context created for ${protocolName}`);
@@ -597,7 +597,7 @@ function processRow(form, data){
     else order[form].push(field_name);
 
     // write to item_x file
-    fs.writeFile('activities/' + form + '/items/' + field_name, JSON.stringify(rowData, null, 4), function (err) {
+    fs.writeFile('applets/activities/' + protocolName + '/' + form + '/items/' + field_name, JSON.stringify(rowData, null, 4), function (err) {
         if (err) {
             console.log("error in writing item schema", err);
         }
@@ -636,7 +636,7 @@ function createFormSchema(form, formContextUrl) {
     }
     const op = JSON.stringify(jsonLD, null, 4);
     // console.log(269, jsonLD);
-    fs.writeFile(`activities/${form}/${form}_schema`, op, function (err) {
+    fs.writeFile(`applets/activities/${protocolName}/${form}/${form}_schema`, op, function (err) {
         if (err) {
             console.log("error in writing", form, " form schema", err)
         }
@@ -648,7 +648,7 @@ function processActivities(activityName) {
 
     let condition = true; // for items visible by default
     protocolVisibilityObj[activityName] = condition;
-    let activityPath = `${yourRepoURL}/activities/${activityName}/${activityName}_schema`;
+    let activityPath = `${yourRepoURL}/applets/activities/${protocolName}/${activityName}/${activityName}_schema`;
     
     // add activity to addProperties and Order
     protocolAddProperties.push({
@@ -684,7 +684,7 @@ function createProtocolSchema(protocolName, protocolContextUrl) {
     };
     const op = JSON.stringify(protocolSchema, null, 4);
     // console.log(269, jsonLD);
-    fs.writeFile(`protocols/${protocolName}/${protocolName}_schema`, op, function (err) {
+    fs.writeFile(`applets/protocols/${protocolName}/${protocolName}_schema`, op, function (err) {
         if (err) {
             console.log("error in writing protocol schema")
         }
