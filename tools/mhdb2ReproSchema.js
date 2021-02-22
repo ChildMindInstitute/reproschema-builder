@@ -9,8 +9,8 @@ const protocolDisplayName = process.argv[3];
 const protocolName = protocolDisplayName.split(' ').join('_')
 
 //2. create your raw github repo URL
-const userName = 'charlie42';
-const repoName = 'ChildMindInstitute';
+const userName = 'ChildMindInstitute';
+const repoName = 'reproschema-builder';
 const branchName = 'master';
 
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`;

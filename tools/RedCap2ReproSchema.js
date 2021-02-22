@@ -7,7 +7,7 @@ const protocolName = "sc_dd";
 const protocolDisplayName = "test protocol";
 
 //2. create your raw github repo URL
-const userName = 'charlie42';
+const userName = 'ChildMindInstitute';
 const repoName = 'reproschema-builder';
 const branchName = 'master';
 
