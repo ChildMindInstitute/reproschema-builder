@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/charlie42/ChildMindInstitute/master/protocols/grd_1/grd_1_context"
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/protocols/grd_1/grd_1_context"
     ],
     "@type": "reproschema:Protocol",
     "@id": "grd_1_schema",
@@ -14,12 +14,12 @@
         "addProperties": [
             {
                 "variableName": "grd",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/ChildMindInstitute/master/activities/grd/grd_schema",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/activities/grd/grd_schema",
                 "isVis": true
             }
         ],
         "order": [
-            "https://raw.githubusercontent.com/charlie42/ChildMindInstitute/master/activities/grd/grd_schema"
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/activities/grd/grd_schema"
         ],
         "shuffle": false
     }

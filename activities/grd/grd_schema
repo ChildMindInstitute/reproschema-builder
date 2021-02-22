@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/charlie42/ChildMindInstitute/master/activities/grd/grd_context"
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/activities/grd/grd_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "grd_schema",

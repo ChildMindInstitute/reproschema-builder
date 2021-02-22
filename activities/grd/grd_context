@@ -385,6 +385,6 @@
             "@type": "@id"
         },
         "@version": 1.1,
-        "grd": "https://raw.githubusercontent.com/charlie42/ChildMindInstitute/master/activities/grd/items/"
+        "grd": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/activities/grd/items/"
     }
 }
