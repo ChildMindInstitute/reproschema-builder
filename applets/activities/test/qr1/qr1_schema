@@ -15,8 +15,7 @@
         "order": [
             "q1",
             "q2",
-            "q3",
-            "q4"
+            "q3"
         ],
         "addProperties": [
             {
@@ -34,12 +33,6 @@
             {
                 "variableName": "q3",
                 "isAbout": "q3",
-                "isVis": true,
-                "requiredValue": true
-            },
-            {
-                "variableName": "q4",
-                "isAbout": "q4",
                 "isVis": true,
                 "requiredValue": true
             }
