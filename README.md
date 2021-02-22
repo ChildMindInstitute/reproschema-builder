@@ -31,5 +31,5 @@ Variable / Field Name |	Section Header | Form Name  |	Field Type  |	multipleChoi
 
 
 ### Usage: 
-`node tools/mhdb2ReproSchema.js path_to_your_csv_file "protocol name"`
+`node tools/mhdb2ReproSchema.js input/path_to_your_csv_file "protocol name"`
 
