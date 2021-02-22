@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "682",
+    "skos:prefLabel": "682",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Does she/he ever have any interests that preoccupy her/him and might seem off to other people (e.g., traffic lights, drainpipes, or timetables?)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": " No"
+            },
+            {
+                "value": 1,
+                "name": " Yes"
+            }
+        ]
+    }
+}

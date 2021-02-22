@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "655",
+    "skos:prefLabel": "655",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "How long have these difficulties been present?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Less than a month"
+            },
+            {
+                "value": 1,
+                "name": "1-5 months"
+            },
+            {
+                "value": 2,
+                "name": "6-12 months"
+            },
+            {
+                "value": 3,
+                "name": "Over a year"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": 3
+    }
+}

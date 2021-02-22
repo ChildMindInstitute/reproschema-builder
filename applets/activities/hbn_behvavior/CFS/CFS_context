@@ -1,0 +1,26 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "CFS": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/CFS/items/",
+        "CFS_01": {
+            "@id": "CFS:CFS_01",
+            "@type": "@id"
+        },
+        "CFS_02": {
+            "@id": "CFS:CFS_02",
+            "@type": "@id"
+        },
+        "CFS_03": {
+            "@id": "CFS:CFS_03",
+            "@type": "@id"
+        },
+        "CFS_04": {
+            "@id": "CFS:CFS_04",
+            "@type": "@id"
+        },
+        "CFS_05": {
+            "@id": "CFS:CFS_05",
+            "@type": "@id"
+        }
+    }
+}

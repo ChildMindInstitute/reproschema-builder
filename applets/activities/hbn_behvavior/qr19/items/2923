@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2923",
+    "skos:prefLabel": "2923",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "choices": [
+            {
+                "value": 0,
+                "name": "Not true (as far as you know)"
+            },
+            {
+                "value": 1,
+                "name": "Somewhat or sometimes true"
+            },
+            {
+                "value": 2,
+                "name": "Very true or often true"
+            }
+        ],
+        "schema:minValue": null,
+        "schema:maxValue": 2
+    },
+    "question": {
+        "en": "In the past 6 months, on how many days did he/she use drugs for nonmedical purposes (including marijuana, cocaine, and other drugs, except alcohol and nicotine)?"
+    }
+}

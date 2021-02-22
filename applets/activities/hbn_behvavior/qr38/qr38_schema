@@ -1,0 +1,70 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr38/qr38_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr38_schema",
+    "skos:prefLabel": "Affective Reactivity Index - Self Report",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "For each item, please mark the box for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions"
+    },
+    "ui": {
+        "order": [
+            "173",
+            "174",
+            "175",
+            "176",
+            "177",
+            "178",
+            "179"
+        ],
+        "addProperties": [
+            {
+                "variableName": "173",
+                "isAbout": "173",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "174",
+                "isAbout": "174",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "175",
+                "isAbout": "175",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "176",
+                "isAbout": "176",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "177",
+                "isAbout": "177",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "178",
+                "isAbout": "178",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "179",
+                "isAbout": "179",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

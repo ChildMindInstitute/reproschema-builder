@@ -1,0 +1,34 @@
+{
+    "@context": {
+        "173": {
+            "@id": "qr38:173",
+            "@type": "@id"
+        },
+        "174": {
+            "@id": "qr38:174",
+            "@type": "@id"
+        },
+        "175": {
+            "@id": "qr38:175",
+            "@type": "@id"
+        },
+        "176": {
+            "@id": "qr38:176",
+            "@type": "@id"
+        },
+        "177": {
+            "@id": "qr38:177",
+            "@type": "@id"
+        },
+        "178": {
+            "@id": "qr38:178",
+            "@type": "@id"
+        },
+        "179": {
+            "@id": "qr38:179",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "qr38": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr38/items/"
+    }
+}

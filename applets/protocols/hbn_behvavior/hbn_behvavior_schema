@@ -1,0 +1,158 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/protocols/hbn_behvavior/hbn_behvavior_context"
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "hbn_behvavior_schema",
+    "skos:prefLabel": "hbn behvavior",
+    "schema:description": "Description for your protocol",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "landingPage": "https://github.com/charlie42/reproschema-builder",
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "qr161",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr161/qr161_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr20",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr20/qr20_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr19",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr19/qr19_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr24",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr24/qr24_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr25",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr25/qr25_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr36",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr36/qr36_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr37",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr37/qr37_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr38",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr38/qr38_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr27",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr27/qr27_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr41",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr41/qr41_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr42",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr42/qr42_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr43",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr43/qr43_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr96",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr96/qr96_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr45",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr45/qr45_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr87",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr87/qr87_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr95",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr95/qr95_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr46",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr46/qr46_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr98",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr98/qr98_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr89",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr89/qr89_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr172",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr172/qr172_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr40",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr40/qr40_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "PBS",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/PBS/PBS_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "CFS",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/CFS/CFS_schema",
+                "isVis": true
+            }
+        ],
+        "order": [
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr161/qr161_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr20/qr20_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr19/qr19_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr24/qr24_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr25/qr25_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr36/qr36_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr37/qr37_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr38/qr38_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr27/qr27_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr41/qr41_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr42/qr42_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr43/qr43_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr96/qr96_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr45/qr45_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr87/qr87_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr95/qr95_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr46/qr46_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr98/qr98_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr89/qr89_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr172/qr172_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr40/qr40_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/PBS/PBS_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/CFS/CFS_schema"
+        ],
+        "shuffle": false
+    }
+}

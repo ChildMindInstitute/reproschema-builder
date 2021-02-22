@@ -1,0 +1,126 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_behvavior/qr98/qr98_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr98_schema",
+    "skos:prefLabel": "The World Health Organization Disability Assessment Schedule 2.0 - Self Report",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "This questionnaire asks about difficulties due to health conditions. Health conditions include diseases or illnesses, other health problems that may be short or long lasting, injuries, mental or emotional problems, and problems with alcohol or drugs.\nThink back over the past 30 days and answer these questions, thinking about how much difficulty you had doing the following activities. For each question, please circle only one response."
+    },
+    "ui": {
+        "order": [
+            "193",
+            "194",
+            "195",
+            "196",
+            "197",
+            "198",
+            "199",
+            "200",
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206",
+            "207"
+        ],
+        "addProperties": [
+            {
+                "variableName": "193",
+                "isAbout": "193",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "194",
+                "isAbout": "194",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "195",
+                "isAbout": "195",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "196",
+                "isAbout": "196",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "197",
+                "isAbout": "197",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "198",
+                "isAbout": "198",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "199",
+                "isAbout": "199",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "200",
+                "isAbout": "200",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "201",
+                "isAbout": "201",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "202",
+                "isAbout": "202",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "203",
+                "isAbout": "203",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "204",
+                "isAbout": "204",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "205",
+                "isAbout": "205",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "206",
+                "isAbout": "206",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "207",
+                "isAbout": "207",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}
