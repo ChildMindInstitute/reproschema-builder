@@ -9,7 +9,7 @@ const protocolDisplayName = "test protocol";
 //2. create your raw github repo URL
 const userName = 'charlie42';
 const repoName = 'reproschema-builder';
-const branchName = 'mhdb-format';
+const branchName = 'master';
 
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`;
 
@@ -33,8 +33,6 @@ const schemaMap = {
     "Item Display Name": "skos:prefLabel",
     "Field Annotation": "schema:description", // column R
     "Section Header": "preamble", // todo: check this // column C
-    //mhdb: digital_instructions column - preamble before each item
-    "Item Header": "itemPreamble", // todo: check this // column C
     "Field Label": "question", // column E
     "Field Type": "inputType", // column D
     "Allow": "allow",
@@ -62,8 +60,7 @@ const responseList = ['type', 'requiredValue'];
 const additionalNotesList = ['Field Note', 'Question Number (surveys only)'];
 const defaultLanguage = 'en';
 const datas = {};
-const schemaVersion = "0.0.1"
-const landingPage = "https://github.com/charlie42/reproschema-builder";
+const schemaVersion = "1.0.0-rc1.post"
 
 /* **************************************************************************************** */
 
@@ -197,16 +194,12 @@ function processRow(form, data){
     let ui = {};
     let rspObj = {};
     let choiceList = [];
-    //let isVis = '';
-    //mhdb:
-    let isVis = true;
+    let isVis = '';
    
     rowData['@context'] = [schemaContextUrl];
     rowData['@type'] = 'reproschema:Field';
     rowData['@id'] = data['Variable / Field Name'];
-    //mhdb: no display name for questions
-    //rowData['skos:prefLabel'] = data["Item Display Name"];
-    rowData['skos:prefLabel'] = data["Variable / Field Name"];
+    rowData['skos:prefLabel'] = data["Item Display Name"];
     rowData['schema:schemaVersion'] = schemaVersion;
     rowData['schema:version'] = '0.0.1';
 
@@ -283,29 +276,6 @@ function processRow(form, data){
         else if (data['Field Type'] === 'descriptive') {
             inputType = 'static';
         }
-        //mhdb:
-        else if (data['Field Type'] === '1') {
-            inputType = 'radio';
-            multipleChoice = false;
-            valueType = '';
-        }
-        else if (data['Field Type'] === '2') {
-            inputType = 'radio';
-            valueType = 'radio';
-            multipleChoice = true;
-        }
-        else if (data['Field Type'] === '3') {
-            inputType = 'slider';
-            valueType = 'slider';
-        }
-        else if (data['Field Type'] === '4') {
-            inputType = 'text';
-            valueType = 'xsd:string';
-        }
-        else if (data['Field Type'] === '0') {
-            inputType = 'markdown-message';
-        }
-        //console.log("INPUT TYPE" + inputType + " " + data['Field Type'])
         rowData['ui'] = {'inputType': inputType};
         if (valueType) {
             rowData['responseOptions'] = {'valueType': valueType};
@@ -316,19 +286,20 @@ function processRow(form, data){
 
         //Parse 'allow' array
         if (schemaMap[current_key] === 'allow' && data[current_key] !== '') {
-            let uiKey = schemaMap[current_key];
-            let uiValue = data[current_key].split(', ');
-            //uiValue.forEach(val => {
-            //    allowList.push(val)
-            //})
-            // add object to ui element of the item
-            if (rowData.hasOwnProperty('ui')) {
-                rowData.ui[uiKey] = uiValue; // append to existing ui object
-            }
-            else { // create new ui object
-                ui[uiKey] = uiValue;
-                rowData['ui'] = ui;
-            }
+            // :todo move from items to activities
+            // let uiKey = schemaMap[current_key];
+            // let uiValue = data[current_key].split(', ');
+            // //uiValue.forEach(val => {
+            // //    allowList.push(val)
+            // //})
+            // // add object to ui element of the item
+            // if (rowData.hasOwnProperty('ui')) {
+            //     rowData.ui[uiKey] = uiValue; // append to existing ui object
+            // }
+            // else { // create new ui object
+            //     ui[uiKey] = uiValue;
+            //     rowData['ui'] = ui;
+            // }
         }
         // check all ui elements to be nested under 'ui' key of the item
         else if (uiList.indexOf(schemaMap[current_key]) > -1 && data[current_key] !== '') {
@@ -337,7 +308,6 @@ function processRow(form, data){
             if (inputTypeMap.hasOwnProperty(data[current_key])) { // map Field type to supported inputTypes
                 uiValue = inputTypeMap[data[current_key]];
             }
-        
             // else if ((uiKey === 'inputType') && (uiValue === 'text') && data['Text Validation Type OR Show Slider Number'] === 'number') {
             //     uiValue = 'integer';
             //     valueType = 'xsd:int'
@@ -346,27 +316,6 @@ function processRow(form, data){
             //     uiValue = 'date';
             //     valueType = 'xsd:date';
             // }
-
-            //mhdb:
-            else if ((uiKey === 'inputType') && (uiValue === '1')) {
-                uiValue = 'radio';
-                valueType = '';
-            }
-            else if ((uiKey === 'inputType') && (uiValue === '2')) {
-                uiValue = 'radio';
-                valueType = 'radio';
-            }
-            else if ((uiKey === 'inputType') && (uiValue === '3')) {
-                uiValue = 'slider';
-                valueType = 'slider';
-            }
-            else if ((uiKey === 'inputType') && (uiValue === '4')) {
-                uiValue = 'text';
-                valueType = 'xsd:string';
-            }
-            else if ((uiKey === 'inputType') && (uiValue === '0')) {
-                uiValue = 'markdown-message';
-            }
 
             // add object to ui element of the item
             if (rowData.hasOwnProperty('ui')) {
@@ -435,13 +384,11 @@ function processRow(form, data){
         else if (schemaMap[current_key] === 'choices' && data[current_key] !== '') {
 
             // split string wrt '|' to get each choice
-            let c = data[current_key].split(/, (?=\d)|,\n(?=\d)|,(?=\d)|\n(?=\d)|; (?=\d)/gm);
-            console.log("REGEXP " + c)
+            let c = data[current_key].split('|');
             // split each choice wrt ',' to get name and value
             c.forEach(ch => { // ch = { value, name}
-                console.log("FOREACH " + ch)
                 let choiceObj = {};
-                let cs = ch.split('=');
+                let cs = ch.split(', ');
                 // create name and value pair + image link for each choice option
                 if (cs.length === 3) {
                     choiceObj['value'] = parseInt(cs[0]);
@@ -538,10 +485,7 @@ function processRow(form, data){
         }
         // decode html fields
         else if ((schemaMap[current_key] === 'question' || schemaMap[current_key] ==='description'
-            //mhdb: preamble only before questionnaire, not items
-            //|| schemaMap[current_key] === 'preamble'
-            || schemaMap[current_key] === 'itemPreamble'
-            ) && data[current_key] !== '') {
+            || schemaMap[current_key] === 'preamble') && data[current_key] !== '') {
             let questions = parseHtml(data[current_key]);
             // console.log(231, form, schemaMap[current_key], questions);
             rowData[schemaMap[current_key]] = questions;
@@ -670,7 +614,6 @@ function createProtocolSchema(protocolName, protocolContextUrl) {
         "schema:description": protocolDescription,
         "schema:schemaVersion": schemaVersion,
         "schema:version": "0.0.1",
-        "landingPage": landingPage,
         // todo: preamble: Field Type = descriptive represents preamble in the CSV file., it also has branching logic. so should preamble be an item in our schema?
         "ui": {
             "addProperties": protocolAddProperties,
