@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "activity_path": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/",
+        "activity_path": "https://raw.githubusercontent.com/charlie42/ChildMindInstitute/master/activities/",
         "grd": {
             "@id": "activity_path:grd/grd_schema",
             "@type": "@id"

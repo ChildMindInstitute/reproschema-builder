@@ -1,15 +1,17 @@
 //User inputs: these are specific to your protocol, fill out before using the script
 
-//1. your protocol id: use underscore for spaces, avoid special characters. The display name is the one that will show up in the app, this will be parsed as string.
-const protocolName = "sc_dd";
+//your protocol display name: this will show up in the app and be parsed as a string
+//const protocolDisplayName = "test protocol";
+const protocolDisplayName = process.argv[3];
 
-//2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "test protocol";
+//your protocol id: use underscore for spaces, avoid special characters. The display name is the one that will show up in the app, this will be parsed as string.
+//const protocolName = "sc_dd";
+const protocolName = protocolDisplayName.split(' ').join('_')
 
 //2. create your raw github repo URL
 const userName = 'charlie42';
-const repoName = 'reproschema-builder';
-const branchName = 'mhdb-format';
+const repoName = 'ChildMindInstitute';
+const branchName = 'master';
 
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`;
 

@@ -1,11 +1,11 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/protocols/sc_dd/sc_dd_context"
+        "https://raw.githubusercontent.com/charlie42/ChildMindInstitute/master/protocols/grd_1/grd_1_context"
     ],
     "@type": "reproschema:Protocol",
-    "@id": "sc_dd_schema",
-    "skos:prefLabel": "test protocol",
+    "@id": "grd_1_schema",
+    "skos:prefLabel": "grd 1",
     "schema:description": "Description for your protocol",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
@@ -14,12 +14,12 @@
         "addProperties": [
             {
                 "variableName": "grd",
-                "isAbout": "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/grd/grd_schema",
+                "isAbout": "https://raw.githubusercontent.com/charlie42/ChildMindInstitute/master/activities/grd/grd_schema",
                 "isVis": true
             }
         ],
         "order": [
-            "https://raw.githubusercontent.com/charlie42/reproschema-builder/mhdb-format/activities/grd/grd_schema"
+            "https://raw.githubusercontent.com/charlie42/ChildMindInstitute/master/activities/grd/grd_schema"
         ],
         "shuffle": false
     }

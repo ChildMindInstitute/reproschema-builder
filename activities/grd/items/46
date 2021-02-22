@@ -1,0 +1,19 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "46",
+    "skos:prefLabel": "46",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "markdown-message",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": {
+        "en": "Now this time I want you to lie on your left side.� Okay, let�s start with your right hand on your leg."
+    }
+}
