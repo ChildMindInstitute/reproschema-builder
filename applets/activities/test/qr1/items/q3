@@ -15,15 +15,15 @@
         "choices": [
             {
                 "value": 0,
-                "name": " 'No'"
+                "name": " "
             },
             {
                 "value": 1,
-                "name": " '1-2'"
+                "name": " "
             },
             {
                 "value": 2,
-                "name": " '3-4'"
+                "name": " "
             }
         ],
         "schema:minValue": 0,
