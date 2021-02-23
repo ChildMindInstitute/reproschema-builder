@@ -16,7 +16,7 @@ Variable / Field Name |	Section Header | Form Name  |	Field Type  |	multipleChoi
 + **Form Name:** The id of the activity the survey item is a part of (required). <br/>
 + **Field Type:** Type of reponse for survey item, currently supports: 
   + 1 for radio button
-  + 3 for slider
+  + 3 for slider (`name` is not displayed, only `value`, and this script can only parse numbers atm)
   + 4 for text 
   + 0 for markdown message (leave response options column blank)
   <br/>
