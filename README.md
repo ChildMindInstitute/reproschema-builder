@@ -37,4 +37,4 @@ Variable / Field Name |	Section Header | Form Name  |	Field Type  |	multipleChoi
 2. `npm install` when running the script for the first time
 3. `node tools/mhdb2ReproSchema.js input/path_to_your_csv_file "protocol name"`
 4. Commit and push the changes
-5. Use the link to the raw file of your protocol schema to add your applet to mindlogger (e.g. https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/protocols/grd_1/grd_1_schema) 
+5. Use the link to the raw file of your protocol schema to add your applet to mindlogger (e.g. https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/protocols/test/test_schema) 
