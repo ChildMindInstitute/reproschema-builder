@@ -25,9 +25,7 @@
                 "value": 2,
                 "name": " "
             }
-        ],
-        "schema:minValue": 0,
-        "schema:maxValue": 2
+        ]
     },
     "question": {
         "en": "Slider question"
