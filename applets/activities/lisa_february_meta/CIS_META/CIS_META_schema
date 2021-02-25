@@ -1,0 +1,112 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february_meta/CIS_META/CIS_META_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "CIS_META_schema",
+    "skos:prefLabel": "Columbia Impairment Scale (CIS)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "How well did you understand these questions?"
+    },
+    "ui": {
+        "order": [
+            "109",
+            "110",
+            "111",
+            "112",
+            "113",
+            "114",
+            "115",
+            "116",
+            "117",
+            "118",
+            "119",
+            "120",
+            "121"
+        ],
+        "addProperties": [
+            {
+                "variableName": "109",
+                "isAbout": "109",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "110",
+                "isAbout": "110",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "111",
+                "isAbout": "111",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "112",
+                "isAbout": "112",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "113",
+                "isAbout": "113",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "114",
+                "isAbout": "114",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "115",
+                "isAbout": "115",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "116",
+                "isAbout": "116",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "117",
+                "isAbout": "117",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "118",
+                "isAbout": "118",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "119",
+                "isAbout": "119",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "120",
+                "isAbout": "120",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "121",
+                "isAbout": "121",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

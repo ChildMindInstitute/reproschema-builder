@@ -1,0 +1,58 @@
+{
+    "@context": {
+        "109": {
+            "@id": "CIS_META:109",
+            "@type": "@id"
+        },
+        "110": {
+            "@id": "CIS_META:110",
+            "@type": "@id"
+        },
+        "111": {
+            "@id": "CIS_META:111",
+            "@type": "@id"
+        },
+        "112": {
+            "@id": "CIS_META:112",
+            "@type": "@id"
+        },
+        "113": {
+            "@id": "CIS_META:113",
+            "@type": "@id"
+        },
+        "114": {
+            "@id": "CIS_META:114",
+            "@type": "@id"
+        },
+        "115": {
+            "@id": "CIS_META:115",
+            "@type": "@id"
+        },
+        "116": {
+            "@id": "CIS_META:116",
+            "@type": "@id"
+        },
+        "117": {
+            "@id": "CIS_META:117",
+            "@type": "@id"
+        },
+        "118": {
+            "@id": "CIS_META:118",
+            "@type": "@id"
+        },
+        "119": {
+            "@id": "CIS_META:119",
+            "@type": "@id"
+        },
+        "120": {
+            "@id": "CIS_META:120",
+            "@type": "@id"
+        },
+        "121": {
+            "@id": "CIS_META:121",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "CIS_META": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february_meta/CIS_META/items/"
+    }
+}

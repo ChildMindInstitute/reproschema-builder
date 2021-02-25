@@ -1,0 +1,112 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february_meta/MFQ-S_META/MFQ-S_META_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "MFQ-S_META_schema",
+    "skos:prefLabel": "Mood and Feelings Questionnaire - short version (MFQ-S)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "How well did you understand these questions?"
+    },
+    "ui": {
+        "order": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47",
+            "48",
+            "49",
+            "50",
+            "51"
+        ],
+        "addProperties": [
+            {
+                "variableName": "39",
+                "isAbout": "39",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "40",
+                "isAbout": "40",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "41",
+                "isAbout": "41",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "42",
+                "isAbout": "42",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "43",
+                "isAbout": "43",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "44",
+                "isAbout": "44",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "45",
+                "isAbout": "45",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "46",
+                "isAbout": "46",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "47",
+                "isAbout": "47",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "48",
+                "isAbout": "48",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "49",
+                "isAbout": "49",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "50",
+                "isAbout": "50",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "51",
+                "isAbout": "51",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

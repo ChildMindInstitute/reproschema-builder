@@ -1,0 +1,58 @@
+{
+    "@context": {
+        "39": {
+            "@id": "MFQ-S_META:39",
+            "@type": "@id"
+        },
+        "40": {
+            "@id": "MFQ-S_META:40",
+            "@type": "@id"
+        },
+        "41": {
+            "@id": "MFQ-S_META:41",
+            "@type": "@id"
+        },
+        "42": {
+            "@id": "MFQ-S_META:42",
+            "@type": "@id"
+        },
+        "43": {
+            "@id": "MFQ-S_META:43",
+            "@type": "@id"
+        },
+        "44": {
+            "@id": "MFQ-S_META:44",
+            "@type": "@id"
+        },
+        "45": {
+            "@id": "MFQ-S_META:45",
+            "@type": "@id"
+        },
+        "46": {
+            "@id": "MFQ-S_META:46",
+            "@type": "@id"
+        },
+        "47": {
+            "@id": "MFQ-S_META:47",
+            "@type": "@id"
+        },
+        "48": {
+            "@id": "MFQ-S_META:48",
+            "@type": "@id"
+        },
+        "49": {
+            "@id": "MFQ-S_META:49",
+            "@type": "@id"
+        },
+        "50": {
+            "@id": "MFQ-S_META:50",
+            "@type": "@id"
+        },
+        "51": {
+            "@id": "MFQ-S_META:51",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "MFQ-S_META": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february_meta/MFQ-S_META/items/"
+    }
+}

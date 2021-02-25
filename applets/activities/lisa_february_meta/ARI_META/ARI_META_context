@@ -1,0 +1,34 @@
+{
+    "@context": {
+        "78": {
+            "@id": "ARI_META:78",
+            "@type": "@id"
+        },
+        "79": {
+            "@id": "ARI_META:79",
+            "@type": "@id"
+        },
+        "80": {
+            "@id": "ARI_META:80",
+            "@type": "@id"
+        },
+        "81": {
+            "@id": "ARI_META:81",
+            "@type": "@id"
+        },
+        "82": {
+            "@id": "ARI_META:82",
+            "@type": "@id"
+        },
+        "83": {
+            "@id": "ARI_META:83",
+            "@type": "@id"
+        },
+        "84": {
+            "@id": "ARI_META:84",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "ARI_META": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february_meta/ARI_META/items/"
+    }
+}

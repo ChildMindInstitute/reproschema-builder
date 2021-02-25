@@ -1,0 +1,42 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february_meta/PHQ-3_META/PHQ-3_META_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "PHQ-3_META_schema",
+    "skos:prefLabel": "PHQ-3",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "How well did you understand these questions?"
+    },
+    "ui": {
+        "order": [
+            "122",
+            "123",
+            "124"
+        ],
+        "addProperties": [
+            {
+                "variableName": "122",
+                "isAbout": "122",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "123",
+                "isAbout": "123",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "124",
+                "isAbout": "124",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}
