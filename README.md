@@ -38,3 +38,6 @@ Variable / Field Name |	Section Header | Form Name  |	Field Type  |	multipleChoi
 3. `node tools/mhdb2ReproSchema.js input/path_to_your_csv_file "protocol name"`
 4. Commit and push the changes
 5. Use the link to the raw file of your protocol schema to add your applet to mindlogger (e.g. https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/protocols/test/test_schema) 
+
+If you pushed any changes after uploading the applet, these changes won't be automatically incorporated. You need to re-upload your applet as a new one.
+An examples of the input format is in input/test-repro-script.csv
