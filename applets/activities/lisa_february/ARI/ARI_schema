@@ -1,0 +1,70 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/ARI/ARI_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "ARI_schema",
+    "skos:prefLabel": "Affective Reactivity Index (ARI)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "For each item, please mark the box for Not True, Somewhat True or Certainly True.   In the last six months and compared to others of the same age, how well does each of the following statements describe the behavior/feelings of the student? Please try to answer all questions. "
+    },
+    "ui": {
+        "order": [
+            "78",
+            "79",
+            "80",
+            "81",
+            "82",
+            "83",
+            "84"
+        ],
+        "addProperties": [
+            {
+                "variableName": "78",
+                "isAbout": "78",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "79",
+                "isAbout": "79",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "80",
+                "isAbout": "80",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "81",
+                "isAbout": "81",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "82",
+                "isAbout": "82",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "83",
+                "isAbout": "83",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "84",
+                "isAbout": "84",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

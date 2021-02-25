@@ -1,0 +1,203 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/SNAP/SNAP_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "SNAP_schema",
+    "skos:prefLabel": "Swanson, Nolan and Pelham Parent Rating Scale (SNAP)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "For each item, check the column which best describes the student:"
+    },
+    "ui": {
+        "order": [
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "57",
+            "58",
+            "59",
+            "60",
+            "61",
+            "62",
+            "63",
+            "64",
+            "65",
+            "66",
+            "67",
+            "68",
+            "69",
+            "70",
+            "71",
+            "72",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77"
+        ],
+        "addProperties": [
+            {
+                "variableName": "52",
+                "isAbout": "52",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "53",
+                "isAbout": "53",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "54",
+                "isAbout": "54",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "55",
+                "isAbout": "55",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "56",
+                "isAbout": "56",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "57",
+                "isAbout": "57",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "58",
+                "isAbout": "58",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "59",
+                "isAbout": "59",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "60",
+                "isAbout": "60",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "61",
+                "isAbout": "61",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "62",
+                "isAbout": "62",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "63",
+                "isAbout": "63",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "64",
+                "isAbout": "64",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "65",
+                "isAbout": "65",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "66",
+                "isAbout": "66",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "67",
+                "isAbout": "67",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "68",
+                "isAbout": "68",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "69",
+                "isAbout": "69",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "70",
+                "isAbout": "70",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "71",
+                "isAbout": "71",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "72",
+                "isAbout": "72",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "73",
+                "isAbout": "73",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "74",
+                "isAbout": "74",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "75",
+                "isAbout": "75",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "76",
+                "isAbout": "76",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "77",
+                "isAbout": "77",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

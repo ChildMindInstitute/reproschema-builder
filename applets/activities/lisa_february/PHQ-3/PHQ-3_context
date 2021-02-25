@@ -1,0 +1,18 @@
+{
+    "@context": {
+        "122": {
+            "@id": "PHQ-3:122",
+            "@type": "@id"
+        },
+        "123": {
+            "@id": "PHQ-3:123",
+            "@type": "@id"
+        },
+        "124": {
+            "@id": "PHQ-3:124",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "PHQ-3": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/PHQ-3/items/"
+    }
+}

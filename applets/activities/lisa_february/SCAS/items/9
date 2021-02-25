@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "9",
+    "skos:prefLabel": "9",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": {
+        "en": "My child feels scared if (s)he has to travel in the car, or on a bus or train"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Never"
+            },
+            {
+                "value": 1,
+                "name": "Sometimes"
+            },
+            {
+                "value": 2,
+                "name": "Often"
+            },
+            {
+                "value": 3,
+                "name": "Always"
+            }
+        ]
+    }
+}

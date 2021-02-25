@@ -1,0 +1,58 @@
+{
+    "@context": {
+        "109": {
+            "@id": "CIS:109",
+            "@type": "@id"
+        },
+        "110": {
+            "@id": "CIS:110",
+            "@type": "@id"
+        },
+        "111": {
+            "@id": "CIS:111",
+            "@type": "@id"
+        },
+        "112": {
+            "@id": "CIS:112",
+            "@type": "@id"
+        },
+        "113": {
+            "@id": "CIS:113",
+            "@type": "@id"
+        },
+        "114": {
+            "@id": "CIS:114",
+            "@type": "@id"
+        },
+        "115": {
+            "@id": "CIS:115",
+            "@type": "@id"
+        },
+        "116": {
+            "@id": "CIS:116",
+            "@type": "@id"
+        },
+        "117": {
+            "@id": "CIS:117",
+            "@type": "@id"
+        },
+        "118": {
+            "@id": "CIS:118",
+            "@type": "@id"
+        },
+        "119": {
+            "@id": "CIS:119",
+            "@type": "@id"
+        },
+        "120": {
+            "@id": "CIS:120",
+            "@type": "@id"
+        },
+        "121": {
+            "@id": "CIS:121",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "CIS": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/CIS/items/"
+    }
+}

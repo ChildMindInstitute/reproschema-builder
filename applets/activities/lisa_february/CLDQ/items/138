@@ -1,0 +1,43 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "138",
+    "skos:prefLabel": "138",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": {
+        "en": "Difficulty with math word problems"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Never/not at all"
+            },
+            {
+                "value": 2,
+                "name": "Rarely/a little"
+            },
+            {
+                "value": 3,
+                "name": "Sometimes"
+            },
+            {
+                "value": 4,
+                "name": "Frequently/quite a lot"
+            },
+            {
+                "value": 5,
+                "name": "Always/a great deal"
+            }
+        ]
+    }
+}

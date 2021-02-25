@@ -1,0 +1,74 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/protocols/lisa_february/lisa_february_context"
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "lisa_february_schema",
+    "skos:prefLabel": "lisa february",
+    "schema:description": "Description for your protocol",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "landingPage": "https://github.com/charlie42/reproschema-builder",
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "SCAS",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/SCAS/SCAS_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "MFQ-S",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/MFQ-S/MFQ-S_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "SNAP",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/SNAP/SNAP_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "ARI",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/ARI/ARI_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "CAST",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/CAST/CAST_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "CIS",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/CIS/CIS_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "PHQ-3",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/PHQ-3/PHQ-3_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "CLDQ",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/CLDQ/CLDQ_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "LEAF",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/LEAF/LEAF_schema",
+                "isVis": true
+            }
+        ],
+        "order": [
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/SCAS/SCAS_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/MFQ-S/MFQ-S_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/SNAP/SNAP_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/ARI/ARI_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/CAST/CAST_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/CIS/CIS_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/PHQ-3/PHQ-3_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/CLDQ/CLDQ_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/LEAF/LEAF_schema"
+        ],
+        "shuffle": false
+    }
+}

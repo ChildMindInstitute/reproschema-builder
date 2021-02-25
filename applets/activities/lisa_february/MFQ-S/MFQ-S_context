@@ -1,0 +1,58 @@
+{
+    "@context": {
+        "39": {
+            "@id": "MFQ-S:39",
+            "@type": "@id"
+        },
+        "40": {
+            "@id": "MFQ-S:40",
+            "@type": "@id"
+        },
+        "41": {
+            "@id": "MFQ-S:41",
+            "@type": "@id"
+        },
+        "42": {
+            "@id": "MFQ-S:42",
+            "@type": "@id"
+        },
+        "43": {
+            "@id": "MFQ-S:43",
+            "@type": "@id"
+        },
+        "44": {
+            "@id": "MFQ-S:44",
+            "@type": "@id"
+        },
+        "45": {
+            "@id": "MFQ-S:45",
+            "@type": "@id"
+        },
+        "46": {
+            "@id": "MFQ-S:46",
+            "@type": "@id"
+        },
+        "47": {
+            "@id": "MFQ-S:47",
+            "@type": "@id"
+        },
+        "48": {
+            "@id": "MFQ-S:48",
+            "@type": "@id"
+        },
+        "49": {
+            "@id": "MFQ-S:49",
+            "@type": "@id"
+        },
+        "50": {
+            "@id": "MFQ-S:50",
+            "@type": "@id"
+        },
+        "51": {
+            "@id": "MFQ-S:51",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "MFQ-S": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/MFQ-S/items/"
+    }
+}

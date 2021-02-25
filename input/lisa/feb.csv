@@ -1,0 +1,244 @@
+Field Label,Form Display Name,"Choices, Calculations, OR Slider Labels",Section Header,Variable / Field Name,Field Type,Form Name,Allow
+My child worries about things,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always", BELOW IS A LIST OF ITEMS THAT DESCRIBE CHILDREN. FOR EACH ITEM PLEASE CIRCLE THE RESPONSE THAT BEST DESCRIBES YOUR CHILD. PLEASE ANSWER ALL THE ITEMS. ,1,1,SCAS,autoAdvance
+"When my child has a problem, s(he) complains of having a funny feeling in his / her stomach",Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,2,1,SCAS,autoAdvance
+My child complains of feeling afraid,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,3,1,SCAS,autoAdvance
+"When my child has a problem, s(he) complains of",Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,4,1,SCAS,autoAdvance
+My child worries that something bad will happen to him/her,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,5,1,SCAS,autoAdvance
+"When my child has a problem, (s)he feels shaky",Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,6,1,SCAS,autoAdvance
+My child complains of suddenly feeling as if (s)he can't breathe when there is no reason for this,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,7,1,SCAS,autoAdvance
+My child suddenly starts to tremble or shake when there is no reason for this,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,8,1,SCAS,autoAdvance
+"My child feels scared if (s)he has to travel in the car, or on a bus or train",Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,9,1,SCAS,autoAdvance
+"My child is afraid of being in crowded places (like shopping centres, the movies, buses, busy playgrounds)",Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,10,1,SCAS,autoAdvance
+All of a sudden my child feels really scared for no reason at all,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,11,1,SCAS,autoAdvance
+My child complains of suddenly becoming dizzy or faint when,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,12,1,SCAS,autoAdvance
+My child’s complains of his / her heart suddenly starting to beat too quickly for no reason,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,13,1,SCAS,autoAdvance
+My child worries that (s)he will suddenly get a scared feeling when there is nothing to be afraid of,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,14,1,SCAS,autoAdvance
+"My child is afraid of being in small closed places, like tunnels or small rooms",Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,15,1,SCAS,autoAdvance
+My child would feel afraid of being on his/her own at home,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,16,1,SCAS,autoAdvance
+My child worries about being away from us / me,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,17,1,SCAS,autoAdvance
+My child worries that something awful will happen to someone in our family,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,18,1,SCAS,autoAdvance
+My child is scared if (s)he has to sleep on his/her own,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,19,1,SCAS,autoAdvance
+My child has trouble going to school in the mornings because (s)he feels nervous or afraid,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,20,1,SCAS,autoAdvance
+My child would feel scared if (s)he had to stay away from home overnight,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,21,1,SCAS,autoAdvance
+My child is scared when s(he) has to take a test,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,22,1,SCAS,autoAdvance
+My child is afraid when (s)he has to use public toilets or bathrooms,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,23,1,SCAS,autoAdvance
+My child feels afraid that (s)he will make a fool of him/herself in front of people,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,24,1,SCAS,autoAdvance
+My child worries that (s)he will do badly at school,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,25,1,SCAS,autoAdvance
+My child worries what other people think of him/her,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,26,1,SCAS,autoAdvance
+My child feels afraid when (s)he has to talk in front of the class,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,27,1,SCAS,autoAdvance
+"My child has to keep checking that (s)he has done things right (like the switch is off, or the door is locked)",Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,28,1,SCAS,autoAdvance
+My child can't seem to get bad or silly thoughts out of his / her head,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,29,1,SCAS,autoAdvance
+My child has to think special thoughts (like numbers or words) to stop bad things from happening,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,30,1,SCAS,autoAdvance
+"My child has to do some things over and over again (like washing his / her hands, cleaning or putting things in a certain order)",Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,31,1,SCAS,autoAdvance
+My child gets bothered by bad or silly thoughts or pictures in his/her head,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,32,1,SCAS,autoAdvance
+My child has to do certain things in just the right way to stop bad things from happening,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,33,1,SCAS,autoAdvance
+My child complains of suddenly feeling as if (s)he can't breathe when there is no reason for this,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,34,1,SCAS,autoAdvance
+My child is scared of dogs,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,35,1,SCAS,autoAdvance
+My child is scared of going to the doctor or dentist,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,36,1,SCAS,autoAdvance
+My child is scared of heights (eg,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,37,1,SCAS,autoAdvance
+My child is scared of insects or spiders,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,38,1,SCAS,autoAdvance
+S/he felt miserable or unhappy,Mood and Feelings Questionnaire - short version (MFQ-S),"0=Never, 1=Sometimes, 2=Often, 3=Always","This form is about how the student might have been feeling or acting recently. For each question, please check how s/he hasbeen feeling or acting in the past two weeks. If a sentence was not true about the student, check NOT TRUE. If a sentence was only sometimes true, check SOMETIMES.If a sentence was true about the student most of the time, check TRUE",39,1,MFQ-S,autoAdvance
+S/he didn’t enjoy anything at all,Mood and Feelings Questionnaire - short version (MFQ-S),,,40,1,MFQ-S,autoAdvance
+S/he felt so tired that s/he just sat around and did nothing,Mood and Feelings Questionnaire - short version (MFQ-S),,,41,1,MFQ-S,autoAdvance
+S/he was very restless,Mood and Feelings Questionnaire - short version (MFQ-S),,,42,1,MFQ-S,autoAdvance
+S/he felt s/he was no good any more,Mood and Feelings Questionnaire - short version (MFQ-S),,,43,1,MFQ-S,autoAdvance
+S/he cried a lot,Mood and Feelings Questionnaire - short version (MFQ-S),,,44,1,MFQ-S,autoAdvance
+S/he found it hard to think properly or concentrate,Mood and Feelings Questionnaire - short version (MFQ-S),,,45,1,MFQ-S,autoAdvance
+S/he hated him/herself,Mood and Feelings Questionnaire - short version (MFQ-S),,,46,1,MFQ-S,autoAdvance
+S/he felt s/he was a bad person,Mood and Feelings Questionnaire - short version (MFQ-S),,,47,1,MFQ-S,autoAdvance
+S/he felt lonely,Mood and Feelings Questionnaire - short version (MFQ-S),,,48,1,MFQ-S,autoAdvance
+S/he thought nobody really loved him/her,Mood and Feelings Questionnaire - short version (MFQ-S),,,49,1,MFQ-S,autoAdvance
+S/he thought s/he could never be as good as other kids,Mood and Feelings Questionnaire - short version (MFQ-S),,,50,1,MFQ-S,autoAdvance
+S/he felt s/he did everything wrong,Mood and Feelings Questionnaire - short version (MFQ-S),,,51,1,MFQ-S,autoAdvance
+Often fails to give close attention to details or makes careless mistakes in schoolwork or tasks,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much","For each item, check the column which best describes the student:",52,1,SNAP,autoAdvance
+Often has difficulty sustaining attention in tasks or play activities,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,53,1,SNAP,autoAdvance
+Often does not seem to listen when spoken to directly,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,54,1,SNAP,autoAdvance
+"Often does not follow through on instructions and fails to finish schoolwork, chores, or duties","Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,55,1,SNAP,autoAdvance
+Often has difficulty organizing tasks and activities,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,56,1,SNAP,autoAdvance
+"Often avoids, dislikes, or reluctantly engages in tasks requiring sustained mental effort","Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,57,1,SNAP,autoAdvance
+"Often loses things necessary for activities (e.g., toys, school assignments, pencils or books","Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,58,1,SNAP,autoAdvance
+Often is distracted by extraneous stimuli,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,59,1,SNAP,autoAdvance
+Often is forgetful in daily activities,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,60,1,SNAP,autoAdvance
+Often fidgets with hands or feet or squirms in seat,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,61,1,SNAP,autoAdvance
+Often leaves seat in classroom or in other situations in which remaining seated is expected,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,62,1,SNAP,autoAdvance
+Often runs about or climbs excessively in situations in which it is inappropriate,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,63,1,SNAP,autoAdvance
+Often has difficulty playing or engaging in leisure activities quietly,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,64,1,SNAP,autoAdvance
+Often is “on the go” or often acts as if “driven by a motor”,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,65,1,SNAP,autoAdvance
+Often talks excessively,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,66,1,SNAP,autoAdvance
+Often blurts out answers before questions have been completed,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,67,1,SNAP,autoAdvance
+Often has difficulty awaiting turn,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,68,1,SNAP,autoAdvance
+"Often interrupts or intrudes on others (e.g., butts into conversations/games)","Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,69,1,SNAP,autoAdvance
+Often loses temper,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,70,1,SNAP,autoAdvance
+Often argues with adults,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,71,1,SNAP,autoAdvance
+Often actively defies or refuses adult requests or rules,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,72,1,SNAP,autoAdvance
+Often deliberately does things that annoy other people,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,73,1,SNAP,autoAdvance
+Often blames others for his or her mistakes or misbehaviour,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,74,1,SNAP,autoAdvance
+Often is touchy or easily annoyed by others,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,75,1,SNAP,autoAdvance
+Often is angry and resentful,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,76,1,SNAP,autoAdvance
+Often is spiteful or vindictive,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,77,1,SNAP,autoAdvance
+Is easily annoyed by others,Affective Reactivity Index (ARI),"0=Not true, 1=Somewhat true, 2=Certainly true","For each item, please mark the box for Not True, Somewhat True or Certainly True.   In the last six months and compared to others of the same age, how well does each of the following statements describe the behavior/feelings of the student? Please try to answer all questions. ",78,1,ARI,autoAdvance
+Often loses his/her temper,Affective Reactivity Index (ARI),"0=Not true, 1=Somewhat true, 2=Certainly true",,79,1,ARI,autoAdvance
+Stays angry for a long time,Affective Reactivity Index (ARI),"0=Not true, 1=Somewhat true, 2=Certainly true",,80,1,ARI,autoAdvance
+Is angry most of the time,Affective Reactivity Index (ARI),"0=Not true, 1=Somewhat true, 2=Certainly true",,81,1,ARI,autoAdvance
+Gets angry frequently,Affective Reactivity Index (ARI),"0=Not true, 1=Somewhat true, 2=Certainly true",,82,1,ARI,autoAdvance
+Loses temper easily,Affective Reactivity Index (ARI),"0=Not true, 1=Somewhat true, 2=Certainly true",,83,1,ARI,autoAdvance
+"Overall, irritability causes him/her problems",Affective Reactivity Index (ARI),"0=Not true, 1=Somewhat true, 2=Certainly true",,84,1,ARI,autoAdvance
+Does s/he join in playing games with other children easily?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No","Please read the following questions carefully, and choose the appropriate answer. All responses are confidential.",85,1,CAST,autoAdvance
+Does s/he come up to you spontaneously for a chat?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,86,1,CAST,autoAdvance
+Is it important to him/her to fit in with the peer group?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,87,1,CAST,autoAdvance
+Does s/he find it easy to interact with other children?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,88,1,CAST,autoAdvance
+Can s/he keep a two-way conversation going?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,89,1,CAST,autoAdvance
+Does s/he mostly have the same interests as his/her peers,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,90,1,CAST,autoAdvance
+"Does s/he have friends, rather than just acquaintances?",Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,91,1,CAST,autoAdvance
+Does s/he often bring you things s/he is interested in to show you?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,92,1,CAST,autoAdvance
+Does s/he enjoy joking around?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,93,1,CAST,autoAdvance
+Are people important to him/her?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,94,1,CAST,autoAdvance
+Is s/he good at turn-taking in conversation?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,95,1,CAST,autoAdvance
+Does s/he make normal eye-contact?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,96,1,CAST,autoAdvance
+Does s/he tend to take things literally?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,97,1,CAST,autoAdvance
+"Does s/he like to do things over and over again, in the same way all the time?",Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,98,1,CAST,autoAdvance
+Does s/he have difficulty understanding the rules for polite behaviour,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,99,1,CAST,autoAdvance
+Is his/her voice unusual (e,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,100,1,CAST,autoAdvance
+Does s/he often do or say things that are tactless or socially inappropriate?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,101,1,CAST,autoAdvance
+Does s/he have any unusual and repetitive movements?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,102,1,CAST,autoAdvance
+Is his/her social behaviour very one-sided and always on his/her own terms?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,103,1,CAST,autoAdvance
+"Does s/he sometimes say “you” or “s/he” when s/he means ""I""?",Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,104,1,CAST,autoAdvance
+Does s/he sometimes lose the listener because of not explaining what s/he is takling about?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,105,1,CAST,autoAdvance
+"Does s/he try to impose routines on him/herself, or on others, in such a way that it causes problems?",Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,106,1,CAST,autoAdvance
+Does s/he often turn conversations to his/her favourite subject rather than following what the other person wants to talk about?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,107,1,CAST,autoAdvance
+Does s/he have odd or unusual phrases?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,108,1,CAST,autoAdvance
+"In general, how much of a problem do you think your child has with getting into trouble?",Columbia Impairment Scale (CIS),"0=""No Problem"",
+1="""",
+2=""Some Problem"",
+3="""",
+4=""Very Bad Problem"",
+5=""Don't Know/Does Not Apply""","This survey asks questions about how you think your child is doing overall. Please answer the questions on a scale from 0 to 4 with 0 being ""No Problem"" and 4 being ""Very Bad Problem"". For each question, please select only one response.",109,1,CIS,autoAdvance
+"In general, how much of a problem do you think your child has with getting along with his/her mother?",Columbia Impairment Scale (CIS),"0=""No Problem"",
+1="""",
+2=""Some Problem"",
+3="""",
+4=""Very Bad Problem"",
+5=""Don't Know/Does Not Apply""",,110,1,CIS,autoAdvance
+"In general, how much of a problem do you think your child has with getting along with his/her father?",Columbia Impairment Scale (CIS),"0=""No Problem"",
+1="""",
+2=""Some Problem"",
+3="""",
+4=""Very Bad Problem"",
+5=""Don't Know/Does Not Apply""",,111,1,CIS,autoAdvance
+"In general, how much of a problem do you think your child has with feeling unhappy or sad?",Columbia Impairment Scale (CIS),"0=""No Problem"",
+1="""",
+2=""Some Problem"",
+3="""",
+4=""Very Bad Problem"",
+5=""Don't Know/Does Not Apply""",,112,1,CIS,autoAdvance
+How much of a problem would you say your child has with his/her behavior at school (or at his/her job)?,Columbia Impairment Scale (CIS),"0=""No Problem"",
+1="""",
+2=""Some Problem"",
+3="""",
+4=""Very Bad Problem"",
+5=""Don't Know/Does Not Apply""",,113,1,CIS,autoAdvance
+How much of a problem would you say your child has with having fun?,Columbia Impairment Scale (CIS),"0=""No Problem"",
+1="""",
+2=""Some Problem"",
+3="""",
+4=""Very Bad Problem"",
+5=""Don't Know/Does Not Apply""",,114,1,CIS,autoAdvance
+How much of a problem would you say your child has getting along with adults other than your parents?,Columbia Impairment Scale (CIS),"0=""No Problem"",
+1="""",
+2=""Some Problem"",
+3="""",
+4=""Very Bad Problem"",
+5=""Don't Know/Does Not Apply""",,115,1,CIS,autoAdvance
+How much of a problem does your child have with feeling nervous or afraid?,Columbia Impairment Scale (CIS),"0=""No Problem"",
+1="""",
+2=""Some Problem"",
+3="""",
+4=""Very Bad Problem"",
+5=""Don't Know/Does Not Apply""",,116,1,CIS,autoAdvance
+How much of a problem does your child have getting along with brothers/sisters?,Columbia Impairment Scale (CIS),"0=""No Problem"",
+1="""",
+2=""Some Problem"",
+3="""",
+4=""Very Bad Problem"",
+5=""Don't Know/Does Not Apply""",,117,1,CIS,autoAdvance
+How much of a problem does your child have getting along with other kids his/her age?,Columbia Impairment Scale (CIS),"0=""No Problem"",
+1="""",
+2=""Some Problem"",
+3="""",
+4=""Very Bad Problem"",
+5=""Don't Know/Does Not Apply""",,118,1,CIS,autoAdvance
+How much of a problem would you say your child has getting involved in activities like sports or hobbies?,Columbia Impairment Scale (CIS),"0=""No Problem"",
+1="""",
+2=""Some Problem"",
+3="""",
+4=""Very Bad Problem"",
+5=""Don't Know/Does Not Apply""",,119,1,CIS,autoAdvance
+How much of a problem would you say your child has with his/her school work (or doing his/her job)?,Columbia Impairment Scale (CIS),"0=""No Problem"",
+1="""",
+2=""Some Problem"",
+3="""",
+4=""Very Bad Problem"",
+5=""Don't Know/Does Not Apply""",,120,1,CIS,autoAdvance
+How much of a problem would you say your child has with his/her behavior at home?,Columbia Impairment Scale (CIS),"0=""No Problem"",
+1="""",
+2=""Some Problem"",
+3="""",
+4=""Very Bad Problem"",
+5=""Don't Know/Does Not Apply""",,121,1,CIS,autoAdvance
+Thoughts that he/she would be better of dead or of hurting him/herself in some way,PHQ-3,"0=Not at all, 1=More than half days, 2=Several days, 3=Nearly every day",,122,1,PHQ-3,autoAdvance
+Little interest or pleasure in doing things,PHQ-3,"0=Not at all, 1=More than half days, 2=Several days, 3=Nearly every day",,123,1,PHQ-3,autoAdvance
+"Feeling down, depressed or hopeless",PHQ-3,"0=Not at all, 1=More than half days, 2=Several days, 3=Nearly every day",,124,1,PHQ-3,autoAdvance
+Has difficulty with spelling,Colorado Learning Disabilities Questionnaire (CLDQ),"1=Never/not at all, 2=Rarely/a little, 3=Sometimes, 4=Frequently/quite a lot, 5=Always/a great deal",,125,1,CLDQ,autoAdvance
+Has/had difficulty learning letter names,Colorado Learning Disabilities Questionnaire (CLDQ),"1=Never/not at all, 2=Rarely/a little, 3=Sometimes, 4=Frequently/quite a lot, 5=Always/a great deal",,126,1,CLDQ,autoAdvance
+Has/had difficulty learning phonics (sounding out words),Colorado Learning Disabilities Questionnaire (CLDQ),"1=Never/not at all, 2=Rarely/a little, 3=Sometimes, 4=Frequently/quite a lot, 5=Always/a great deal",,127,1,CLDQ,autoAdvance
+Reads slowly,Colorado Learning Disabilities Questionnaire (CLDQ),"1=Never/not at all, 2=Rarely/a little, 3=Sometimes, 4=Frequently/quite a lot, 5=Always/a great deal",,128,1,CLDQ,autoAdvance
+Reads below grade level,Colorado Learning Disabilities Questionnaire (CLDQ),"1=Never/not at all, 2=Rarely/a little, 3=Sometimes, 4=Frequently/quite a lot, 5=Always/a great deal",,129,1,CLDQ,autoAdvance
+Requires extra help in school because of problems in reading and spelling,Colorado Learning Disabilities Questionnaire (CLDQ),"1=Never/not at all, 2=Rarely/a little, 3=Sometimes, 4=Frequently/quite a lot, 5=Always/a great deal",,130,1,CLDQ,autoAdvance
+Difficulty making or keeping friends,Colorado Learning Disabilities Questionnaire (CLDQ),"1=Never/not at all, 2=Rarely/a little, 3=Sometimes, 4=Frequently/quite a lot, 5=Always/a great deal",,131,1,CLDQ,autoAdvance
+Isolates self in social situations,Colorado Learning Disabilities Questionnaire (CLDQ),"1=Never/not at all, 2=Rarely/a little, 3=Sometimes, 4=Frequently/quite a lot, 5=Always/a great deal",,132,1,CLDQ,autoAdvance
+Feels anxious in new social situations,Colorado Learning Disabilities Questionnaire (CLDQ),"1=Never/not at all, 2=Rarely/a little, 3=Sometimes, 4=Frequently/quite a lot, 5=Always/a great deal",,133,1,CLDQ,autoAdvance
+Worse at math than at reading and spelling,Colorado Learning Disabilities Questionnaire (CLDQ),"1=Never/not at all, 2=Rarely/a little, 3=Sometimes, 4=Frequently/quite a lot, 5=Always/a great deal",,134,1,CLDQ,autoAdvance
+"Makes careless errors in math, such as adding when the sign indicates subtraction",Colorado Learning Disabilities Questionnaire (CLDQ),"1=Never/not at all, 2=Rarely/a little, 3=Sometimes, 4=Frequently/quite a lot, 5=Always/a great deal",,135,1,CLDQ,autoAdvance
+Trouble learning new math concepts such as carrying or borrowing,Colorado Learning Disabilities Questionnaire (CLDQ),"1=Never/not at all, 2=Rarely/a little, 3=Sometimes, 4=Frequently/quite a lot, 5=Always/a great deal",,136,1,CLDQ,autoAdvance
+Difficulty learning early math facts,Colorado Learning Disabilities Questionnaire (CLDQ),"1=Never/not at all, 2=Rarely/a little, 3=Sometimes, 4=Frequently/quite a lot, 5=Always/a great deal",,137,1,CLDQ,autoAdvance
+Difficulty with math word problems,Colorado Learning Disabilities Questionnaire (CLDQ),"1=Never/not at all, 2=Rarely/a little, 3=Sometimes, 4=Frequently/quite a lot, 5=Always/a great deal",,138,1,CLDQ,autoAdvance
+Writing is slow,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",Please answer the following questions based on this student’s behavior during the LAST WEEK.  Please answer all questions (make your best guess if you are uncertain).  Thank you! ,139,1,LEAF,autoAdvance
+"Written expression is very simple (basic, immature)",LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,140,1,LEAF,autoAdvance
+"Makes errors in grammar, punctuation, or spelling when writing sentences",LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,141,1,LEAF,autoAdvance
+Has difficulty explaining things or expressing self in writing,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,142,1,LEAF,autoAdvance
+Struggles with subjects that require writing,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,143,1,LEAF,autoAdvance
+Doesn’t seem to understand things that are said to him/her,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,144,1,LEAF,autoAdvance
+Has difficulty following long conversations or explanations,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,145,1,LEAF,autoAdvance
+Poor comprehension of reading material,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,146,1,LEAF,autoAdvance
+Doesn’t “get the point” of what is being said,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,147,1,LEAF,autoAdvance
+Doesn’t really understand new learning materials,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,148,1,LEAF,autoAdvance
+Struggles when learning new materials,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,149,1,LEAF,autoAdvance
+Does not solve problems independently (needs help on new problems),LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,150,1,LEAF,autoAdvance
+"Resists learning anything that is unfamiliar, new, or different",LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,151,1,LEAF,autoAdvance
+"Has difficulty with new situations, new people, or unfamiliar settings",LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,152,1,LEAF,autoAdvance
+Avoids new experiences,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,153,1,LEAF,autoAdvance
+Difficulty memorizing information,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,154,1,LEAF,autoAdvance
+Doesn’t retain facts well,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,155,1,LEAF,autoAdvance
+Has poor memory,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,156,1,LEAF,autoAdvance
+Forgets things that he/she has just learned,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,157,1,LEAF,autoAdvance
+Remembers the main idea but forgets details,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,158,1,LEAF,autoAdvance
+Can’t do more than one thing at a time,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,159,1,LEAF,autoAdvance
+Gets overwhelmed if required to learn or attend to a lot of information,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,160,1,LEAF,autoAdvance
+"If distracted, loses track of what he/she was doing/learning",LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,161,1,LEAF,autoAdvance
+Forgets things that he/she knew how to do a few hours or days before,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,162,1,LEAF,autoAdvance
+Gets upset or “shuts down” when challenged with learning,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,163,1,LEAF,autoAdvance
+"Has trouble completing work quickly, even when motivated to do well",LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,164,1,LEAF,autoAdvance
+Works deliberately and slowly on schoolwork and homework,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,165,1,LEAF,autoAdvance
+Writes and/or reads slowly,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,166,1,LEAF,autoAdvance
+Needs extra time to complete tests or other work,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,167,1,LEAF,autoAdvance
+Is slow to get started on things,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,168,1,LEAF,autoAdvance
+Poor organization,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,169,1,LEAF,autoAdvance
+"Room, desk, locker, work area, etc",LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,170,1,LEAF,autoAdvance
+Not very good with puzzles or putting things together,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,171,1,LEAF,autoAdvance
+Drawing and/or handwriting is poor,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,172,1,LEAF,autoAdvance
+Doesn’t pay attention to visual details in the environment,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,173,1,LEAF,autoAdvance
+Doesn’t plan ahead,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,174,1,LEAF,autoAdvance
+Doesn’t learn from punishment or other past experiences,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,175,1,LEAF,autoAdvance
+Has trouble with long assignments or multistep directions,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,176,1,LEAF,autoAdvance
+Loses track of step-by-step directions,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,177,1,LEAF,autoAdvance
+Doesn’t complete tasks in proper order; Haphazard in approaching problems,LEAF,"0=Never (Not a problem, Average for age), 1=Sometimes (A little more than average, Not a big problem), 2=Often (Causes problems, Happens almost every day), 3=Very often (Major daily problem)",,178,1,LEAF,autoAdvance

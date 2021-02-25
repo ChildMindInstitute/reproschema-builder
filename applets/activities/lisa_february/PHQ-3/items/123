@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "123",
+    "skos:prefLabel": "123",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": {
+        "en": "Little interest or pleasure in doing things"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Not at all"
+            },
+            {
+                "value": 1,
+                "name": "More than half days"
+            },
+            {
+                "value": 2,
+                "name": "Several days"
+            },
+            {
+                "value": 3,
+                "name": "Nearly every day"
+            }
+        ]
+    }
+}

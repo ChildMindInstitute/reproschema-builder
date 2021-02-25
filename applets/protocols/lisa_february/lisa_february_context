@@ -1,0 +1,42 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_february/",
+        "SCAS": {
+            "@id": "activity_path:SCAS/SCAS_schema",
+            "@type": "@id"
+        },
+        "MFQ-S": {
+            "@id": "activity_path:MFQ-S/MFQ-S_schema",
+            "@type": "@id"
+        },
+        "SNAP": {
+            "@id": "activity_path:SNAP/SNAP_schema",
+            "@type": "@id"
+        },
+        "ARI": {
+            "@id": "activity_path:ARI/ARI_schema",
+            "@type": "@id"
+        },
+        "CAST": {
+            "@id": "activity_path:CAST/CAST_schema",
+            "@type": "@id"
+        },
+        "CIS": {
+            "@id": "activity_path:CIS/CIS_schema",
+            "@type": "@id"
+        },
+        "PHQ-3": {
+            "@id": "activity_path:PHQ-3/PHQ-3_schema",
+            "@type": "@id"
+        },
+        "CLDQ": {
+            "@id": "activity_path:CLDQ/CLDQ_schema",
+            "@type": "@id"
+        },
+        "LEAF": {
+            "@id": "activity_path:LEAF/LEAF_schema",
+            "@type": "@id"
+        }
+    }
+}
