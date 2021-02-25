@@ -38,18 +38,18 @@ My child is scared of going to the doctor or dentist,Spence Children's Anxiety S
 My child is scared of heights (eg,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,37,1,SCAS,autoAdvance
 My child is scared of insects or spiders,Spence Children's Anxiety Scale (SCAS),"0=Never, 1=Sometimes, 2=Often, 3=Always",,38,1,SCAS,autoAdvance
 S/he felt miserable or unhappy,Mood and Feelings Questionnaire - short version (MFQ-S),"0=Never, 1=Sometimes, 2=Often, 3=Always","This form is about how the student might have been feeling or acting recently. For each question, please check how s/he hasbeen feeling or acting in the past two weeks. If a sentence was not true about the student, check NOT TRUE. If a sentence was only sometimes true, check SOMETIMES.If a sentence was true about the student most of the time, check TRUE",39,1,MFQ-S,autoAdvance
-S/he didn’t enjoy anything at all,Mood and Feelings Questionnaire - short version (MFQ-S),,,40,1,MFQ-S,autoAdvance
-S/he felt so tired that s/he just sat around and did nothing,Mood and Feelings Questionnaire - short version (MFQ-S),,,41,1,MFQ-S,autoAdvance
-S/he was very restless,Mood and Feelings Questionnaire - short version (MFQ-S),,,42,1,MFQ-S,autoAdvance
-S/he felt s/he was no good any more,Mood and Feelings Questionnaire - short version (MFQ-S),,,43,1,MFQ-S,autoAdvance
-S/he cried a lot,Mood and Feelings Questionnaire - short version (MFQ-S),,,44,1,MFQ-S,autoAdvance
-S/he found it hard to think properly or concentrate,Mood and Feelings Questionnaire - short version (MFQ-S),,,45,1,MFQ-S,autoAdvance
-S/he hated him/herself,Mood and Feelings Questionnaire - short version (MFQ-S),,,46,1,MFQ-S,autoAdvance
-S/he felt s/he was a bad person,Mood and Feelings Questionnaire - short version (MFQ-S),,,47,1,MFQ-S,autoAdvance
-S/he felt lonely,Mood and Feelings Questionnaire - short version (MFQ-S),,,48,1,MFQ-S,autoAdvance
-S/he thought nobody really loved him/her,Mood and Feelings Questionnaire - short version (MFQ-S),,,49,1,MFQ-S,autoAdvance
-S/he thought s/he could never be as good as other kids,Mood and Feelings Questionnaire - short version (MFQ-S),,,50,1,MFQ-S,autoAdvance
-S/he felt s/he did everything wrong,Mood and Feelings Questionnaire - short version (MFQ-S),,,51,1,MFQ-S,autoAdvance
+S/he didn’t enjoy anything at all,Mood and Feelings Questionnaire - short version (MFQ-S),"0=Never, 1=Sometimes, 2=Often, 3=Always",,40,1,MFQ-S,autoAdvance
+S/he felt so tired that s/he just sat around and did nothing,Mood and Feelings Questionnaire - short version (MFQ-S),"0=Never, 1=Sometimes, 2=Often, 3=Always",,41,1,MFQ-S,autoAdvance
+S/he was very restless,Mood and Feelings Questionnaire - short version (MFQ-S),"0=Never, 1=Sometimes, 2=Often, 3=Always",,42,1,MFQ-S,autoAdvance
+S/he felt s/he was no good any more,Mood and Feelings Questionnaire - short version (MFQ-S),"0=Never, 1=Sometimes, 2=Often, 3=Always",,43,1,MFQ-S,autoAdvance
+S/he cried a lot,Mood and Feelings Questionnaire - short version (MFQ-S),"0=Never, 1=Sometimes, 2=Often, 3=Always",,44,1,MFQ-S,autoAdvance
+S/he found it hard to think properly or concentrate,Mood and Feelings Questionnaire - short version (MFQ-S),"0=Never, 1=Sometimes, 2=Often, 3=Always",,45,1,MFQ-S,autoAdvance
+S/he hated him/herself,Mood and Feelings Questionnaire - short version (MFQ-S),"0=Never, 1=Sometimes, 2=Often, 3=Always",,46,1,MFQ-S,autoAdvance
+S/he felt s/he was a bad person,Mood and Feelings Questionnaire - short version (MFQ-S),"0=Never, 1=Sometimes, 2=Often, 3=Always",,47,1,MFQ-S,autoAdvance
+S/he felt lonely,Mood and Feelings Questionnaire - short version (MFQ-S),"0=Never, 1=Sometimes, 2=Often, 3=Always",,48,1,MFQ-S,autoAdvance
+S/he thought nobody really loved him/her,Mood and Feelings Questionnaire - short version (MFQ-S),"0=Never, 1=Sometimes, 2=Often, 3=Always",,49,1,MFQ-S,autoAdvance
+S/he thought s/he could never be as good as other kids,Mood and Feelings Questionnaire - short version (MFQ-S),"0=Never, 1=Sometimes, 2=Often, 3=Always",,50,1,MFQ-S,autoAdvance
+S/he felt s/he did everything wrong,Mood and Feelings Questionnaire - short version (MFQ-S),"0=Never, 1=Sometimes, 2=Often, 3=Always",,51,1,MFQ-S,autoAdvance
 Often fails to give close attention to details or makes careless mistakes in schoolwork or tasks,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much","For each item, check the column which best describes the student:",52,1,SNAP,autoAdvance
 Often has difficulty sustaining attention in tasks or play activities,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,53,1,SNAP,autoAdvance
 Often does not seem to listen when spoken to directly,"Swanson, Nolan and Pelham Parent Rating Scale (SNAP)","0=Not at all, 1=Just a little, 2=Quite a bit, 3=Very much",,54,1,SNAP,autoAdvance
@@ -107,84 +107,84 @@ Does s/he sometimes lose the listener because of not explaining what s/he is tak
 "Does s/he try to impose routines on him/herself, or on others, in such a way that it causes problems?",Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,106,1,CAST,autoAdvance
 Does s/he often turn conversations to his/her favourite subject rather than following what the other person wants to talk about?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,107,1,CAST,autoAdvance
 Does s/he have odd or unusual phrases?,Childhood Autism Syndrome Test (CAST),"0=Yes, 1=No",,108,1,CAST,autoAdvance
-"In general, how much of a problem do you think your child has with getting into trouble?",Columbia Impairment Scale (CIS),"0=""No Problem"",
-1="""",
-2=""Some Problem"",
-3="""",
-4=""Very Bad Problem"",
-5=""Don't Know/Does Not Apply""","This survey asks questions about how you think your child is doing overall. Please answer the questions on a scale from 0 to 4 with 0 being ""No Problem"" and 4 being ""Very Bad Problem"". For each question, please select only one response.",109,1,CIS,autoAdvance
-"In general, how much of a problem do you think your child has with getting along with his/her mother?",Columbia Impairment Scale (CIS),"0=""No Problem"",
-1="""",
-2=""Some Problem"",
-3="""",
-4=""Very Bad Problem"",
-5=""Don't Know/Does Not Apply""",,110,1,CIS,autoAdvance
-"In general, how much of a problem do you think your child has with getting along with his/her father?",Columbia Impairment Scale (CIS),"0=""No Problem"",
-1="""",
-2=""Some Problem"",
-3="""",
-4=""Very Bad Problem"",
-5=""Don't Know/Does Not Apply""",,111,1,CIS,autoAdvance
-"In general, how much of a problem do you think your child has with feeling unhappy or sad?",Columbia Impairment Scale (CIS),"0=""No Problem"",
-1="""",
-2=""Some Problem"",
-3="""",
-4=""Very Bad Problem"",
-5=""Don't Know/Does Not Apply""",,112,1,CIS,autoAdvance
-How much of a problem would you say your child has with his/her behavior at school (or at his/her job)?,Columbia Impairment Scale (CIS),"0=""No Problem"",
-1="""",
-2=""Some Problem"",
-3="""",
-4=""Very Bad Problem"",
-5=""Don't Know/Does Not Apply""",,113,1,CIS,autoAdvance
-How much of a problem would you say your child has with having fun?,Columbia Impairment Scale (CIS),"0=""No Problem"",
-1="""",
-2=""Some Problem"",
-3="""",
-4=""Very Bad Problem"",
-5=""Don't Know/Does Not Apply""",,114,1,CIS,autoAdvance
-How much of a problem would you say your child has getting along with adults other than your parents?,Columbia Impairment Scale (CIS),"0=""No Problem"",
-1="""",
-2=""Some Problem"",
-3="""",
-4=""Very Bad Problem"",
-5=""Don't Know/Does Not Apply""",,115,1,CIS,autoAdvance
-How much of a problem does your child have with feeling nervous or afraid?,Columbia Impairment Scale (CIS),"0=""No Problem"",
-1="""",
-2=""Some Problem"",
-3="""",
-4=""Very Bad Problem"",
-5=""Don't Know/Does Not Apply""",,116,1,CIS,autoAdvance
-How much of a problem does your child have getting along with brothers/sisters?,Columbia Impairment Scale (CIS),"0=""No Problem"",
-1="""",
-2=""Some Problem"",
-3="""",
-4=""Very Bad Problem"",
-5=""Don't Know/Does Not Apply""",,117,1,CIS,autoAdvance
-How much of a problem does your child have getting along with other kids his/her age?,Columbia Impairment Scale (CIS),"0=""No Problem"",
-1="""",
-2=""Some Problem"",
-3="""",
-4=""Very Bad Problem"",
-5=""Don't Know/Does Not Apply""",,118,1,CIS,autoAdvance
-How much of a problem would you say your child has getting involved in activities like sports or hobbies?,Columbia Impairment Scale (CIS),"0=""No Problem"",
-1="""",
-2=""Some Problem"",
-3="""",
-4=""Very Bad Problem"",
-5=""Don't Know/Does Not Apply""",,119,1,CIS,autoAdvance
-How much of a problem would you say your child has with his/her school work (or doing his/her job)?,Columbia Impairment Scale (CIS),"0=""No Problem"",
-1="""",
-2=""Some Problem"",
-3="""",
-4=""Very Bad Problem"",
-5=""Don't Know/Does Not Apply""",,120,1,CIS,autoAdvance
-How much of a problem would you say your child has with his/her behavior at home?,Columbia Impairment Scale (CIS),"0=""No Problem"",
-1="""",
-2=""Some Problem"",
-3="""",
-4=""Very Bad Problem"",
-5=""Don't Know/Does Not Apply""",,121,1,CIS,autoAdvance
+"In general, how much of a problem do you think your child has with getting into trouble?",Columbia Impairment Scale (CIS),"0=No Problem,
+1=,
+2=Some Problem,
+3=,
+4=Very Bad Problem,
+5=Don't Know/Does Not Apply","This survey asks questions about how you think your child is doing overall. Please answer the questions on a scale from 0 to 4 with 0 being ""No Problem"" and 4 being ""Very Bad Problem"". For each question, please select only one response.",109,1,CIS,autoAdvance
+"In general, how much of a problem do you think your child has with getting along with his/her mother?",Columbia Impairment Scale (CIS),"0=No Problem,
+1=,
+2=Some Problem,
+3=,
+4=Very Bad Problem,
+5=Don't Know/Does Not Apply",,110,1,CIS,autoAdvance
+"In general, how much of a problem do you think your child has with getting along with his/her father?",Columbia Impairment Scale (CIS),"0=No Problem,
+1=,
+2=Some Problem,
+3=,
+4=Very Bad Problem,
+5=Don't Know/Does Not Apply",,111,1,CIS,autoAdvance
+"In general, how much of a problem do you think your child has with feeling unhappy or sad?",Columbia Impairment Scale (CIS),"0=No Problem,
+1=,
+2=Some Problem,
+3=,
+4=Very Bad Problem,
+5=Don't Know/Does Not Apply",,112,1,CIS,autoAdvance
+How much of a problem would you say your child has with his/her behavior at school (or at his/her job)?,Columbia Impairment Scale (CIS),"0=No Problem,
+1=,
+2=Some Problem,
+3=,
+4=Very Bad Problem,
+5=Don't Know/Does Not Apply",,113,1,CIS,autoAdvance
+How much of a problem would you say your child has with having fun?,Columbia Impairment Scale (CIS),"0=No Problem,
+1=,
+2=Some Problem,
+3=,
+4=Very Bad Problem,
+5=Don't Know/Does Not Apply",,114,1,CIS,autoAdvance
+How much of a problem would you say your child has getting along with adults other than your parents?,Columbia Impairment Scale (CIS),"0=No Problem,
+1=,
+2=Some Problem,
+3=,
+4=Very Bad Problem,
+5=Don't Know/Does Not Apply",,115,1,CIS,autoAdvance
+How much of a problem does your child have with feeling nervous or afraid?,Columbia Impairment Scale (CIS),"0=No Problem,
+1=,
+2=Some Problem,
+3=,
+4=Very Bad Problem,
+5=Don't Know/Does Not Apply",,116,1,CIS,autoAdvance
+How much of a problem does your child have getting along with brothers/sisters?,Columbia Impairment Scale (CIS),"0=No Problem,
+1=,
+2=Some Problem,
+3=,
+4=Very Bad Problem,
+5=Don't Know/Does Not Apply",,117,1,CIS,autoAdvance
+How much of a problem does your child have getting along with other kids his/her age?,Columbia Impairment Scale (CIS),"0=No Problem,
+1=,
+2=Some Problem,
+3=,
+4=Very Bad Problem,
+5=Don't Know/Does Not Apply",,118,1,CIS,autoAdvance
+How much of a problem would you say your child has getting involved in activities like sports or hobbies?,Columbia Impairment Scale (CIS),"0=No Problem,
+1=,
+2=Some Problem,
+3=,
+4=Very Bad Problem,
+5=Don't Know/Does Not Apply",,119,1,CIS,autoAdvance
+How much of a problem would you say your child has with his/her school work (or doing his/her job)?,Columbia Impairment Scale (CIS),"0=No Problem,
+1=,
+2=Some Problem,
+3=,
+4=Very Bad Problem,
+5=Don't Know/Does Not Apply",,120,1,CIS,autoAdvance
+How much of a problem would you say your child has with his/her behavior at home?,Columbia Impairment Scale (CIS),"0=No Problem,
+1=,
+2=Some Problem,
+3=,
+4=Very Bad Problem,
+5=Don't Know/Does Not Apply",,121,1,CIS,autoAdvance
 Thoughts that he/she would be better of dead or of hurting him/herself in some way,PHQ-3,"0=Not at all, 1=More than half days, 2=Several days, 3=Nearly every day",,122,1,PHQ-3,autoAdvance
 Little interest or pleasure in doing things,PHQ-3,"0=Not at all, 1=More than half days, 2=Several days, 3=Nearly every day",,123,1,PHQ-3,autoAdvance
 "Feeling down, depressed or hopeless",PHQ-3,"0=Not at all, 1=More than half days, 2=Several days, 3=Nearly every day",,124,1,PHQ-3,autoAdvance

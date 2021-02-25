@@ -20,27 +20,27 @@
         "choices": [
             {
                 "value": 0,
-                "name": "\"No Problem\""
+                "name": "No Problem"
             },
             {
                 "value": 1,
-                "name": "\"\""
+                "name": ""
             },
             {
                 "value": 2,
-                "name": "\"Some Problem\""
+                "name": "Some Problem"
             },
             {
                 "value": 3,
-                "name": "\"\""
+                "name": ""
             },
             {
                 "value": 4,
-                "name": "\"Very Bad Problem\""
+                "name": "Very Bad Problem"
             },
             {
                 "value": 5,
-                "name": "\"Don't Know/Does Not Apply\""
+                "name": "Don't Know/Does Not Apply"
             }
         ]
     }

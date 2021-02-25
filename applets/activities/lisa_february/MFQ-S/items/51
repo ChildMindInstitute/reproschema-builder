@@ -15,5 +15,25 @@
     },
     "question": {
         "en": "S/he felt s/he did everything wrong"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Never"
+            },
+            {
+                "value": 1,
+                "name": "Sometimes"
+            },
+            {
+                "value": 2,
+                "name": "Often"
+            },
+            {
+                "value": 3,
+                "name": "Always"
+            }
+        ]
     }
 }
