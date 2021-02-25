@@ -1,0 +1,19 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2",
+    "skos:prefLabel": "2",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "markdown-message",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": {
+        "en": "I will ask you to perform different actions with your right hand. Please try to act naturally as you perform each of the actions. We'll start by calibrating the devices on your wrist."
+    }
+}

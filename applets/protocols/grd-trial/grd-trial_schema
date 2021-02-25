@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/protocols/grd-trial/grd-trial_context"
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "grd-trial_schema",
+    "skos:prefLabel": "grd-trial",
+    "schema:description": "Description for your protocol",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "landingPage": "https://github.com/charlie42/reproschema-builder",
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "grd",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/grd-trial/grd/grd_schema",
+                "isVis": true
+            }
+        ],
+        "order": [
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/grd-trial/grd/grd_schema"
+        ],
+        "shuffle": false
+    }
+}

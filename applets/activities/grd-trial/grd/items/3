@@ -1,0 +1,16 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "3",
+    "skos:prefLabel": "3",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": {
+        "en": "Coordinator: TRAINING MODEL #1 sitting upright: Keen ON, GRD OFF; Train the Keen on the following 4 behaviors sitting upright (GRD already pre-trained on these behaviors)."
+    }
+}
