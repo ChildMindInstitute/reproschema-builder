@@ -9,7 +9,7 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "preamble": {
-        "en": "For each item, please mark the box for Not True, Somewhat True or Certainly True.   In the last six months and compared to others of the same age, how well does each of the following statements describe the behavior/feelings of the student? Please try to answer all questions. "
+        "en": "For each item, please mark the box for Not True, Somewhat True or Certainly True. \nIn the last six months and compared to others of the same age, how well does each of the following statements describe the behavior/feelings of the student? Please try to answer all questions. \n\n6 questions, 3 minutes to complete"
     },
     "ui": {
         "order": [

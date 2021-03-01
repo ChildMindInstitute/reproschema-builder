@@ -9,7 +9,7 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "preamble": {
-        "en": "For each item, check the column which best describes the student:For each item, check the column which best describes the student:For each item, check the column which best describes the student:For each item, check the column which best describes the student:"
+        "en": "For each item, check the column which best describes the student.\n\n18 questions, 7 minutes to complete"
     },
     "ui": {
         "order": [

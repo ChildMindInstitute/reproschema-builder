@@ -9,7 +9,7 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "preamble": {
-        "en": ""
+        "en": "12 questions, 5 minutes to complete"
     },
     "ui": {
         "order": [

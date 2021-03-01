@@ -9,7 +9,7 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "preamble": {
-        "en": "This survey asks questions about how you think your child is doing overall. Please answer the questions on a scale from 0 to 4 with 0 being \"No Problem\" and 4 being \"Very Bad Problem\". For each question, please select only one response."
+        "en": "This survey asks questions about how you think the student is doing overall. Please answer the questions on a scale from 0 to 4 with 0 being \"No Problem\" and 4 being \"Very Bad Problem\". For each question, please select only one response.\n\n13 questions, 5 minutes to complete"
     },
     "ui": {
         "order": [
