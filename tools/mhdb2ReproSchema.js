@@ -437,7 +437,7 @@ function processRow(form, data){
         else if (schemaMap[current_key] === 'choices' && data[current_key] !== '') {
 
             // split string wrt '|' to get each choice
-            let c = data[current_key].split(/, (?=\d)|,\n(?=\d)|,(?=\d)|\n(?=\d)|; (?=\d)/gm);
+            let c = data[current_key].split(/, (?=[-+]?\d)|,\n(?=[-+]?\d)|,(?=[-+]?\d)|\n(?=[-+]?\d)|; (?=[-+]?\d)/gm);
             console.log("REGEXP " + c)
             // split each choice wrt ',' to get name and value
             c.forEach(ch => { // ch = { value, name}
