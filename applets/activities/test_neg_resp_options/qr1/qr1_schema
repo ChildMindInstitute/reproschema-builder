@@ -1,0 +1,42 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_neg_resp_options/qr1/qr1_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr1_schema",
+    "skos:prefLabel": "questionnaire 1",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Questionnaire preamle"
+    },
+    "ui": {
+        "order": [
+            "q1",
+            "q2",
+            "q3"
+        ],
+        "addProperties": [
+            {
+                "variableName": "q1",
+                "isAbout": "q1",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "q2",
+                "isAbout": "q2",
+                "isVis": true,
+                "requiredValue": true
+            },
+            {
+                "variableName": "q3",
+                "isAbout": "q3",
+                "isVis": true,
+                "requiredValue": true
+            }
+        ],
+        "shuffle": false
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/protocols/test_neg_resp_options/test_neg_resp_options_context"
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "test_neg_resp_options_schema",
+    "skos:prefLabel": "test neg resp options",
+    "schema:description": "Description for your protocol",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "landingPage": "https://github.com/charlie42/reproschema-builder",
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "qr1",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_neg_resp_options/qr1/qr1_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "qr2",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_neg_resp_options/qr2/qr2_schema",
+                "isVis": true
+            }
+        ],
+        "order": [
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_neg_resp_options/qr1/qr1_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_neg_resp_options/qr2/qr2_schema"
+        ],
+        "shuffle": false
+    }
+}
