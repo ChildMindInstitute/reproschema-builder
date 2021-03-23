@@ -28,7 +28,7 @@
         ],
         "schema:minValue": 0,
         "schema:maxValue": 2,
-        "requiredValue": "true"
+        "requiredValue": true
     },
     "question": {
         "en": "Slider question"

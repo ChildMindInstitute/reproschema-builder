@@ -27,7 +27,7 @@
                 "variableName": "q5",
                 "isAbout": "q5",
                 "isVis": true,
-                "requiredValue": true
+                "requiredValue": false
             }
         ],
         "shuffle": false

@@ -14,6 +14,6 @@
         "en": "Good job!"
     },
     "responseOptions": {
-        "requiredValue": "true"
+        "requiredValue": true
     }
 }

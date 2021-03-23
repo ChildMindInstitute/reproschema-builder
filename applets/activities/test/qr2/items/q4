@@ -11,8 +11,7 @@
         "inputType": "text"
     },
     "responseOptions": {
-        "valueType": "xsd:string",
-        "requiredValue": "false"
+        "valueType": "xsd:string"
     },
     "question": {
         "en": "Text question"

@@ -28,8 +28,7 @@
                 "value": 2,
                 "name": " '3-4'"
             }
-        ],
-        "requiredValue": "false"
+        ]
     },
     "question": {
         "en": "Multiple choice question"
