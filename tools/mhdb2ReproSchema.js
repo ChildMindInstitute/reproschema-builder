@@ -575,14 +575,13 @@ function processRow(form, data){
         // dropdown and autocomplete??
     });
     const field_name = data['Variable / Field Name'];
-    const isRequired = data['Required Field?'];
+    const isRequired = (data['Required Field?']=== 'true');
 
     // add field to addProperties
     addProperties.push({
         "variableName": field_name, 
         "isAbout": field_name,
         "isVis": isVis, 
-        //:todo configure requiredValue
         "requiredValue": isRequired,
     });
 
