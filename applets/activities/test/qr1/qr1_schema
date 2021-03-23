@@ -22,19 +22,19 @@
                 "variableName": "q1",
                 "isAbout": "q1",
                 "isVis": true,
-                "requiredValue": "true"
+                "requiredValue": true
             },
             {
                 "variableName": "q2",
                 "isAbout": "q2",
                 "isVis": true,
-                "requiredValue": "false"
+                "requiredValue": false
             },
             {
                 "variableName": "q3",
                 "isAbout": "q3",
                 "isVis": true,
-                "requiredValue": "true"
+                "requiredValue": true
             }
         ],
         "shuffle": false

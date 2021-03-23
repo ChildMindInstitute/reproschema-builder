@@ -12,5 +12,8 @@
     },
     "question": {
         "en": "Good job!"
+    },
+    "responseOptions": {
+        "requiredValue": "true"
     }
 }
