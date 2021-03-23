@@ -575,6 +575,7 @@ function processRow(form, data){
         // dropdown and autocomplete??
     });
     const field_name = data['Variable / Field Name'];
+    const isRequired = data['Required Field?'];
 
     // add field to addProperties
     addProperties.push({
@@ -582,7 +583,7 @@ function processRow(form, data){
         "isAbout": field_name,
         "isVis": isVis, 
         //:todo configure requiredValue
-        "requiredValue": true,
+        "requiredValue": isRequired,
     });
 
     // add matrix info to matrixList
@@ -606,7 +607,6 @@ function processRow(form, data){
 
 function createFormSchema(form, formContextUrl) {
     //console.log(27, form, visibilityObj);
-    console.log("!!" + addProperties);
     let jsonLD = {
         "@context": [schemaContextUrl, formContextUrl],
         //"@context": schemaContextUrl,
