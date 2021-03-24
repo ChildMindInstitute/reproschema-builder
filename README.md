@@ -7,9 +7,9 @@ Create protocol from a CSV table:
 
 ### template for CSV 
 
-Variable / Field Name |	Section Header | Form Name  |	Field Type  |	multipleChoice	| Field Label |	Choices, Calculations, OR Slider Labels | minVal |  maxVal |	Branching Logic (Show field only if...) | Form Display Name | Allow | Field Annotation
-|------------| ------------| ------------| ------------| ------------| ------------| ------------| ------------| ------------| ------------|  ------------| ------------|  ------------| 
-|          |            |        |            |               |              |              |          |           |        |        |        |          |     
+Variable / Field Name |	Section Header | Form Name  |	Field Type  |	multipleChoice	| Field Label |	Choices, Calculations, OR Slider Labels | minVal |  maxVal |	Branching Logic (Show field only if...) | Form Display Name | Allow | Field Annotation | Required Field?
+|------------| ------------| ------------| ------------| ------------| ------------| ------------| ------------| ------------| ------------|  ------------| ------------|  ------------|  ------------| 
+|          |            |        |            |               |              |              |          |           |        |        |        |          |          |     
 
 + **Variable / Field Name:** The id for the survey item (required). <br/>
 + **Section Header:** Optional. Preamble for the survey item (leave blank if you don't want a preamble). <br/>
@@ -29,6 +29,7 @@ Variable / Field Name |	Section Header | Form Name  |	Field Type  |	multipleChoi
 + **Form Display Name** Name of the activity the survey item is a part of <br/>
 + **Allow** Optional. Properties for the `Allow` array of the item, for example `autoAdvance` to auto-advance after choosing a response option (no need to click 'next') <br/>
 + **Field Annotation** Optional. Field description <br/>
++ **Required Field** Optional. Is the field required? 1 or 0 <br/>
 
 
 ### Usage: 
