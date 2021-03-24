@@ -27,7 +27,7 @@ Variable / Field Name |	Section Header | Form Name  |	Field Type  |	multipleChoi
 + **minVal** Used for slider items, the text to display for min value of slider bar. Leave blank for other items types.  <br/>
 + **Branching Logic (Show field only if...):** (NOT TESTED) Optional. For conditional logic. For example, if `question2` only shows when `question1` has value 1, fill this column with `[question1]=1` for the row of `question2`. If the question has no conditional logic, leave this column blank. <br/>
 + **Form Display Name** Name of the activity the survey item is a part of <br/>
-+ **Allow** Optional. Properties for the `Allow` array of the item, for example `autoAdvance` to auto-advance after choosing a response option (no need to click 'next') <br/>
++ **Allow** Optional. Properties for the `Allow` array of the item, for example `autoAdvance` to auto-advance after choosing a response option (no need to click 'next'). Examples in input/test-repro-script.csv <br/>
 + **Field Annotation** Optional. Field description <br/>
 + **Required Field** Optional. Is the field required? 1 or 0 <br/>
 
