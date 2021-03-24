@@ -419,6 +419,21 @@ function processRow(form, data){
                 rowData['responseOptions'] = rspObj;
             }
         }
+        // parse requiredValue
+        else if (schemaMap[current_key] === 'requiredValue' && data[current_key] !== '') {
+
+            // split string wrt '|' to get each choice
+            let requiredValueVal = (data[current_key]) === '1';
+            
+            // insert 'multiplechoices' key inside responseOptions of the item
+            if (rowData.hasOwnProperty('responseOptions')) {
+                rowData.responseOptions[schemaMap[current_key]] = requiredValueVal;
+            }
+            else {
+                rspObj[schemaMap[current_key]] = requiredValueVal;
+                rowData['responseOptions'] = rspObj;
+            }
+        }
         /*
         //parse @type
         else if (schemaMap[current_key] === '@type') {
@@ -479,11 +494,11 @@ function processRow(form, data){
         }
         // check all other response elements to be nested under 'responseOptions' key
         else if (responseList.indexOf(schemaMap[current_key]) > -1) {
-            if (schemaMap[current_key] === 'requiredValue' && data[current_key]) {
-                if (data[current_key] === 'y') {
-                    data[current_key] = true
-                }
-            }
+            //if (schemaMap[current_key] === 'requiredValue' && data[current_key]) {
+            //    if (data[current_key] === 'y') {
+            //        data[current_key] = true
+            //    }
+            //}
             if (data[current_key]) { // if value exists in the column then write it to schema
                 if (rowData.hasOwnProperty('responseOptions')) {
                     rowData.responseOptions[schemaMap[current_key]] = data[current_key];
