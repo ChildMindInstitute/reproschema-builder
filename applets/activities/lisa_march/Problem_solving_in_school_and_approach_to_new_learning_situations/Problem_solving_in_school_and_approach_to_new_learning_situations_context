@@ -1,0 +1,90 @@
+{
+    "@context": {
+        "335": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:335",
+            "@type": "@id"
+        },
+        "336": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:336",
+            "@type": "@id"
+        },
+        "337": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:337",
+            "@type": "@id"
+        },
+        "338": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:338",
+            "@type": "@id"
+        },
+        "339": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:339",
+            "@type": "@id"
+        },
+        "340": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:340",
+            "@type": "@id"
+        },
+        "341": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:341",
+            "@type": "@id"
+        },
+        "342": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:342",
+            "@type": "@id"
+        },
+        "343": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:343",
+            "@type": "@id"
+        },
+        "344": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:344",
+            "@type": "@id"
+        },
+        "345": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:345",
+            "@type": "@id"
+        },
+        "346": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:346",
+            "@type": "@id"
+        },
+        "347": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:347",
+            "@type": "@id"
+        },
+        "348": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:348",
+            "@type": "@id"
+        },
+        "349": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:349",
+            "@type": "@id"
+        },
+        "350": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:350",
+            "@type": "@id"
+        },
+        "351": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:351",
+            "@type": "@id"
+        },
+        "352": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:352",
+            "@type": "@id"
+        },
+        "353": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:353",
+            "@type": "@id"
+        },
+        "354": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:354",
+            "@type": "@id"
+        },
+        "355": {
+            "@id": "Problem_solving_in_school_and_approach_to_new_learning_situations:355",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Problem_solving_in_school_and_approach_to_new_learning_situations": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Problem_solving_in_school_and_approach_to_new_learning_situations/items/"
+    }
+}

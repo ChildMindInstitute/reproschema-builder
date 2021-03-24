@@ -1,0 +1,58 @@
+{
+    "@context": {
+        "322": {
+            "@id": "Learning_new_things_and_applying_knowledge_in_school:322",
+            "@type": "@id"
+        },
+        "323": {
+            "@id": "Learning_new_things_and_applying_knowledge_in_school:323",
+            "@type": "@id"
+        },
+        "324": {
+            "@id": "Learning_new_things_and_applying_knowledge_in_school:324",
+            "@type": "@id"
+        },
+        "325": {
+            "@id": "Learning_new_things_and_applying_knowledge_in_school:325",
+            "@type": "@id"
+        },
+        "326": {
+            "@id": "Learning_new_things_and_applying_knowledge_in_school:326",
+            "@type": "@id"
+        },
+        "327": {
+            "@id": "Learning_new_things_and_applying_knowledge_in_school:327",
+            "@type": "@id"
+        },
+        "328": {
+            "@id": "Learning_new_things_and_applying_knowledge_in_school:328",
+            "@type": "@id"
+        },
+        "329": {
+            "@id": "Learning_new_things_and_applying_knowledge_in_school:329",
+            "@type": "@id"
+        },
+        "330": {
+            "@id": "Learning_new_things_and_applying_knowledge_in_school:330",
+            "@type": "@id"
+        },
+        "331": {
+            "@id": "Learning_new_things_and_applying_knowledge_in_school:331",
+            "@type": "@id"
+        },
+        "332": {
+            "@id": "Learning_new_things_and_applying_knowledge_in_school:332",
+            "@type": "@id"
+        },
+        "333": {
+            "@id": "Learning_new_things_and_applying_knowledge_in_school:333",
+            "@type": "@id"
+        },
+        "334": {
+            "@id": "Learning_new_things_and_applying_knowledge_in_school:334",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Learning_new_things_and_applying_knowledge_in_school": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Learning_new_things_and_applying_knowledge_in_school/items/"
+    }
+}

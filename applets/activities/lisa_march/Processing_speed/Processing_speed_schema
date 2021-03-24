@@ -1,0 +1,96 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Processing_speed/Processing_speed_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Processing_speed_schema",
+    "skos:prefLabel": "Processing speed (LEAF)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {},
+    "ui": {
+        "order": [
+            "98",
+            "99",
+            "100",
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106",
+            "107",
+            "108"
+        ],
+        "addProperties": [
+            {
+                "variableName": "98",
+                "isAbout": "98",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "99",
+                "isAbout": "99",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "100",
+                "isAbout": "100",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "101",
+                "isAbout": "101",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "102",
+                "isAbout": "102",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "103",
+                "isAbout": "103",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "104",
+                "isAbout": "104",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "105",
+                "isAbout": "105",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "106",
+                "isAbout": "106",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "107",
+                "isAbout": "107",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "108",
+                "isAbout": "108",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

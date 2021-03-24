@@ -1,0 +1,154 @@
+{
+    "@context": {
+        "16": {
+            "@id": "SWAN:16",
+            "@type": "@id"
+        },
+        "18": {
+            "@id": "SWAN:18",
+            "@type": "@id"
+        },
+        "19": {
+            "@id": "SWAN:19",
+            "@type": "@id"
+        },
+        "20": {
+            "@id": "SWAN:20",
+            "@type": "@id"
+        },
+        "21": {
+            "@id": "SWAN:21",
+            "@type": "@id"
+        },
+        "22": {
+            "@id": "SWAN:22",
+            "@type": "@id"
+        },
+        "23": {
+            "@id": "SWAN:23",
+            "@type": "@id"
+        },
+        "24": {
+            "@id": "SWAN:24",
+            "@type": "@id"
+        },
+        "25": {
+            "@id": "SWAN:25",
+            "@type": "@id"
+        },
+        "26": {
+            "@id": "SWAN:26",
+            "@type": "@id"
+        },
+        "27": {
+            "@id": "SWAN:27",
+            "@type": "@id"
+        },
+        "28": {
+            "@id": "SWAN:28",
+            "@type": "@id"
+        },
+        "29": {
+            "@id": "SWAN:29",
+            "@type": "@id"
+        },
+        "30": {
+            "@id": "SWAN:30",
+            "@type": "@id"
+        },
+        "31": {
+            "@id": "SWAN:31",
+            "@type": "@id"
+        },
+        "32": {
+            "@id": "SWAN:32",
+            "@type": "@id"
+        },
+        "33": {
+            "@id": "SWAN:33",
+            "@type": "@id"
+        },
+        "34": {
+            "@id": "SWAN:34",
+            "@type": "@id"
+        },
+        "35": {
+            "@id": "SWAN:35",
+            "@type": "@id"
+        },
+        "36": {
+            "@id": "SWAN:36",
+            "@type": "@id"
+        },
+        "37": {
+            "@id": "SWAN:37",
+            "@type": "@id"
+        },
+        "38": {
+            "@id": "SWAN:38",
+            "@type": "@id"
+        },
+        "39": {
+            "@id": "SWAN:39",
+            "@type": "@id"
+        },
+        "40": {
+            "@id": "SWAN:40",
+            "@type": "@id"
+        },
+        "41": {
+            "@id": "SWAN:41",
+            "@type": "@id"
+        },
+        "42": {
+            "@id": "SWAN:42",
+            "@type": "@id"
+        },
+        "43": {
+            "@id": "SWAN:43",
+            "@type": "@id"
+        },
+        "44": {
+            "@id": "SWAN:44",
+            "@type": "@id"
+        },
+        "45": {
+            "@id": "SWAN:45",
+            "@type": "@id"
+        },
+        "46": {
+            "@id": "SWAN:46",
+            "@type": "@id"
+        },
+        "47": {
+            "@id": "SWAN:47",
+            "@type": "@id"
+        },
+        "48": {
+            "@id": "SWAN:48",
+            "@type": "@id"
+        },
+        "49": {
+            "@id": "SWAN:49",
+            "@type": "@id"
+        },
+        "50": {
+            "@id": "SWAN:50",
+            "@type": "@id"
+        },
+        "51": {
+            "@id": "SWAN:51",
+            "@type": "@id"
+        },
+        "52": {
+            "@id": "SWAN:52",
+            "@type": "@id"
+        },
+        "53": {
+            "@id": "SWAN:53",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "SWAN": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/SWAN/items/"
+    }
+}

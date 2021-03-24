@@ -1,0 +1,110 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Learning_new_things_and_applying_knowledge_in_school/Learning_new_things_and_applying_knowledge_in_school_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Learning_new_things_and_applying_knowledge_in_school_schema",
+    "skos:prefLabel": "Learning new things and applying knowledge in school (5-15)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {},
+    "ui": {
+        "order": [
+            "322",
+            "323",
+            "324",
+            "325",
+            "326",
+            "327",
+            "328",
+            "329",
+            "330",
+            "331",
+            "332",
+            "333",
+            "334"
+        ],
+        "addProperties": [
+            {
+                "variableName": "322",
+                "isAbout": "322",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "323",
+                "isAbout": "323",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "324",
+                "isAbout": "324",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "325",
+                "isAbout": "325",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "326",
+                "isAbout": "326",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "327",
+                "isAbout": "327",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "328",
+                "isAbout": "328",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "329",
+                "isAbout": "329",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "330",
+                "isAbout": "330",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "331",
+                "isAbout": "331",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "332",
+                "isAbout": "332",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "333",
+                "isAbout": "333",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "334",
+                "isAbout": "334",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

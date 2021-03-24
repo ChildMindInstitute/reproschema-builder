@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Planning_and_organizing/Planning_and_organizing_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Planning_and_organizing_schema",
+    "skos:prefLabel": "Planning and organizing (5-15)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {},
+    "ui": {
+        "order": [
+            "260",
+            "261",
+            "262",
+            "263",
+            "264",
+            "265",
+            "266"
+        ],
+        "addProperties": [
+            {
+                "variableName": "260",
+                "isAbout": "260",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "261",
+                "isAbout": "261",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "262",
+                "isAbout": "262",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "263",
+                "isAbout": "263",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "264",
+                "isAbout": "264",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "265",
+                "isAbout": "265",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "266",
+                "isAbout": "266",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

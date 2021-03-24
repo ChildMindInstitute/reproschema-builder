@@ -1,0 +1,96 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Writing/Writing_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Writing_schema",
+    "skos:prefLabel": "Writing (LEAF)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {},
+    "ui": {
+        "order": [
+            "87",
+            "88",
+            "89",
+            "90",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97"
+        ],
+        "addProperties": [
+            {
+                "variableName": "87",
+                "isAbout": "87",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "88",
+                "isAbout": "88",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "89",
+                "isAbout": "89",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "90",
+                "isAbout": "90",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "91",
+                "isAbout": "91",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "92",
+                "isAbout": "92",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "93",
+                "isAbout": "93",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "94",
+                "isAbout": "94",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "95",
+                "isAbout": "95",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "96",
+                "isAbout": "96",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "97",
+                "isAbout": "97",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

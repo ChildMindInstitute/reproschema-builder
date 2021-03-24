@@ -1,0 +1,138 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Repetitive_behaviours/Repetitive_behaviours_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Repetitive_behaviours_schema",
+    "skos:prefLabel": "Repetitive behaviours (5-15)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {},
+    "ui": {
+        "order": [
+            "243",
+            "244",
+            "245",
+            "246",
+            "247",
+            "248",
+            "249",
+            "250",
+            "251",
+            "252",
+            "253",
+            "254",
+            "255",
+            "256",
+            "257",
+            "258",
+            "259"
+        ],
+        "addProperties": [
+            {
+                "variableName": "243",
+                "isAbout": "243",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "244",
+                "isAbout": "244",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "245",
+                "isAbout": "245",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "246",
+                "isAbout": "246",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "247",
+                "isAbout": "247",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "248",
+                "isAbout": "248",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "249",
+                "isAbout": "249",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "250",
+                "isAbout": "250",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "251",
+                "isAbout": "251",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "252",
+                "isAbout": "252",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "253",
+                "isAbout": "253",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "254",
+                "isAbout": "254",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "255",
+                "isAbout": "255",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "256",
+                "isAbout": "256",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "257",
+                "isAbout": "257",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "258",
+                "isAbout": "258",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "259",
+                "isAbout": "259",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

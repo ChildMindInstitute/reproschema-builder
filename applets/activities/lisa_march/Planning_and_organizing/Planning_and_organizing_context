@@ -1,0 +1,34 @@
+{
+    "@context": {
+        "260": {
+            "@id": "Planning_and_organizing:260",
+            "@type": "@id"
+        },
+        "261": {
+            "@id": "Planning_and_organizing:261",
+            "@type": "@id"
+        },
+        "262": {
+            "@id": "Planning_and_organizing:262",
+            "@type": "@id"
+        },
+        "263": {
+            "@id": "Planning_and_organizing:263",
+            "@type": "@id"
+        },
+        "264": {
+            "@id": "Planning_and_organizing:264",
+            "@type": "@id"
+        },
+        "265": {
+            "@id": "Planning_and_organizing:265",
+            "@type": "@id"
+        },
+        "266": {
+            "@id": "Planning_and_organizing:266",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Planning_and_organizing": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Planning_and_organizing/items/"
+    }
+}

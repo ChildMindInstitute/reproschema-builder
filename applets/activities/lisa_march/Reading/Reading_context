@@ -1,0 +1,50 @@
+{
+    "@context": {
+        "76": {
+            "@id": "Reading:76",
+            "@type": "@id"
+        },
+        "77": {
+            "@id": "Reading:77",
+            "@type": "@id"
+        },
+        "78": {
+            "@id": "Reading:78",
+            "@type": "@id"
+        },
+        "79": {
+            "@id": "Reading:79",
+            "@type": "@id"
+        },
+        "80": {
+            "@id": "Reading:80",
+            "@type": "@id"
+        },
+        "81": {
+            "@id": "Reading:81",
+            "@type": "@id"
+        },
+        "82": {
+            "@id": "Reading:82",
+            "@type": "@id"
+        },
+        "83": {
+            "@id": "Reading:83",
+            "@type": "@id"
+        },
+        "84": {
+            "@id": "Reading:84",
+            "@type": "@id"
+        },
+        "85": {
+            "@id": "Reading:85",
+            "@type": "@id"
+        },
+        "86": {
+            "@id": "Reading:86",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Reading": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Reading/items/"
+    }
+}

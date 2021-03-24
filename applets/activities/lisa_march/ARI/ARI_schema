@@ -1,0 +1,124 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/ARI/ARI_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "ARI_schema",
+    "skos:prefLabel": "Irritability (ARI)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {},
+    "ui": {
+        "order": [
+            "420",
+            "421",
+            "422",
+            "423",
+            "424",
+            "425",
+            "426",
+            "427",
+            "428",
+            "429",
+            "430",
+            "431",
+            "432",
+            "433",
+            "434"
+        ],
+        "addProperties": [
+            {
+                "variableName": "420",
+                "isAbout": "420",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "421",
+                "isAbout": "421",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "422",
+                "isAbout": "422",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "423",
+                "isAbout": "423",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "424",
+                "isAbout": "424",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "425",
+                "isAbout": "425",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "426",
+                "isAbout": "426",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "427",
+                "isAbout": "427",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "428",
+                "isAbout": "428",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "429",
+                "isAbout": "429",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "430",
+                "isAbout": "430",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "431",
+                "isAbout": "431",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "432",
+                "isAbout": "432",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "433",
+                "isAbout": "433",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "434",
+                "isAbout": "434",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

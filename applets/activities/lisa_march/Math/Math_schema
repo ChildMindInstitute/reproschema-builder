@@ -1,0 +1,96 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Math/Math_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Math_schema",
+    "skos:prefLabel": "Math (LEAF)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {},
+    "ui": {
+        "order": [
+            "65",
+            "66",
+            "67",
+            "68",
+            "69",
+            "70",
+            "71",
+            "72",
+            "73",
+            "74",
+            "75"
+        ],
+        "addProperties": [
+            {
+                "variableName": "65",
+                "isAbout": "65",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "66",
+                "isAbout": "66",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "67",
+                "isAbout": "67",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "68",
+                "isAbout": "68",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "69",
+                "isAbout": "69",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "70",
+                "isAbout": "70",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "71",
+                "isAbout": "71",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "72",
+                "isAbout": "72",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "73",
+                "isAbout": "73",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "74",
+                "isAbout": "74",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "75",
+                "isAbout": "75",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

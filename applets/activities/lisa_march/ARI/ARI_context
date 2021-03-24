@@ -1,0 +1,66 @@
+{
+    "@context": {
+        "420": {
+            "@id": "ARI:420",
+            "@type": "@id"
+        },
+        "421": {
+            "@id": "ARI:421",
+            "@type": "@id"
+        },
+        "422": {
+            "@id": "ARI:422",
+            "@type": "@id"
+        },
+        "423": {
+            "@id": "ARI:423",
+            "@type": "@id"
+        },
+        "424": {
+            "@id": "ARI:424",
+            "@type": "@id"
+        },
+        "425": {
+            "@id": "ARI:425",
+            "@type": "@id"
+        },
+        "426": {
+            "@id": "ARI:426",
+            "@type": "@id"
+        },
+        "427": {
+            "@id": "ARI:427",
+            "@type": "@id"
+        },
+        "428": {
+            "@id": "ARI:428",
+            "@type": "@id"
+        },
+        "429": {
+            "@id": "ARI:429",
+            "@type": "@id"
+        },
+        "430": {
+            "@id": "ARI:430",
+            "@type": "@id"
+        },
+        "431": {
+            "@id": "ARI:431",
+            "@type": "@id"
+        },
+        "432": {
+            "@id": "ARI:432",
+            "@type": "@id"
+        },
+        "433": {
+            "@id": "ARI:433",
+            "@type": "@id"
+        },
+        "434": {
+            "@id": "ARI:434",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "ARI": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/ARI/items/"
+    }
+}
