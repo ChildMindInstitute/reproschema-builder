@@ -7,13 +7,17 @@
     "skos:prefLabel": "15",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "question": {
-        "en": "Comment"
-    },
     "ui": {
+        "inputType": "text",
         "allow": [
             "autoAdvance",
             "dontKnow"
         ]
+    },
+    "responseOptions": {
+        "valueType": "xsd:string"
+    },
+    "question": {
+        "en": "Comment"
     }
 }

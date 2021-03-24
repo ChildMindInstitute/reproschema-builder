@@ -8,7 +8,9 @@
     "skos:prefLabel": "Irritability (ARI)",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "preamble": {},
+    "preamble": {
+        "en": "For each item, please mark the box for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe the behavior/feelings of the student? Please try to answer all questions. "
+    },
     "ui": {
         "order": [
             "420",

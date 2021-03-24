@@ -8,7 +8,9 @@
     "skos:prefLabel": "Language (5-15)",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "preamble": {},
+    "preamble": {
+        "en": "This questionnaire, for children and adolescents age 5 to 17, contains statements concerning the skills and behaviors of your child/student in various domains of development. Children are individuals. This means that their skills and behaviors vary from one child/student to another, and according to age. The statements in the questionnaire are followed by boxes marked Does not apply – Applies sometimes/to some extent – Applies. Tick the box that contains the statement that you think best corresponds to your student`s functioning in everyday situations, compared to children of their own age. Have in mind the student`s present functioning, i.e. within the last 6 months. To get the most correct picture of your student`s functioning, it is important that you complete the whole questionnaire."
+    },
     "ui": {
         "order": [
             "142",

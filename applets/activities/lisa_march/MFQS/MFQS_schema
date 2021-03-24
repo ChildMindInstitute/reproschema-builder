@@ -8,7 +8,9 @@
     "skos:prefLabel": "Mood (MFQ-S)",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "preamble": {},
+    "preamble": {
+        "en": "This form is about how the student might have been feeling or acting recently. For each question, please check how s/he hasbeen feeling or acting in the past two weeks. If a sentence was not true about the student, check NOT TRUE. If a sentence was only sometimes true, check SOMETIMES.If a sentence was true about the student most of the time, check TRUE"
+    },
     "ui": {
         "order": [
             "393",

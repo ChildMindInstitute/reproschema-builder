@@ -8,7 +8,9 @@
     "skos:prefLabel": "Attention/Activity/Impulsivity (SWAN)",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "preamble": {},
+    "preamble": {
+        "en": "For each item listed below, how does this child compare to other children of the same age? Please select the best rating basedon your observations over the past month.\nCompared to other children, how does this child do the following:"
+    },
     "ui": {
         "order": [
             "16",
