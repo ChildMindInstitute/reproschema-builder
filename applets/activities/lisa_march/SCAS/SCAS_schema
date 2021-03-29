@@ -9,7 +9,7 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "preamble": {
-        "en": "BELOW IS A LIST OF ITEMS THAT DESCRIBE CHILDREN. FOR EACH ITEM PLEASE CHOOSE THE RESPONSE THAT BEST DESCRIBES YOUR CHILD. PLEASE ANSWER ALL THE ITEMS. "
+        "en": "Below is a list of items that describe children. For each item please choose the response that best describes your child. Please answer all the items. "
     },
     "ui": {
         "order": [

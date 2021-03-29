@@ -30,16 +30,16 @@
             "@id": "activity_path:Processing_speed/Processing_speed_schema",
             "@type": "@id"
         },
-        "Novel_problem_solving": {
-            "@id": "activity_path:Novel_problem_solving/Novel_problem_solving_schema",
+        "Learning_new_things": {
+            "@id": "activity_path:Learning_new_things/Learning_new_things_schema",
             "@type": "@id"
         },
         "Visual-Spatial_Organization": {
             "@id": "activity_path:Visual-Spatial_Organization/Visual-Spatial_Organization_schema",
             "@type": "@id"
         },
-        "Sustained_Sequential_Processing": {
-            "@id": "activity_path:Sustained_Sequential_Processing/Sustained_Sequential_Processing_schema",
+        "Planning_and_organization": {
+            "@id": "activity_path:Planning_and_organization/Planning_and_organization_schema",
             "@type": "@id"
         },
         "Language": {
@@ -66,12 +66,12 @@
             "@id": "activity_path:Social_Skills/Social_Skills_schema",
             "@type": "@id"
         },
-        "Learning_new_things_and_applying_knowledge_in_school": {
-            "@id": "activity_path:Learning_new_things_and_applying_knowledge_in_school/Learning_new_things_and_applying_knowledge_in_school_schema",
+        "Learning_I": {
+            "@id": "activity_path:Learning_I/Learning_I_schema",
             "@type": "@id"
         },
-        "Problem_solving_in_school_and_approach_to_new_learning_situations": {
-            "@id": "activity_path:Problem_solving_in_school_and_approach_to_new_learning_situations/Problem_solving_in_school_and_approach_to_new_learning_situations_schema",
+        "Learning_II": {
+            "@id": "activity_path:Learning_II/Learning_II_schema",
             "@type": "@id"
         },
         "SCAS": {
@@ -84,6 +84,10 @@
         },
         "ARI": {
             "@id": "activity_path:ARI/ARI_schema",
+            "@type": "@id"
+        },
+        "Entrylevel": {
+            "@id": "activity_path:Entrylevel/Entrylevel_schema",
             "@type": "@id"
         }
     }

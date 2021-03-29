@@ -48,8 +48,8 @@
                 "isVis": true
             },
             {
-                "variableName": "Novel_problem_solving",
-                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Novel_problem_solving/Novel_problem_solving_schema",
+                "variableName": "Learning_new_things",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Learning_new_things/Learning_new_things_schema",
                 "isVis": true
             },
             {
@@ -58,8 +58,8 @@
                 "isVis": true
             },
             {
-                "variableName": "Sustained_Sequential_Processing",
-                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Sustained_Sequential_Processing/Sustained_Sequential_Processing_schema",
+                "variableName": "Planning_and_organization",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Planning_and_organization/Planning_and_organization_schema",
                 "isVis": true
             },
             {
@@ -93,13 +93,13 @@
                 "isVis": true
             },
             {
-                "variableName": "Learning_new_things_and_applying_knowledge_in_school",
-                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Learning_new_things_and_applying_knowledge_in_school/Learning_new_things_and_applying_knowledge_in_school_schema",
+                "variableName": "Learning_I",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Learning_I/Learning_I_schema",
                 "isVis": true
             },
             {
-                "variableName": "Problem_solving_in_school_and_approach_to_new_learning_situations",
-                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Problem_solving_in_school_and_approach_to_new_learning_situations/Problem_solving_in_school_and_approach_to_new_learning_situations_schema",
+                "variableName": "Learning_II",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Learning_II/Learning_II_schema",
                 "isVis": true
             },
             {
@@ -116,6 +116,11 @@
                 "variableName": "ARI",
                 "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/ARI/ARI_schema",
                 "isVis": true
+            },
+            {
+                "variableName": "Entrylevel",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Entrylevel/Entrylevel_schema",
+                "isVis": true
             }
         ],
         "order": [
@@ -126,20 +131,21 @@
             "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Reading/Reading_schema",
             "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Writing/Writing_schema",
             "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Processing_speed/Processing_speed_schema",
-            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Novel_problem_solving/Novel_problem_solving_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Learning_new_things/Learning_new_things_schema",
             "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Visual-Spatial_Organization/Visual-Spatial_Organization_schema",
-            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Sustained_Sequential_Processing/Sustained_Sequential_Processing_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Planning_and_organization/Planning_and_organization_schema",
             "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Language/Language_schema",
             "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Motor_Skills/Motor_Skills_schema",
             "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Memory/Memory_schema",
             "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Repetitive_behaviours/Repetitive_behaviours_schema",
             "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Planning_and_organizing/Planning_and_organizing_schema",
             "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Social_Skills/Social_Skills_schema",
-            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Learning_new_things_and_applying_knowledge_in_school/Learning_new_things_and_applying_knowledge_in_school_schema",
-            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Problem_solving_in_school_and_approach_to_new_learning_situations/Problem_solving_in_school_and_approach_to_new_learning_situations_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Learning_I/Learning_I_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Learning_II/Learning_II_schema",
             "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/SCAS/SCAS_schema",
             "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/MFQS/MFQS_schema",
-            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/ARI/ARI_schema"
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/ARI/ARI_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Entrylevel/Entrylevel_schema"
         ],
         "shuffle": false
     }
