@@ -396,7 +396,7 @@ function processRow(form, data){
         }
         //parse minVal
         else if (schemaMap[current_key] === 'schema:minValue' && data[current_key] !== '') {
-            let minValVal = parseInt(data[current_key]);
+            let minValVal = data[current_key];
             
             // insert 'multiplechoices' key inside responseOptions of the item
             if (rowData.hasOwnProperty('responseOptions')) {
@@ -409,7 +409,7 @@ function processRow(form, data){
         }
         //parse maxVal
         else if (schemaMap[current_key] === 'schema:maxValue' && data[current_key] !== '') {
-            let maxValVal = parseInt(data[current_key]);
+            let maxValVal = data[current_key];
             // insert 'multiplechoices' key inside responseOptions of the item
             if (rowData.hasOwnProperty('responseOptions')) {
                 rowData.responseOptions[schemaMap[current_key]] = maxValVal;
