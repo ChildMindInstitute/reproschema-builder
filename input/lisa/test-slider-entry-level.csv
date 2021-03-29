@@ -1,2 +1,45 @@
 questionnaire domain,Field Label,"Choices, Calculations, OR Slider Labels",Section Header,Form Display Name,Form Name,Field Type,Variable / Field Name,Allow,Questionnaire,Form Name with spaces,Text Validation Min,Text Validation Max
-Entry-level,Cooperativeness,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=10",,Entry-level,Entrylevel,3,435,autoAdvance,Entry-level,Entry-level,always cooperative,never cooperative
+Entry-level,Cooperativeness,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=10",,Entry-level,Entrylevel,3,435,,Entry-level,Entry-level,always cooperative,never cooperative
+Entry-level,Following rules,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=11",,Entry-level,Entrylevel,3,436,,Entry-level,Entry-level,always follows rules,never follows rules
+Entry-level,Risk taking,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=12",,Entry-level,Entrylevel,3,437,,Entry-level,Entry-level,never takes risks,highly risky behavior
+Entry-level,Activity,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=13",,Entry-level,Entrylevel,3,438,,Entry-level,Entry-level,sedentary,always moving
+Entry-level,Impulsivity,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=14",,Entry-level,Entrylevel,3,439,,Entry-level,Entry-level,very controlled,very impulsive
+Entry-level,Attention,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=15",,Entry-level,Entrylevel,3,440,,Entry-level,Entry-level,very focused,very distracted
+Entry-level,Planning and organization,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=16",,Entry-level,Entrylevel,3,441,,Entry-level,Entry-level,very organized,very disorganized
+Entry-level,Habits and repetitive behaviours,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=17",,Entry-level,Entrylevel,3,442,,Entry-level,Entry-level,no repetitive behaviors/routines,highly repetitive behaviours/routines
+Entry-level,Irritability,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=18",,Entry-level,Entrylevel,3,443,,Entry-level,Entry-level,never irritated,easily irritated
+Entry-level,Mood,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=19",,Entry-level,Entrylevel,3,444,,Entry-level,Entry-level,euphoric,sad
+Entry-level,Emotional stability,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=20",,Entry-level,Entrylevel,3,445,,Entry-level,Entry-level,apathy,easily excitable
+Entry-level,Fears/Worries,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=21",,Entry-level,Entrylevel,3,446,,Entry-level,Entry-level,never worries,persistently worries
+Entry-level,Diet,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=22",,Entry-level,Entrylevel,3,447,,Entry-level,Entry-level,rarely hungry,always hungry
+Entry-level,Sleep,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=23",,Entry-level,Entrylevel,3,448,,Entry-level,Entry-level,never sleepy,always sleepy
+Entry-level,Social behaviour,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=24",,Entry-level,Entrylevel,3,449,,Entry-level,Entry-level,loner,always socially engaged
+Entry-level,Social skills,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=25",,Entry-level,Entrylevel,3,450,,Entry-level,Entry-level,congenial,socially indifferent
+Entry-level,Substance Abuse,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=26",,Entry-level,Entrylevel,3,451,,Entry-level,Entry-level,never uses substances,habitual user
+Entry-level,Empathy,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=27",,Entry-level,Entrylevel,3,452,,Entry-level,Entry-level,highly reactive to feelings/emotions,insensitive to feelings/emotions
+Entry-level,Stress level,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=28",,Entry-level,Entrylevel,3,453,,Entry-level,Entry-level,never stressed,highly stressed
+Entry-level,Reading,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=29",,Entry-level,Entrylevel,3,454,,Entry-level,Entry-level,unable to read,skillful at reading
+Entry-level,Writing,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=30",,Entry-level,Entrylevel,3,455,,Entry-level,Entry-level,unable to write,skillful at writing
+Entry-level,Math,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=31",,Entry-level,Entrylevel,3,456,,Entry-level,Entry-level,unable to do math,skillful at math
+Entry-level,Language,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=32",,Entry-level,Entrylevel,3,457,,Entry-level,Entry-level,no communicative skills,skillful at language
+Entry-level,Speech quantity,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=33",,Entry-level,Entrylevel,3,458,,Entry-level,Entry-level,no spoken words,never stops talking
+Entry-level,Speech articulation,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=34",,Entry-level,Entrylevel,3,459,,Entry-level,Entry-level,always understandable,never understandable
+Entry-level,Memory,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=35",,Entry-level,Entrylevel,3,460,,Entry-level,Entry-level,always remembers accurately,always forgetful
+Entry-level,Processing speed,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=36",,Entry-level,Entrylevel,3,461,,Entry-level,Entry-level,very slow,very fast
+Entry-level,Understanding concepts,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=37",,Entry-level,Entrylevel,3,462,,Entry-level,Entry-level,poor comprehension/application,excellent grasp/critical thinking
+Entry-level,Learning new things,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=37",,Entry-level,Entrylevel,3,463,,Entry-level,Entry-level,very difficult/challenging,highly capable/interested/curious
+Entry-level,Learning,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=38",,Entry-level,Entrylevel,3,464,,Entry-level,Entry-level,unable to learn,skillful at learning
+Entry-level,Academic performance/aptitude,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=39",,Entry-level,Entrylevel,3,465,,Entry-level,Entry-level,low,high
+Entry-level,Temperament,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=40",,Entry-level,Entrylevel,3,466,,Entry-level,Entry-level,easy,difficult
+Entry-level,Confidence,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=41",,Entry-level,Entrylevel,3,467,,Entry-level,Entry-level,very self-confident,no self-confidence
+Entry-level,Creativity,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=42",,Entry-level,Entrylevel,3,468,,Entry-level,Entry-level,unimaginative,highly creative
+Entry-level,Responsibility,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=43",,Entry-level,Entrylevel,3,469,,Entry-level,Entry-level,very responsible,very irresponsible
+Entry-level,Integrity,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=44",,Entry-level,Entrylevel,3,470,,Entry-level,Entry-level,honest,dishonest
+Entry-level,Perseverance,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=45",,Entry-level,Entrylevel,3,471,,Entry-level,Entry-level,always completes tasks well,never completes tasks
+Entry-level,Gross motor skills,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=46",,Entry-level,Entrylevel,3,472,,Entry-level,Entry-level,uncoordinated,highly coordinated
+Entry-level,Fine motor skills,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=47",,Entry-level,Entrylevel,3,473,,Entry-level,Entry-level,uncoordinated,highly coordinated
+Entry-level,Complains of pain,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=48",,Entry-level,Entrylevel,3,474,,Entry-level,Entry-level,no aches and pains,many aches and pains
+Entry-level,Hygiene,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=49",,Entry-level,Entrylevel,3,475,,Entry-level,Entry-level,always clean,rarely clean
+Entry-level,Sexual identity,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=50",,Entry-level,Entrylevel,3,476,,Entry-level,Entry-level,gender conforming,gender non-conforming
+Entry-level,Sexual behavior,"0=0,1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,=9=9,10=51",,Entry-level,Entrylevel,3,477,,Entry-level,Entry-level,asexual,highly sexualized
+Entry-level,Bullying,"0=not involved, 1=bystander, 2=victim, 3=perpetrator, 4=victim - perpetrator",,Entry-level,Entrylevel,1,478,autoAdvance,Entry-level,Entry-level,,

@@ -8,25 +8,54 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "ui": {
-        "inputType": "slider",
-        "allow": [
-            "autoAdvance"
-        ]
+        "inputType": "slider"
     },
     "responseOptions": {
         "valueType": "slider",
         "choices": [
             {
                 "value": 0,
-                "name": "never uses substances"
+                "name": "0"
+            },
+            {
+                "value": 1,
+                "name": "1"
+            },
+            {
+                "value": 2,
+                "name": "2"
+            },
+            {
+                "value": 3,
+                "name": "3"
+            },
+            {
+                "value": 4,
+                "name": "4"
+            },
+            {
+                "value": 5,
+                "name": "5"
+            },
+            {
+                "value": 6,
+                "name": "6"
+            },
+            {
+                "value": 7,
+                "name": "7"
+            },
+            {
+                "value": 8,
+                "name": "8,"
             },
             {
                 "value": 10,
-                "name": "habitual user"
+                "name": "26"
             }
         ],
-        "schema:minValue": 0,
-        "schema:maxValue": 10
+        "schema:minValue": "never uses substances",
+        "schema:maxValue": "habitual user"
     },
     "question": {
         "en": "Substance Abuse"
