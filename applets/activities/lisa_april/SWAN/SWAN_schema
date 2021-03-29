@@ -1,0 +1,161 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/SWAN/SWAN_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "SWAN_schema",
+    "skos:prefLabel": "Attention/Activity/Impulsivity (SWAN)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "For each item listed below, how does this child compare to other children of the same age? Please select the best rating basedon your observations over the past month.\nCompared to other children, how does this child do the following:"
+    },
+    "ui": {
+        "order": [
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29"
+        ],
+        "addProperties": [
+            {
+                "variableName": "10",
+                "isAbout": "10",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "11",
+                "isAbout": "11",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "12",
+                "isAbout": "12",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "13",
+                "isAbout": "13",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "14",
+                "isAbout": "14",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "15",
+                "isAbout": "15",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "16",
+                "isAbout": "16",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "17",
+                "isAbout": "17",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "18",
+                "isAbout": "18",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "19",
+                "isAbout": "19",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "20",
+                "isAbout": "20",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "21",
+                "isAbout": "21",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "22",
+                "isAbout": "22",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "23",
+                "isAbout": "23",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "24",
+                "isAbout": "24",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "25",
+                "isAbout": "25",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "26",
+                "isAbout": "26",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "27",
+                "isAbout": "27",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "28",
+                "isAbout": "28",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "29",
+                "isAbout": "29",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

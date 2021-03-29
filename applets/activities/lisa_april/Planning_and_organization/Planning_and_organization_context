@@ -1,0 +1,34 @@
+{
+    "@context": {
+        "79": {
+            "@id": "Planning_and_organization:79",
+            "@type": "@id"
+        },
+        "80": {
+            "@id": "Planning_and_organization:80",
+            "@type": "@id"
+        },
+        "81": {
+            "@id": "Planning_and_organization:81",
+            "@type": "@id"
+        },
+        "82": {
+            "@id": "Planning_and_organization:82",
+            "@type": "@id"
+        },
+        "83": {
+            "@id": "Planning_and_organization:83",
+            "@type": "@id"
+        },
+        "84": {
+            "@id": "Planning_and_organization:84",
+            "@type": "@id"
+        },
+        "85": {
+            "@id": "Planning_and_organization:85",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Planning_and_organization": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Planning_and_organization/items/"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Learning_new_things/Learning_new_things_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Learning_new_things_schema",
+    "skos:prefLabel": "Learning new things (LEAF)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Please answer the following questions based on this child’s behavior. Please answer all questions (make your best guess if you are uncertain).  "
+    },
+    "ui": {
+        "order": [
+            "65",
+            "66",
+            "67",
+            "68",
+            "69",
+            "70",
+            "71"
+        ],
+        "addProperties": [
+            {
+                "variableName": "65",
+                "isAbout": "65",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "66",
+                "isAbout": "66",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "67",
+                "isAbout": "67",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "68",
+                "isAbout": "68",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "69",
+                "isAbout": "69",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "70",
+                "isAbout": "70",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "71",
+                "isAbout": "71",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

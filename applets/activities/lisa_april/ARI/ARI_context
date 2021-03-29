@@ -1,0 +1,42 @@
+{
+    "@context": {
+        "240": {
+            "@id": "ARI:240",
+            "@type": "@id"
+        },
+        "241": {
+            "@id": "ARI:241",
+            "@type": "@id"
+        },
+        "242": {
+            "@id": "ARI:242",
+            "@type": "@id"
+        },
+        "243": {
+            "@id": "ARI:243",
+            "@type": "@id"
+        },
+        "244": {
+            "@id": "ARI:244",
+            "@type": "@id"
+        },
+        "245": {
+            "@id": "ARI:245",
+            "@type": "@id"
+        },
+        "246": {
+            "@id": "ARI:246",
+            "@type": "@id"
+        },
+        "247": {
+            "@id": "ARI:247",
+            "@type": "@id"
+        },
+        "248": {
+            "@id": "ARI:248",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "ARI": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/ARI/items/"
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Motor_Skills/Motor_Skills_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Motor_Skills_schema",
+    "skos:prefLabel": "Motor skills (5-15)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Choose the statement that you think best corresponds to your student's functioning in everyday situations, compared to children of their own age. Have in mind the student's present functioning, i.e. within the last 6 months. To get the most correct picture of your student's functioning, it is important that you complete the whole questionnaire."
+    },
+    "ui": {
+        "order": [
+            "109",
+            "110",
+            "111",
+            "112",
+            "113",
+            "114",
+            "115",
+            "116",
+            "117",
+            "118",
+            "119",
+            "120",
+            "121",
+            "122",
+            "123",
+            "124",
+            "125",
+            "126",
+            "127"
+        ],
+        "addProperties": [
+            {
+                "variableName": "109",
+                "isAbout": "109",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "110",
+                "isAbout": "110",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "111",
+                "isAbout": "111",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "112",
+                "isAbout": "112",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "113",
+                "isAbout": "113",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "114",
+                "isAbout": "114",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "115",
+                "isAbout": "115",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "116",
+                "isAbout": "116",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "117",
+                "isAbout": "117",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "118",
+                "isAbout": "118",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "119",
+                "isAbout": "119",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "120",
+                "isAbout": "120",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "121",
+                "isAbout": "121",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "122",
+                "isAbout": "122",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "123",
+                "isAbout": "123",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "124",
+                "isAbout": "124",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "125",
+                "isAbout": "125",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "126",
+                "isAbout": "126",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "127",
+                "isAbout": "127",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

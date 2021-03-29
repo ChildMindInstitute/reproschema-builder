@@ -1,0 +1,84 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/PSC17/PSC17_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "PSC17_schema",
+    "skos:prefLabel": "Conduct/Oppositional defiance (PSC-17)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Please mark what best fits the student"
+    },
+    "ui": {
+        "order": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "addProperties": [
+            {
+                "variableName": "1",
+                "isAbout": "1",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "2",
+                "isAbout": "2",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "3",
+                "isAbout": "3",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4",
+                "isAbout": "4",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "5",
+                "isAbout": "5",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "6",
+                "isAbout": "6",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "7",
+                "isAbout": "7",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "8",
+                "isAbout": "8",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "9",
+                "isAbout": "9",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

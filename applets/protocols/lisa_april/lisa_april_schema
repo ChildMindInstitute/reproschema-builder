@@ -1,0 +1,152 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/protocols/lisa_april/lisa_april_context"
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "lisa_april_schema",
+    "skos:prefLabel": "lisa april",
+    "schema:description": "Description for your protocol",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "landingPage": "https://github.com/charlie42/reproschema-builder",
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "PSC17",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/PSC17/PSC17_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "SWAN",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/SWAN/SWAN_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Comprehension_and_Conceptual_Learning",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Comprehension_and_Conceptual_Learning/Comprehension_and_Conceptual_Learning_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Math",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Math/Math_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Reading",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Reading/Reading_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Writing",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Writing/Writing_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Processing_speed",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Processing_speed/Processing_speed_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Learning_new_things",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Learning_new_things/Learning_new_things_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Visual-Spatial_Organization",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Visual-Spatial_Organization/Visual-Spatial_Organization_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Planning_and_organization",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Planning_and_organization/Planning_and_organization_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Language",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Language/Language_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Motor_Skills",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Motor_Skills/Motor_Skills_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Memory",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Memory/Memory_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Repetitive_behaviours",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Repetitive_behaviours/Repetitive_behaviours_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Planning_and_organizing",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Planning_and_organizing/Planning_and_organizing_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Social_Skills",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Social_Skills/Social_Skills_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Learning_I",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Learning_I/Learning_I_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Learning_II",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Learning_II/Learning_II_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "SCAS",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/SCAS/SCAS_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "MFQS",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/MFQS/MFQS_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "ARI",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/ARI/ARI_schema",
+                "isVis": true
+            },
+            {
+                "variableName": "Entrylevel",
+                "isAbout": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Entrylevel/Entrylevel_schema",
+                "isVis": true
+            }
+        ],
+        "order": [
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/PSC17/PSC17_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/SWAN/SWAN_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Comprehension_and_Conceptual_Learning/Comprehension_and_Conceptual_Learning_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Math/Math_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Reading/Reading_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Writing/Writing_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Processing_speed/Processing_speed_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Learning_new_things/Learning_new_things_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Visual-Spatial_Organization/Visual-Spatial_Organization_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Planning_and_organization/Planning_and_organization_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Language/Language_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Motor_Skills/Motor_Skills_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Memory/Memory_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Repetitive_behaviours/Repetitive_behaviours_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Planning_and_organizing/Planning_and_organizing_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Social_Skills/Social_Skills_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Learning_I/Learning_I_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Learning_II/Learning_II_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/SCAS/SCAS_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/MFQS/MFQS_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/ARI/ARI_schema",
+            "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Entrylevel/Entrylevel_schema"
+        ],
+        "shuffle": false
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "@context": {
+        "156": {
+            "@id": "Social_Skills:156",
+            "@type": "@id"
+        },
+        "157": {
+            "@id": "Social_Skills:157",
+            "@type": "@id"
+        },
+        "158": {
+            "@id": "Social_Skills:158",
+            "@type": "@id"
+        },
+        "159": {
+            "@id": "Social_Skills:159",
+            "@type": "@id"
+        },
+        "160": {
+            "@id": "Social_Skills:160",
+            "@type": "@id"
+        },
+        "161": {
+            "@id": "Social_Skills:161",
+            "@type": "@id"
+        },
+        "162": {
+            "@id": "Social_Skills:162",
+            "@type": "@id"
+        },
+        "163": {
+            "@id": "Social_Skills:163",
+            "@type": "@id"
+        },
+        "164": {
+            "@id": "Social_Skills:164",
+            "@type": "@id"
+        },
+        "165": {
+            "@id": "Social_Skills:165",
+            "@type": "@id"
+        },
+        "166": {
+            "@id": "Social_Skills:166",
+            "@type": "@id"
+        },
+        "167": {
+            "@id": "Social_Skills:167",
+            "@type": "@id"
+        },
+        "169": {
+            "@id": "Social_Skills:169",
+            "@type": "@id"
+        },
+        "170": {
+            "@id": "Social_Skills:170",
+            "@type": "@id"
+        },
+        "171": {
+            "@id": "Social_Skills:171",
+            "@type": "@id"
+        },
+        "172": {
+            "@id": "Social_Skills:172",
+            "@type": "@id"
+        },
+        "173": {
+            "@id": "Social_Skills:173",
+            "@type": "@id"
+        },
+        "174": {
+            "@id": "Social_Skills:174",
+            "@type": "@id"
+        },
+        "175": {
+            "@id": "Social_Skills:175",
+            "@type": "@id"
+        },
+        "176": {
+            "@id": "Social_Skills:176",
+            "@type": "@id"
+        },
+        "177": {
+            "@id": "Social_Skills:177",
+            "@type": "@id"
+        },
+        "178": {
+            "@id": "Social_Skills:178",
+            "@type": "@id"
+        },
+        "179": {
+            "@id": "Social_Skills:179",
+            "@type": "@id"
+        },
+        "180": {
+            "@id": "Social_Skills:180",
+            "@type": "@id"
+        },
+        "181": {
+            "@id": "Social_Skills:181",
+            "@type": "@id"
+        },
+        "182": {
+            "@id": "Social_Skills:182",
+            "@type": "@id"
+        },
+        "183": {
+            "@id": "Social_Skills:183",
+            "@type": "@id"
+        },
+        "184": {
+            "@id": "Social_Skills:184",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Social_Skills": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Social_Skills/items/"
+    }
+}

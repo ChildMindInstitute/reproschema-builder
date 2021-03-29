@@ -1,0 +1,126 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/MFQS/MFQS_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "MFQS_schema",
+    "skos:prefLabel": "Mood (MFQ-S)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "This form is about how the student might have been feeling or acting recently. For each question, please check how s/he hasbeen feeling or acting in the past two weeks. If a sentence was not true about the student, check NOT TRUE. If a sentence was only sometimes true, check SOMETIMES.If a sentence was true about the student most of the time, check TRUE"
+    },
+    "ui": {
+        "order": [
+            "225",
+            "226",
+            "227",
+            "228",
+            "229",
+            "230",
+            "231",
+            "232",
+            "233",
+            "234",
+            "235",
+            "236",
+            "237",
+            "238",
+            "239"
+        ],
+        "addProperties": [
+            {
+                "variableName": "225",
+                "isAbout": "225",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "226",
+                "isAbout": "226",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "227",
+                "isAbout": "227",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "228",
+                "isAbout": "228",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "229",
+                "isAbout": "229",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "230",
+                "isAbout": "230",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "231",
+                "isAbout": "231",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "232",
+                "isAbout": "232",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "233",
+                "isAbout": "233",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "234",
+                "isAbout": "234",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "235",
+                "isAbout": "235",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "236",
+                "isAbout": "236",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "237",
+                "isAbout": "237",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "238",
+                "isAbout": "238",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "239",
+                "isAbout": "239",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

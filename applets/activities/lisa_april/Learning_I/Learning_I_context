@@ -1,0 +1,38 @@
+{
+    "@context": {
+        "185": {
+            "@id": "Learning_I:185",
+            "@type": "@id"
+        },
+        "186": {
+            "@id": "Learning_I:186",
+            "@type": "@id"
+        },
+        "187": {
+            "@id": "Learning_I:187",
+            "@type": "@id"
+        },
+        "188": {
+            "@id": "Learning_I:188",
+            "@type": "@id"
+        },
+        "189": {
+            "@id": "Learning_I:189",
+            "@type": "@id"
+        },
+        "190": {
+            "@id": "Learning_I:190",
+            "@type": "@id"
+        },
+        "191": {
+            "@id": "Learning_I:191",
+            "@type": "@id"
+        },
+        "192": {
+            "@id": "Learning_I:192",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Learning_I": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Learning_I/items/"
+    }
+}
