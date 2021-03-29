@@ -11,7 +11,8 @@
         "inputType": "text"
     },
     "responseOptions": {
-        "valueType": "xsd:string"
+        "valueType": "xsd:string",
+        "schema:minValue": "test"
     },
     "question": {
         "en": "Learner ID"
