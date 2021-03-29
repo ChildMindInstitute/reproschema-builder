@@ -10,7 +10,6 @@
     "ui": {
         "inputType": "text",
         "allow": [
-            "autoAdvance",
             "dontKnow"
         ]
     },
