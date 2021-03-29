@@ -1,0 +1,44 @@
+questionnaire domain,Field Label,"Choices, Calculations, OR Slider Labels",Section Header,Form Display Name,Form Name,Field Type,Variable / Field Name,Allow,Questionnaire,Form Name with spaces,Text Validation Min,Text Validation Max
+Entry-level,Cooperativeness,"0=always cooperative, 10=never cooperative",,Entry-level,Entrylevel,3,435,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Following rules,"0=always follows rules, 10=never follows rules",,Entry-level,Entrylevel,3,436,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Risk taking,"0=never takes risks, 10=highly risky behavior",,Entry-level,Entrylevel,3,437,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Activity,"0=sedentary, 10=always moving",,Entry-level,Entrylevel,3,438,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Impulsivity,"0=very controlled, 10=very impulsive",,Entry-level,Entrylevel,3,439,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Attention,"0=very focused, 10=very distracted",,Entry-level,Entrylevel,3,440,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Planning and organization,"0=very organized, 10=very disorganized",,Entry-level,Entrylevel,3,441,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Habits and repetitive behaviours,"0=no repetitive behaviors/routines, 10=highly repetitive behaviours/routines",,Entry-level,Entrylevel,3,442,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Irritability,"0=never irritated, 10=easily irritated",,Entry-level,Entrylevel,3,443,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Mood,"0=euphoric, 10=sad",,Entry-level,Entrylevel,3,444,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Emotional stability,"0=apathy, 10=easily excitable",,Entry-level,Entrylevel,3,445,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Fears/Worries,"0=never worries, 10=persistently worries",,Entry-level,Entrylevel,3,446,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Diet,"0=rarely hungry, 10=always hungry",,Entry-level,Entrylevel,3,447,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Sleep,"0=never sleepy, 10=always sleepy",,Entry-level,Entrylevel,3,448,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Social behaviour,"0=loner, 10=always socially engaged",,Entry-level,Entrylevel,3,449,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Social skills,"0=congenial, 10=socially indifferent",,Entry-level,Entrylevel,3,450,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Substance Abuse,"0=never uses substances, 10=habitual user",,Entry-level,Entrylevel,3,451,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Empathy,"0=highly reactive to feelings/emotions, 10=insensitive to feelings/emotions",,Entry-level,Entrylevel,3,452,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Stress level,"0=never stressed, 10=highly stressed",,Entry-level,Entrylevel,3,453,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Reading,"0=unable to read, 10=skillful at reading",,Entry-level,Entrylevel,3,454,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Writing,"0=unable to write, 10=skillful at writing",,Entry-level,Entrylevel,3,455,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Math,"0=unable to do math, 10=skillful at math",,Entry-level,Entrylevel,3,456,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Language,"0=no communicative skills, 10=skillful at language",,Entry-level,Entrylevel,3,457,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Speech quantity,"0=no spoken words, 10=never stops talking",,Entry-level,Entrylevel,3,458,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Speech articulation,"0=always understandable, 10=never understandable",,Entry-level,Entrylevel,3,459,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Memory,"0=always remembers accurately, 10=always forgetful",,Entry-level,Entrylevel,3,460,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Processing speed,"0=very slow, 10=very fast",,Entry-level,Entrylevel,3,461,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Abstract Learning,"0=concrete, 10=confused",,Entry-level,Entrylevel,3,462,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Learning,"0=unable to learn, 10=skillful at learning",,Entry-level,Entrylevel,3,463,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Academic performance/aptitude,"0=low, 10=high",,Entry-level,Entrylevel,3,464,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Temperament,"0=easy, 10=difficult",,Entry-level,Entrylevel,3,465,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Confidence,"0=very self-confident, 10=no self-confidence",,Entry-level,Entrylevel,3,466,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Creativity,"0=unimaginative, 10=highly creative",,Entry-level,Entrylevel,3,467,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Responsibility,"0=very responsible, 10=very irresponsible",,Entry-level,Entrylevel,3,468,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Integrity,"0=honest, 10=dishonest",,Entry-level,Entrylevel,3,469,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Perseverance,"0=always completes tasks well, 10=never completes tasks",,Entry-level,Entrylevel,3,470,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Gross motor skills,"0=uncoordinated, 10=highly coordinated",,Entry-level,Entrylevel,3,471,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Fine motor skills,"0=uncoordinated, 10=highly coordinated",,Entry-level,Entrylevel,3,472,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Complains of pain,"0=no aches and pains, 10=many aches and pains",,Entry-level,Entrylevel,3,473,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Hygiene,"0=always clean, 10=rarely clean",,Entry-level,Entrylevel,3,474,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Sexual identity,"0=gender conforming, 10=gender non-conforming",,Entry-level,Entrylevel,3,475,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Sexual behavior,"0=asexual, 10=highly sexualized",,Entry-level,Entrylevel,3,476,autoAdvance,Entry-level,Entry-level,0,10
+Entry-level,Bullying,"0=not involved, 1=bystander, 2=victim, 3=perpetrator, 4=victim - perpetrator",,Entry-level,Entrylevel,1,477,autoAdvance,Entry-level,Entry-level,0,10

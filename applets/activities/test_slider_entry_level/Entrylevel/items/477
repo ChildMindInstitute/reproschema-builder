@@ -1,0 +1,45 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "477",
+    "skos:prefLabel": "477",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": {
+        "en": "Bullying"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "not involved"
+            },
+            {
+                "value": 1,
+                "name": "bystander"
+            },
+            {
+                "value": 2,
+                "name": "victim"
+            },
+            {
+                "value": 3,
+                "name": "perpetrator"
+            },
+            {
+                "value": 4,
+                "name": "victim - perpetrator"
+            }
+        ],
+        "schema:minValue": 0,
+        "schema:maxValue": 10
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "448",
+    "skos:prefLabel": "448",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "slider",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "responseOptions": {
+        "valueType": "slider",
+        "choices": [
+            {
+                "value": 0,
+                "name": "never sleepy"
+            },
+            {
+                "value": 10,
+                "name": "always sleepy"
+            }
+        ],
+        "schema:minValue": 0,
+        "schema:maxValue": 10
+    },
+    "question": {
+        "en": "Sleep"
+    }
+}

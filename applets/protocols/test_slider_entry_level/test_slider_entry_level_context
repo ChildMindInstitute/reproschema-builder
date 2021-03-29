@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_slider_entry_level/",
+        "Entrylevel": {
+            "@id": "activity_path:Entrylevel/Entrylevel_schema",
+            "@type": "@id"
+        }
+    }
+}

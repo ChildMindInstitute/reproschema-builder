@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "446",
+    "skos:prefLabel": "446",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "slider",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "responseOptions": {
+        "valueType": "slider",
+        "choices": [
+            {
+                "value": 0,
+                "name": "never worries"
+            },
+            {
+                "value": 10,
+                "name": "persistently worries"
+            }
+        ],
+        "schema:minValue": 0,
+        "schema:maxValue": 10
+    },
+    "question": {
+        "en": "Fears/Worries"
+    }
+}
