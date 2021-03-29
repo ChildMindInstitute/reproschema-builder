@@ -1,47 +1,31 @@
 {
     "@context": {
-        "131": {
-            "@id": "Planning_and_organization:131",
+        "79": {
+            "@id": "Planning_and_organization:79",
             "@type": "@id"
         },
-        "132": {
-            "@id": "Planning_and_organization:132",
+        "80": {
+            "@id": "Planning_and_organization:80",
             "@type": "@id"
         },
-        "133": {
-            "@id": "Planning_and_organization:133",
+        "81": {
+            "@id": "Planning_and_organization:81",
             "@type": "@id"
         },
-        "134": {
-            "@id": "Planning_and_organization:134",
+        "82": {
+            "@id": "Planning_and_organization:82",
             "@type": "@id"
         },
-        "135": {
-            "@id": "Planning_and_organization:135",
+        "83": {
+            "@id": "Planning_and_organization:83",
             "@type": "@id"
         },
-        "136": {
-            "@id": "Planning_and_organization:136",
+        "84": {
+            "@id": "Planning_and_organization:84",
             "@type": "@id"
         },
-        "137": {
-            "@id": "Planning_and_organization:137",
-            "@type": "@id"
-        },
-        "138": {
-            "@id": "Planning_and_organization:138",
-            "@type": "@id"
-        },
-        "139": {
-            "@id": "Planning_and_organization:139",
-            "@type": "@id"
-        },
-        "140": {
-            "@id": "Planning_and_organization:140",
-            "@type": "@id"
-        },
-        "141": {
-            "@id": "Planning_and_organization:141",
+        "85": {
+            "@id": "Planning_and_organization:85",
             "@type": "@id"
         },
         "@version": 1.1,

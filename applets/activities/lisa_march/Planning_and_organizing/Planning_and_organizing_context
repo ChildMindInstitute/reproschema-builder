@@ -1,31 +1,23 @@
 {
     "@context": {
-        "260": {
-            "@id": "Planning_and_organizing:260",
+        "151": {
+            "@id": "Planning_and_organizing:151",
             "@type": "@id"
         },
-        "261": {
-            "@id": "Planning_and_organizing:261",
+        "152": {
+            "@id": "Planning_and_organizing:152",
             "@type": "@id"
         },
-        "262": {
-            "@id": "Planning_and_organizing:262",
+        "153": {
+            "@id": "Planning_and_organizing:153",
             "@type": "@id"
         },
-        "263": {
-            "@id": "Planning_and_organizing:263",
+        "154": {
+            "@id": "Planning_and_organizing:154",
             "@type": "@id"
         },
-        "264": {
-            "@id": "Planning_and_organizing:264",
-            "@type": "@id"
-        },
-        "265": {
-            "@id": "Planning_and_organizing:265",
-            "@type": "@id"
-        },
-        "266": {
-            "@id": "Planning_and_organizing:266",
+        "155": {
+            "@id": "Planning_and_organizing:155",
             "@type": "@id"
         },
         "@version": 1.1,

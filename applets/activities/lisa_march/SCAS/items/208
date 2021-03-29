@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "208",
+    "skos:prefLabel": "208",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": {
+        "en": "My child complains of feeling afraid"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Never"
+            },
+            {
+                "value": 1,
+                "name": "Sometimes"
+            },
+            {
+                "value": 2,
+                "name": "Often"
+            },
+            {
+                "value": 3,
+                "name": "Always"
+            }
+        ]
+    }
+}

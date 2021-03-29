@@ -13,54 +13,40 @@
     },
     "ui": {
         "order": [
-            "260",
-            "261",
-            "262",
-            "263",
-            "264",
-            "265",
-            "266"
+            "151",
+            "152",
+            "153",
+            "154",
+            "155"
         ],
         "addProperties": [
             {
-                "variableName": "260",
-                "isAbout": "260",
+                "variableName": "151",
+                "isAbout": "151",
                 "isVis": true,
                 "requiredValue": false
             },
             {
-                "variableName": "261",
-                "isAbout": "261",
+                "variableName": "152",
+                "isAbout": "152",
                 "isVis": true,
                 "requiredValue": false
             },
             {
-                "variableName": "262",
-                "isAbout": "262",
+                "variableName": "153",
+                "isAbout": "153",
                 "isVis": true,
                 "requiredValue": false
             },
             {
-                "variableName": "263",
-                "isAbout": "263",
+                "variableName": "154",
+                "isAbout": "154",
                 "isVis": true,
                 "requiredValue": false
             },
             {
-                "variableName": "264",
-                "isAbout": "264",
-                "isVis": true,
-                "requiredValue": false
-            },
-            {
-                "variableName": "265",
-                "isAbout": "265",
-                "isVis": true,
-                "requiredValue": false
-            },
-            {
-                "variableName": "266",
-                "isAbout": "266",
+                "variableName": "155",
+                "isAbout": "155",
                 "isVis": true,
                 "requiredValue": false
             }

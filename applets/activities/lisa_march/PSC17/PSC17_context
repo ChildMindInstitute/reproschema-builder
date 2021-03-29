@@ -36,30 +36,6 @@
             "@id": "PSC17:9",
             "@type": "@id"
         },
-        "10": {
-            "@id": "PSC17:10",
-            "@type": "@id"
-        },
-        "11": {
-            "@id": "PSC17:11",
-            "@type": "@id"
-        },
-        "12": {
-            "@id": "PSC17:12",
-            "@type": "@id"
-        },
-        "13": {
-            "@id": "PSC17:13",
-            "@type": "@id"
-        },
-        "14": {
-            "@id": "PSC17:14",
-            "@type": "@id"
-        },
-        "15": {
-            "@id": "PSC17:15",
-            "@type": "@id"
-        },
         "@version": 1.1,
         "PSC17": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/PSC17/items/"
     }

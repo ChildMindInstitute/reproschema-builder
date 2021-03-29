@@ -1,47 +1,31 @@
 {
     "@context": {
-        "120": {
-            "@id": "Visual-Spatial_Organization:120",
+        "72": {
+            "@id": "Visual-Spatial_Organization:72",
             "@type": "@id"
         },
-        "121": {
-            "@id": "Visual-Spatial_Organization:121",
+        "73": {
+            "@id": "Visual-Spatial_Organization:73",
             "@type": "@id"
         },
-        "122": {
-            "@id": "Visual-Spatial_Organization:122",
+        "74": {
+            "@id": "Visual-Spatial_Organization:74",
             "@type": "@id"
         },
-        "123": {
-            "@id": "Visual-Spatial_Organization:123",
+        "75": {
+            "@id": "Visual-Spatial_Organization:75",
             "@type": "@id"
         },
-        "124": {
-            "@id": "Visual-Spatial_Organization:124",
+        "76": {
+            "@id": "Visual-Spatial_Organization:76",
             "@type": "@id"
         },
-        "125": {
-            "@id": "Visual-Spatial_Organization:125",
+        "77": {
+            "@id": "Visual-Spatial_Organization:77",
             "@type": "@id"
         },
-        "126": {
-            "@id": "Visual-Spatial_Organization:126",
-            "@type": "@id"
-        },
-        "127": {
-            "@id": "Visual-Spatial_Organization:127",
-            "@type": "@id"
-        },
-        "128": {
-            "@id": "Visual-Spatial_Organization:128",
-            "@type": "@id"
-        },
-        "129": {
-            "@id": "Visual-Spatial_Organization:129",
-            "@type": "@id"
-        },
-        "130": {
-            "@id": "Visual-Spatial_Organization:130",
+        "78": {
+            "@id": "Visual-Spatial_Organization:78",
             "@type": "@id"
         },
         "@version": 1.1,

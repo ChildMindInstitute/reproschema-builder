@@ -1,223 +1,115 @@
 {
     "@context": {
-        "267": {
-            "@id": "Social_Skills:267",
+        "156": {
+            "@id": "Social_Skills:156",
             "@type": "@id"
         },
-        "268": {
-            "@id": "Social_Skills:268",
+        "157": {
+            "@id": "Social_Skills:157",
             "@type": "@id"
         },
-        "269": {
-            "@id": "Social_Skills:269",
+        "158": {
+            "@id": "Social_Skills:158",
             "@type": "@id"
         },
-        "270": {
-            "@id": "Social_Skills:270",
+        "159": {
+            "@id": "Social_Skills:159",
             "@type": "@id"
         },
-        "271": {
-            "@id": "Social_Skills:271",
+        "160": {
+            "@id": "Social_Skills:160",
             "@type": "@id"
         },
-        "272": {
-            "@id": "Social_Skills:272",
+        "161": {
+            "@id": "Social_Skills:161",
             "@type": "@id"
         },
-        "273": {
-            "@id": "Social_Skills:273",
+        "162": {
+            "@id": "Social_Skills:162",
             "@type": "@id"
         },
-        "274": {
-            "@id": "Social_Skills:274",
+        "163": {
+            "@id": "Social_Skills:163",
             "@type": "@id"
         },
-        "275": {
-            "@id": "Social_Skills:275",
+        "164": {
+            "@id": "Social_Skills:164",
             "@type": "@id"
         },
-        "276": {
-            "@id": "Social_Skills:276",
+        "165": {
+            "@id": "Social_Skills:165",
             "@type": "@id"
         },
-        "277": {
-            "@id": "Social_Skills:277",
+        "166": {
+            "@id": "Social_Skills:166",
             "@type": "@id"
         },
-        "278": {
-            "@id": "Social_Skills:278",
+        "167": {
+            "@id": "Social_Skills:167",
             "@type": "@id"
         },
-        "279": {
-            "@id": "Social_Skills:279",
+        "169": {
+            "@id": "Social_Skills:169",
             "@type": "@id"
         },
-        "280": {
-            "@id": "Social_Skills:280",
+        "170": {
+            "@id": "Social_Skills:170",
             "@type": "@id"
         },
-        "281": {
-            "@id": "Social_Skills:281",
+        "171": {
+            "@id": "Social_Skills:171",
             "@type": "@id"
         },
-        "282": {
-            "@id": "Social_Skills:282",
+        "172": {
+            "@id": "Social_Skills:172",
             "@type": "@id"
         },
-        "283": {
-            "@id": "Social_Skills:283",
+        "173": {
+            "@id": "Social_Skills:173",
             "@type": "@id"
         },
-        "284": {
-            "@id": "Social_Skills:284",
+        "174": {
+            "@id": "Social_Skills:174",
             "@type": "@id"
         },
-        "285": {
-            "@id": "Social_Skills:285",
+        "175": {
+            "@id": "Social_Skills:175",
             "@type": "@id"
         },
-        "286": {
-            "@id": "Social_Skills:286",
+        "176": {
+            "@id": "Social_Skills:176",
             "@type": "@id"
         },
-        "287": {
-            "@id": "Social_Skills:287",
+        "177": {
+            "@id": "Social_Skills:177",
             "@type": "@id"
         },
-        "288": {
-            "@id": "Social_Skills:288",
+        "178": {
+            "@id": "Social_Skills:178",
             "@type": "@id"
         },
-        "289": {
-            "@id": "Social_Skills:289",
+        "179": {
+            "@id": "Social_Skills:179",
             "@type": "@id"
         },
-        "290": {
-            "@id": "Social_Skills:290",
+        "180": {
+            "@id": "Social_Skills:180",
             "@type": "@id"
         },
-        "291": {
-            "@id": "Social_Skills:291",
+        "181": {
+            "@id": "Social_Skills:181",
             "@type": "@id"
         },
-        "292": {
-            "@id": "Social_Skills:292",
+        "182": {
+            "@id": "Social_Skills:182",
             "@type": "@id"
         },
-        "293": {
-            "@id": "Social_Skills:293",
+        "183": {
+            "@id": "Social_Skills:183",
             "@type": "@id"
         },
-        "294": {
-            "@id": "Social_Skills:294",
-            "@type": "@id"
-        },
-        "295": {
-            "@id": "Social_Skills:295",
-            "@type": "@id"
-        },
-        "296": {
-            "@id": "Social_Skills:296",
-            "@type": "@id"
-        },
-        "297": {
-            "@id": "Social_Skills:297",
-            "@type": "@id"
-        },
-        "298": {
-            "@id": "Social_Skills:298",
-            "@type": "@id"
-        },
-        "299": {
-            "@id": "Social_Skills:299",
-            "@type": "@id"
-        },
-        "300": {
-            "@id": "Social_Skills:300",
-            "@type": "@id"
-        },
-        "301": {
-            "@id": "Social_Skills:301",
-            "@type": "@id"
-        },
-        "302": {
-            "@id": "Social_Skills:302",
-            "@type": "@id"
-        },
-        "303": {
-            "@id": "Social_Skills:303",
-            "@type": "@id"
-        },
-        "304": {
-            "@id": "Social_Skills:304",
-            "@type": "@id"
-        },
-        "305": {
-            "@id": "Social_Skills:305",
-            "@type": "@id"
-        },
-        "306": {
-            "@id": "Social_Skills:306",
-            "@type": "@id"
-        },
-        "307": {
-            "@id": "Social_Skills:307",
-            "@type": "@id"
-        },
-        "308": {
-            "@id": "Social_Skills:308",
-            "@type": "@id"
-        },
-        "309": {
-            "@id": "Social_Skills:309",
-            "@type": "@id"
-        },
-        "310": {
-            "@id": "Social_Skills:310",
-            "@type": "@id"
-        },
-        "311": {
-            "@id": "Social_Skills:311",
-            "@type": "@id"
-        },
-        "312": {
-            "@id": "Social_Skills:312",
-            "@type": "@id"
-        },
-        "313": {
-            "@id": "Social_Skills:313",
-            "@type": "@id"
-        },
-        "314": {
-            "@id": "Social_Skills:314",
-            "@type": "@id"
-        },
-        "315": {
-            "@id": "Social_Skills:315",
-            "@type": "@id"
-        },
-        "316": {
-            "@id": "Social_Skills:316",
-            "@type": "@id"
-        },
-        "317": {
-            "@id": "Social_Skills:317",
-            "@type": "@id"
-        },
-        "318": {
-            "@id": "Social_Skills:318",
-            "@type": "@id"
-        },
-        "319": {
-            "@id": "Social_Skills:319",
-            "@type": "@id"
-        },
-        "320": {
-            "@id": "Social_Skills:320",
-            "@type": "@id"
-        },
-        "321": {
-            "@id": "Social_Skills:321",
+        "184": {
+            "@id": "Social_Skills:184",
             "@type": "@id"
         },
         "@version": 1.1,

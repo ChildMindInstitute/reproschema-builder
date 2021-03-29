@@ -8,15 +8,44 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "ui": {
-        "inputType": "text",
+        "inputType": "radio",
         "allow": [
             "autoAdvance"
         ]
     },
-    "responseOptions": {
-        "valueType": "xsd:string"
-    },
     "question": {
-        "en": "Learner ID"
+        "en": "Engage in tasks that require sustained mental effort"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 3,
+                "name": "Far Below Average"
+            },
+            {
+                "value": 2,
+                "name": "Below Average"
+            },
+            {
+                "value": 3,
+                "name": "Somewhat Below Average"
+            },
+            {
+                "value": 0,
+                "name": "Average"
+            },
+            {
+                "value": -1,
+                "name": "Somewhat Above Average"
+            },
+            {
+                "value": -2,
+                "name": "Above Average"
+            },
+            {
+                "value": -3,
+                "name": "Far Above Average"
+            }
+        ]
     }
 }

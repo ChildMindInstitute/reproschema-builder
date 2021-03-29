@@ -1,47 +1,31 @@
 {
     "@context": {
-        "109": {
-            "@id": "Learning_new_things:109",
+        "65": {
+            "@id": "Learning_new_things:65",
             "@type": "@id"
         },
-        "110": {
-            "@id": "Learning_new_things:110",
+        "66": {
+            "@id": "Learning_new_things:66",
             "@type": "@id"
         },
-        "111": {
-            "@id": "Learning_new_things:111",
+        "67": {
+            "@id": "Learning_new_things:67",
             "@type": "@id"
         },
-        "112": {
-            "@id": "Learning_new_things:112",
+        "68": {
+            "@id": "Learning_new_things:68",
             "@type": "@id"
         },
-        "113": {
-            "@id": "Learning_new_things:113",
+        "69": {
+            "@id": "Learning_new_things:69",
             "@type": "@id"
         },
-        "114": {
-            "@id": "Learning_new_things:114",
+        "70": {
+            "@id": "Learning_new_things:70",
             "@type": "@id"
         },
-        "115": {
-            "@id": "Learning_new_things:115",
-            "@type": "@id"
-        },
-        "116": {
-            "@id": "Learning_new_things:116",
-            "@type": "@id"
-        },
-        "117": {
-            "@id": "Learning_new_things:117",
-            "@type": "@id"
-        },
-        "118": {
-            "@id": "Learning_new_things:118",
-            "@type": "@id"
-        },
-        "119": {
-            "@id": "Learning_new_things:119",
+        "71": {
+            "@id": "Learning_new_things:71",
             "@type": "@id"
         },
         "@version": 1.1,

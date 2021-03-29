@@ -13,82 +13,54 @@
     },
     "ui": {
         "order": [
-            "87",
-            "88",
-            "89",
-            "90",
-            "91",
-            "92",
-            "93",
-            "94",
-            "95",
-            "96",
-            "97"
+            "51",
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "57"
         ],
         "addProperties": [
             {
-                "variableName": "87",
-                "isAbout": "87",
+                "variableName": "51",
+                "isAbout": "51",
                 "isVis": true,
                 "requiredValue": false
             },
             {
-                "variableName": "88",
-                "isAbout": "88",
+                "variableName": "52",
+                "isAbout": "52",
                 "isVis": true,
                 "requiredValue": false
             },
             {
-                "variableName": "89",
-                "isAbout": "89",
+                "variableName": "53",
+                "isAbout": "53",
                 "isVis": true,
                 "requiredValue": false
             },
             {
-                "variableName": "90",
-                "isAbout": "90",
+                "variableName": "54",
+                "isAbout": "54",
                 "isVis": true,
                 "requiredValue": false
             },
             {
-                "variableName": "91",
-                "isAbout": "91",
+                "variableName": "55",
+                "isAbout": "55",
                 "isVis": true,
                 "requiredValue": false
             },
             {
-                "variableName": "92",
-                "isAbout": "92",
+                "variableName": "56",
+                "isAbout": "56",
                 "isVis": true,
                 "requiredValue": false
             },
             {
-                "variableName": "93",
-                "isAbout": "93",
-                "isVis": true,
-                "requiredValue": false
-            },
-            {
-                "variableName": "94",
-                "isAbout": "94",
-                "isVis": true,
-                "requiredValue": false
-            },
-            {
-                "variableName": "95",
-                "isAbout": "95",
-                "isVis": true,
-                "requiredValue": false
-            },
-            {
-                "variableName": "96",
-                "isAbout": "96",
-                "isVis": true,
-                "requiredValue": false
-            },
-            {
-                "variableName": "97",
-                "isAbout": "97",
+                "variableName": "57",
+                "isAbout": "57",
                 "isVis": true,
                 "requiredValue": false
             }

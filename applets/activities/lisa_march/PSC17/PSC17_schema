@@ -21,13 +21,7 @@
             "6",
             "7",
             "8",
-            "9",
-            "10",
-            "11",
-            "12",
-            "13",
-            "14",
-            "15"
+            "9"
         ],
         "addProperties": [
             {
@@ -81,42 +75,6 @@
             {
                 "variableName": "9",
                 "isAbout": "9",
-                "isVis": true,
-                "requiredValue": false
-            },
-            {
-                "variableName": "10",
-                "isAbout": "10",
-                "isVis": true,
-                "requiredValue": false
-            },
-            {
-                "variableName": "11",
-                "isAbout": "11",
-                "isVis": true,
-                "requiredValue": false
-            },
-            {
-                "variableName": "12",
-                "isAbout": "12",
-                "isVis": true,
-                "requiredValue": false
-            },
-            {
-                "variableName": "13",
-                "isAbout": "13",
-                "isVis": true,
-                "requiredValue": false
-            },
-            {
-                "variableName": "14",
-                "isAbout": "14",
-                "isVis": true,
-                "requiredValue": false
-            },
-            {
-                "variableName": "15",
-                "isAbout": "15",
                 "isVis": true,
                 "requiredValue": false
             }
