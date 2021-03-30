@@ -238,6 +238,7 @@ Compared to other children, how does this child do the following:",Attention/Act
 ,Mood,S/he thought s/he could never be as good as other kids,"0=Not true,1=Sometimes true,2=True",,Mood (MFQ-S),MFQS,1,237,autoAdvance,MFQ-S,MFQS,,
 ,Mood,S/he felt s/he did everything wrong,"0=Not true,1=Sometimes true,2=True",,Mood (MFQ-S),MFQS,1,238,autoAdvance,MFQ-S,MFQS,,
 ,Mood,Comment,,,Mood (MFQ-S),MFQS,4,239,dontKnow,MFQ-S,MFQS,,
+,Mood,S/he felt s/he did everything wrong,"0=Not true,1=Sometimes true,2=True",,Mood (MFQ-S),MFQS,1,1238,autoAdvance,MFQ-S,MFQS,,
 ,,Learner ID,,"For each item, please mark the box for Not True, Somewhat True or Certainly True. In the last six months and compared to others of the same age, how well does each of the following statements describe the behavior/feelings of the student? Please try to answer all questions. ",Irritability (ARI),ARI,4,240,,ARI,ARI,,
 ,Irritability,Is easily annoyed by others,"0=Not true, 1=Somewhat true, 2=Certainly true",,Irritability (ARI),ARI,1,241,autoAdvance,ARI,ARI,,
 ,Irritability,Often loses his/her temper,"0=Not true, 1=Somewhat true, 2=Certainly true",,Irritability (ARI),ARI,1,242,autoAdvance,ARI,ARI,,
