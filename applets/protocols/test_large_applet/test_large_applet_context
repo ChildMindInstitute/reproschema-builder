@@ -1,0 +1,94 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/",
+        "PSC17": {
+            "@id": "activity_path:PSC17/PSC17_schema",
+            "@type": "@id"
+        },
+        "SWAN": {
+            "@id": "activity_path:SWAN/SWAN_schema",
+            "@type": "@id"
+        },
+        "Comprehension_and_Conceptual_Learning": {
+            "@id": "activity_path:Comprehension_and_Conceptual_Learning/Comprehension_and_Conceptual_Learning_schema",
+            "@type": "@id"
+        },
+        "Math": {
+            "@id": "activity_path:Math/Math_schema",
+            "@type": "@id"
+        },
+        "Reading": {
+            "@id": "activity_path:Reading/Reading_schema",
+            "@type": "@id"
+        },
+        "Writing": {
+            "@id": "activity_path:Writing/Writing_schema",
+            "@type": "@id"
+        },
+        "Processing_speed": {
+            "@id": "activity_path:Processing_speed/Processing_speed_schema",
+            "@type": "@id"
+        },
+        "Learning_new_things": {
+            "@id": "activity_path:Learning_new_things/Learning_new_things_schema",
+            "@type": "@id"
+        },
+        "Visual-Spatial_Organization": {
+            "@id": "activity_path:Visual-Spatial_Organization/Visual-Spatial_Organization_schema",
+            "@type": "@id"
+        },
+        "Planning_and_organization": {
+            "@id": "activity_path:Planning_and_organization/Planning_and_organization_schema",
+            "@type": "@id"
+        },
+        "Language": {
+            "@id": "activity_path:Language/Language_schema",
+            "@type": "@id"
+        },
+        "Motor_Skills": {
+            "@id": "activity_path:Motor_Skills/Motor_Skills_schema",
+            "@type": "@id"
+        },
+        "Memory": {
+            "@id": "activity_path:Memory/Memory_schema",
+            "@type": "@id"
+        },
+        "Repetitive_behaviours": {
+            "@id": "activity_path:Repetitive_behaviours/Repetitive_behaviours_schema",
+            "@type": "@id"
+        },
+        "Planning_and_organizing": {
+            "@id": "activity_path:Planning_and_organizing/Planning_and_organizing_schema",
+            "@type": "@id"
+        },
+        "Social_Skills": {
+            "@id": "activity_path:Social_Skills/Social_Skills_schema",
+            "@type": "@id"
+        },
+        "Learning_I": {
+            "@id": "activity_path:Learning_I/Learning_I_schema",
+            "@type": "@id"
+        },
+        "Learning_II": {
+            "@id": "activity_path:Learning_II/Learning_II_schema",
+            "@type": "@id"
+        },
+        "SCAS": {
+            "@id": "activity_path:SCAS/SCAS_schema",
+            "@type": "@id"
+        },
+        "MFQS": {
+            "@id": "activity_path:MFQS/MFQS_schema",
+            "@type": "@id"
+        },
+        "ARI": {
+            "@id": "activity_path:ARI/ARI_schema",
+            "@type": "@id"
+        },
+        "Entrylevel": {
+            "@id": "activity_path:Entrylevel/Entrylevel_schema",
+            "@type": "@id"
+        }
+    }
+}

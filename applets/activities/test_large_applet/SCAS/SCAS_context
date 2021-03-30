@@ -1,0 +1,166 @@
+{
+    "@context": {
+        "205": {
+            "@id": "SCAS:205",
+            "@type": "@id"
+        },
+        "206": {
+            "@id": "SCAS:206",
+            "@type": "@id"
+        },
+        "207": {
+            "@id": "SCAS:207",
+            "@type": "@id"
+        },
+        "208": {
+            "@id": "SCAS:208",
+            "@type": "@id"
+        },
+        "209": {
+            "@id": "SCAS:209",
+            "@type": "@id"
+        },
+        "210": {
+            "@id": "SCAS:210",
+            "@type": "@id"
+        },
+        "211": {
+            "@id": "SCAS:211",
+            "@type": "@id"
+        },
+        "212": {
+            "@id": "SCAS:212",
+            "@type": "@id"
+        },
+        "213": {
+            "@id": "SCAS:213",
+            "@type": "@id"
+        },
+        "214": {
+            "@id": "SCAS:214",
+            "@type": "@id"
+        },
+        "215": {
+            "@id": "SCAS:215",
+            "@type": "@id"
+        },
+        "216": {
+            "@id": "SCAS:216",
+            "@type": "@id"
+        },
+        "217": {
+            "@id": "SCAS:217",
+            "@type": "@id"
+        },
+        "218": {
+            "@id": "SCAS:218",
+            "@type": "@id"
+        },
+        "219": {
+            "@id": "SCAS:219",
+            "@type": "@id"
+        },
+        "220": {
+            "@id": "SCAS:220",
+            "@type": "@id"
+        },
+        "221": {
+            "@id": "SCAS:221",
+            "@type": "@id"
+        },
+        "222": {
+            "@id": "SCAS:222",
+            "@type": "@id"
+        },
+        "223": {
+            "@id": "SCAS:223",
+            "@type": "@id"
+        },
+        "224": {
+            "@id": "SCAS:224",
+            "@type": "@id"
+        },
+        "498": {
+            "@id": "SCAS:498",
+            "@type": "@id"
+        },
+        "499": {
+            "@id": "SCAS:499",
+            "@type": "@id"
+        },
+        "500": {
+            "@id": "SCAS:500",
+            "@type": "@id"
+        },
+        "501": {
+            "@id": "SCAS:501",
+            "@type": "@id"
+        },
+        "502": {
+            "@id": "SCAS:502",
+            "@type": "@id"
+        },
+        "503": {
+            "@id": "SCAS:503",
+            "@type": "@id"
+        },
+        "504": {
+            "@id": "SCAS:504",
+            "@type": "@id"
+        },
+        "505": {
+            "@id": "SCAS:505",
+            "@type": "@id"
+        },
+        "506": {
+            "@id": "SCAS:506",
+            "@type": "@id"
+        },
+        "507": {
+            "@id": "SCAS:507",
+            "@type": "@id"
+        },
+        "508": {
+            "@id": "SCAS:508",
+            "@type": "@id"
+        },
+        "509": {
+            "@id": "SCAS:509",
+            "@type": "@id"
+        },
+        "510": {
+            "@id": "SCAS:510",
+            "@type": "@id"
+        },
+        "511": {
+            "@id": "SCAS:511",
+            "@type": "@id"
+        },
+        "512": {
+            "@id": "SCAS:512",
+            "@type": "@id"
+        },
+        "513": {
+            "@id": "SCAS:513",
+            "@type": "@id"
+        },
+        "514": {
+            "@id": "SCAS:514",
+            "@type": "@id"
+        },
+        "515": {
+            "@id": "SCAS:515",
+            "@type": "@id"
+        },
+        "516": {
+            "@id": "SCAS:516",
+            "@type": "@id"
+        },
+        "517": {
+            "@id": "SCAS:517",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "SCAS": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/SCAS/items/"
+    }
+}

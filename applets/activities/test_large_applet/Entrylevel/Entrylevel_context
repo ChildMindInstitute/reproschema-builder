@@ -1,0 +1,374 @@
+{
+    "@context": {
+        "249": {
+            "@id": "Entrylevel:249",
+            "@type": "@id"
+        },
+        "250": {
+            "@id": "Entrylevel:250",
+            "@type": "@id"
+        },
+        "251": {
+            "@id": "Entrylevel:251",
+            "@type": "@id"
+        },
+        "252": {
+            "@id": "Entrylevel:252",
+            "@type": "@id"
+        },
+        "253": {
+            "@id": "Entrylevel:253",
+            "@type": "@id"
+        },
+        "254": {
+            "@id": "Entrylevel:254",
+            "@type": "@id"
+        },
+        "255": {
+            "@id": "Entrylevel:255",
+            "@type": "@id"
+        },
+        "256": {
+            "@id": "Entrylevel:256",
+            "@type": "@id"
+        },
+        "257": {
+            "@id": "Entrylevel:257",
+            "@type": "@id"
+        },
+        "258": {
+            "@id": "Entrylevel:258",
+            "@type": "@id"
+        },
+        "259": {
+            "@id": "Entrylevel:259",
+            "@type": "@id"
+        },
+        "260": {
+            "@id": "Entrylevel:260",
+            "@type": "@id"
+        },
+        "261": {
+            "@id": "Entrylevel:261",
+            "@type": "@id"
+        },
+        "262": {
+            "@id": "Entrylevel:262",
+            "@type": "@id"
+        },
+        "263": {
+            "@id": "Entrylevel:263",
+            "@type": "@id"
+        },
+        "264": {
+            "@id": "Entrylevel:264",
+            "@type": "@id"
+        },
+        "265": {
+            "@id": "Entrylevel:265",
+            "@type": "@id"
+        },
+        "266": {
+            "@id": "Entrylevel:266",
+            "@type": "@id"
+        },
+        "267": {
+            "@id": "Entrylevel:267",
+            "@type": "@id"
+        },
+        "268": {
+            "@id": "Entrylevel:268",
+            "@type": "@id"
+        },
+        "269": {
+            "@id": "Entrylevel:269",
+            "@type": "@id"
+        },
+        "270": {
+            "@id": "Entrylevel:270",
+            "@type": "@id"
+        },
+        "271": {
+            "@id": "Entrylevel:271",
+            "@type": "@id"
+        },
+        "272": {
+            "@id": "Entrylevel:272",
+            "@type": "@id"
+        },
+        "273": {
+            "@id": "Entrylevel:273",
+            "@type": "@id"
+        },
+        "274": {
+            "@id": "Entrylevel:274",
+            "@type": "@id"
+        },
+        "275": {
+            "@id": "Entrylevel:275",
+            "@type": "@id"
+        },
+        "276": {
+            "@id": "Entrylevel:276",
+            "@type": "@id"
+        },
+        "277": {
+            "@id": "Entrylevel:277",
+            "@type": "@id"
+        },
+        "278": {
+            "@id": "Entrylevel:278",
+            "@type": "@id"
+        },
+        "279": {
+            "@id": "Entrylevel:279",
+            "@type": "@id"
+        },
+        "280": {
+            "@id": "Entrylevel:280",
+            "@type": "@id"
+        },
+        "281": {
+            "@id": "Entrylevel:281",
+            "@type": "@id"
+        },
+        "282": {
+            "@id": "Entrylevel:282",
+            "@type": "@id"
+        },
+        "283": {
+            "@id": "Entrylevel:283",
+            "@type": "@id"
+        },
+        "284": {
+            "@id": "Entrylevel:284",
+            "@type": "@id"
+        },
+        "285": {
+            "@id": "Entrylevel:285",
+            "@type": "@id"
+        },
+        "286": {
+            "@id": "Entrylevel:286",
+            "@type": "@id"
+        },
+        "287": {
+            "@id": "Entrylevel:287",
+            "@type": "@id"
+        },
+        "288": {
+            "@id": "Entrylevel:288",
+            "@type": "@id"
+        },
+        "289": {
+            "@id": "Entrylevel:289",
+            "@type": "@id"
+        },
+        "290": {
+            "@id": "Entrylevel:290",
+            "@type": "@id"
+        },
+        "291": {
+            "@id": "Entrylevel:291",
+            "@type": "@id"
+        },
+        "292": {
+            "@id": "Entrylevel:292",
+            "@type": "@id"
+        },
+        "293": {
+            "@id": "Entrylevel:293",
+            "@type": "@id"
+        },
+        "294": {
+            "@id": "Entrylevel:294",
+            "@type": "@id"
+        },
+        "542": {
+            "@id": "Entrylevel:542",
+            "@type": "@id"
+        },
+        "543": {
+            "@id": "Entrylevel:543",
+            "@type": "@id"
+        },
+        "544": {
+            "@id": "Entrylevel:544",
+            "@type": "@id"
+        },
+        "545": {
+            "@id": "Entrylevel:545",
+            "@type": "@id"
+        },
+        "546": {
+            "@id": "Entrylevel:546",
+            "@type": "@id"
+        },
+        "547": {
+            "@id": "Entrylevel:547",
+            "@type": "@id"
+        },
+        "548": {
+            "@id": "Entrylevel:548",
+            "@type": "@id"
+        },
+        "549": {
+            "@id": "Entrylevel:549",
+            "@type": "@id"
+        },
+        "550": {
+            "@id": "Entrylevel:550",
+            "@type": "@id"
+        },
+        "551": {
+            "@id": "Entrylevel:551",
+            "@type": "@id"
+        },
+        "552": {
+            "@id": "Entrylevel:552",
+            "@type": "@id"
+        },
+        "553": {
+            "@id": "Entrylevel:553",
+            "@type": "@id"
+        },
+        "554": {
+            "@id": "Entrylevel:554",
+            "@type": "@id"
+        },
+        "555": {
+            "@id": "Entrylevel:555",
+            "@type": "@id"
+        },
+        "556": {
+            "@id": "Entrylevel:556",
+            "@type": "@id"
+        },
+        "557": {
+            "@id": "Entrylevel:557",
+            "@type": "@id"
+        },
+        "558": {
+            "@id": "Entrylevel:558",
+            "@type": "@id"
+        },
+        "559": {
+            "@id": "Entrylevel:559",
+            "@type": "@id"
+        },
+        "560": {
+            "@id": "Entrylevel:560",
+            "@type": "@id"
+        },
+        "561": {
+            "@id": "Entrylevel:561",
+            "@type": "@id"
+        },
+        "562": {
+            "@id": "Entrylevel:562",
+            "@type": "@id"
+        },
+        "563": {
+            "@id": "Entrylevel:563",
+            "@type": "@id"
+        },
+        "564": {
+            "@id": "Entrylevel:564",
+            "@type": "@id"
+        },
+        "565": {
+            "@id": "Entrylevel:565",
+            "@type": "@id"
+        },
+        "566": {
+            "@id": "Entrylevel:566",
+            "@type": "@id"
+        },
+        "567": {
+            "@id": "Entrylevel:567",
+            "@type": "@id"
+        },
+        "568": {
+            "@id": "Entrylevel:568",
+            "@type": "@id"
+        },
+        "569": {
+            "@id": "Entrylevel:569",
+            "@type": "@id"
+        },
+        "570": {
+            "@id": "Entrylevel:570",
+            "@type": "@id"
+        },
+        "571": {
+            "@id": "Entrylevel:571",
+            "@type": "@id"
+        },
+        "572": {
+            "@id": "Entrylevel:572",
+            "@type": "@id"
+        },
+        "573": {
+            "@id": "Entrylevel:573",
+            "@type": "@id"
+        },
+        "574": {
+            "@id": "Entrylevel:574",
+            "@type": "@id"
+        },
+        "575": {
+            "@id": "Entrylevel:575",
+            "@type": "@id"
+        },
+        "576": {
+            "@id": "Entrylevel:576",
+            "@type": "@id"
+        },
+        "577": {
+            "@id": "Entrylevel:577",
+            "@type": "@id"
+        },
+        "578": {
+            "@id": "Entrylevel:578",
+            "@type": "@id"
+        },
+        "579": {
+            "@id": "Entrylevel:579",
+            "@type": "@id"
+        },
+        "580": {
+            "@id": "Entrylevel:580",
+            "@type": "@id"
+        },
+        "581": {
+            "@id": "Entrylevel:581",
+            "@type": "@id"
+        },
+        "582": {
+            "@id": "Entrylevel:582",
+            "@type": "@id"
+        },
+        "583": {
+            "@id": "Entrylevel:583",
+            "@type": "@id"
+        },
+        "584": {
+            "@id": "Entrylevel:584",
+            "@type": "@id"
+        },
+        "585": {
+            "@id": "Entrylevel:585",
+            "@type": "@id"
+        },
+        "586": {
+            "@id": "Entrylevel:586",
+            "@type": "@id"
+        },
+        "587": {
+            "@id": "Entrylevel:587",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Entrylevel": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/Entrylevel/items/"
+    }
+}

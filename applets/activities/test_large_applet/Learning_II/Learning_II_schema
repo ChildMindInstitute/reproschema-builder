@@ -1,0 +1,189 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/Learning_II/Learning_II_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Learning_II_schema",
+    "skos:prefLabel": "Learning II (5-15)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Choose the statement that you think best corresponds to your student's functioning in everyday situations, compared to children of their own age. Have in mind the student's present functioning, i.e. within the last 6 months. To get the most correct picture of your student's functioning, it is important that you complete the whole questionnaire."
+    },
+    "ui": {
+        "order": [
+            "193",
+            "194",
+            "195",
+            "196",
+            "197",
+            "198",
+            "199",
+            "200",
+            "201",
+            "202",
+            "203",
+            "204",
+            "486",
+            "487",
+            "488",
+            "489",
+            "490",
+            "491",
+            "492",
+            "493",
+            "494",
+            "495",
+            "496",
+            "497"
+        ],
+        "addProperties": [
+            {
+                "variableName": "193",
+                "isAbout": "193",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "194",
+                "isAbout": "194",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "195",
+                "isAbout": "195",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "196",
+                "isAbout": "196",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "197",
+                "isAbout": "197",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "198",
+                "isAbout": "198",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "199",
+                "isAbout": "199",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "200",
+                "isAbout": "200",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "201",
+                "isAbout": "201",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "202",
+                "isAbout": "202",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "203",
+                "isAbout": "203",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "204",
+                "isAbout": "204",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "486",
+                "isAbout": "486",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "487",
+                "isAbout": "487",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "488",
+                "isAbout": "488",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "489",
+                "isAbout": "489",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "490",
+                "isAbout": "490",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "491",
+                "isAbout": "491",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "492",
+                "isAbout": "492",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "493",
+                "isAbout": "493",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "494",
+                "isAbout": "494",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "495",
+                "isAbout": "495",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "496",
+                "isAbout": "496",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "497",
+                "isAbout": "497",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

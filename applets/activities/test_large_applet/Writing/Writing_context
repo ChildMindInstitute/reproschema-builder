@@ -1,0 +1,62 @@
+{
+    "@context": {
+        "51": {
+            "@id": "Writing:51",
+            "@type": "@id"
+        },
+        "52": {
+            "@id": "Writing:52",
+            "@type": "@id"
+        },
+        "53": {
+            "@id": "Writing:53",
+            "@type": "@id"
+        },
+        "54": {
+            "@id": "Writing:54",
+            "@type": "@id"
+        },
+        "55": {
+            "@id": "Writing:55",
+            "@type": "@id"
+        },
+        "56": {
+            "@id": "Writing:56",
+            "@type": "@id"
+        },
+        "57": {
+            "@id": "Writing:57",
+            "@type": "@id"
+        },
+        "345": {
+            "@id": "Writing:345",
+            "@type": "@id"
+        },
+        "346": {
+            "@id": "Writing:346",
+            "@type": "@id"
+        },
+        "347": {
+            "@id": "Writing:347",
+            "@type": "@id"
+        },
+        "348": {
+            "@id": "Writing:348",
+            "@type": "@id"
+        },
+        "349": {
+            "@id": "Writing:349",
+            "@type": "@id"
+        },
+        "350": {
+            "@id": "Writing:350",
+            "@type": "@id"
+        },
+        "351": {
+            "@id": "Writing:351",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Writing": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/Writing/items/"
+    }
+}

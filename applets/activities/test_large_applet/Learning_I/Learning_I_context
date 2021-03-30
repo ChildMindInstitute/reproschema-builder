@@ -1,0 +1,70 @@
+{
+    "@context": {
+        "185": {
+            "@id": "Learning_I:185",
+            "@type": "@id"
+        },
+        "186": {
+            "@id": "Learning_I:186",
+            "@type": "@id"
+        },
+        "187": {
+            "@id": "Learning_I:187",
+            "@type": "@id"
+        },
+        "188": {
+            "@id": "Learning_I:188",
+            "@type": "@id"
+        },
+        "189": {
+            "@id": "Learning_I:189",
+            "@type": "@id"
+        },
+        "190": {
+            "@id": "Learning_I:190",
+            "@type": "@id"
+        },
+        "191": {
+            "@id": "Learning_I:191",
+            "@type": "@id"
+        },
+        "192": {
+            "@id": "Learning_I:192",
+            "@type": "@id"
+        },
+        "478": {
+            "@id": "Learning_I:478",
+            "@type": "@id"
+        },
+        "479": {
+            "@id": "Learning_I:479",
+            "@type": "@id"
+        },
+        "480": {
+            "@id": "Learning_I:480",
+            "@type": "@id"
+        },
+        "481": {
+            "@id": "Learning_I:481",
+            "@type": "@id"
+        },
+        "482": {
+            "@id": "Learning_I:482",
+            "@type": "@id"
+        },
+        "483": {
+            "@id": "Learning_I:483",
+            "@type": "@id"
+        },
+        "484": {
+            "@id": "Learning_I:484",
+            "@type": "@id"
+        },
+        "485": {
+            "@id": "Learning_I:485",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Learning_I": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/Learning_I/items/"
+    }
+}

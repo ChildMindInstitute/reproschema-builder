@@ -1,0 +1,126 @@
+{
+    "@context": {
+        "225": {
+            "@id": "MFQS:225",
+            "@type": "@id"
+        },
+        "226": {
+            "@id": "MFQS:226",
+            "@type": "@id"
+        },
+        "227": {
+            "@id": "MFQS:227",
+            "@type": "@id"
+        },
+        "228": {
+            "@id": "MFQS:228",
+            "@type": "@id"
+        },
+        "229": {
+            "@id": "MFQS:229",
+            "@type": "@id"
+        },
+        "230": {
+            "@id": "MFQS:230",
+            "@type": "@id"
+        },
+        "231": {
+            "@id": "MFQS:231",
+            "@type": "@id"
+        },
+        "232": {
+            "@id": "MFQS:232",
+            "@type": "@id"
+        },
+        "233": {
+            "@id": "MFQS:233",
+            "@type": "@id"
+        },
+        "234": {
+            "@id": "MFQS:234",
+            "@type": "@id"
+        },
+        "235": {
+            "@id": "MFQS:235",
+            "@type": "@id"
+        },
+        "236": {
+            "@id": "MFQS:236",
+            "@type": "@id"
+        },
+        "237": {
+            "@id": "MFQS:237",
+            "@type": "@id"
+        },
+        "238": {
+            "@id": "MFQS:238",
+            "@type": "@id"
+        },
+        "239": {
+            "@id": "MFQS:239",
+            "@type": "@id"
+        },
+        "518": {
+            "@id": "MFQS:518",
+            "@type": "@id"
+        },
+        "519": {
+            "@id": "MFQS:519",
+            "@type": "@id"
+        },
+        "520": {
+            "@id": "MFQS:520",
+            "@type": "@id"
+        },
+        "521": {
+            "@id": "MFQS:521",
+            "@type": "@id"
+        },
+        "522": {
+            "@id": "MFQS:522",
+            "@type": "@id"
+        },
+        "523": {
+            "@id": "MFQS:523",
+            "@type": "@id"
+        },
+        "524": {
+            "@id": "MFQS:524",
+            "@type": "@id"
+        },
+        "525": {
+            "@id": "MFQS:525",
+            "@type": "@id"
+        },
+        "526": {
+            "@id": "MFQS:526",
+            "@type": "@id"
+        },
+        "527": {
+            "@id": "MFQS:527",
+            "@type": "@id"
+        },
+        "528": {
+            "@id": "MFQS:528",
+            "@type": "@id"
+        },
+        "529": {
+            "@id": "MFQS:529",
+            "@type": "@id"
+        },
+        "530": {
+            "@id": "MFQS:530",
+            "@type": "@id"
+        },
+        "531": {
+            "@id": "MFQS:531",
+            "@type": "@id"
+        },
+        "532": {
+            "@id": "MFQS:532",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "MFQS": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/MFQS/items/"
+    }
+}

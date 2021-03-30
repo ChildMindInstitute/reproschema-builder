@@ -1,0 +1,203 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/Memory/Memory_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Memory_schema",
+    "skos:prefLabel": "Memory (5-15)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Choose the statement that you think best corresponds to your student's functioning in everyday situations, compared to children of their own age. Have in mind the student's present functioning, i.e. within the last 6 months. To get the most correct picture of your student's functioning, it is important that you complete the whole questionnaire."
+    },
+    "ui": {
+        "order": [
+            "128",
+            "129",
+            "130",
+            "131",
+            "132",
+            "133",
+            "134",
+            "135",
+            "136",
+            "137",
+            "138",
+            "139",
+            "140",
+            "422",
+            "423",
+            "424",
+            "425",
+            "426",
+            "427",
+            "428",
+            "429",
+            "430",
+            "431",
+            "432",
+            "433",
+            "434"
+        ],
+        "addProperties": [
+            {
+                "variableName": "128",
+                "isAbout": "128",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "129",
+                "isAbout": "129",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "130",
+                "isAbout": "130",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "131",
+                "isAbout": "131",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "132",
+                "isAbout": "132",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "133",
+                "isAbout": "133",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "134",
+                "isAbout": "134",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "135",
+                "isAbout": "135",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "136",
+                "isAbout": "136",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "137",
+                "isAbout": "137",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "138",
+                "isAbout": "138",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "139",
+                "isAbout": "139",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "140",
+                "isAbout": "140",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "422",
+                "isAbout": "422",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "423",
+                "isAbout": "423",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "424",
+                "isAbout": "424",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "425",
+                "isAbout": "425",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "426",
+                "isAbout": "426",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "427",
+                "isAbout": "427",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "428",
+                "isAbout": "428",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "429",
+                "isAbout": "429",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "430",
+                "isAbout": "430",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "431",
+                "isAbout": "431",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "432",
+                "isAbout": "432",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "433",
+                "isAbout": "433",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "434",
+                "isAbout": "434",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

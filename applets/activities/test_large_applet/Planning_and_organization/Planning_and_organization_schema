@@ -1,0 +1,119 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/Planning_and_organization/Planning_and_organization_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Planning_and_organization_schema",
+    "skos:prefLabel": "Planning and organization (LEAF)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Please answer the following questions based on this child’s behavior. Please answer all questions (make your best guess if you are uncertain).  "
+    },
+    "ui": {
+        "order": [
+            "79",
+            "80",
+            "81",
+            "82",
+            "83",
+            "84",
+            "85",
+            "373",
+            "374",
+            "375",
+            "376",
+            "377",
+            "378",
+            "379"
+        ],
+        "addProperties": [
+            {
+                "variableName": "79",
+                "isAbout": "79",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "80",
+                "isAbout": "80",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "81",
+                "isAbout": "81",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "82",
+                "isAbout": "82",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "83",
+                "isAbout": "83",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "84",
+                "isAbout": "84",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "85",
+                "isAbout": "85",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "373",
+                "isAbout": "373",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "374",
+                "isAbout": "374",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "375",
+                "isAbout": "375",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "376",
+                "isAbout": "376",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "377",
+                "isAbout": "377",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "378",
+                "isAbout": "378",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "379",
+                "isAbout": "379",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

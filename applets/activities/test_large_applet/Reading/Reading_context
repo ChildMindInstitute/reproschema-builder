@@ -1,0 +1,62 @@
+{
+    "@context": {
+        "44": {
+            "@id": "Reading:44",
+            "@type": "@id"
+        },
+        "45": {
+            "@id": "Reading:45",
+            "@type": "@id"
+        },
+        "46": {
+            "@id": "Reading:46",
+            "@type": "@id"
+        },
+        "47": {
+            "@id": "Reading:47",
+            "@type": "@id"
+        },
+        "48": {
+            "@id": "Reading:48",
+            "@type": "@id"
+        },
+        "49": {
+            "@id": "Reading:49",
+            "@type": "@id"
+        },
+        "50": {
+            "@id": "Reading:50",
+            "@type": "@id"
+        },
+        "338": {
+            "@id": "Reading:338",
+            "@type": "@id"
+        },
+        "339": {
+            "@id": "Reading:339",
+            "@type": "@id"
+        },
+        "340": {
+            "@id": "Reading:340",
+            "@type": "@id"
+        },
+        "341": {
+            "@id": "Reading:341",
+            "@type": "@id"
+        },
+        "342": {
+            "@id": "Reading:342",
+            "@type": "@id"
+        },
+        "343": {
+            "@id": "Reading:343",
+            "@type": "@id"
+        },
+        "344": {
+            "@id": "Reading:344",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Reading": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/Reading/items/"
+    }
+}

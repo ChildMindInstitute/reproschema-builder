@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "448",
+    "skos:prefLabel": "448",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": {
+        "en": "Difficulty completing sequential tasks (e.g., young children: getting dressed in the morning without constant reminders; older children: completing home work without constant reminders)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Does not apply"
+            },
+            {
+                "value": 1,
+                "name": "Applies sometimes"
+            },
+            {
+                "value": 2,
+                "name": "Applies"
+            }
+        ]
+    }
+}

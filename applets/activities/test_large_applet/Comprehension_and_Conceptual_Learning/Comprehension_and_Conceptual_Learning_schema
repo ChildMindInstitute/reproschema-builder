@@ -1,0 +1,119 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/Comprehension_and_Conceptual_Learning/Comprehension_and_Conceptual_Learning_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Comprehension_and_Conceptual_Learning_schema",
+    "skos:prefLabel": "Comprehension and Conceptual Learning (LEAF)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Please answer the following questions based on this child’s behavior. Please answer all questions (make your best guess if you are uncertain).  "
+    },
+    "ui": {
+        "order": [
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "35",
+            "36",
+            "324",
+            "325",
+            "326",
+            "327",
+            "328",
+            "329",
+            "330"
+        ],
+        "addProperties": [
+            {
+                "variableName": "30",
+                "isAbout": "30",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "31",
+                "isAbout": "31",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "32",
+                "isAbout": "32",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "33",
+                "isAbout": "33",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "34",
+                "isAbout": "34",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "35",
+                "isAbout": "35",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "36",
+                "isAbout": "36",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "324",
+                "isAbout": "324",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "325",
+                "isAbout": "325",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "326",
+                "isAbout": "326",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "327",
+                "isAbout": "327",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "328",
+                "isAbout": "328",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "329",
+                "isAbout": "329",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "330",
+                "isAbout": "330",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

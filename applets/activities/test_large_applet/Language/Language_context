@@ -1,0 +1,190 @@
+{
+    "@context": {
+        "86": {
+            "@id": "Language:86",
+            "@type": "@id"
+        },
+        "87": {
+            "@id": "Language:87",
+            "@type": "@id"
+        },
+        "88": {
+            "@id": "Language:88",
+            "@type": "@id"
+        },
+        "89": {
+            "@id": "Language:89",
+            "@type": "@id"
+        },
+        "90": {
+            "@id": "Language:90",
+            "@type": "@id"
+        },
+        "91": {
+            "@id": "Language:91",
+            "@type": "@id"
+        },
+        "92": {
+            "@id": "Language:92",
+            "@type": "@id"
+        },
+        "93": {
+            "@id": "Language:93",
+            "@type": "@id"
+        },
+        "94": {
+            "@id": "Language:94",
+            "@type": "@id"
+        },
+        "95": {
+            "@id": "Language:95",
+            "@type": "@id"
+        },
+        "96": {
+            "@id": "Language:96",
+            "@type": "@id"
+        },
+        "97": {
+            "@id": "Language:97",
+            "@type": "@id"
+        },
+        "98": {
+            "@id": "Language:98",
+            "@type": "@id"
+        },
+        "99": {
+            "@id": "Language:99",
+            "@type": "@id"
+        },
+        "100": {
+            "@id": "Language:100",
+            "@type": "@id"
+        },
+        "101": {
+            "@id": "Language:101",
+            "@type": "@id"
+        },
+        "102": {
+            "@id": "Language:102",
+            "@type": "@id"
+        },
+        "103": {
+            "@id": "Language:103",
+            "@type": "@id"
+        },
+        "104": {
+            "@id": "Language:104",
+            "@type": "@id"
+        },
+        "105": {
+            "@id": "Language:105",
+            "@type": "@id"
+        },
+        "106": {
+            "@id": "Language:106",
+            "@type": "@id"
+        },
+        "107": {
+            "@id": "Language:107",
+            "@type": "@id"
+        },
+        "108": {
+            "@id": "Language:108",
+            "@type": "@id"
+        },
+        "380": {
+            "@id": "Language:380",
+            "@type": "@id"
+        },
+        "381": {
+            "@id": "Language:381",
+            "@type": "@id"
+        },
+        "382": {
+            "@id": "Language:382",
+            "@type": "@id"
+        },
+        "383": {
+            "@id": "Language:383",
+            "@type": "@id"
+        },
+        "384": {
+            "@id": "Language:384",
+            "@type": "@id"
+        },
+        "385": {
+            "@id": "Language:385",
+            "@type": "@id"
+        },
+        "386": {
+            "@id": "Language:386",
+            "@type": "@id"
+        },
+        "387": {
+            "@id": "Language:387",
+            "@type": "@id"
+        },
+        "388": {
+            "@id": "Language:388",
+            "@type": "@id"
+        },
+        "389": {
+            "@id": "Language:389",
+            "@type": "@id"
+        },
+        "390": {
+            "@id": "Language:390",
+            "@type": "@id"
+        },
+        "391": {
+            "@id": "Language:391",
+            "@type": "@id"
+        },
+        "392": {
+            "@id": "Language:392",
+            "@type": "@id"
+        },
+        "393": {
+            "@id": "Language:393",
+            "@type": "@id"
+        },
+        "394": {
+            "@id": "Language:394",
+            "@type": "@id"
+        },
+        "395": {
+            "@id": "Language:395",
+            "@type": "@id"
+        },
+        "396": {
+            "@id": "Language:396",
+            "@type": "@id"
+        },
+        "397": {
+            "@id": "Language:397",
+            "@type": "@id"
+        },
+        "398": {
+            "@id": "Language:398",
+            "@type": "@id"
+        },
+        "399": {
+            "@id": "Language:399",
+            "@type": "@id"
+        },
+        "400": {
+            "@id": "Language:400",
+            "@type": "@id"
+        },
+        "401": {
+            "@id": "Language:401",
+            "@type": "@id"
+        },
+        "402": {
+            "@id": "Language:402",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Language": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/Language/items/"
+    }
+}

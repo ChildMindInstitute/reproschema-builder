@@ -1,0 +1,119 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/Learning_new_things/Learning_new_things_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Learning_new_things_schema",
+    "skos:prefLabel": "Learning new things (LEAF)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Please answer the following questions based on this child’s behavior. Please answer all questions (make your best guess if you are uncertain).  "
+    },
+    "ui": {
+        "order": [
+            "65",
+            "66",
+            "67",
+            "68",
+            "69",
+            "70",
+            "71",
+            "359",
+            "360",
+            "361",
+            "362",
+            "363",
+            "364",
+            "365"
+        ],
+        "addProperties": [
+            {
+                "variableName": "65",
+                "isAbout": "65",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "66",
+                "isAbout": "66",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "67",
+                "isAbout": "67",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "68",
+                "isAbout": "68",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "69",
+                "isAbout": "69",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "70",
+                "isAbout": "70",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "71",
+                "isAbout": "71",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "359",
+                "isAbout": "359",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "360",
+                "isAbout": "360",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "361",
+                "isAbout": "361",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "362",
+                "isAbout": "362",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "363",
+                "isAbout": "363",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "364",
+                "isAbout": "364",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "365",
+                "isAbout": "365",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

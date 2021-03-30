@@ -1,0 +1,62 @@
+{
+    "@context": {
+        "37": {
+            "@id": "Math:37",
+            "@type": "@id"
+        },
+        "38": {
+            "@id": "Math:38",
+            "@type": "@id"
+        },
+        "39": {
+            "@id": "Math:39",
+            "@type": "@id"
+        },
+        "40": {
+            "@id": "Math:40",
+            "@type": "@id"
+        },
+        "41": {
+            "@id": "Math:41",
+            "@type": "@id"
+        },
+        "42": {
+            "@id": "Math:42",
+            "@type": "@id"
+        },
+        "43": {
+            "@id": "Math:43",
+            "@type": "@id"
+        },
+        "331": {
+            "@id": "Math:331",
+            "@type": "@id"
+        },
+        "332": {
+            "@id": "Math:332",
+            "@type": "@id"
+        },
+        "333": {
+            "@id": "Math:333",
+            "@type": "@id"
+        },
+        "334": {
+            "@id": "Math:334",
+            "@type": "@id"
+        },
+        "335": {
+            "@id": "Math:335",
+            "@type": "@id"
+        },
+        "336": {
+            "@id": "Math:336",
+            "@type": "@id"
+        },
+        "337": {
+            "@id": "Math:337",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Math": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/Math/items/"
+    }
+}

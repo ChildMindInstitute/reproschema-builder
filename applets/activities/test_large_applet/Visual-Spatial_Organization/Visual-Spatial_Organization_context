@@ -1,0 +1,62 @@
+{
+    "@context": {
+        "72": {
+            "@id": "Visual-Spatial_Organization:72",
+            "@type": "@id"
+        },
+        "73": {
+            "@id": "Visual-Spatial_Organization:73",
+            "@type": "@id"
+        },
+        "74": {
+            "@id": "Visual-Spatial_Organization:74",
+            "@type": "@id"
+        },
+        "75": {
+            "@id": "Visual-Spatial_Organization:75",
+            "@type": "@id"
+        },
+        "76": {
+            "@id": "Visual-Spatial_Organization:76",
+            "@type": "@id"
+        },
+        "77": {
+            "@id": "Visual-Spatial_Organization:77",
+            "@type": "@id"
+        },
+        "78": {
+            "@id": "Visual-Spatial_Organization:78",
+            "@type": "@id"
+        },
+        "366": {
+            "@id": "Visual-Spatial_Organization:366",
+            "@type": "@id"
+        },
+        "367": {
+            "@id": "Visual-Spatial_Organization:367",
+            "@type": "@id"
+        },
+        "368": {
+            "@id": "Visual-Spatial_Organization:368",
+            "@type": "@id"
+        },
+        "369": {
+            "@id": "Visual-Spatial_Organization:369",
+            "@type": "@id"
+        },
+        "370": {
+            "@id": "Visual-Spatial_Organization:370",
+            "@type": "@id"
+        },
+        "371": {
+            "@id": "Visual-Spatial_Organization:371",
+            "@type": "@id"
+        },
+        "372": {
+            "@id": "Visual-Spatial_Organization:372",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Visual-Spatial_Organization": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/Visual-Spatial_Organization/items/"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "@context": {
+        "65": {
+            "@id": "Learning_new_things:65",
+            "@type": "@id"
+        },
+        "66": {
+            "@id": "Learning_new_things:66",
+            "@type": "@id"
+        },
+        "67": {
+            "@id": "Learning_new_things:67",
+            "@type": "@id"
+        },
+        "68": {
+            "@id": "Learning_new_things:68",
+            "@type": "@id"
+        },
+        "69": {
+            "@id": "Learning_new_things:69",
+            "@type": "@id"
+        },
+        "70": {
+            "@id": "Learning_new_things:70",
+            "@type": "@id"
+        },
+        "71": {
+            "@id": "Learning_new_things:71",
+            "@type": "@id"
+        },
+        "359": {
+            "@id": "Learning_new_things:359",
+            "@type": "@id"
+        },
+        "360": {
+            "@id": "Learning_new_things:360",
+            "@type": "@id"
+        },
+        "361": {
+            "@id": "Learning_new_things:361",
+            "@type": "@id"
+        },
+        "362": {
+            "@id": "Learning_new_things:362",
+            "@type": "@id"
+        },
+        "363": {
+            "@id": "Learning_new_things:363",
+            "@type": "@id"
+        },
+        "364": {
+            "@id": "Learning_new_things:364",
+            "@type": "@id"
+        },
+        "365": {
+            "@id": "Learning_new_things:365",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "Learning_new_things": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/Learning_new_things/items/"
+    }
+}

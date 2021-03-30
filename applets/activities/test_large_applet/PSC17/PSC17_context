@@ -1,0 +1,78 @@
+{
+    "@context": {
+        "1": {
+            "@id": "PSC17:1",
+            "@type": "@id"
+        },
+        "2": {
+            "@id": "PSC17:2",
+            "@type": "@id"
+        },
+        "3": {
+            "@id": "PSC17:3",
+            "@type": "@id"
+        },
+        "4": {
+            "@id": "PSC17:4",
+            "@type": "@id"
+        },
+        "5": {
+            "@id": "PSC17:5",
+            "@type": "@id"
+        },
+        "6": {
+            "@id": "PSC17:6",
+            "@type": "@id"
+        },
+        "7": {
+            "@id": "PSC17:7",
+            "@type": "@id"
+        },
+        "8": {
+            "@id": "PSC17:8",
+            "@type": "@id"
+        },
+        "9": {
+            "@id": "PSC17:9",
+            "@type": "@id"
+        },
+        "295": {
+            "@id": "PSC17:295",
+            "@type": "@id"
+        },
+        "296": {
+            "@id": "PSC17:296",
+            "@type": "@id"
+        },
+        "297": {
+            "@id": "PSC17:297",
+            "@type": "@id"
+        },
+        "298": {
+            "@id": "PSC17:298",
+            "@type": "@id"
+        },
+        "299": {
+            "@id": "PSC17:299",
+            "@type": "@id"
+        },
+        "300": {
+            "@id": "PSC17:300",
+            "@type": "@id"
+        },
+        "301": {
+            "@id": "PSC17:301",
+            "@type": "@id"
+        },
+        "302": {
+            "@id": "PSC17:302",
+            "@type": "@id"
+        },
+        "303": {
+            "@id": "PSC17:303",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "PSC17": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/PSC17/items/"
+    }
+}

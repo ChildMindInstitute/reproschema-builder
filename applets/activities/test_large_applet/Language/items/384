@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "384",
+    "skos:prefLabel": "384",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": {
+        "en": "Difficulty with abstract concepts such as “the day after tomorrow”, ”in the right order”"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Does not apply"
+            },
+            {
+                "value": 1,
+                "name": "Applies sometimes"
+            },
+            {
+                "value": 2,
+                "name": "Applies"
+            }
+        ]
+    }
+}

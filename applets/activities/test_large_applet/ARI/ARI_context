@@ -1,0 +1,78 @@
+{
+    "@context": {
+        "240": {
+            "@id": "ARI:240",
+            "@type": "@id"
+        },
+        "241": {
+            "@id": "ARI:241",
+            "@type": "@id"
+        },
+        "242": {
+            "@id": "ARI:242",
+            "@type": "@id"
+        },
+        "243": {
+            "@id": "ARI:243",
+            "@type": "@id"
+        },
+        "244": {
+            "@id": "ARI:244",
+            "@type": "@id"
+        },
+        "245": {
+            "@id": "ARI:245",
+            "@type": "@id"
+        },
+        "246": {
+            "@id": "ARI:246",
+            "@type": "@id"
+        },
+        "247": {
+            "@id": "ARI:247",
+            "@type": "@id"
+        },
+        "248": {
+            "@id": "ARI:248",
+            "@type": "@id"
+        },
+        "533": {
+            "@id": "ARI:533",
+            "@type": "@id"
+        },
+        "534": {
+            "@id": "ARI:534",
+            "@type": "@id"
+        },
+        "535": {
+            "@id": "ARI:535",
+            "@type": "@id"
+        },
+        "536": {
+            "@id": "ARI:536",
+            "@type": "@id"
+        },
+        "537": {
+            "@id": "ARI:537",
+            "@type": "@id"
+        },
+        "538": {
+            "@id": "ARI:538",
+            "@type": "@id"
+        },
+        "539": {
+            "@id": "ARI:539",
+            "@type": "@id"
+        },
+        "540": {
+            "@id": "ARI:540",
+            "@type": "@id"
+        },
+        "541": {
+            "@id": "ARI:541",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "ARI": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/ARI/items/"
+    }
+}

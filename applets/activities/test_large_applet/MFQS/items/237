@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "237",
+    "skos:prefLabel": "237",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": {
+        "en": "S/he thought s/he could never be as good as other kids"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Not true"
+            },
+            {
+                "value": 1,
+                "name": "Sometimes true"
+            },
+            {
+                "value": 2,
+                "name": "True"
+            }
+        ]
+    }
+}

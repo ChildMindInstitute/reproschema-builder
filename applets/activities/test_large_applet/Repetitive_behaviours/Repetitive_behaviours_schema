@@ -1,0 +1,161 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test_large_applet/Repetitive_behaviours/Repetitive_behaviours_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Repetitive_behaviours_schema",
+    "skos:prefLabel": "Repetitive behaviours (5-15)",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Choose the statement that you think best corresponds to your student's functioning in everyday situations, compared to children of their own age. Have in mind the student's present functioning, i.e. within the last 6 months. To get the most correct picture of your student's functioning, it is important that you complete the whole questionnaire."
+    },
+    "ui": {
+        "order": [
+            "141",
+            "142",
+            "143",
+            "144",
+            "145",
+            "146",
+            "147",
+            "148",
+            "149",
+            "150",
+            "435",
+            "436",
+            "437",
+            "438",
+            "439",
+            "440",
+            "441",
+            "442",
+            "443",
+            "444"
+        ],
+        "addProperties": [
+            {
+                "variableName": "141",
+                "isAbout": "141",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "142",
+                "isAbout": "142",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "143",
+                "isAbout": "143",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "144",
+                "isAbout": "144",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "145",
+                "isAbout": "145",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "146",
+                "isAbout": "146",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "147",
+                "isAbout": "147",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "148",
+                "isAbout": "148",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "149",
+                "isAbout": "149",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "150",
+                "isAbout": "150",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "435",
+                "isAbout": "435",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "436",
+                "isAbout": "436",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "437",
+                "isAbout": "437",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "438",
+                "isAbout": "438",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "439",
+                "isAbout": "439",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "440",
+                "isAbout": "440",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "441",
+                "isAbout": "441",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "442",
+                "isAbout": "442",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "443",
+                "isAbout": "443",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "444",
+                "isAbout": "444",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}
