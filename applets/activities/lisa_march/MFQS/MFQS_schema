@@ -28,7 +28,7 @@
             "237",
             "238",
             "239",
-            "1238"
+            "1239"
         ],
         "addProperties": [
             {
@@ -122,8 +122,8 @@
                 "requiredValue": false
             },
             {
-                "variableName": "1238",
-                "isAbout": "1238",
+                "variableName": "1239",
+                "isAbout": "1239",
                 "isVis": true,
                 "requiredValue": false
             }

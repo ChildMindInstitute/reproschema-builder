@@ -80,6 +80,10 @@
             "@id": "SCAS:224",
             "@type": "@id"
         },
+        "1224": {
+            "@id": "SCAS:1224",
+            "@type": "@id"
+        },
         "@version": 1.1,
         "SCAS": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/SCAS/items/"
     }

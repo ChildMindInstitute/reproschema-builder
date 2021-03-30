@@ -28,6 +28,10 @@
             "@id": "Processing_speed:64",
             "@type": "@id"
         },
+        "1064": {
+            "@id": "Processing_speed:1064",
+            "@type": "@id"
+        },
         "@version": 1.1,
         "Processing_speed": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Processing_speed/items/"
     }

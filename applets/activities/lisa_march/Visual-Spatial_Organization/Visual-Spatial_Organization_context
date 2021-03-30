@@ -28,6 +28,10 @@
             "@id": "Visual-Spatial_Organization:78",
             "@type": "@id"
         },
+        "1078": {
+            "@id": "Visual-Spatial_Organization:1078",
+            "@type": "@id"
+        },
         "@version": 1.1,
         "Visual-Spatial_Organization": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Visual-Spatial_Organization/items/"
     }

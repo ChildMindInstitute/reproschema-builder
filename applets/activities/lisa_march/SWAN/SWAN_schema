@@ -9,7 +9,7 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "preamble": {
-        "en": "For each item listed below, how does this child compare to other children of the same age? Please select the best rating basedon your observations over the past month.\r\nCompared to other children, how does this child do the following:"
+        "en": "For each item listed below, how does this child compare to other children of the same age? Please select the best rating basedon your observations over the past month.\nCompared to other children, how does this child do the following:"
     },
     "ui": {
         "order": [
@@ -32,7 +32,8 @@
             "26",
             "27",
             "28",
-            "29"
+            "29",
+            "1029"
         ],
         "addProperties": [
             {
@@ -152,6 +153,12 @@
             {
                 "variableName": "29",
                 "isAbout": "29",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "1029",
+                "isAbout": "1029",
                 "isVis": true,
                 "requiredValue": false
             }

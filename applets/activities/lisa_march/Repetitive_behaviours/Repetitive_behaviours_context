@@ -40,6 +40,10 @@
             "@id": "Repetitive_behaviours:150",
             "@type": "@id"
         },
+        "1150": {
+            "@id": "Repetitive_behaviours:1150",
+            "@type": "@id"
+        },
         "@version": 1.1,
         "Repetitive_behaviours": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Repetitive_behaviours/items/"
     }

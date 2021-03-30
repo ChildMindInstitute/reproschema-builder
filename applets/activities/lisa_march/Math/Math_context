@@ -28,6 +28,10 @@
             "@id": "Math:43",
             "@type": "@id"
         },
+        "1043": {
+            "@id": "Math:1043",
+            "@type": "@id"
+        },
         "@version": 1.1,
         "Math": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_march/Math/items/"
     }
