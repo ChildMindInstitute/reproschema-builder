@@ -36,6 +36,10 @@
             "@id": "ARI:248",
             "@type": "@id"
         },
+        "1248": {
+            "@id": "ARI:1248",
+            "@type": "@id"
+        },
         "@version": 1.1,
         "ARI": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/ARI/items/"
     }

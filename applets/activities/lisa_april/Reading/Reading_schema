@@ -19,7 +19,8 @@
             "47",
             "48",
             "49",
-            "50"
+            "50",
+            "1050"
         ],
         "addProperties": [
             {
@@ -61,6 +62,12 @@
             {
                 "variableName": "50",
                 "isAbout": "50",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "1050",
+                "isAbout": "1050",
                 "isVis": true,
                 "requiredValue": false
             }

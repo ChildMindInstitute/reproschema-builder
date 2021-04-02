@@ -32,6 +32,10 @@
             "@id": "Learning_I:192",
             "@type": "@id"
         },
+        "1192": {
+            "@id": "Learning_I:1192",
+            "@type": "@id"
+        },
         "@version": 1.1,
         "Learning_I": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Learning_I/items/"
     }

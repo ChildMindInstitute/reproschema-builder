@@ -28,6 +28,10 @@
             "@id": "Reading:50",
             "@type": "@id"
         },
+        "1050": {
+            "@id": "Reading:1050",
+            "@type": "@id"
+        },
         "@version": 1.1,
         "Reading": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/lisa_april/Reading/items/"
     }

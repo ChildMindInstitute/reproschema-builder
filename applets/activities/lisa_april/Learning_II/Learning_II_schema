@@ -24,7 +24,8 @@
             "201",
             "202",
             "203",
-            "204"
+            "204",
+            "1204"
         ],
         "addProperties": [
             {
@@ -96,6 +97,12 @@
             {
                 "variableName": "204",
                 "isAbout": "204",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "1204",
+                "isAbout": "1204",
                 "isVis": true,
                 "requiredValue": false
             }
