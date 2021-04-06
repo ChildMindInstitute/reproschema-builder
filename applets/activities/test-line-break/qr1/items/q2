@@ -30,7 +30,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Multiple&#10;choice question with a line break"
-    }
+    "question": {}
 }
