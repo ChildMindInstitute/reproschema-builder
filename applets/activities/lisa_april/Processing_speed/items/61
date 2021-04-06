@@ -14,7 +14,7 @@
         ]
     },
     "question": {
-        "en": "Writes and/or reads slowly."
+        "en": "Processing speed (LEAF)&#10;&#10;Writes and/or reads slowly."
     },
     "responseOptions": {
         "choices": [

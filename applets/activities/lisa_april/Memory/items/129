@@ -14,7 +14,7 @@
         ]
     },
     "question": {
-        "en": "Difficulty remembering information about personal data, such as date of birth, home address etc."
+        "en": "Memory (5-15)&#10;&#10;Difficulty remembering information about personal data, such as date of birth, home address etc."
     },
     "responseOptions": {
         "choices": [
