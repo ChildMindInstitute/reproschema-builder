@@ -31,6 +31,6 @@
         ]
     },
     "question": {
-        "en": "Multiple choice question&#10;with a line break"
+        "en": "Multiple&#10;choice question with a line break"
     }
 }
