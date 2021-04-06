@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test-line-break/qr2/qr2_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr2_schema",
+    "skos:prefLabel": "questionnaire 2",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": ""
+    },
+    "ui": {
+        "order": [
+            "q4",
+            "q5"
+        ],
+        "addProperties": [
+            {
+                "variableName": "q4",
+                "isAbout": "q4",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "q5",
+                "isAbout": "q5",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

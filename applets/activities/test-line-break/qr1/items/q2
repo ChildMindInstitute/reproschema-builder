@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "q2",
+    "skos:prefLabel": "q2",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "disableBack"
+        ]
+    },
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "value": 0,
+                "name": " 'No'"
+            },
+            {
+                "value": 1,
+                "name": " '1-2'"
+            },
+            {
+                "value": 2,
+                "name": " '3-4'"
+            }
+        ]
+    },
+    "question": {
+        "en": "Multiple choice question&#10;with a line break"
+    }
+}

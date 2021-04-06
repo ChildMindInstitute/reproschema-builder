@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "qr2": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/test-line-break/qr2/items/",
+        "q4": {
+            "@id": "qr2:q4",
+            "@type": "@id"
+        },
+        "q5": {
+            "@id": "qr2:q5",
+            "@type": "@id"
+        }
+    }
+}
