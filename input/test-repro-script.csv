@@ -1,6 +1,6 @@
 ﻿Variable / Field Name,Section Header,Form Name,Field Type,multipleChoice,Field Label,"Choices, Calculations, OR Slider Labels",Allow,Text Validation Min,Text Validation Max,Branching Logic (Show field only if...),Form Display Name,,Field Annotation,Required Field?
 q1,Questionnaire preamle,qr1,1,,"Single choice question","0= 'No', 1 = '1-2', 2 = '3-4'","autoAdvance",,,,questionnaire 1,,q1 description,
-q2,This won't do anything,qr1,1,1,"Multiple&#10;choice question with a line break","0= 'No', 1 = '1-2', 2 = '3-4'","disableBack",,,,questionnaire 1,,q1 description,
+q2,This won't do anything,qr1,1,1,"Multiple<br>choice question with a line break","0= 'No', 1 = '1-2', 2 = '3-4'","disableBack",,,,questionnaire 1,,q1 description,
 q3,,qr1,3,,"Slider question","0= , 1 = , 2 = ",,0,2,,questionnaire 1,,q2 description,1
 q4,,qr2,4,,"Text question",,"disableBack, dontKnow",,,,questionnaire 2,,q3 description,0
 q5,,qr2,0,,"Good job!",,,,,,questionnaire 2,,,1
