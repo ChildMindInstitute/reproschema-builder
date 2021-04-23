@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1022",
+    "skos:prefLabel": "1022",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "How many drinks containing alcohol do you have on a typical day when you are drinking?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "\"1 or 2\""
+            },
+            {
+                "value": 1,
+                "name": "\"3 or 4\""
+            },
+            {
+                "value": 2,
+                "name": "\"5 or 6\""
+            },
+            {
+                "value": 3,
+                "name": "\"7 to 9\""
+            },
+            {
+                "value": 4,
+                "name": "\"10 or more\""
+            }
+        ]
+    }
+}

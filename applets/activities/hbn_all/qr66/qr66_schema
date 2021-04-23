@@ -1,0 +1,161 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_all/qr66/qr66_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr66_schema",
+    "skos:prefLabel": "Internet Addiction Test",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "Based upon the following five-point likert scale, select the response that best represents the frequency of the behavior described in the following 20-item questionnaire"
+    },
+    "ui": {
+        "order": [
+            "232",
+            "233",
+            "234",
+            "235",
+            "236",
+            "237",
+            "238",
+            "239",
+            "240",
+            "241",
+            "242",
+            "243",
+            "244",
+            "245",
+            "246",
+            "247",
+            "248",
+            "249",
+            "250",
+            "251"
+        ],
+        "addProperties": [
+            {
+                "variableName": "232",
+                "isAbout": "232",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "233",
+                "isAbout": "233",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "234",
+                "isAbout": "234",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "235",
+                "isAbout": "235",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "236",
+                "isAbout": "236",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "237",
+                "isAbout": "237",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "238",
+                "isAbout": "238",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "239",
+                "isAbout": "239",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "240",
+                "isAbout": "240",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "241",
+                "isAbout": "241",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "242",
+                "isAbout": "242",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "243",
+                "isAbout": "243",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "244",
+                "isAbout": "244",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "245",
+                "isAbout": "245",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "246",
+                "isAbout": "246",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "247",
+                "isAbout": "247",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "248",
+                "isAbout": "248",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "249",
+                "isAbout": "249",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "250",
+                "isAbout": "250",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "251",
+                "isAbout": "251",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_all/",
+        "qr156": {
+            "@id": "activity_path:qr156/qr156_schema",
+            "@type": "@id"
+        },
+        "qr61": {
+            "@id": "activity_path:qr61/qr61_schema",
+            "@type": "@id"
+        },
+        "qr71": {
+            "@id": "activity_path:qr71/qr71_schema",
+            "@type": "@id"
+        },
+        "qr72": {
+            "@id": "activity_path:qr72/qr72_schema",
+            "@type": "@id"
+        },
+        "qr54": {
+            "@id": "activity_path:qr54/qr54_schema",
+            "@type": "@id"
+        },
+        "qr63": {
+            "@id": "activity_path:qr63/qr63_schema",
+            "@type": "@id"
+        },
+        "qr102": {
+            "@id": "activity_path:qr102/qr102_schema",
+            "@type": "@id"
+        },
+        "qr97": {
+            "@id": "activity_path:qr97/qr97_schema",
+            "@type": "@id"
+        },
+        "qr23": {
+            "@id": "activity_path:qr23/qr23_schema",
+            "@type": "@id"
+        },
+        "qr20": {
+            "@id": "activity_path:qr20/qr20_schema",
+            "@type": "@id"
+        },
+        "qr19": {
+            "@id": "activity_path:qr19/qr19_schema",
+            "@type": "@id"
+        },
+        "qr24": {
+            "@id": "activity_path:qr24/qr24_schema",
+            "@type": "@id"
+        },
+        "qr25": {
+            "@id": "activity_path:qr25/qr25_schema",
+            "@type": "@id"
+        },
+        "qr36": {
+            "@id": "activity_path:qr36/qr36_schema",
+            "@type": "@id"
+        },
+        "qr37": {
+            "@id": "activity_path:qr37/qr37_schema",
+            "@type": "@id"
+        },
+        "qr38": {
+            "@id": "activity_path:qr38/qr38_schema",
+            "@type": "@id"
+        },
+        "qr27": {
+            "@id": "activity_path:qr27/qr27_schema",
+            "@type": "@id"
+        },
+        "qr41": {
+            "@id": "activity_path:qr41/qr41_schema",
+            "@type": "@id"
+        },
+        "qr42": {
+            "@id": "activity_path:qr42/qr42_schema",
+            "@type": "@id"
+        },
+        "qr96": {
+            "@id": "activity_path:qr96/qr96_schema",
+            "@type": "@id"
+        },
+        "qr45": {
+            "@id": "activity_path:qr45/qr45_schema",
+            "@type": "@id"
+        },
+        "qr87": {
+            "@id": "activity_path:qr87/qr87_schema",
+            "@type": "@id"
+        },
+        "qr95": {
+            "@id": "activity_path:qr95/qr95_schema",
+            "@type": "@id"
+        },
+        "qr46": {
+            "@id": "activity_path:qr46/qr46_schema",
+            "@type": "@id"
+        },
+        "qr98": {
+            "@id": "activity_path:qr98/qr98_schema",
+            "@type": "@id"
+        },
+        "qr89": {
+            "@id": "activity_path:qr89/qr89_schema",
+            "@type": "@id"
+        },
+        "qr40": {
+            "@id": "activity_path:qr40/qr40_schema",
+            "@type": "@id"
+        },
+        "qr49": {
+            "@id": "activity_path:qr49/qr49_schema",
+            "@type": "@id"
+        },
+        "qr50": {
+            "@id": "activity_path:qr50/qr50_schema",
+            "@type": "@id"
+        },
+        "qr60": {
+            "@id": "activity_path:qr60/qr60_schema",
+            "@type": "@id"
+        },
+        "qr57": {
+            "@id": "activity_path:qr57/qr57_schema",
+            "@type": "@id"
+        },
+        "qr69": {
+            "@id": "activity_path:qr69/qr69_schema",
+            "@type": "@id"
+        },
+        "qr48": {
+            "@id": "activity_path:qr48/qr48_schema",
+            "@type": "@id"
+        },
+        "qr64": {
+            "@id": "activity_path:qr64/qr64_schema",
+            "@type": "@id"
+        },
+        "qr53": {
+            "@id": "activity_path:qr53/qr53_schema",
+            "@type": "@id"
+        },
+        "qr65": {
+            "@id": "activity_path:qr65/qr65_schema",
+            "@type": "@id"
+        },
+        "qr62": {
+            "@id": "activity_path:qr62/qr62_schema",
+            "@type": "@id"
+        },
+        "qr66": {
+            "@id": "activity_path:qr66/qr66_schema",
+            "@type": "@id"
+        },
+        "qr73": {
+            "@id": "activity_path:qr73/qr73_schema",
+            "@type": "@id"
+        },
+        "qr77": {
+            "@id": "activity_path:qr77/qr77_schema",
+            "@type": "@id"
+        },
+        "qr161": {
+            "@id": "activity_path:qr161/qr161_schema",
+            "@type": "@id"
+        },
+        "qr43": {
+            "@id": "activity_path:qr43/qr43_schema",
+            "@type": "@id"
+        },
+        "qr56": {
+            "@id": "activity_path:qr56/qr56_schema",
+            "@type": "@id"
+        },
+        "CSC": {
+            "@id": "activity_path:CSC/CSC_schema",
+            "@type": "@id"
+        },
+        "PBS": {
+            "@id": "activity_path:PBS/PBS_schema",
+            "@type": "@id"
+        },
+        "CFS": {
+            "@id": "activity_path:CFS/CFS_schema",
+            "@type": "@id"
+        },
+        "qr172": {
+            "@id": "activity_path:qr172/qr172_schema",
+            "@type": "@id"
+        }
+    }
+}

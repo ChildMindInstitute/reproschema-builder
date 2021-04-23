@@ -1,0 +1,66 @@
+{
+    "@context": {
+        "193": {
+            "@id": "qr98:193",
+            "@type": "@id"
+        },
+        "194": {
+            "@id": "qr98:194",
+            "@type": "@id"
+        },
+        "195": {
+            "@id": "qr98:195",
+            "@type": "@id"
+        },
+        "196": {
+            "@id": "qr98:196",
+            "@type": "@id"
+        },
+        "197": {
+            "@id": "qr98:197",
+            "@type": "@id"
+        },
+        "198": {
+            "@id": "qr98:198",
+            "@type": "@id"
+        },
+        "199": {
+            "@id": "qr98:199",
+            "@type": "@id"
+        },
+        "200": {
+            "@id": "qr98:200",
+            "@type": "@id"
+        },
+        "201": {
+            "@id": "qr98:201",
+            "@type": "@id"
+        },
+        "202": {
+            "@id": "qr98:202",
+            "@type": "@id"
+        },
+        "203": {
+            "@id": "qr98:203",
+            "@type": "@id"
+        },
+        "204": {
+            "@id": "qr98:204",
+            "@type": "@id"
+        },
+        "205": {
+            "@id": "qr98:205",
+            "@type": "@id"
+        },
+        "206": {
+            "@id": "qr98:206",
+            "@type": "@id"
+        },
+        "207": {
+            "@id": "qr98:207",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "qr98": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_all/qr98/items/"
+    }
+}

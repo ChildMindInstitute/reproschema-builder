@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "789",
+    "skos:prefLabel": "789",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "You talked about your feelings to an adult other than your parent."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Never"
+            },
+            {
+                "value": 2,
+                "name": "Sometimes"
+            },
+            {
+                "value": 3,
+                "name": "Often"
+            },
+            {
+                "value": 4,
+                "name": "Most of the time"
+            }
+        ],
+        "schema:minValue": "1",
+        "schema:maxValue": "oo"
+    }
+}

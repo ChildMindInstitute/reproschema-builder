@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1021",
+    "skos:prefLabel": "1021",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "How often do you have a drink containing alcohol?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Never"
+            },
+            {
+                "value": 1,
+                "name": "Monthly or Less"
+            },
+            {
+                "value": 2,
+                "name": "Two to Four Times a Month"
+            },
+            {
+                "value": 3,
+                "name": "Two to Three Times a Week"
+            },
+            {
+                "value": 4,
+                "name": "Four or More Times a Week"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4051",
+    "skos:prefLabel": "4051",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Do you ever use the other hand?"
+    },
+    "question": {
+        "en": "Using a Key to Unlock a Door"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Yes"
+            },
+            {
+                "value": 2,
+                "name": "No"
+            }
+        ]
+    }
+}

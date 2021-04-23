@@ -1,0 +1,46 @@
+{
+    "@context": {
+        "662": {
+            "@id": "qr95:662",
+            "@type": "@id"
+        },
+        "663": {
+            "@id": "qr95:663",
+            "@type": "@id"
+        },
+        "664": {
+            "@id": "qr95:664",
+            "@type": "@id"
+        },
+        "665": {
+            "@id": "qr95:665",
+            "@type": "@id"
+        },
+        "666": {
+            "@id": "qr95:666",
+            "@type": "@id"
+        },
+        "667": {
+            "@id": "qr95:667",
+            "@type": "@id"
+        },
+        "668": {
+            "@id": "qr95:668",
+            "@type": "@id"
+        },
+        "669": {
+            "@id": "qr95:669",
+            "@type": "@id"
+        },
+        "670": {
+            "@id": "qr95:670",
+            "@type": "@id"
+        },
+        "671": {
+            "@id": "qr95:671",
+            "@type": "@id"
+        },
+        "@version": 1.1,
+        "qr95": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_all/qr95/items/"
+    }
+}

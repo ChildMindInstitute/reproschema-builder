@@ -1,0 +1,231 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_all/qr61/qr61_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr61_schema",
+    "skos:prefLabel": "Edinburgh Handedness Questionnaire",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "For each of the activities below, please indicate: Which hand do you prefer for that activity? Do you ever use the other hand for the activity?"
+    },
+    "ui": {
+        "order": [
+            "4028",
+            "4029",
+            "4030",
+            "4031",
+            "4032",
+            "4033",
+            "4034",
+            "4035",
+            "4036",
+            "4037",
+            "4038",
+            "4039",
+            "4040",
+            "4041",
+            "4042",
+            "4043",
+            "4044",
+            "4045",
+            "4046",
+            "4047",
+            "4048",
+            "4049",
+            "4050",
+            "4051",
+            "4052",
+            "4053",
+            "4054",
+            "4055",
+            "4056",
+            "4057"
+        ],
+        "addProperties": [
+            {
+                "variableName": "4028",
+                "isAbout": "4028",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4029",
+                "isAbout": "4029",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4030",
+                "isAbout": "4030",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4031",
+                "isAbout": "4031",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4032",
+                "isAbout": "4032",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4033",
+                "isAbout": "4033",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4034",
+                "isAbout": "4034",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4035",
+                "isAbout": "4035",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4036",
+                "isAbout": "4036",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4037",
+                "isAbout": "4037",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4038",
+                "isAbout": "4038",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4039",
+                "isAbout": "4039",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4040",
+                "isAbout": "4040",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4041",
+                "isAbout": "4041",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4042",
+                "isAbout": "4042",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4043",
+                "isAbout": "4043",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4044",
+                "isAbout": "4044",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4045",
+                "isAbout": "4045",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4046",
+                "isAbout": "4046",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4047",
+                "isAbout": "4047",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4048",
+                "isAbout": "4048",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4049",
+                "isAbout": "4049",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4050",
+                "isAbout": "4050",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4051",
+                "isAbout": "4051",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4052",
+                "isAbout": "4052",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4053",
+                "isAbout": "4053",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4054",
+                "isAbout": "4054",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4055",
+                "isAbout": "4055",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4056",
+                "isAbout": "4056",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4057",
+                "isAbout": "4057",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "3145",
+    "skos:prefLabel": "3145",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "radio",
+        "choices": [
+            {
+                "value": 1,
+                "name": "Current"
+            },
+            {
+                "value": 2,
+                "name": "Past"
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "1"
+    },
+    "question": {
+        "en": "Excessive concern with right / wrong morally"
+    }
+}

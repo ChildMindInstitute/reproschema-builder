@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "337",
+    "skos:prefLabel": "337",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Does not care who he/she hurts to get what he/she wants."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Not at all true"
+            },
+            {
+                "value": 1,
+                "name": "Somewhat true"
+            },
+            {
+                "value": 2,
+                "name": "Very true"
+            },
+            {
+                "value": 3,
+                "name": "Definitely true"
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "3"
+    }
+}

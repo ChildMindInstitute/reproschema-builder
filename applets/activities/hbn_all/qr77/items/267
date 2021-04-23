@@ -1,0 +1,45 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "267",
+    "skos:prefLabel": "267",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "IN THE PAST 12 MONTHS:"
+    },
+    "question": {
+        "en": "I experience significant problems in my ability to function effectively (daily routine, job/school, social activities, family activities, health difficulties) because of food and eating."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Never"
+            },
+            {
+                "value": 1,
+                "name": "Once a month"
+            },
+            {
+                "value": 2,
+                "name": "2-4 times a month"
+            },
+            {
+                "value": 3,
+                "name": "2-3 times a week"
+            },
+            {
+                "value": 4,
+                "name": "4 or more times daily"
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "4"
+    }
+}

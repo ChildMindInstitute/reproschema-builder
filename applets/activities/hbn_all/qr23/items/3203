@@ -1,0 +1,42 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "3203",
+    "skos:prefLabel": "3203",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Interference Due to Compulsive Behaviours (How much would these habits get in the way of school or doing something with friends, Is there something you dont do because of them (If currently not in school, determine how much performance would be affected if the person was in school))"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "None"
+            },
+            {
+                "value": 1,
+                "name": "Mild"
+            },
+            {
+                "value": 2,
+                "name": "Moderate"
+            },
+            {
+                "value": 3,
+                "name": "Severe"
+            },
+            {
+                "value": 4,
+                "name": "Extreme"
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "4"
+    }
+}

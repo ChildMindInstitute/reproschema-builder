@@ -1,0 +1,31 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "302",
+    "skos:prefLabel": "302",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Please check ALL of the following foods you have problems with:"
+    },
+    "question": {
+        "en": "Rice"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Unchecked"
+            },
+            {
+                "value": 1,
+                "name": "Checked"
+            }
+        ]
+    }
+}

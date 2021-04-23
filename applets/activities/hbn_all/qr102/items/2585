@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2585",
+    "skos:prefLabel": "2585",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Did your child spend any time in the intensive care unit after birth?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " No"
+            },
+            {
+                "value": 2,
+                "name": " Yes"
+            },
+            {
+                "value": 3,
+                "name": " Unknown"
+            },
+            {
+                "value": 4,
+                "name": " Not Available "
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "2"
+    }
+}

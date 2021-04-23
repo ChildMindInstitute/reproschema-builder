@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1092",
+    "skos:prefLabel": "1092",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "I have trouble getting started on a task."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "\"Not at all, never\""
+            },
+            {
+                "value": 1,
+                "name": "\"Just a little, once in a while\""
+            },
+            {
+                "value": 2,
+                "name": "\"Pretty much, often\""
+            },
+            {
+                "value": 3,
+                "name": "\"Very much, very frequently\""
+            }
+        ]
+    }
+}

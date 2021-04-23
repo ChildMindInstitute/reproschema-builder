@@ -1,0 +1,510 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "CSC": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_all/CSC/items/",
+        "CSC_01C": {
+            "@id": "CSC:CSC_01C",
+            "@type": "@id"
+        },
+        "CSC_01P": {
+            "@id": "CSC:CSC_01P",
+            "@type": "@id"
+        },
+        "CSC_02C": {
+            "@id": "CSC:CSC_02C",
+            "@type": "@id"
+        },
+        "CSC_02P": {
+            "@id": "CSC:CSC_02P",
+            "@type": "@id"
+        },
+        "CSC_03C": {
+            "@id": "CSC:CSC_03C",
+            "@type": "@id"
+        },
+        "CSC_03P": {
+            "@id": "CSC:CSC_03P",
+            "@type": "@id"
+        },
+        "CSC_04C": {
+            "@id": "CSC:CSC_04C",
+            "@type": "@id"
+        },
+        "CSC_04P": {
+            "@id": "CSC:CSC_04P",
+            "@type": "@id"
+        },
+        "CSC_05C": {
+            "@id": "CSC:CSC_05C",
+            "@type": "@id"
+        },
+        "CSC_05P": {
+            "@id": "CSC:CSC_05P",
+            "@type": "@id"
+        },
+        "CSC_06C": {
+            "@id": "CSC:CSC_06C",
+            "@type": "@id"
+        },
+        "CSC_06P": {
+            "@id": "CSC:CSC_06P",
+            "@type": "@id"
+        },
+        "CSC_07C": {
+            "@id": "CSC:CSC_07C",
+            "@type": "@id"
+        },
+        "CSC_07P": {
+            "@id": "CSC:CSC_07P",
+            "@type": "@id"
+        },
+        "CSC_08C": {
+            "@id": "CSC:CSC_08C",
+            "@type": "@id"
+        },
+        "CSC_08P": {
+            "@id": "CSC:CSC_08P",
+            "@type": "@id"
+        },
+        "CSC_09P": {
+            "@id": "CSC:CSC_09P",
+            "@type": "@id"
+        },
+        "CSC_09C": {
+            "@id": "CSC:CSC_09C",
+            "@type": "@id"
+        },
+        "CSC_10C": {
+            "@id": "CSC:CSC_10C",
+            "@type": "@id"
+        },
+        "CSC_10P": {
+            "@id": "CSC:CSC_10P",
+            "@type": "@id"
+        },
+        "CSC_11C": {
+            "@id": "CSC:CSC_11C",
+            "@type": "@id"
+        },
+        "CSC_11P": {
+            "@id": "CSC:CSC_11P",
+            "@type": "@id"
+        },
+        "CSC_12C": {
+            "@id": "CSC:CSC_12C",
+            "@type": "@id"
+        },
+        "CSC_12P": {
+            "@id": "CSC:CSC_12P",
+            "@type": "@id"
+        },
+        "CSC_13C": {
+            "@id": "CSC:CSC_13C",
+            "@type": "@id"
+        },
+        "CSC_13P": {
+            "@id": "CSC:CSC_13P",
+            "@type": "@id"
+        },
+        "CSC_14C": {
+            "@id": "CSC:CSC_14C",
+            "@type": "@id"
+        },
+        "CSC_14P": {
+            "@id": "CSC:CSC_14P",
+            "@type": "@id"
+        },
+        "CSC_15C": {
+            "@id": "CSC:CSC_15C",
+            "@type": "@id"
+        },
+        "CSC_15P": {
+            "@id": "CSC:CSC_15P",
+            "@type": "@id"
+        },
+        "CSC_16C": {
+            "@id": "CSC:CSC_16C",
+            "@type": "@id"
+        },
+        "CSC_16P": {
+            "@id": "CSC:CSC_16P",
+            "@type": "@id"
+        },
+        "CSC_17C": {
+            "@id": "CSC:CSC_17C",
+            "@type": "@id"
+        },
+        "CSC_17P": {
+            "@id": "CSC:CSC_17P",
+            "@type": "@id"
+        },
+        "CSC_18C": {
+            "@id": "CSC:CSC_18C",
+            "@type": "@id"
+        },
+        "CSC_18P": {
+            "@id": "CSC:CSC_18P",
+            "@type": "@id"
+        },
+        "CSC_19C": {
+            "@id": "CSC:CSC_19C",
+            "@type": "@id"
+        },
+        "CSC_19P": {
+            "@id": "CSC:CSC_19P",
+            "@type": "@id"
+        },
+        "CSC_20C": {
+            "@id": "CSC:CSC_20C",
+            "@type": "@id"
+        },
+        "CSC_20P": {
+            "@id": "CSC:CSC_20P",
+            "@type": "@id"
+        },
+        "CSC_21C": {
+            "@id": "CSC:CSC_21C",
+            "@type": "@id"
+        },
+        "CSC_21P": {
+            "@id": "CSC:CSC_21P",
+            "@type": "@id"
+        },
+        "CSC_22C": {
+            "@id": "CSC:CSC_22C",
+            "@type": "@id"
+        },
+        "CSC_22P": {
+            "@id": "CSC:CSC_22P",
+            "@type": "@id"
+        },
+        "CSC_23C": {
+            "@id": "CSC:CSC_23C",
+            "@type": "@id"
+        },
+        "CSC_23P": {
+            "@id": "CSC:CSC_23P",
+            "@type": "@id"
+        },
+        "CSC_24C": {
+            "@id": "CSC:CSC_24C",
+            "@type": "@id"
+        },
+        "CSC_24P": {
+            "@id": "CSC:CSC_24P",
+            "@type": "@id"
+        },
+        "CSC_25C": {
+            "@id": "CSC:CSC_25C",
+            "@type": "@id"
+        },
+        "CSC_25P": {
+            "@id": "CSC:CSC_25P",
+            "@type": "@id"
+        },
+        "CSC_26C": {
+            "@id": "CSC:CSC_26C",
+            "@type": "@id"
+        },
+        "CSC_26P": {
+            "@id": "CSC:CSC_26P",
+            "@type": "@id"
+        },
+        "CSC_27C": {
+            "@id": "CSC:CSC_27C",
+            "@type": "@id"
+        },
+        "CSC_27P": {
+            "@id": "CSC:CSC_27P",
+            "@type": "@id"
+        },
+        "CSC_28C": {
+            "@id": "CSC:CSC_28C",
+            "@type": "@id"
+        },
+        "CSC_28P": {
+            "@id": "CSC:CSC_28P",
+            "@type": "@id"
+        },
+        "CSC_29C": {
+            "@id": "CSC:CSC_29C",
+            "@type": "@id"
+        },
+        "CSC_29P": {
+            "@id": "CSC:CSC_29P",
+            "@type": "@id"
+        },
+        "CSC_30C": {
+            "@id": "CSC:CSC_30C",
+            "@type": "@id"
+        },
+        "CSC_30P": {
+            "@id": "CSC:CSC_30P",
+            "@type": "@id"
+        },
+        "CSC_31C": {
+            "@id": "CSC:CSC_31C",
+            "@type": "@id"
+        },
+        "CSC_31P": {
+            "@id": "CSC:CSC_31P",
+            "@type": "@id"
+        },
+        "CSC_32C": {
+            "@id": "CSC:CSC_32C",
+            "@type": "@id"
+        },
+        "CSC_32P": {
+            "@id": "CSC:CSC_32P",
+            "@type": "@id"
+        },
+        "CSC_33C": {
+            "@id": "CSC:CSC_33C",
+            "@type": "@id"
+        },
+        "CSC_33P": {
+            "@id": "CSC:CSC_33P",
+            "@type": "@id"
+        },
+        "CSC_34C": {
+            "@id": "CSC:CSC_34C",
+            "@type": "@id"
+        },
+        "CSC_34P": {
+            "@id": "CSC:CSC_34P",
+            "@type": "@id"
+        },
+        "CSC_35C": {
+            "@id": "CSC:CSC_35C",
+            "@type": "@id"
+        },
+        "CSC_35P": {
+            "@id": "CSC:CSC_35P",
+            "@type": "@id"
+        },
+        "CSC_36C": {
+            "@id": "CSC:CSC_36C",
+            "@type": "@id"
+        },
+        "CSC_36P": {
+            "@id": "CSC:CSC_36P",
+            "@type": "@id"
+        },
+        "CSC_37C": {
+            "@id": "CSC:CSC_37C",
+            "@type": "@id"
+        },
+        "CSC_37P": {
+            "@id": "CSC:CSC_37P",
+            "@type": "@id"
+        },
+        "CSC_38C": {
+            "@id": "CSC:CSC_38C",
+            "@type": "@id"
+        },
+        "CSC_38P": {
+            "@id": "CSC:CSC_38P",
+            "@type": "@id"
+        },
+        "CSC_39C": {
+            "@id": "CSC:CSC_39C",
+            "@type": "@id"
+        },
+        "CSC_39P": {
+            "@id": "CSC:CSC_39P",
+            "@type": "@id"
+        },
+        "CSC_40C": {
+            "@id": "CSC:CSC_40C",
+            "@type": "@id"
+        },
+        "CSC_40P": {
+            "@id": "CSC:CSC_40P",
+            "@type": "@id"
+        },
+        "CSC_41C": {
+            "@id": "CSC:CSC_41C",
+            "@type": "@id"
+        },
+        "CSC_41P": {
+            "@id": "CSC:CSC_41P",
+            "@type": "@id"
+        },
+        "CSC_42C": {
+            "@id": "CSC:CSC_42C",
+            "@type": "@id"
+        },
+        "CSC_42P": {
+            "@id": "CSC:CSC_42P",
+            "@type": "@id"
+        },
+        "CSC_43C": {
+            "@id": "CSC:CSC_43C",
+            "@type": "@id"
+        },
+        "CSC_43P": {
+            "@id": "CSC:CSC_43P",
+            "@type": "@id"
+        },
+        "CSC_44C": {
+            "@id": "CSC:CSC_44C",
+            "@type": "@id"
+        },
+        "CSC_44P": {
+            "@id": "CSC:CSC_44P",
+            "@type": "@id"
+        },
+        "CSC_45C": {
+            "@id": "CSC:CSC_45C",
+            "@type": "@id"
+        },
+        "CSC_45P": {
+            "@id": "CSC:CSC_45P",
+            "@type": "@id"
+        },
+        "CSC_46C": {
+            "@id": "CSC:CSC_46C",
+            "@type": "@id"
+        },
+        "CSC_46P": {
+            "@id": "CSC:CSC_46P",
+            "@type": "@id"
+        },
+        "CSC_47C": {
+            "@id": "CSC:CSC_47C",
+            "@type": "@id"
+        },
+        "CSC_47P": {
+            "@id": "CSC:CSC_47P",
+            "@type": "@id"
+        },
+        "CSC_48C": {
+            "@id": "CSC:CSC_48C",
+            "@type": "@id"
+        },
+        "CSC_48P": {
+            "@id": "CSC:CSC_48P",
+            "@type": "@id"
+        },
+        "CSC_49C": {
+            "@id": "CSC:CSC_49C",
+            "@type": "@id"
+        },
+        "CSC_49P": {
+            "@id": "CSC:CSC_49P",
+            "@type": "@id"
+        },
+        "CSC_50C": {
+            "@id": "CSC:CSC_50C",
+            "@type": "@id"
+        },
+        "CSC_50P": {
+            "@id": "CSC:CSC_50P",
+            "@type": "@id"
+        },
+        "CSC_51C": {
+            "@id": "CSC:CSC_51C",
+            "@type": "@id"
+        },
+        "CSC_51P": {
+            "@id": "CSC:CSC_51P",
+            "@type": "@id"
+        },
+        "CSC_52C": {
+            "@id": "CSC:CSC_52C",
+            "@type": "@id"
+        },
+        "CSC_52P": {
+            "@id": "CSC:CSC_52P",
+            "@type": "@id"
+        },
+        "CSC_53C": {
+            "@id": "CSC:CSC_53C",
+            "@type": "@id"
+        },
+        "CSC_53P": {
+            "@id": "CSC:CSC_53P",
+            "@type": "@id"
+        },
+        "CSC_54C": {
+            "@id": "CSC:CSC_54C",
+            "@type": "@id"
+        },
+        "CSC_54P": {
+            "@id": "CSC:CSC_54P",
+            "@type": "@id"
+        },
+        "CSC_55aC": {
+            "@id": "CSC:CSC_55aC",
+            "@type": "@id"
+        },
+        "CSC_55aP": {
+            "@id": "CSC:CSC_55aP",
+            "@type": "@id"
+        },
+        "CSC_55bC": {
+            "@id": "CSC:CSC_55bC",
+            "@type": "@id"
+        },
+        "CSC_55bP": {
+            "@id": "CSC:CSC_55bP",
+            "@type": "@id"
+        },
+        "CSC_55cC": {
+            "@id": "CSC:CSC_55cC",
+            "@type": "@id"
+        },
+        "CSC_55cP": {
+            "@id": "CSC:CSC_55cP",
+            "@type": "@id"
+        },
+        "CSC_55dC": {
+            "@id": "CSC:CSC_55dC",
+            "@type": "@id"
+        },
+        "CSC_55dP": {
+            "@id": "CSC:CSC_55dP",
+            "@type": "@id"
+        },
+        "CSC_55eC": {
+            "@id": "CSC:CSC_55eC",
+            "@type": "@id"
+        },
+        "CSC_55eP": {
+            "@id": "CSC:CSC_55eP",
+            "@type": "@id"
+        },
+        "CSC_55fC": {
+            "@id": "CSC:CSC_55fC",
+            "@type": "@id"
+        },
+        "CSC_55fP": {
+            "@id": "CSC:CSC_55fP",
+            "@type": "@id"
+        },
+        "CSC_55gC": {
+            "@id": "CSC:CSC_55gC",
+            "@type": "@id"
+        },
+        "CSC_55gP": {
+            "@id": "CSC:CSC_55gP",
+            "@type": "@id"
+        },
+        "CSC_55hC": {
+            "@id": "CSC:CSC_55hC",
+            "@type": "@id"
+        },
+        "CSC_55hP": {
+            "@id": "CSC:CSC_55hP",
+            "@type": "@id"
+        },
+        "CSC_55iC": {
+            "@id": "CSC:CSC_55iC",
+            "@type": "@id"
+        },
+        "CSC_55iP": {
+            "@id": "CSC:CSC_55iP",
+            "@type": "@id"
+        }
+    }
+}

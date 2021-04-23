@@ -1,0 +1,42 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "3199",
+    "skos:prefLabel": "3199",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Distress Associated with Obsessive Thoughts"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "None"
+            },
+            {
+                "value": 1,
+                "name": "Mild"
+            },
+            {
+                "value": 2,
+                "name": "Moderate"
+            },
+            {
+                "value": 3,
+                "name": "Severe"
+            },
+            {
+                "value": 4,
+                "name": "Extreme"
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "4"
+    }
+}

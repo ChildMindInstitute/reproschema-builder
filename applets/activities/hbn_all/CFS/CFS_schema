@@ -1,0 +1,56 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_all/CFS/CFS_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "CFS_schema",
+    "skos:prefLabel": "Child Flourishing Scale",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": ""
+    },
+    "ui": {
+        "order": [
+            "CFS_01",
+            "CFS_02",
+            "CFS_03",
+            "CFS_04",
+            "CFS_05"
+        ],
+        "addProperties": [
+            {
+                "variableName": "CFS_01",
+                "isAbout": "CFS_01",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "CFS_02",
+                "isAbout": "CFS_02",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "CFS_03",
+                "isAbout": "CFS_03",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "CFS_04",
+                "isAbout": "CFS_04",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "CFS_05",
+                "isAbout": "CFS_05",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

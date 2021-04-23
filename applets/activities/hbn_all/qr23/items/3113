@@ -1,0 +1,30 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "3113",
+    "skos:prefLabel": "3113",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Concerns or disgust with bodily waste or secretions (e.g. urine, feces, saliva)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Current"
+            },
+            {
+                "value": 2,
+                "name": "Past"
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "1"
+    }
+}

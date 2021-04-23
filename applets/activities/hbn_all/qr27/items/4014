@@ -1,0 +1,33 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "4014",
+    "skos:prefLabel": "4014",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Section: Suicidal Behavior\n\nCheck all that apply, so long as these are separate events; must ask about types"
+    },
+    "question": {
+        "en": "Aborted or Self-Interrupted Attempt - Past 3 Months (CSSRS1_035)\n\"Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything?\" If yes, describe..."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "No"
+            },
+            {
+                "value": 1,
+                "name": "Yes"
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "1"
+    }
+}

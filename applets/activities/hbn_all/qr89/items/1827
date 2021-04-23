@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1827",
+    "skos:prefLabel": "1827",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Cold cereal type"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " \"Whole grain cereals, not heavily sweetened\", "
+            },
+            {
+                "value": 2,
+                "name": " \"Whole grain cereals, sweetened\""
+            },
+            {
+                "value": 3,
+                "name": " \"Cereals, not whole grain, sweetened\""
+            },
+            {
+                "value": 4,
+                "name": " \"Cereals, not whole grain, not sweetened\",\nM ",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/ Missing.png"
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "oo"
+    }
+}

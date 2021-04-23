@@ -1,0 +1,42 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "448",
+    "skos:prefLabel": "448",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "My feelings of distress or being upset are not acceptable"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Strongly Disagree"
+            },
+            {
+                "value": 2,
+                "name": "Mildly Disagree"
+            },
+            {
+                "value": 3,
+                "name": "Agree and Disagree Equally"
+            },
+            {
+                "value": 4,
+                "name": "Mildly Agree"
+            },
+            {
+                "value": 5,
+                "name": "Strongly Agree"
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "5"
+    }
+}

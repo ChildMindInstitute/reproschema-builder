@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1030",
+    "skos:prefLabel": "1030",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "How often during the last year have you had a feeling of guilt or remorse after drinking?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "Never"
+            },
+            {
+                "value": 1,
+                "name": "Less than Monthly"
+            },
+            {
+                "value": 2,
+                "name": "Monthly"
+            },
+            {
+                "value": 3,
+                "name": "Weekly"
+            },
+            {
+                "value": 4,
+                "name": "Daily or Almost Daily"
+            }
+        ]
+    }
+}

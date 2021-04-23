@@ -1,0 +1,42 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "310",
+    "skos:prefLabel": "310",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "In the past 30 days, how much difficulty did your child have in how much has he/she been emotionally affected by his/her health problems?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 0,
+                "name": "No Difficulty"
+            },
+            {
+                "value": 1,
+                "name": "Mild Difficulty"
+            },
+            {
+                "value": 2,
+                "name": "Moderate Difficulty"
+            },
+            {
+                "value": 3,
+                "name": "Severe Difficulty"
+            },
+            {
+                "value": 4,
+                "name": "Extreme Difficulty or Cannot Do"
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "4"
+    }
+}

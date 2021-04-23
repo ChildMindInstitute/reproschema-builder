@@ -1,0 +1,42 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "528",
+    "skos:prefLabel": "528",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "You child fails to leave a note or to let you know where he/she is going"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "Never"
+            },
+            {
+                "value": 2,
+                "name": "Almost Never"
+            },
+            {
+                "value": 3,
+                "name": "Sometimes"
+            },
+            {
+                "value": 4,
+                "name": "Often"
+            },
+            {
+                "value": 5,
+                "name": "Always"
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "5"
+    }
+}

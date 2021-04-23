@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2577",
+    "skos:prefLabel": "2577",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Did the mother/ you require an emergency Cesarian section?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " No"
+            },
+            {
+                "value": 2,
+                "name": " Yes"
+            },
+            {
+                "value": 3,
+                "name": " Unknown"
+            },
+            {
+                "value": 4,
+                "name": " Not Available "
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "2"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_all/qr97/qr97_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "qr97_schema",
+    "skos:prefLabel": "Yale Global Tic Severity Scale",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": ""
+    },
+    "ui": {
+        "order": [
+            "4615",
+            "4616",
+            "4617",
+            "4618",
+            "4619",
+            "4620",
+            "4621",
+            "4622",
+            "4623",
+            "4624",
+            "4625",
+            "4626"
+        ],
+        "addProperties": [
+            {
+                "variableName": "4615",
+                "isAbout": "4615",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4616",
+                "isAbout": "4616",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4617",
+                "isAbout": "4617",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4618",
+                "isAbout": "4618",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4619",
+                "isAbout": "4619",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4620",
+                "isAbout": "4620",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4621",
+                "isAbout": "4621",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4622",
+                "isAbout": "4622",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4623",
+                "isAbout": "4623",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4624",
+                "isAbout": "4624",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4625",
+                "isAbout": "4625",
+                "isVis": true,
+                "requiredValue": false
+            },
+            {
+                "variableName": "4626",
+                "isAbout": "4626",
+                "isVis": true,
+                "requiredValue": false
+            }
+        ],
+        "shuffle": false
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2549",
+    "skos:prefLabel": "2549",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "If yes, how many cigarettes did the mother/ you smoke during the second trimester?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " Less than 1 cigarette/ week"
+            },
+            {
+                "value": 2,
+                "name": " Less than 1 cigarette/ day"
+            },
+            {
+                "value": 3,
+                "name": " 1-5 cigarettes/ day"
+            },
+            {
+                "value": 4,
+                "name": " 6-10 cigarettes/ day"
+            },
+            {
+                "value": 5,
+                "name": " 11-20 cigarettes/ day"
+            },
+            {
+                "value": 6,
+                "name": " More than 20 cigarettes/ day"
+            },
+            {
+                "value": 7,
+                "name": " Unknown, "
+            },
+            {
+                "value": 8,
+                "name": " Not Available "
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "6"
+    }
+}

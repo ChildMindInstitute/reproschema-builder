@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "2562",
+    "skos:prefLabel": "2562",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Has the mother (have you) taken any UNPRESCRIBED medication during pregnancy?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " No"
+            },
+            {
+                "value": 2,
+                "name": " Yes"
+            },
+            {
+                "value": 3,
+                "name": " Unknown"
+            },
+            {
+                "value": 4,
+                "name": " Not Available "
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "2"
+    }
+}

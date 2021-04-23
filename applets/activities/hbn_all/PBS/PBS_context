@@ -1,0 +1,106 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "PBS": "https://raw.githubusercontent.com/ChildMindInstitute/reproschema-builder/master/applets/activities/hbn_all/PBS/items/",
+        "PBS_01": {
+            "@id": "PBS:PBS_01",
+            "@type": "@id"
+        },
+        "PBS_02": {
+            "@id": "PBS:PBS_02",
+            "@type": "@id"
+        },
+        "PBS_03": {
+            "@id": "PBS:PBS_03",
+            "@type": "@id"
+        },
+        "PBS_04": {
+            "@id": "PBS:PBS_04",
+            "@type": "@id"
+        },
+        "PBS_05": {
+            "@id": "PBS:PBS_05",
+            "@type": "@id"
+        },
+        "PBS_06": {
+            "@id": "PBS:PBS_06",
+            "@type": "@id"
+        },
+        "PBS_07": {
+            "@id": "PBS:PBS_07",
+            "@type": "@id"
+        },
+        "PBS_08": {
+            "@id": "PBS:PBS_08",
+            "@type": "@id"
+        },
+        "PBS_09": {
+            "@id": "PBS:PBS_09",
+            "@type": "@id"
+        },
+        "PBS_10": {
+            "@id": "PBS:PBS_10",
+            "@type": "@id"
+        },
+        "PBS_11": {
+            "@id": "PBS:PBS_11",
+            "@type": "@id"
+        },
+        "PBS_12": {
+            "@id": "PBS:PBS_12",
+            "@type": "@id"
+        },
+        "PBS_13": {
+            "@id": "PBS:PBS_13",
+            "@type": "@id"
+        },
+        "PBS_14": {
+            "@id": "PBS:PBS_14",
+            "@type": "@id"
+        },
+        "PBS_15": {
+            "@id": "PBS:PBS_15",
+            "@type": "@id"
+        },
+        "PBS_16": {
+            "@id": "PBS:PBS_16",
+            "@type": "@id"
+        },
+        "PBS_17": {
+            "@id": "PBS:PBS_17",
+            "@type": "@id"
+        },
+        "PBS_18": {
+            "@id": "PBS:PBS_18",
+            "@type": "@id"
+        },
+        "PBS_19": {
+            "@id": "PBS:PBS_19",
+            "@type": "@id"
+        },
+        "PBS_20": {
+            "@id": "PBS:PBS_20",
+            "@type": "@id"
+        },
+        "PBS_21": {
+            "@id": "PBS:PBS_21",
+            "@type": "@id"
+        },
+        "PBS_22": {
+            "@id": "PBS:PBS_22",
+            "@type": "@id"
+        },
+        "PBS_23": {
+            "@id": "PBS:PBS_23",
+            "@type": "@id"
+        },
+        "PBS_24": {
+            "@id": "PBS:PBS_24",
+            "@type": "@id"
+        },
+        "PBS_25": {
+            "@id": "PBS:PBS_25",
+            "@type": "@id"
+        }
+    }
+}

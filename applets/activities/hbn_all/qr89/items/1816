@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "1816",
+    "skos:prefLabel": "1816",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Snack chips, quantity each time"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": "A few chips"
+            },
+            {
+                "value": 2,
+                "name": "1 small bag"
+            },
+            {
+                "value": 3,
+                "name": "1 large bag"
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "oo"
+    }
+}

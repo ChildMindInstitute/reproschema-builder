@@ -1,0 +1,45 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "3986",
+    "skos:prefLabel": "3986",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "inputType": "radio"
+    },
+    "itemPreamble": {
+        "en": "Section: Intensity of Ideation\n\nThe following features should be rated with respect to the most severe type of ideation (i.e. from 1-5 from above, with 1 being the least severe and 5 being the most severe). Ask about the time he/she was feeling the most suicidal."
+    },
+    "question": {
+        "en": "Duration - Most Severe Lifetime (CSSRS1_015)\n\"When you have the thoughts, how long do they last?\""
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "value": 1,
+                "name": " Fleeting - Few seconds or minutes"
+            },
+            {
+                "value": 2,
+                "name": " Less than 1 hour/some of the time"
+            },
+            {
+                "value": 3,
+                "name": " 1-4 hours/ a lot of time"
+            },
+            {
+                "value": 4,
+                "name": " 4-8 hours/most of day"
+            },
+            {
+                "value": 5,
+                "name": " More than 8 hours/ persistent or continuous"
+            }
+        ],
+        "schema:minValue": "oo",
+        "schema:maxValue": "5"
+    }
+}
